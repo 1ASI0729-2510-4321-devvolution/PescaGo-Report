@@ -1,32 +1,49 @@
-<center>
-
+<div align="center">
 # Universidad Peruana De Ciencias Aplicadas
 ## 1ASI0729 - Desarrollo de Aplicaciones Open Source
 
-</center>
+
 
 <p align = "center"> <img src = "https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img> </p>
-
-<center>
 
 ## **Sección: 4321** 
 ## Profesor: Rafael Oswaldo Castro Veramendi
 
-</center>
-
-<center>
-
 # **Informe de Trabajo Final**
 ## **Devvolution**
 ## **PescaGo**
-</center>
+</div>
 
 ## **Integrantes:**
-* **Alexandra Belen Ramos Argüelles**
-*  **Ian Macavilca Quispe**
-*  **María Fernanda Fernandez Alva**
-*  **Mario Benjamín Prado Vargas**
-*  **Paolo Eduardo Belleza Tello**
+<div>
+     <table align="center">
+        <tr>
+            <th style="text-align:center;">Código</th>
+            <th style="text-align:center;">Apellidos y Nombres</th>
+        </tr>
+        <tr>
+            <td>U20191a137</td>
+            <td>Belleza Tello, Paolo Eduardo</td>
+        </tr>
+        <tr>
+            <td>U20201c131</td>
+            <td>Fernandez Alva, María Fernanda</td>
+        </tr>
+        <tr>
+            <td>U202121325</td>
+            <td>Macavilca Quispe, Ian</td>
+        </tr>
+        <tr>
+            <td>U202115357</td>
+            <td>Prado Vargas, Mario Benjamín</td>
+        </tr>
+        <tr>
+            <td>U202215164</td>
+            <td>Ramos Argüelles, Alexandra Belen</td>
+        </tr>
+    </table>
+</div>
+
 -----
 
 <center>
