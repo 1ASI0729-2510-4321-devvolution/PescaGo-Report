@@ -1,587 +1,334 @@
 ## 3.1 <!-- To-Be Scenario Mapping.  -->
 ## 3.2 User Stories
-+-------------+-------------+-------------+-------------+-------------+
-| Epic/Story  | Título      | Descripción | Criterios   | Relacionado |
-| ID          |             |             | de          | con (Epic   |
-|             |             |             | aceptación  | ID)         |
-+=============+=============+=============+=============+=============+
-| E1          | Diseño de   | **Como**    |             |             |
-|             | la Lading   | Empresario  |             |             |
-|             | Page        | pesquero o  |             |             |
-|             |             | Empresa de  |             |             |
-|             |             | transportes |             |             |
-|             |             |             |             |             |
-|             |             | **Quiero**  |             |             |
-|             |             | ver una     |             |             |
-|             |             | página web  |             |             |
-|             |             | en la cual  |             |             |
-|             |             | tenga       |             |             |
-|             |             | información |             |             |
-|             |             | del         |             |             |
-|             |             | servicio    |             |             |
-|             |             | que voy a   |             |             |
-|             |             | utilizar    |             |             |
-|             |             |             |             |             |
-|             |             | **Para**    |             |             |
-|             |             | tener una   |             |             |
-|             |             | vista más   |             |             |
-|             |             | clara del   |             |             |
-|             |             | servicio    |             |             |
-|             |             | que nos     |             |             |
-|             |             | pro         |             |             |
-|             |             | porcionarán |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| E1-US01     | Barra de    | **Como**    |             | 1           |
-|             | Navegación  | Empresario  |             |             |
-|             | en la       | pesquero o  |             |             |
-|             | Landing     | Empresa de  |             |             |
-|             | Page        | transportes |             |             |
-|             |             |             |             |             |
-|             |             | **Quiero**  |             |             |
-|             |             | ver una     |             |             |
-|             |             | barra de    |             |             |
-|             |             | navegación  |             |             |
-|             |             | con una     |             |             |
-|             |             | buena       |             |             |
-|             |             | estructura  |             |             |
-|             |             | informática |             |             |
-|             |             |             |             |             |
-|             |             | **Para**    |             |             |
-|             |             | poder       |             |             |
-|             |             | acceder a   |             |             |
-|             |             | las         |             |             |
-|             |             | secciones   |             |             |
-|             |             | más         |             |             |
-|             |             | relevantes  |             |             |
-|             |             | del         |             |             |
-|             |             | servicio    |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| E1-US02     | Información | **Como**    |             | 1           |
-|             | sobre el    | Empresario  |             |             |
-|             | servicio    | pesquero o  |             |             |
-|             | brindado    | Empresa de  |             |             |
-|             |             | transportes |             |             |
-|             |             |             |             |             |
-|             |             | **Quiero**  |             |             |
-|             |             | que al      |             |             |
-|             |             | ingresar a  |             |             |
-|             |             | la página   |             |             |
-|             |             | web me      |             |             |
-|             |             | muestre la  |             |             |
-|             |             | información |             |             |
-|             |             | de los      |             |             |
-|             |             | servicios   |             |             |
-|             |             | que me van  |             |             |
-|             |             | a brindar   |             |             |
-|             |             |             |             |             |
-|             |             | **Para**    |             |             |
-|             |             | entender    |             |             |
-|             |             | qué         |             |             |
-|             |             | beneficios  |             |             |
-|             |             | obtendré al |             |             |
-|             |             | usar la     |             |             |
-|             |             | aplicación  |             |             |
-|             |             | web         |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| E1-US03     | Información | **Como**    |             | 1           |
-|             | sobre el    | Empresario  |             |             |
-|             | pr          | pesquero o  |             |             |
-|             | ocedimiento | Empresa de  |             |             |
-|             | de uso de   | transportes |             |             |
-|             | la          |             |             |             |
-|             | aplicación  | **Quiero**  |             |             |
-|             | web         | visualizar  |             |             |
-|             |             | el          |             |             |
-|             |             | pr          |             |             |
-|             |             | ocedimiento |             |             |
-|             |             | que tendría |             |             |
-|             |             | que hacer   |             |             |
-|             |             | para usar   |             |             |
-|             |             | este        |             |             |
-|             |             | servicio    |             |             |
-|             |             |             |             |             |
-|             |             | **Para**    |             |             |
-|             |             | así conocer |             |             |
-|             |             | el grado de |             |             |
-|             |             | s           |             |             |
-|             |             | atisfacción |             |             |
-|             |             | que tendre  |             |             |
-|             |             | al momento  |             |             |
-|             |             | de usar la  |             |             |
-|             |             | aplicación  |             |             |
-|             |             | web         |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| E1-US04     | Conocer los | **Como**    |             | 1           |
-|             | testimonios | Empresario  |             |             |
-|             | de clientes | pesquero o  |             |             |
-|             | pasados     | Empresa de  |             |             |
-|             |             | transportes |             |             |
-|             |             |             |             |             |
-|             |             | **Quiero**  |             |             |
-|             |             | leer        |             |             |
-|             |             | algunos     |             |             |
-|             |             | testimonios |             |             |
-|             |             | de clientes |             |             |
-|             |             | anteriores  |             |             |
-|             |             |             |             |             |
-|             |             | **Para**    |             |             |
-|             |             | evaluar la  |             |             |
-|             |             | experiencia |             |             |
-|             |             | de otras    |             |             |
-|             |             | personas    |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| E1-US05     | Conocer las | **Como**    |             | 1           |
-|             | ventajas de | Empresario  |             |             |
-|             | la          | pesquero o  |             |             |
-|             | aplicación  | Empresa de  |             |             |
-|             | web         | transportes |             |             |
-|             |             |             |             |             |
-|             |             | **Quiero**  |             |             |
-|             |             | conocer las |             |             |
-|             |             | ventajas    |             |             |
-|             |             | que tiene   |             |             |
-|             |             | la          |             |             |
-|             |             | aplicación  |             |             |
-|             |             | frente a    |             |             |
-|             |             | otras       |             |             |
-|             |             | a           |             |             |
-|             |             | plicaciones |             |             |
-|             |             | similares   |             |             |
-|             |             |             |             |             |
-|             |             | **Para**    |             |             |
-|             |             | tomar la    |             |             |
-|             |             | decisión de |             |             |
-|             |             | tomar o no  |             |             |
-|             |             | el servicio |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| E1-US06     | Contacto    | **Como**    |             | 1           |
-|             |             | Empresario  |             |             |
-|             |             | pesquero o  |             |             |
-|             |             | Empresa de  |             |             |
-|             |             | transportes |             |             |
-|             |             |             |             |             |
-|             |             | **Quiero**  |             |             |
-|             |             | enviar una  |             |             |
-|             |             | solicitud a |             |             |
-|             |             | los dueños  |             |             |
-|             |             | de la       |             |             |
-|             |             | aplicación  |             |             |
-|             |             | web         |             |             |
-|             |             |             |             |             |
-|             |             | **Para**    |             |             |
-|             |             | poder       |             |             |
-|             |             | conocer más |             |             |
-|             |             | sobre su    |             |             |
-|             |             | trabajo y/o |             |             |
-|             |             | que me den  |             |             |
-|             |             | más         |             |             |
-|             |             | detalles de |             |             |
-|             |             | la misma    |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| E1-US07     | Cambiar     | **Como**    |             | 1           |
-|             | idiomas     | Empresario  |             |             |
-|             |             | pesquero o  |             |             |
-|             |             | Empresa de  |             |             |
-|             |             | transportes |             |             |
-|             |             |             |             |             |
-|             |             | **Quiero**  |             |             |
-|             |             | cambiar el  |             |             |
-|             |             | idioma de   |             |             |
-|             |             | la página   |             |             |
-|             |             | web de      |             |             |
-|             |             | Inglés al   |             |             |
-|             |             | Español     |             |             |
-|             |             |             |             |             |
-|             |             | **Para**    |             |             |
-|             |             | así poder   |             |             |
-|             |             | comprender  |             |             |
-|             |             | el          |             |             |
-|             |             | contenido   |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| E2          | Interfaz de | **Como**    |             |             |
-|             | acceso a la | Empresario  |             |             |
-|             | aplicación  | pesquero o  |             |             |
-|             | web         | Empresa de  |             |             |
-|             |             | transportes |             |             |
-|             |             |             |             |             |
-|             |             | **Quiero**  |             |             |
-|             |             | registrarme |             |             |
-|             |             | a la        |             |             |
-|             |             | aplicación  |             |             |
-|             |             | web         |             |             |
-|             |             |             |             |             |
-|             |             | **Para**    |             |             |
-|             |             | identificar |             |             |
-|             |             | qué tipo de |             |             |
-|             |             | usuario soy |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| E2-US08     | Registro    | **Como**    |             | 2           |
-|             | para de la  | Empresa de  |             |             |
-|             | empresa     | transportes |             |             |
-|             | prestadora  |             |             |             |
-|             | de          | **Quiero**  |             |             |
-|             | vehículos   | llenar mi   |             |             |
-|             |             | información |             |             |
-|             |             |             |             |             |
-|             |             | Para así    |             |             |
-|             |             | darme a     |             |             |
-|             |             | conocer     |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| E2-US09     | Registro    | Empresario  |             | 2           |
-|             | para el     | pesquero    |             |             |
-|             | emprendedor |             |             |             |
-|             | pesquero    | Quiero      |             |             |
-|             |             | llenar mi   |             |             |
-|             |             | información |             |             |
-|             |             |             |             |             |
-|             |             | **Para**    |             |             |
-|             |             | luego tener |             |             |
-|             |             | c           |             |             |
-|             |             | omunicación |             |             |
-|             |             | con la      |             |             |
-|             |             | empresa     |             |             |
-|             |             | prestadora  |             |             |
-|             |             | de          |             |             |
-|             |             | vehículos   |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| E2-US10     | Ingreso a   | **Como**    |             | 2           |
-|             | la          | Empresario  |             |             |
-|             | aplicación  | pesquero o  |             |             |
-|             |             | Empresa de  |             |             |
-|             |             | transportes |             |             |
-|             |             |             |             |             |
-|             |             | **Quiero**  |             |             |
-|             |             | ingresar    |             |             |
-|             |             | mis datos   |             |             |
-|             |             |             |             |             |
-|             |             | **Para**    |             |             |
-|             |             | empezar a   |             |             |
-|             |             | hacer uso   |             |             |
-|             |             | de la       |             |             |
-|             |             | aplicación  |             |             |
-|             |             | web         |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| E3          | Interfaz    | **Como**    |             |             |
-|             | clara e     | Empresario  |             |             |
-|             | intuitiva   | pesquero    |             |             |
-|             | para el     |             |             |             |
-|             | emprendedor | **Quiero**  |             |             |
-|             | pesquero    | poder       |             |             |
-|             |             | comprender  |             |             |
-|             |             | e           |             |             |
-|             |             | interactuar |             |             |
-|             |             | con el      |             |             |
-|             |             | servicio    |             |             |
-|             |             | que la      |             |             |
-|             |             | aplicación  |             |             |
-|             |             | web me está |             |             |
-|             |             | pro         |             |             |
-|             |             | porcionando |             |             |
-|             |             |             |             |             |
-|             |             | **Para**    |             |             |
-|             |             | así poder   |             |             |
-|             |             | generar mis |             |             |
-|             |             | solicitudes |             |             |
-|             |             | de una      |             |             |
-|             |             | manera      |             |             |
-|             |             | clara y     |             |             |
-|             |             | correcta    |             |             |
-|             |             | sin temor a |             |             |
-|             |             | e           |             |             |
-|             |             | quivocación |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| E3-US11     | Seccion de  | **Como**    |             | 3           |
-|             | busqueda    | Empresario  |             |             |
-|             |             | pesquero    |             |             |
-|             |             |             |             |             |
-|             |             | **Quiero**  |             |             |
-|             |             | poder       |             |             |
-|             |             | realizar    |             |             |
-|             |             | búsquedas   |             |             |
-|             |             | por         |             |             |
-|             |             | distritos   |             |             |
-|             |             |             |             |             |
-|             |             | **Para**    |             |             |
-|             |             | así poder   |             |             |
-|             |             | filtrar la  |             |             |
-|             |             | búsqueda de |             |             |
-|             |             | empresas de |             |             |
-|             |             | transportes |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| E3-US12     | Información | **Como**    |             | 3           |
-|             | de la       | Empresario  |             |             |
-|             | empresa     | pesquero    |             |             |
-|             |             |             |             |             |
-|             |             | **Quiero**  |             |             |
-|             |             | observar    |             |             |
-|             |             | información |             |             |
-|             |             | de la       |             |             |
-|             |             | empresa de  |             |             |
-|             |             | transporte  |             |             |
-|             |             | luego de la |             |             |
-|             |             | búsqueda    |             |             |
-|             |             |             |             |             |
-|             |             | **Para**    |             |             |
-|             |             | así poder   |             |             |
-|             |             | elegir la   |             |             |
-|             |             | que mejor   |             |             |
-|             |             | me convenga |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| E3-US13     | Solicitar   | **Como**    |             | 3           |
-|             | el servicio | Empresario  |             |             |
-|             | a la        | pesquero    |             |             |
-|             | empresa     |             |             |             |
-|             | prestadora  | **Quiero**  |             |             |
-|             | de          | poder       |             |             |
-|             | vehículos   | seleccionar |             |             |
-|             |             | la empresa  |             |             |
-|             |             | de          |             |             |
-|             |             | transporte  |             |             |
-|             |             | adecuada    |             |             |
-|             |             |             |             |             |
-|             |             | **Para**    |             |             |
-|             |             | así poder   |             |             |
-|             |             | brindar la  |             |             |
-|             |             | información |             |             |
-|             |             | necesaria   |             |             |
-|             |             | para que    |             |             |
-|             |             | realice mi  |             |             |
-|             |             | servicio    |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| E3-US14     | Gestionar   | **Como**    |             | 3           |
-|             | solicitudes | Empresario  |             |             |
-|             | enviadas    | pesquero    |             |             |
-|             |             |             |             |             |
-|             |             | **Quiero**  |             |             |
-|             |             | tener un    |             |             |
-|             |             | apartado en |             |             |
-|             |             | el cual     |             |             |
-|             |             | pueda ver   |             |             |
-|             |             | las         |             |             |
-|             |             | solicitudes |             |             |
-|             |             | que hice    |             |             |
-|             |             |             |             |             |
-|             |             | **Para**    |             |             |
-|             |             | poder       |             |             |
-|             |             | gestionar   |             |             |
-|             |             | los precios |             |             |
-|             |             | que me      |             |             |
-|             |             | ofrecieron  |             |             |
-|             |             | por el      |             |             |
-|             |             | servicio    |             |             |
-|             |             | que deseo   |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| E3-US15     | Pagar a la  | **Como**    |             | 3           |
-|             | empresa     | Empresario  |             |             |
-|             | s           | pesquero    |             |             |
-|             | eleccionada |             |             |             |
-|             |             | **Quiero**  |             |             |
-|             |             | pagar el    |             |             |
-|             |             | servicio    |             |             |
-|             |             | que haya    |             |             |
-|             |             | s           |             |             |
-|             |             | eleccionado |             |             |
-|             |             |             |             |             |
-|             |             | **Para**    |             |             |
-|             |             | así         |             |             |
-|             |             | confirmarle |             |             |
-|             |             | a la        |             |             |
-|             |             | empresa de  |             |             |
-|             |             | transporte  |             |             |
-|             |             | que estoy   |             |             |
-|             |             | de acuerdo  |             |             |
-|             |             | con su      |             |             |
-|             |             | cotización  |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| E3-US16     | Obtener     | **Como**    |             | 3           |
-|             | información | Empresario  |             |             |
-|             | del         | pesquero    |             |             |
-|             | vehículo    |             |             |             |
-|             | repartidor  | **Quiero**  |             |             |
-|             |             | tener la    |             |             |
-|             |             | información |             |             |
-|             |             | del         |             |             |
-|             |             | vehículo    |             |             |
-|             |             | que         |             |             |
-|             |             | enviarán mi |             |             |
-|             |             | producto    |             |             |
-|             |             |             |             |             |
-|             |             | **Para**    |             |             |
-|             |             | así poder   |             |             |
-|             |             | tener un    |             |             |
-|             |             | seguimiento |             |             |
-|             |             | de sus      |             |             |
-|             |             | datos       |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| E4          | Interfaz    | **Como**    |             |             |
-|             | clara e     | Empresa de  |             |             |
-|             | intuitiva   | transportes |             |             |
-|             | para la     |             |             |             |
-|             | empresa     | **Quiero**  |             |             |
-|             | prestadora  | poder       |             |             |
-|             | de          | comprender  |             |             |
-|             | vehículos   | e           |             |             |
-|             |             | interactuar |             |             |
-|             |             | con el      |             |             |
-|             |             | servicio    |             |             |
-|             |             | que la      |             |             |
-|             |             | aplicación  |             |             |
-|             |             | web me está |             |             |
-|             |             | pro         |             |             |
-|             |             | porcionando |             |             |
-|             |             |             |             |             |
-|             |             | **Para**    |             |             |
-|             |             | así poder   |             |             |
-|             |             | generar las |             |             |
-|             |             | solicitudes |             |             |
-|             |             | de una      |             |             |
-|             |             | manera      |             |             |
-|             |             | clara y     |             |             |
-|             |             | correcta    |             |             |
-|             |             | sin temor a |             |             |
-|             |             | e           |             |             |
-|             |             | quivocación |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| E4-US17     | Gestión de  | **Como**    |             | 4           |
-|             | solicitudes | Empresa de  |             |             |
-|             | recibidas   | transportes |             |             |
-|             |             |             |             |             |
-|             |             | **Quiero**  |             |             |
-|             |             | observar    |             |             |
-|             |             | los         |             |             |
-|             |             | detalles de |             |             |
-|             |             | la          |             |             |
-|             |             | información |             |             |
-|             |             | de los      |             |             |
-|             |             | em          |             |             |
-|             |             | prendedores |             |             |
-|             |             | pesqueros   |             |             |
-|             |             |             |             |             |
-|             |             | **Para**    |             |             |
-|             |             | poder       |             |             |
-|             |             | aceptar y   |             |             |
-|             |             | gestionar   |             |             |
-|             |             | una         |             |             |
-|             |             | cotización  |             |             |
-|             |             | o rechazar  |             |             |
-|             |             | la          |             |             |
-|             |             | solicitud   |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| E4-US18     | Gestión de  | **Como**    |             | 4           |
-|             | pagos       | Empresa de  |             |             |
-|             |             | transportes |             |             |
-|             |             |             |             |             |
-|             |             | **Quiero**  |             |             |
-|             |             | realizar un |             |             |
-|             |             | seguimiento |             |             |
-|             |             | de quien    |             |             |
-|             |             | realizo el  |             |             |
-|             |             | pago o      |             |             |
-|             |             | cancelo el  |             |             |
-|             |             | servicio    |             |             |
-|             |             |             |             |             |
-|             |             | **Para**    |             |             |
-|             |             | poder       |             |             |
-|             |             | continuar   |             |             |
-|             |             | con el      |             |             |
-|             |             | proceso del |             |             |
-|             |             | servicio a  |             |             |
-|             |             | prestar     |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| E4-US19     | Enviar      | **Como**    |             | 4           |
-|             | información | Empresa de  |             |             |
-|             | del         | transportes |             |             |
-|             | vehículo    |             |             |             |
-|             | hacia el    | **Quiero**  |             |             |
-|             | emprendedor | enviar      |             |             |
-|             | pesquero    | informacion |             |             |
-|             |             | necesaria   |             |             |
-|             |             | del         |             |             |
-|             |             | vehículo    |             |             |
-|             |             |             |             |             |
-|             |             | **Para**    |             |             |
-|             |             | que el      |             |             |
-|             |             | emprendedor |             |             |
-|             |             | pesquero    |             |             |
-|             |             | pueda       |             |             |
-|             |             | gestionar   |             |             |
-|             |             | la entrega  |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| E5          | Backend Api | **Como**    |             |             |
-|             |             | de          |             |             |
-|             |             | sarrollador |             |             |
-|             |             |             |             |             |
-|             |             | **Quiero**  |             |             |
-|             |             | utilizar la |             |             |
-|             |             | API de un   |             |             |
-|             |             | servicio de |             |             |
-|             |             | backend     |             |             |
-|             |             |             |             |             |
-|             |             | **Para**    |             |             |
-|             |             | que el      |             |             |
-|             |             | usuario     |             |             |
-|             |             | pueda usar  |             |             |
-|             |             | la          |             |             |
-|             |             | aplicación  |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| E5-US20     | Agregar una | **Como**    |             | 5           |
-|             | empresa     | de          |             |             |
-|             | prestadora  | sarrollador |             |             |
-|             | de          |             |             |             |
-|             | vehículos   | **Quiero**  |             |             |
-|             |             | agregar una |             |             |
-|             |             | empresa de  |             |             |
-|             |             | transporte  |             |             |
-|             |             | a través    |             |             |
-|             |             | del backend |             |             |
-|             |             |             |             |             |
-|             |             | **Para**    |             |             |
-|             |             | que esté    |             |             |
-|             |             | disponible  |             |             |
-|             |             | para la     |             |             |
-|             |             | empresa     |             |             |
-|             |             | pesquera    |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| E5-US21     | Agregar     | **Como**    |             | 5           |
-|             | solicitud   | de          |             |             |
-|             | del         | sarrollador |             |             |
-|             | emprendedor |             |             |             |
-|             | pesquero    | **Quiero**  |             |             |
-|             |             | agregar los |             |             |
-|             |             | datos de la |             |             |
-|             |             | solicitud   |             |             |
-|             |             | de la       |             |             |
-|             |             | empresa     |             |             |
-|             |             | pesquera    |             |             |
-|             |             | mediante el |             |             |
-|             |             | backend     |             |             |
-|             |             |             |             |             |
-|             |             | **Para**    |             |             |
-|             |             | que la      |             |             |
-|             |             | empresa de  |             |             |
-|             |             | transporte  |             |             |
-|             |             | pueda       |             |             |
-|             |             | utilizar    |             |             |
-|             |             | esos datos  |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| E5-US22     | Gestionar   | **Como**    |             | 5           |
-|             | usuarios    | de          |             |             |
-|             |             | sarrollador |             |             |
-|             |             |             |             |             |
-|             |             | **Quiero**  |             |             |
-|             |             | gestionar   |             |             |
-|             |             | usuarios a  |             |             |
-|             |             | través del  |             |             |
-|             |             | backend     |             |             |
-|             |             |             |             |             |
-|             |             | **Para**    |             |             |
-|             |             | poder       |             |             |
-|             |             | controlar   |             |             |
-|             |             | el acceso y |             |             |
-|             |             | permisos de |             |             |
-|             |             | cada        |             |             |
-|             |             | usuario en  |             |             |
-|             |             | el sistema  |             |             |
-+-------------+-------------+-------------+-------------+-------------+
+<table>
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: left;">Epic/Story ID</th>
+<th style="text-align: left;">Título</th>
+<th style="text-align: left;">Descripción</th>
+<th style="text-align: left;">Criterios de aceptación</th>
+<th style="text-align: left;">Relacionado con (Epic ID)</th>
+</tr>
+<tr>
+<th style="text-align: left;">E1</th>
+<th style="text-align: left;">Diseño de la Lading Page</th>
+<th style="text-align: left;"><p><strong>Como</strong> Empresario
+pesquero o Empresa de transportes</p>
+<p><strong>Quiero</strong> ver una página web en la cual tenga
+información del servicio que voy a utilizar</p>
+<p><strong>Para</strong> tener una vista más clara del servicio que nos
+proporcionarán</p></th>
+<th style="text-align: left;"></th>
+<th style="text-align: center;"></th>
+</tr>
+<tr>
+<th style="text-align: left;">E1-US01</th>
+<th style="text-align: left;">Barra de Navegación en la Landing
+Page</th>
+<th><p><strong>Como</strong> Empresario pesquero o Empresa de
+transportes</p>
+<p><strong>Quiero</strong> ver una barra de navegación con una buena
+estructura informática</p>
+<p><strong>Para</strong> poder acceder a las secciones más relevantes
+del servicio</p></th>
+<th style="text-align: left;"></th>
+<th style="text-align: center;">1</th>
+</tr>
+<tr>
+<th style="text-align: left;">E1-US02</th>
+<th style="text-align: left;">Información sobre el servicio
+brindado</th>
+<th><p><strong>Como</strong> Empresario pesquero o Empresa de
+transportes</p>
+<p><strong>Quiero</strong> que al ingresar a la página web me muestre la
+información de los servicios que me van a brindar</p>
+<p><strong>Para</strong> entender qué beneficios obtendré al usar la
+aplicación web</p></th>
+<th style="text-align: left;"></th>
+<th style="text-align: center;">1</th>
+</tr>
+<tr>
+<th>E1-US03</th>
+<th style="text-align: left;">Información sobre el procedimiento de uso
+de la aplicación web</th>
+<th><p><strong>Como</strong> Empresario pesquero o Empresa de
+transportes</p>
+<p><strong>Quiero</strong> visualizar el procedimiento que tendría que
+hacer para usar este servicio</p>
+<p><strong>Para</strong> así conocer el grado de satisfacción que tendre
+al momento de usar la aplicación web</p></th>
+<th style="text-align: left;"></th>
+<th style="text-align: center;">1</th>
+</tr>
+<tr>
+<th>E1-US04</th>
+<th style="text-align: left;">Conocer los testimonios de clientes
+pasados</th>
+<th><p><strong>Como</strong> Empresario pesquero o Empresa de
+transportes</p>
+<p><strong>Quiero</strong> leer algunos testimonios de clientes
+anteriores</p>
+<p><strong>Para</strong> evaluar la experiencia de otras
+personas</p></th>
+<th style="text-align: left;"></th>
+<th style="text-align: center;">1</th>
+</tr>
+<tr>
+<th>E1-US05</th>
+<th style="text-align: left;">Conocer las ventajas de la aplicación
+web</th>
+<th><p><strong>Como</strong> Empresario pesquero o Empresa de
+transportes</p>
+<p><strong>Quiero</strong> conocer las ventajas que tiene la aplicación
+frente a otras aplicaciones similares</p>
+<p><strong>Para</strong> tomar la decisión de tomar o no el
+servicio</p></th>
+<th style="text-align: left;"></th>
+<th style="text-align: center;">1</th>
+</tr>
+<tr>
+<th>E1-US06</th>
+<th style="text-align: left;">Contacto</th>
+<th><p><strong>Como</strong> Empresario pesquero o Empresa de
+transportes</p>
+<p><strong>Quiero</strong> enviar una solicitud a los dueños de la
+aplicación web</p>
+<p><strong>Para</strong> poder conocer más sobre su trabajo y/o que me
+den más detalles de la misma</p></th>
+<th style="text-align: left;"></th>
+<th style="text-align: center;">1</th>
+</tr>
+<tr>
+<th>E1-US07</th>
+<th style="text-align: left;">Cambiar idiomas</th>
+<th><p><strong>Como</strong> Empresario pesquero o Empresa de
+transportes</p>
+<p><strong>Quiero</strong> cambiar el idioma de la página web de Inglés
+al Español</p>
+<p><strong>Para</strong> así poder comprender el contenido</p></th>
+<th style="text-align: left;"></th>
+<th style="text-align: center;">1</th>
+</tr>
+<tr>
+<th>E2</th>
+<th style="text-align: left;">Interfaz de acceso a la aplicación
+web</th>
+<th><p><strong>Como</strong> Empresario pesquero o Empresa de
+transportes</p>
+<p><strong>Quiero</strong> registrarme a la aplicación web</p>
+<p><strong>Para</strong> identificar qué tipo de usuario soy</p></th>
+<th style="text-align: left;"></th>
+<th style="text-align: center;"></th>
+</tr>
+<tr>
+<th>E2-US08</th>
+<th style="text-align: left;">Registro para de la empresa prestadora de
+vehículos</th>
+<th><p><strong>Como</strong> Empresa de transportes</p>
+<p><strong>Quiero</strong> llenar mi información</p>
+<p>Para así darme a conocer</p></th>
+<th style="text-align: left;"></th>
+<th style="text-align: center;">2</th>
+</tr>
+<tr>
+<th>E2-US09</th>
+<th style="text-align: left;">Registro para el emprendedor pesquero</th>
+<th><p>Empresario pesquero</p>
+<p>Quiero llenar mi información</p>
+<p><strong>Para</strong> luego tener comunicación con la empresa
+prestadora de vehículos</p></th>
+<th style="text-align: left;"></th>
+<th style="text-align: center;">2</th>
+</tr>
+<tr>
+<th>E2-US10</th>
+<th style="text-align: left;">Ingreso a la aplicación</th>
+<th><p><strong>Como</strong> Empresario pesquero o Empresa de
+transportes</p>
+<p><strong>Quiero</strong> ingresar mis datos</p>
+<p><strong>Para</strong> empezar a hacer uso de la aplicación
+web</p></th>
+<th style="text-align: left;"></th>
+<th style="text-align: center;">2</th>
+</tr>
+<tr>
+<th style="text-align: left;">E3</th>
+<th style="text-align: left;">Interfaz clara e intuitiva para el
+emprendedor pesquero</th>
+<th><p><strong>Como</strong> Empresario pesquero</p>
+<p><strong>Quiero</strong> poder comprender e interactuar con el
+servicio que la aplicación web me está proporcionando</p>
+<p><strong>Para</strong> así poder generar mis solicitudes de una manera
+clara y correcta sin temor a equivocación</p></th>
+<th style="text-align: left;"></th>
+<th style="text-align: center;"></th>
+</tr>
+<tr>
+<th style="text-align: left;">E3-US11</th>
+<th style="text-align: left;">Seccion de busqueda</th>
+<th><p><strong>Como</strong> Empresario pesquero</p>
+<p><strong>Quiero</strong> poder realizar búsquedas por distritos</p>
+<p><strong>Para</strong> así poder filtrar la búsqueda de empresas de
+transportes</p></th>
+<th style="text-align: left;"></th>
+<th style="text-align: center;">3</th>
+</tr>
+<tr>
+<th style="text-align: left;">E3-US12</th>
+<th style="text-align: left;">Información de la empresa</th>
+<th><p><strong>Como</strong> Empresario pesquero</p>
+<p><strong>Quiero</strong> observar información de la empresa de
+transporte luego de la búsqueda</p>
+<p><strong>Para</strong> así poder elegir la que mejor me
+convenga</p></th>
+<th style="text-align: left;"></th>
+<th style="text-align: center;">3</th>
+</tr>
+<tr>
+<th style="text-align: left;">E3-US13</th>
+<th style="text-align: left;">Solicitar el servicio a la empresa
+prestadora de vehículos</th>
+<th><p><strong>Como</strong> Empresario pesquero</p>
+<p><strong>Quiero</strong> poder seleccionar la empresa de transporte
+adecuada</p>
+<p><strong>Para</strong> así poder brindar la información necesaria para
+que realice mi servicio</p></th>
+<th style="text-align: left;"></th>
+<th style="text-align: center;">3</th>
+</tr>
+<tr>
+<th style="text-align: left;">E3-US14</th>
+<th style="text-align: left;">Gestionar solicitudes enviadas</th>
+<th><p><strong>Como</strong> Empresario pesquero</p>
+<p><strong>Quiero</strong> tener un apartado en el cual pueda ver las
+solicitudes que hice</p>
+<p><strong>Para</strong> poder gestionar los precios que me ofrecieron
+por el servicio que deseo</p></th>
+<th style="text-align: left;"></th>
+<th style="text-align: center;">3</th>
+</tr>
+<tr>
+<th style="text-align: left;">E3-US15</th>
+<th style="text-align: left;">Pagar a la empresa seleccionada</th>
+<th><p><strong>Como</strong> Empresario pesquero</p>
+<p><strong>Quiero</strong> pagar el servicio que haya seleccionado</p>
+<p><strong>Para</strong> así confirmarle a la empresa de transporte que
+estoy de acuerdo con su cotización</p></th>
+<th style="text-align: left;"></th>
+<th style="text-align: center;">3</th>
+</tr>
+<tr>
+<th style="text-align: left;">E3-US16</th>
+<th style="text-align: left;">Obtener información del vehículo
+repartidor</th>
+<th><p><strong>Como</strong> Empresario pesquero</p>
+<p><strong>Quiero</strong> tener la información del vehículo que
+enviarán mi producto</p>
+<p><strong>Para</strong> así poder tener un seguimiento de sus
+datos</p></th>
+<th style="text-align: left;"></th>
+<th style="text-align: center;">3</th>
+</tr>
+<tr>
+<th style="text-align: left;">E4</th>
+<th>Interfaz clara e intuitiva para la empresa prestadora de
+vehículos</th>
+<th><p><strong>Como</strong> Empresa de transportes</p>
+<p><strong>Quiero</strong> poder comprender e interactuar con el
+servicio que la aplicación web me está proporcionando</p>
+<p><strong>Para</strong> así poder generar las solicitudes de una manera
+clara y correcta sin temor a equivocación</p></th>
+<th style="text-align: left;"></th>
+<th style="text-align: center;"></th>
+</tr>
+<tr>
+<th style="text-align: left;">E4-US17</th>
+<th style="text-align: left;">Gestión de solicitudes recibidas</th>
+<th style="text-align: left;"><p><strong>Como</strong> Empresa de
+transportes</p>
+<p><strong>Quiero</strong> observar los detalles de la información de
+los emprendedores pesqueros</p>
+<p><strong>Para</strong> poder aceptar y gestionar una cotización o
+rechazar la solicitud</p></th>
+<th style="text-align: left;"></th>
+<th style="text-align: center;">4</th>
+</tr>
+<tr>
+<th style="text-align: left;">E4-US18</th>
+<th style="text-align: left;">Gestión de pagos</th>
+<th><p><strong>Como</strong> Empresa de transportes</p>
+<p><strong>Quiero</strong> realizar un seguimiento de quien realizo el
+pago o cancelo el servicio</p>
+<p><strong>Para</strong> poder continuar con el proceso del servicio a
+prestar</p></th>
+<th style="text-align: left;"></th>
+<th style="text-align: center;">4</th>
+</tr>
+<tr>
+<th style="text-align: left;">E4-US19</th>
+<th style="text-align: left;">Enviar información del vehículo hacia el
+emprendedor pesquero</th>
+<th><p><strong>Como</strong> Empresa de transportes</p>
+<p><strong>Quiero</strong> enviar informacion necesaria del vehículo</p>
+<p><strong>Para</strong> que el emprendedor pesquero pueda gestionar la
+entrega</p></th>
+<th style="text-align: left;"></th>
+<th style="text-align: center;">4</th>
+</tr>
+<tr>
+<th style="text-align: left;">E5</th>
+<th style="text-align: left;">Backend Api</th>
+<th style="text-align: left;"><p><strong>Como</strong> desarrollador</p>
+<p><strong>Quiero</strong> utilizar la API de un servicio de backend</p>
+<p><strong>Para</strong> que el usuario pueda usar la
+aplicación</p></th>
+<th style="text-align: left;"></th>
+<th style="text-align: center;"></th>
+</tr>
+<tr>
+<th style="text-align: left;">E5-US20</th>
+<th style="text-align: left;">Agregar una empresa prestadora de
+vehículos</th>
+<th style="text-align: left;"><p><strong>Como</strong> desarrollador</p>
+<p><strong>Quiero</strong> agregar una empresa de transporte a través
+del backend</p>
+<p><strong>Para</strong> que esté disponible para la empresa
+pesquera</p></th>
+<th style="text-align: left;"></th>
+<th style="text-align: center;">5</th>
+</tr>
+<tr>
+<th style="text-align: left;">E5-US21</th>
+<th style="text-align: left;">Agregar solicitud del emprendedor
+pesquero</th>
+<th style="text-align: left;"><p><strong>Como</strong> desarrollador</p>
+<p><strong>Quiero</strong> agregar los datos de la solicitud de la
+empresa pesquera mediante el backend</p>
+<p><strong>Para</strong> que la empresa de transporte pueda utilizar
+esos datos</p></th>
+<th style="text-align: left;"></th>
+<th style="text-align: center;">5</th>
+</tr>
+<tr>
+<th style="text-align: left;">E5-US22</th>
+<th style="text-align: left;">Gestionar usuarios</th>
+<th style="text-align: left;"><p><strong>Como</strong> desarrollador</p>
+<p><strong>Quiero</strong> gestionar usuarios a través del backend</p>
+<p><strong>Para</strong> poder controlar el acceso y permisos de cada
+usuario en el sistema</p></th>
+<th style="text-align: left;"></th>
+<th style="text-align: center;">5</th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
 ## 3.3 <!-- Impact Mapping.  -->
 ## 3.4 <!-- Product Backlog.  -->
