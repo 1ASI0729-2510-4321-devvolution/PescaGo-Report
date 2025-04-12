@@ -1,5 +1,6 @@
-## 3.1 <!-- To-Be Scenario Mapping.  -->
-## 3.2 User Stories
+## Capítulo III: Requirements Specification
+### 3.1. To-Be Scenario Mapping <!-- To-Be Scenario Mapping.  -->
+### 3.2 User Stories
 <table>
 <colgroup>
 <col style="width: 20%" />
@@ -330,5 +331,7 @@ usuario en el sistema</p></td>
 <tbody>
 </tbody>
 </table>
-## 3.3 <!-- Impact Mapping.  -->
-## 3.4 <!-- Product Backlog.  -->
+
+### 3.3. Impact Mapping <!-- Impact Mapping.  -->
+
+### 3.4. Product Backlog <!-- Product Backlog.  -->
