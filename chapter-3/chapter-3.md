@@ -21,7 +21,6 @@ Busca empresas de transporte confiables para enviar sus paquetes de forma segura
 </p>
 <p align="center"><em>Figura 3.2: To-Be Scenario Mapping del empresario pesquero.</em></p>
 
-<br>
 **Enlace del To-Be Scenario Mapping:** [Ver en Miro](https://miro.com/app/board/uXjVID8wvf0=/?share_link_id=911528094729)
 
 ### 3.2. User Stories
