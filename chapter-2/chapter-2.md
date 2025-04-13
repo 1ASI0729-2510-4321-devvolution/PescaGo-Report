@@ -1,5 +1,7 @@
 # Capítulo II: Requirements Elicitation & Analysis  
 ## 2.1. Competidores
+Es vital para la estrategia y planificación de nuestro producto conocer a fondo el panorama competitivo. Por ello, en este apartado explicaremos quiénes son nuestros competidores y describiremos sus aspectos más relevantes.
+
   ### 2.1.1. Análisis Competitivo
   ### 2.1.2. Estrategias y tácticas frente a competidores
 ## 2.2. Entrevistas
