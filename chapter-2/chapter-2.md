@@ -4,9 +4,9 @@ Es vital para la estrategia y planificación de nuestro producto conocer a fondo
 
 | EMPRESA | DESCRIPCIÓN | IMAGEN |
 |-|-|-|
-| DeltaX | Esta se presenta como una plataforma digital de transporte para Latinoamérica, con operaciones específicas en Perú. Podría ser un competidor directo si conecta a generadores de carga con transportistas en la región. | ![DeltaX Logo](assets/images/DeltaX.png) |
-| Movil Move  | Se describe como una aplicación para empresas de transporte de pasajeros, carga, mensajería y domicilios en Perú. Si bien su enfoque parece ser más amplio, podría tener funcionalidades para conectar a empresas con necesidades de carga con transportistas disponibles. | ![Movil Move Logo](assets/images/Movil_Move.png) |
-| Efletex   | Mencionada como una startup peruana que conecta proveedores y usuarios de transporte de carga a través de una app móvil. | ![Efletex Logo](assets/images/Efletex.png) |
+| DeltaX | Esta se presenta como una plataforma digital de transporte para Latinoamérica, con operaciones específicas en Perú. Podría ser un competidor directo si conecta a generadores de carga con transportistas en la región. | ![DeltaX Logo](assets/logo_deltax.jpeg) |
+| Movil Move  | Se describe como una aplicación para empresas de transporte de pasajeros, carga, mensajería y domicilios en Perú. Si bien su enfoque parece ser más amplio, podría tener funcionalidades para conectar a empresas con necesidades de carga con transportistas disponibles. | ![Movil Move Logo](assets/logo_movilmove.png) |
+| Efletex   | Mencionada como una startup peruana que conecta proveedores y usuarios de transporte de carga a través de una app móvil. | ![Efletex Logo](assets/logo_efletex.jpeg) |
 
   ### 2.1.1. Análisis Competitivo  
 
@@ -14,7 +14,7 @@ En esta sección analizaremos nuestros competidores de manera profunda. Investig
 
 | | |DeltaX|Movil Move|Efletex|
 |-|-|-|-|-|
-| |**Nombre y Logo**| ![DeltaX Logo](assets/images/DeltaX-logo.png) | ![Movil Move Logo](assets/images/Movil_Move-logo.png) |![Efletex Logo](assets/images/uShip-logo.png) |
+| |**Nombre y Logo**| ![DeltaX Logo](assets/logo_deltax.jpeg) | ![Movil Move Logo](assets/logo_movilmove.png) |![Efletex Logo](assets/logo_efletex.jpeg) |
 |**Perfil**|**Overview**| Plataforma digital de transporte de carga que opera en América Latina, con un enfoque en Perú. Conecta a remitentes con transportistas disponibles, facilitando el transporte de mercancías.|Aplicación móvil diseñada para transporte de pasajeros, carga, mensajería y entregas a domicilio en Perú. Aunque se enfoca principalmente en el transporte de pasajeros, también ofrece servicios de entrega de carga.| Startup peruana que conecta proveedores y usuarios de transporte de carga a través de una aplicación móvil. Busca agilizar el proceso logístico para remitentes y transportistas.|
 |**Ventaja competitiva**|**¿Qué valor ofrece a los clientes?**| Agiliza el proceso logístico para remitentes y transportistas. Proporciona una plataforma centralizada para que los remitentes encuentren y reserven servicios de transporte, mientras que ofrece a los transportistas acceso a una mayor cantidad de clientes potenciales. La plataforma también ofrece funciones como seguimiento en tiempo real, documentación automatizada y procesamiento de pagos, lo que hace que todo el proceso de envío sea más eficiente y transparente.|Proporciona una forma conveniente y eficiente para que individuos y empresas reserven servicios de transporte para pasajeros, carga o entregas. La aplicación ofrece seguimiento en tiempo real, pagos en línea y atención al cliente, lo que facilita la gestión de las necesidades de transporte.|Proporciona una forma conveniente y eficiente para que los remitentes encuentren y reserven servicios de transporte. La aplicación ofrece seguimiento en tiempo real, pagos en línea y atención al cliente, lo que facilita la gestión de las necesidades de envío.|
 |**Perfil de Marketing**|**Mercado objetivo**| Principalmente pequeñas y medianas empresas en Perú que necesitan transportar mercancías dentro del país o a regiones vecinas.|Individuos y empresas en Perú que necesitan servicios de transporte para pasajeros, carga o entregas.|Principalmente pequeñas y medianas empresas en Perú que necesitan transportar mercancías dentro del país.|
