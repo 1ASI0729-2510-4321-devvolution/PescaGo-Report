@@ -36,6 +36,59 @@ En esta sección analizaremos nuestros competidores de manera profunda. Investig
   
 ## 2.2. Entrevistas
   ### 2.2.1. Diseño de entrevistas
+  
+  ### Preguntas para Emprendedores Pesqueros:
+  
+  **Sobre su negocio actual:**
+
+  - ¿Qué tipo de pescado vende principalmente? (fresco, congelado, etc.)
+  - ¿Cuánto y con qué frecuencia envía?
+  - ¿A dónde suele enviar?
+  - ¿Cómo transporta sus productos ahora?
+  - ¿Qué es lo más difícil del transporte actual para usted?
+  - ¿Qué necesita de los vehículos de transporte? (refrigeración, etc.)
+  - ¿Cómo se asegura de la calidad al llegar?
+  - ¿Qué papeles o permisos son importantes para el transporte?
+  
+  **Sobre sus necesidades y expectativas:**
+
+  - ¿Qué espera de una plataforma para encontrar transporte? 
+  - ¿Qué funciones de una app serían clave para usted? (precio, seguimiento, comunicación, etc.)
+  - ¿Qué necesita saber de un transportista antes de contratarlo? (experiencia, vehículo, referencias, etc.)
+  - ¿Qué tan rápido necesita encontrar transporte?
+  - ¿Qué tan importante es el precio vs. la calidad del servicio?
+  - ¿Cómo prefiere comunicarse con los transportistas?
+  - ¿Cómo le gustaría pagarles?
+  - ¿Qué problemas de transporte de pescado le gustaría resolver con una app?
+  - ¿Probaría una nueva plataforma? ¿Qué lo convencería?
+  - ¿Cuánto pagaría por usar una app así? (por envío, suscripción, etc.)
+
+  ###  Preguntas para Transportistas:
+  
+  **Sobre su negocio actual:**
+  
+  - ¿Qué tipo de carga transporta? ¿Tiene experiencia con refrigerados/perecederos?
+  - ¿Qué vehículos refrigerados tiene y qué capacidad ofrecen?
+  - ¿Qué rutas hace con más frecuencia?
+  - ¿Cómo consigue clientes ahora?
+  - ¿Qué es lo más difícil de encontrar cargas o gestionar su trabajo?
+  - ¿Qué necesita saber de la carga antes de aceptarla?
+  - ¿Cómo maneja los papeles y las pruebas de entrega?
+  
+  **Sobre sus necesidades y expectativas:**
+  
+  - ¿Qué espera de una plataforma para encontrar clientes?
+  - ¿Qué funciones de una app serían clave para usted? (alertas de carga, detalles, precios, pagos, comunicación, etc.)
+  - ¿Qué necesita saber de un cliente antes de aceptar un trabajo? (reputación, pagos, etc.)
+  - ¿Qué tan importante es encontrar cargas rápido para no viajar vacío?
+  - ¿Qué tan importante es que los detalles del envío sean claros?
+  - ¿Cómo prefiere comunicarse con los clientes?
+  - ¿Cómo le gustaría que le pagaran?
+  - ¿Qué problemas del transporte le gustaría resolver con una app?
+  - ¿Se uniría a una nueva plataforma? ¿Qué lo convencería?
+  - ¿Qué tarifas o comisiones pagaría por usar una app así?
+  - ¿Qué otras herramientas le serían útiles (rutas, gestión, etc.)?
+
   ### 2.2.2. Registro de entrevistas
   ### 2.2.3. Análisis de entrevistas
 ## 2.3. Needfinding
