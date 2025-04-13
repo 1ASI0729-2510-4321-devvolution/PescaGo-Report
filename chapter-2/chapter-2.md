@@ -37,7 +37,7 @@ En esta sección analizaremos nuestros competidores de manera profunda. Investig
 ## 2.2. Entrevistas
   ### 2.2.1. Diseño de entrevistas
   
-  ### Preguntas para Emprendedores Pesqueros:
+  #### Preguntas para Emprendedores Pesqueros:
   
   **Sobre su negocio actual:**
 
@@ -63,7 +63,7 @@ En esta sección analizaremos nuestros competidores de manera profunda. Investig
   - ¿Probaría una nueva plataforma? ¿Qué lo convencería?
   - ¿Cuánto pagaría por usar una app así? (por envío, suscripción, etc.)
 
-  ###  Preguntas para Transportistas:
+  ####  Preguntas para Transportistas:
   
   **Sobre su negocio actual:**
   
@@ -93,6 +93,16 @@ En esta sección analizaremos nuestros competidores de manera profunda. Investig
   ### 2.2.3. Análisis de entrevistas
 ## 2.3. Needfinding
   ### 2.3.1. User Personas
+  En esta sección se presentan personajes ficticios que representan los segmentos objetivos identificados y entrevistados mediante user personas. 
+
+  **User Persona 1:**
+
+  ![Antonio Gonzales Persona](assets/persona_AntonioGonzales.png)
+
+  **User Persona 2:**
+
+  ![Juan Torres Persona](assets/persona_JuanTorres.png)
+
   ### 2.3.2. User Task Matrix
   ### 2.3.3. User Journey Mapping
   ### 2.3.4. Empathy Mapping
