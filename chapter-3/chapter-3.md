@@ -555,4 +555,168 @@ A continuación, se presenta el Impact Mapping enfocado en los empresarios pesqu
   <img align="center" src="assets/Impact map - empresario pesquero.png" alt="Impact Mapping del segmento de Empresario pesquero"></p>
 <p align="center"><em>Figura 3.3.2: Impact Mapping del segmento de Empresario pesquero.</em></p>
 
-### 3.4. Product Backlog <!-- Product Backlog.  -->
+### 3.4. Product Backlog
+
+<table border="1">
+  <tr>
+    <th>#Order</th>
+    <th>User Story ID</th>
+    <th>Titúlo</th>
+    <th>Descripción</th>
+    <th>Story Points</th>
+  </tr>
+  <tr>
+    <td align="center">1</td>
+    <td>E3-US11</td>
+    <td>Sección de búsqueda</td>
+    <td>Como Empresario pesquero quiero poder realizar búsquedas por distritos para así poder filtrar la búsqueda de empresas de transportes</td>
+    <td align="center">8</td>
+  </tr>
+  <tr>
+    <td align="center">2</td>
+    <td>E3-US13</td>
+    <td>Solicitar el servicio a la empresa prestadora de vehículos</td>
+    <td>Como Empresario pesquero quiero poder seleccionar la empresa de transporte adecuada para así poder brindar la información necesaria para que realice mi servicio</td>
+    <td align="center">8</td>
+  </tr>
+  <tr>
+    <td align="center">3</td>
+    <td>E3-US14</td>
+    <td>Gestionar solicitudes enviadas</td>
+    <td>Como Empresario pesquero quiero tener un apartado en el cual pueda ver las solicitudes que hice para poder gestionar los precios que me ofrecieron por el servicio que deseo</td>
+    <td align="center">8</td>
+  </tr>
+  <tr>
+    <td align="center">4</td>
+    <td>E4-US18</td>
+    <td>Gestión de pagos</td>
+    <td>Como Empresa de transportes quiero realizar un seguimiento de quien realizo el pago o cancelo el servicio para poder continuar con el proceso del servicio a prestar</td>
+    <td align="center">8</td>
+  </tr>
+  <tr>
+    <td align="center">5</td>
+    <td>E4-US19</td>
+    <td>Enviar información del vehículo hacia el emprendedor pesquero</td>
+    <td>Como Empresa de transportes quiero enviar informacion necesaria del vehículo para que el emprendedor pesquero pueda gestionar la entrega</td>
+    <td align="center">8</td>
+  </tr>
+  <tr>
+    <td align="center">6</td>
+    <td>E2-US08</td>
+    <td>Registro para de la empresa prestadora de vehículos</td>
+    <td>Como Empresa de transportes quiero llenar mi información para así darme a conocer</td>
+    <td align="center">5</td>
+  </tr>
+  <tr>
+    <td align="center">7</td>
+    <td>E2-US09</td>
+    <td>Registro para de el emprendedor pesquero</td>
+    <td>Como Empresario pesquero quiero llenar mi información para luego tener comunicación con la empresa prestadora de vehículos</td>
+    <td align="center">5</td>
+  </tr>
+  <tr>
+    <td align="center">8</td>
+    <td>E3-US15</td>
+    <td>Pagar a la empresa seleccionada</td>
+    <td>Como Empresario pesquero quiero pagar el servicio que haya seleccionado para así confirmarle a la empresa de transporte que estoy de acuerdo con su cotización</td>
+    <td align="center">5</td>
+  </tr>
+  <tr>
+    <td align="center">9</td>
+    <td>E3-US16</td>
+    <td>Obtener información del vehículo repartidor</td>
+    <td>Como Empresario pesquero quiero tener la información del vehículo que enviarán mi producto para así poder tener un seguimiento de sus datos</td>
+    <td align="center">5</td>
+  </tr>
+  <tr>
+    <td align="center">10</td>
+    <td>E4-US17</td>
+    <td>Gestión de solicitudes recibidas</td>
+    <td>Como Empresa de transportes quiero observar los detalles de la información de los emprendedores pesqueros para poder aceptar y gestionar una cotización o rechazar la solicitud</td>
+    <td align="center">5</td>
+  </tr>
+  <tr>
+    <td align="center">11</td>
+    <td>E1-US01</td>
+    <td>Barra de Navegación en la Landing Page</td>
+    <td>Como Empresario pesquero o Empresa de transportes quiero ver una página web en la cual tenga información del servicio que voy a utilizar para tener una vista más clara del servicio que nos proporcionarán</td>
+    <td align="center">3</td>
+  </tr>
+  <tr>
+    <td align="center">12</td>
+    <td>E1-US02</td>
+    <td>Información sobre el servicio brindado</td>
+    <td>Como Empresario pesquero o Empresa de transportes quiero que al ingresar a la página web me muestre la información de los servicios que me van a brindar para entender qué beneficios obtendré al usar la aplicación web</td>
+    <td align="center">3</td>
+  </tr>
+  <tr>
+    <td align="center">13</td>
+    <td>E1-US05</td>
+    <td>Conocer las ventajas de la aplicación web</td>
+    <td>Como Empresario pesquero o Empresa de transportes quiero conocer las ventajas que tiene la aplicación frente a otras aplicaciones similares para tomar la decisión de tomar o no el servicio</td>
+    <td align="center">3</td>
+  </tr>
+  <tr>
+    <td align="center">14</td>
+    <td>E3-US12</td>
+    <td>Información de la empresa</td>
+    <td>Como Empresario pesquero quiero observar información de la empresa de transporte luego de la búsqueda para así poder elegir la que mejor me convenga</td>
+    <td align="center">3</td>
+  </tr>
+  <tr>
+    <td align="center">15</td>
+    <td>E5-US20</td>
+    <td>Agregar una empresa prestadora de vehículos</td>
+    <td>Como desarrollador quiero agregar una empresa de transporte a través del backend para que esté disponible para la empresa pesquera</td>
+    <td align="center">3</td>
+  </tr>
+  <tr>
+    <td align="center">16</td>
+    <td>E5-US21</td>
+    <td>Agregar solicitud del emprendedor pesquero</td>
+    <td>Como desarrollador quiero agregar los datos de la solicitud de la empresa pesquera mediante el backend para que la empresa de transporte pueda utilizar esos datos</td>
+    <td align="center">3</td>
+  </tr>
+  <tr>
+    <td align="center">17</td>
+    <td>E5-US22</td>
+    <td>Gestionar usuarios</td>
+    <td>Como desarrollador quiero gestionar usuarios a través del backend para poder controlar el acceso y permisos de cada usuario en el sistema</td>
+    <td align="center">3</td>
+  </tr>
+  <tr>
+    <td align="center">18</td>
+    <td>E1-US04</td>
+    <td>Conocer los testimonios de clientes pasados</td>
+    <td>Como Empresario pesquero o Empresa de transportes quiero leer algunos testimonios de clientes anteriores para evaluar la experiencia de otras personas</td>
+    <td align="center">2</td>
+  </tr>
+    <tr>
+    <td align="center">19</td>
+    <td>E1-US06</td>
+    <td>Contacto</td>
+    <td>Como Empresario pesquero o Empresa de transportes quiero enviar una solicitud a los dueños de la aplicación web para poder conocer más sobre su trabajo y/o que me den más detalles de la misma</td>
+    <td align="center">2</td>
+  </tr>
+  <tr>
+    <td align="center">20</td>
+    <td>E2-US10</td>
+    <td>Ingreso a la aplicación</td>
+    <td>Como Empresario pesquero o Empresa de transportes quiero ingresar mis datos para empezar a hacer uso de la aplicación web</td>
+    <td align="center">2</td>
+  </tr>
+  <tr>
+    <td align="center">21</td>
+    <td>E1-US03</td>
+    <td>Información sobre el procedimiento de uso de la aplicación web</td>
+    <td>Como Empresario pesquero o Empresa de transportes quiero visualizar el procedimiento que tendría que hacer para usar este servicio para así conocer el grado de satisfacción que tendre al momento de usar la aplicación web</td>
+    <td align="center">1</td>
+  </tr>
+    <tr>
+    <td align="center">22</td>
+    <td>E1-US07</td>
+    <td>Cambiar idiomas</td>
+    <td>Como Empresario pesquero o Empresa de transportes quiero cambiar el idioma de la página web de Inglés al Español para así poder comprender el contenido</td>
+    <td align="center">1</td>
+  </tr>
+</table>
