@@ -3,6 +3,14 @@
 Es vital para la estrategia y planificación de nuestro producto conocer a fondo el panorama competitivo. Por ello, en este apartado explicaremos quiénes son nuestros competidores y describiremos sus aspectos más relevantes.
 
   ### 2.1.1. Análisis Competitivo
+  En este apartado explicaremos quienes son nuestros competidores y su descripción principal. Como una buena estrategia y planeación de un producto, es importante saber a lo que nos vamos a enfrentar en el rubro.
+
+| EMPRESA | DESCRIPCIÓN | IMAGEN |
+|-|-|-|
+| Tralix | Esta plataforma conecta empresas que necesitan enviar carga con transportistas disponibles. Aunque no está enfocada en productos pesqueros, un emprendedor podría publicar su necesidad de transporte y empresas con vehículos refrigerados podrían ofertar. | ![Tralix Logo](assets/images/tralix.png) |
+| Cargamos  | Similar a Tralix, permite a empresas publicar sus envíos y recibir ofertas de transportistas. | ![Cargamos Logo](assets/images/cargamos.png) |
+| uShip   | Permite a individuos y empresas publicar artículos o cargas que necesitan ser transportadas y recibir ofertas de transportistas. | ![uShip Logo](assets/images/uship.png) |
+
   ### 2.1.2. Estrategias y tácticas frente a competidores
 ## 2.2. Entrevistas
   ### 2.2.1. Diseño de entrevistas
