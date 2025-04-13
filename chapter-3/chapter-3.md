@@ -3,8 +3,10 @@
 A continuación, se presenta el To-Be Scenario Mapping del segmento Empresa de transporte , donde se detalla cada fase del proceso, junto con sus acciones (Doing), pensamientos (Thinking) y emociones (Feeling) durante la interacción con la aplicación. Este mapeo permite visualizar de manera clara las necesidades y oportunidades de mejora para optimizar su experiencia.
 (Ver figura 3.1)
 
-![To-Be Scenario Mapping del Empresa de transporte](assets/To-Be%20Scenario%20Mapping%20-%20Transportistas.jpg)  
-*Figura 1: To-Be Scenario Mapping del Empresa de transporte.*
+<p align="center">
+  <img align="center" src="assets/To-Be%20Scenario%20Mapping%20-%20Transportistas.jpg" alt="To-Be Scenario Mapping del Empresa de transporte">
+</p>
+<p align="center"><em>Figura 3.1: To-Be Scenario Mapping del Empresa de transporte.</em></p>
 
 ### 3.2 User Stories
 <table>
