@@ -9,7 +9,7 @@ Utiliza la aplicación para recibir solicitudes de envío por parte de clientes,
 <p align="center">
   <img align="center" src="assets/To-Be%20Scenario%20Mapping%20-%20Transportistas.jpg" alt="To-Be Scenario Mapping del Empresa de transporte">
 </p>
-<p align="center"><em>Figura 3.1: To-Be Scenario Mapping del empresa de transporte.</em></p>
+<p align="center"><em>Figura 3.1: To-Be Scenario Mapping de la empresa de transporte.</em></p>
 
 **Segmento de empresario pesquero**
 
@@ -21,7 +21,7 @@ Busca empresas de transporte confiables para enviar sus paquetes de forma segura
 </p>
 <p align="center"><em>Figura 3.2: To-Be Scenario Mapping del empresario pesquero.</em></p>
 
-### 3.2 User Stories
+### 3.2. User Stories
 <table>
 <colgroup>
 <col style="width: 20%" />
