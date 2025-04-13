@@ -355,6 +355,20 @@ usuario en el sistema</p></td>
 </tbody>
 </table>
 
-### 3.3. Impact Mapping <!-- Impact Mapping.  -->
+### 3.3. Impact Mapping 
+
+**Segmento de empresa de transportes**
+El siguiente Impact Mapping muestra de manera clara cómo las empresas de transporte logran organizar sus procesos dentro de la aplicación, permitiendo definir precios, gestionar solicitudes y brindar confianza a sus clientes mediante la asignación de vehículos y conductores. Esta herramienta ayuda a visualizar las funcionalidades clave que permitirán a las empresas ofrecer un servicio seguro y eficiente.
+<br>(Ver figura 3.3.1)
+<p align="center">
+  <img align="center" src="assets/Impact map - Empresario transportista.png" alt="Impact Mapping del segmento de Empresa de Transportes"></p>
+<p align="center"><em>Figura 3.3.1: Impact Mapping del segmento de Empresa de Transportes.</em></p>
+
+**Segmento de empresario pesquero**
+A continuación, se presenta el Impact Mapping enfocado en los empresarios pesqueros, que buscan seleccionar de forma segura y rápida a empresas de transporte confiables para el envío de sus productos. Este mapeo permite identificar las funcionalidades necesarias para mejorar su experiencia en la búsqueda, selección y mayor manejo en el cuidado de sus paquetes.
+<br>(Ver figura 3.3.2)
+<p align="center">
+  <img align="center" src="assets/Impact map - empresario pesquero.png" alt="Impact Mapping del segmento de Empresario pesquero"></p>
+<p align="center"><em>Figura 3.3.2: Impact Mapping del segmento de Empresario pesquero.</em></p>
 
 ### 3.4. Product Backlog <!-- Product Backlog.  -->
