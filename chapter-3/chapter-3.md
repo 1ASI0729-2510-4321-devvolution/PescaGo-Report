@@ -1,12 +1,22 @@
 ## Capítulo III: Requirements Specification
 ### 3.1. To-Be Scenario Mapping 
-A continuación, se presenta el To-Be Scenario Mapping del segmento Empresa de transporte , donde se detalla cada fase del proceso, junto con sus acciones (Doing), pensamientos (Thinking) y emociones (Feeling) durante la interacción con la aplicación. Este mapeo permite visualizar de manera clara las necesidades y oportunidades de mejora para optimizar su experiencia.
+
+**Segmento de empresa de transportes**
+Utiliza la aplicación para recibir solicitudes de envío por parte de clientes, ofrecer cotizaciones personalizadas y gestionar los datos logísticos de cada servicio. Este perfil busca flexibilidad en la fijación de precios y claridad en la comunicación con el cliente para brindar un servicio eficiente y seguro. El siguiente mapeo describe las fases, pensamientos y emociones que atraviesa durante el uso de la plataforma..
 (Ver figura 3.1)
 
 <p align="center">
   <img align="center" src="assets/To-Be%20Scenario%20Mapping%20-%20Transportistas.jpg" alt="To-Be Scenario Mapping del Empresa de transporte">
 </p>
-<p align="center"><em>Figura 3.1: To-Be Scenario Mapping del Empresa de transporte.</em></p>
+<p align="center"><em>Figura 3.1: To-Be Scenario Mapping del empresa de transporte.</em></p>
+
+**Segmento de empresario pesquero**
+Busca empresas de transporte confiables para enviar sus paquetes de forma segura y eficiente. Este perfil valora poder comparar opciones, tener claridad en los precios y recibir información específica sobre el transporte asignado. El siguiente mapeo muestra las fases, pensamientos y emociones que experimenta al utilizar la aplicación para solicitar y coordinar un servicio de transporte. (Ver figura 3.2)
+
+<p align="center">
+  <img align="center" src="assets/To-Be Scenario Mapping - Pesquero.jpg" alt="To-Be Scenario Mapping del Empresario pesquero">
+</p>
+<p align="center"><em>Figura 3.2: To-Be Scenario Mapping del empresario pesquero.</em></p>
 
 ### 3.2 User Stories
 <table>
