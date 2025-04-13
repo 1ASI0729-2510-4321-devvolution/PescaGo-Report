@@ -170,7 +170,7 @@ aplicación web</p>
 den más detalles de la misma</p></td>
 <td style="text-align: left;">
 <p><strong>Escenario 1: Envío exitoso de solicitud de contacto.</strong></p>
-<p><strong>Dado que< /strong>el usuario ha llenado el formulario de contacto,</p>
+<p><strong>Dado que </strong>el usuario ha llenado el formulario de contacto,</p>
 <p><strong>Cuando </strong>complete todos los campos requeridos y presione el botón de enviar,</p>
 <p><strong>Entonces </strong>el sistema debe confirmar que la solicitud fue enviada correctamente.</p>
 <p><strong>Escenario 2: Validación de campos obligatorios en el formulario de contacto.</strong></p>
@@ -190,7 +190,7 @@ al Español</p>
 <p><strong>Para</strong> así poder comprender el contenido</p></td>
 <td style="text-align: left;">
 <p><strong>Escenario 1: Selección exitosa de idioma desde el menú.</strong></p>
-<p><strong>Dado que< /strong>el usuario visualiza la página en inglés,</p>
+<p><strong>Dado que </strong>el usuario visualiza la página en inglés,</p>
 <p><strong>Cuando </strong>seleccione la opción de idioma "Español" desde el menú de configuración o selector de idioma,</p>
 <p><strong>Entonces </strong>todo el contenido visible de la página debe actualizarse automáticamente en idioma español.</p>
 <p><strong>Escenario 2: Conservación de idioma en navegación.</strong></p>
