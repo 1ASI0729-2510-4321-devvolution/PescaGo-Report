@@ -29,7 +29,10 @@ En esta sección analizaremos nuestros competidores de manera profunda. Investig
 
   ### 2.1.2. Estrategias y tácticas frente a competidores
 
-
+|Estrategia|Tácticas|
+|-|-|
+|Diferenciación por nicho.| **Desarrollar funcionalidades específicas:** Implementar características diseñadas para las necesidades únicas del transporte de productos pesqueros, como campos detallados para especificar el tipo de pescado, estado (fresco, congelado), requisitos de manipulación (hielo, atmósfera controlada), y certificaciones sanitarias. <br> **Marketing de contenido especializado:** Crear guías, artículos de blog y webinars sobre las mejores prácticas en el transporte de productos pesqueros, regulaciones sanitarias, y la importancia de la cadena de frío. Esto te posicionará como un experto en el sector. <br> **Colaboraciones estratégicas:** Asociarte con asociaciones de pescadores, mercados mayoristas de pescado, y empresas de procesamiento de productos del mar para promocionar tu plataforma.|
+|Ofrecer una estructura de precios competitiva y flexible.|**Tarifas de comisión competitivas:** Establecer tarifas de comisión que sean atractivas para ambas partes, considerando las particularidades del transporte refrigerado. <br> **Descuentos por volumen o lealtad:** Ofrecer incentivos a los usuarios frecuentes para fomentar la lealtad a la plataforma. **Modelos de suscripción específicos:** Considerar modelos de suscripción con diferentes niveles de funcionalidades adaptados a las necesidades y volúmenes de envío de los emprendedores pesqueros (por ejemplo, basado en el número de envíos al mes o el volumen total).|
   
 ## 2.2. Entrevistas
   ### 2.2.1. Diseño de entrevistas
