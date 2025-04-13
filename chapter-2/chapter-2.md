@@ -2,18 +2,15 @@
 ## 2.1. Competidores
 Es vital para la estrategia y planificación de nuestro producto conocer a fondo el panorama competitivo. Por ello, en este apartado explicaremos quiénes son nuestros competidores y describiremos sus aspectos más relevantes.
 
-  ### 2.1.1. Análisis Competitivo
-  En este apartado explicaremos quienes son nuestros competidores y su descripción principal. Como una buena estrategia y planeación de un producto, es importante saber a lo que nos vamos a enfrentar en el rubro.
-
 | EMPRESA | DESCRIPCIÓN | IMAGEN |
 |-|-|-|
 | Tralix | Esta plataforma conecta empresas que necesitan enviar carga con transportistas disponibles. Aunque no está enfocada en productos pesqueros, un emprendedor podría publicar su necesidad de transporte y empresas con vehículos refrigerados podrían ofertar. | ![Tralix Logo](assets/images/tralix.png) |
 | Cargamos  | Similar a Tralix, permite a empresas publicar sus envíos y recibir ofertas de transportistas. | ![Cargamos Logo](assets/images/cargamos.png) |
 | uShip   | Permite a individuos y empresas publicar artículos o cargas que necesitan ser transportadas y recibir ofertas de transportistas. | ![uShip Logo](assets/images/uship.png) |
 
-  ### 2.1.2. Estrategias y tácticas frente a competidores
+  ### 2.1.1. Análisis Competitivo  
 
-  En esta sección analizaremos nuestros competidores de manera profunda. Investigaremos sobre sus fortalezas, debilidades, oportunidades, amenazas, el perfil la empresa y de la solución, lo que brindan. Así, podemos refinar nuestras características y saber que es lo que tenemos en nuestro producto que capte más la atención de nuestro mercado objetivo.
+En esta sección analizaremos nuestros competidores de manera profunda. Investigaremos sobre sus fortalezas, debilidades, oportunidades, amenazas, el perfil la empresa y de la solución, lo que brindan. Así, podemos refinar nuestras características y saber que es lo que tenemos en nuestro producto que capte más la atención de nuestro mercado objetivo.
 
 | | |Tralix|Cargamos|uShip|
 |-|-|-|-|-|
@@ -30,6 +27,10 @@ Es vital para la estrategia y planificación de nuestro producto conocer a fondo
 |**Análisis SWOT**|**Oportunidades**| Potencial sin explotar dentro de nichos especializados como el transporte de productos del mar.|Espacio para especializarse en tipos de carga o regiones específicas.|Enfoque limitado en nichos de transporte B2B especializados.|
 |**Análisis SWOT**|**Amenazas**| Cuota de mercado existente y reconocimiento de marca en el espacio general de transporte de carga.|Competencia de plataformas más grandes y establecidas.|Gran base de usuarios y plataforma establecida para necesidades generales de envío.|
 
+  ### 2.1.2. Estrategias y tácticas frente a competidores
+
+
+  
 ## 2.2. Entrevistas
   ### 2.2.1. Diseño de entrevistas
   ### 2.2.2. Registro de entrevistas
