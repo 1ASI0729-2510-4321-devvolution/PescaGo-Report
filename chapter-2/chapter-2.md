@@ -104,6 +104,32 @@ En esta sección analizaremos nuestros competidores de manera profunda. Investig
   ![Juan Torres Persona](assets/persona_JuanTorres.png)
 
   ### 2.3.2. User Task Matrix
+  En esta sección se presenta el User Task Matrix, una herramienta clave centrada en los segmentos objetivos que permite identificar las tareas y objetivos principales de los usuarios. Esta matriz facilita la priorización de características y funcionalidades al momento de elaborar el product backlog.
+
+  User Task Matrix: Antonio (Transportista)
+  
+  | User Task | Frequency | Importance| 
+  |-|-|-|
+  |Iniciar sesión en la aplicación|Diaria|alta| 
+  |Verificar nuevas ofertas de carga|Diaria | alta|
+  |Ver detalles de una oferta de carga|Diaria|alta |
+  |Aceptar o rechazar una oferta de carga|Diaria | alta|
+  |Evaluar y calificar a los remitentes|Variable |media |
+  |Ver su historial de viajes/ganancias| | media|
+
+  User Task Matrix: Juan Torres (Empresario Pesquero)
+
+  | User Task | Frequency | Importance| 
+  |-|-|-|
+  |Iniciar sesión en la aplicación|Diaria|alta| 
+  |Publicar una nueva necesidad de envío (crear solicitud de carga)|Diaria|alta| 
+  |Especificar detalles del envío (tipo de pescado, volumen, destino, requisitos de temperatura, etc.)|Diaria|alta| 
+  |Filtrar y buscar transportistas por experiencia, tipo de vehículo, calificaciones, etc.|Diaria|media| 
+  |Ver el perfil y la información de un transportista|Diaria|media| 
+  |Seleccionar y aceptar una oferta de transporteDiaria|alta| 
+  |Ver su historial de envíos y pagos|media| 
+  |Evaluar y calificar a los transportistas|media| 
+
   ### 2.3.3. User Journey Mapping
   ### 2.3.4. Empathy Mapping
   ### 2.3.5. As-is Scenario Mapping
