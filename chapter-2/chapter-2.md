@@ -131,6 +131,15 @@ En esta sección analizaremos nuestros competidores de manera profunda. Investig
   |Evaluar y calificar a los transportistas|media| 
 
   ### 2.3.3. User Journey Mapping
+
+  User Journey Mapping 1 : Transportista
+
+  ![Transportista JourneyMap](assets/journeymap_transportista.png)
+
+  User Journey Mapping 2 : Empresario Pesquero
+
+  ![Empresario Pesquero JourneyMap](assets/journeymap_pesquero.png)
+
   ### 2.3.4. Empathy Mapping
   ### 2.3.5. As-is Scenario Mapping
 ## 2.4. Ubiquitous Language 
