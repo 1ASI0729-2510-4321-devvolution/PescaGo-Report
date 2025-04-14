@@ -132,14 +132,23 @@ En esta sección analizaremos nuestros competidores de manera profunda. Investig
 
   ### 2.3.3. User Journey Mapping
 
-  User Journey Mapping 1 : Transportista
+  User Journey Map 1 : Transportista
 
   ![Transportista JourneyMap](assets/journeymap_transportista.png)
 
-  User Journey Mapping 2 : Empresario Pesquero
+  User Journey Map 2 : Empresario Pesquero
 
   ![Empresario Pesquero JourneyMap](assets/journeymap_pesquero.png)
 
   ### 2.3.4. Empathy Mapping
+
+  Empathy Map 1 : Transportista
+
+  ![Transportista EmpathyMap](assets/empathymap_transportista.png)  
+
+  Empathy Map 2 : Empresario Pesquero
+
+  ![Empresario Pesquero EmpathyMap](assets/empathymap_pesquero.png)  
+  
   ### 2.3.5. As-is Scenario Mapping
 ## 2.4. Ubiquitous Language 
