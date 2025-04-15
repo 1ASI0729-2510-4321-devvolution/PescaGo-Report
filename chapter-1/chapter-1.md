@@ -70,10 +70,16 @@ Se estima que múltiples entregas diarias presentan incidencias, especialmente e
 
 #### 1.2.2.1. Lean UX Problem Statements
 
-#### 1.2.2.2. Lean UX Problem Statements
+**Problem Statement:**
 
-#### 1.2.2.3. Lean UX Problem Statements
+Los empresarios peruanos del sector pesquero enfretan pérdidas del 30% en su mercadería debido a la falta de acceso a transportistas especializados en cadena de frío, lo que impacta su rentabilidad y la confianza del consumidor. Actualmente, no existe un sistema que conecte a estos actores con garantías de calidad y monitoreo tiempo real. PescaGo busca resolver esta brecha mediante una plataforma digital que certifique transportistas y genere transperencia en el proceso, asegurando productos frescos y reduciendo pérdida económicas.
 
-#### 1.2.2.4. Lean UX Problem Statements
+#### 1.2.2.2. Lean UX Assumptions
+
+
+
+#### 1.2.2.3. Lean UX Hypothesis Statements
+
+#### 1.2.2.4. Lean UX Canvas
 
 ## 1.3. Segmentos objetivo
