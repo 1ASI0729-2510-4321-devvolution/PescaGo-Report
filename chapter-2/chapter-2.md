@@ -115,7 +115,7 @@ En esta sección analizaremos nuestros competidores de manera profunda. Investig
   |Ver detalles de una oferta de carga|Diaria|alta |
   |Aceptar o rechazar una oferta de carga|Diaria | alta|
   |Evaluar y calificar a los remitentes|Variable |media |
-  |Ver su historial de viajes/ganancias| | media|
+  |Ver su historial de viajes/ganancias|Variable | media|
 
   User Task Matrix: Juan Torres (Empresario Pesquero)
 
@@ -126,9 +126,9 @@ En esta sección analizaremos nuestros competidores de manera profunda. Investig
   |Especificar detalles del envío (tipo de pescado, volumen, destino, requisitos de temperatura, etc.)|Diaria|alta| 
   |Filtrar y buscar transportistas por experiencia, tipo de vehículo, calificaciones, etc.|Diaria|media| 
   |Ver el perfil y la información de un transportista|Diaria|media| 
-  |Seleccionar y aceptar una oferta de transporteDiaria|alta| 
-  |Ver su historial de envíos y pagos|media| 
-  |Evaluar y calificar a los transportistas|media| 
+  |Seleccionar y aceptar una oferta de transporte |Diaria|alta| 
+  |Ver su historial de envíos y pagos|Diaria|media| 
+  |Evaluar y calificar a los transportistas|Diaria|media| 
 
   ### 2.3.3. User Journey Mapping
 
@@ -151,4 +151,48 @@ En esta sección analizaremos nuestros competidores de manera profunda. Investig
   ![Empresario Pesquero EmpathyMap](assets/empathymap_pesquero.png)  
   
   ### 2.3.5. As-is Scenario Mapping
-## 2.4. Ubiquitous Language 
+
+  As-is Scenario Map 1 : Transportista
+
+  ![Transportista As-is Scenario Map](assets/asismap_transportista.jpg)  
+  
+  As-is Scenario Map 2 : Empresario Pesquero
+
+  ![Empresario Pesquero As-is Scenario Map](assets/asismap_pesquero.jpg)  
+
+## 2.4. Ubiquitous Language
+
+**Transportista :**
+
+Definición: Es un usuario registrado en la aplicación con el rol de Transportista. Ofrece servicios de transporte de carga y puede gestionar las cargas aceptadas y completadas a través de la plataforma. El transportista indica la información de su vehículo, su disponibilidad, y puede aceptar o rechazar ofertas de envío. Recibe pagos a través de la aplicación y puede calificar a los Remitentes.
+Sinónimos: Conductor, Camionero, Transportista de carga.
+
+**Remitente :**
+
+Definición: Es un usuario registrado en la aplicación con el rol de Remitente (en nuestro caso, un empresario pesquero). Publica necesidades de envío de productos pesqueros, especificando detalles como tipo de carga, volumen, destino y requisitos (ej. temperatura). Puede revisar ofertas de transportistas, seleccionar uno y realizar el pago a través de la aplicación. También puede calificar a los Transportistas.
+Sinónimos: Cargador, Cliente (del transporte), Emisor (de la carga).
+
+**Envío (Carga):**
+
+Definición: Es una solicitud de transporte de mercancías publicada por un Remitente. Contiene detalles sobre la carga, el origen, el destino, los requisitos especiales (ej. refrigeración), el precio ofrecido (opcional) y los plazos. Es visible para los Transportistas que cumplan con los criterios.
+Sinónimos: Oferta de carga, Solicitud de transporte, Trabajo (para el transportista).
+
+**Oferta (de Transporte):**
+
+Definición: Es la propuesta de un Transportista en respuesta a un Envío publicado por un Remitente. Incluye el precio que el transportista cobra por realizar el servicio y puede contener información adicional como tiempo estimado de entrega.
+Sinónimos: Puja, Propuesta de precio, Cotización (del transportista).
+
+**Viaje (Transporte):**
+
+Definición: Es el servicio de transporte de una carga desde el origen hasta el destino, una vez que un Transportista ha aceptado la oferta de un Remitente. Incluye el estado del transporte (en curso, completado).
+Sinónimos: Servicio de transporte, Ruta, Traslado.
+
+**Estado del Envío:**
+
+Definición: Es la información actualizada sobre la situación actual de un Viaje, incluyendo si la carga ha sido recogida, está en tránsito o ha sido entregada. El Transportista actualiza esta información a través de la aplicación.
+Sinónimos: Seguimiento, Status del viaje.
+
+**Calificación (Reseña):**
+
+Definición: Es la evaluación y comentario que un usuario (Transportista o Remitente) realiza sobre la experiencia con la otra parte una vez completado el Viaje. Las calificaciones contribuyen a la reputación de los usuarios dentro de la plataforma.
+Sinónimos: Puntuación, Valoración, Feedback.
