@@ -15,6 +15,7 @@ Como respuesta, presentamos PescaGo, una plataforma que busca facilitar la comun
 | Nombres y Apellidos |  Código  | Carrera | Conocimientos técnicos/ Habilidades | Foto |
 |----------|------------|----------|------------|------|
 | Alexandra Belen Ramos Argüelles | U202215164 | Ingeniería de Software | **Frontend:** Angular, Vue y Flutter.<br>**Backend:** Desarrollo de APIs REST con Spring Boot y .NET. <br>**Conocimientos adicionales:** C++, C# Python, gestión de bases de datos.|<img src="../img/alexandra_ramos.png" widht="350" height="160">|
+| Ian Macavilca Quispe | U202121325 | Ingeniería de Software | **Frontend:** Angular, Vue, React y Flutter.<br>**Backend:** Desarrollo de APIs REST con Spring Boot y .NET. <br>**Conocimientos adicionales:** C++, Python, gestión de bases de datos.|<img src="../img/ian_macavilca.png" widht="350" height="160">|
 ||||||
 
 </div>
