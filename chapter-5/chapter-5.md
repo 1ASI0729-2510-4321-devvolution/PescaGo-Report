@@ -49,6 +49,19 @@ En esta sección describimos los productos de software que hemos usado en el pro
     - Frontend: https://github.com/1ASI0729-2510-4321-devvolution/PescaGo-Frontend
     - Backend: https://github.com/1ASI0729-2510-4321-devvolution/PescaGo-Backend
 
+  Gitflow Decidimos utilizar este modelo de trabajo ya que permite mantener el codigo ordenado al dividirlo en ramas, de tal forma que nos facilita trabajar colaborativamente. Las ramas que se utilizaron son:
+
+  - Main: En esta rama se encuentra el código que se encuentra en producción.
+  - Develop: En esta rama se encuentra el código que se encuentra en desarrollo.
+  - Feature: En esta rama se encuentran las nuevas funcionalidades que se están desarrollando.
+
+  Conventional commits Se utilizó el estándar de commits convencionales para mantener un historial de cambios limpio y ordenado. Los commits se dividen en los siguientes tipos:
+
+  - feat: Se utiliza para nuevas funcionalidades.
+  - fix: Se utiliza para corrección de errores.
+  - chore: Se utiliza para cambios en el código que no afectan la funcionalidad.
+  - refactor: Se utiliza para cambios en el código que no afectan la funcionalidad.
+
   #### 5.1.3. Source Code Style Guide & Conventions
   #### 5.1.4. Software Deployment Configuration
 ### 5.2. Landing Page, Services & Applications Implementation
