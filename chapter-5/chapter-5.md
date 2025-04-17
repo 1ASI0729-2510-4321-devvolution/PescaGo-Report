@@ -38,6 +38,17 @@ En esta sección describimos los productos de software que hemos usado en el pro
     - Github Pages: Plataforma para desplegar la landing page
 
   #### 5.1.2. Source Code Management
+
+  Utilizamos Github como plataforma, así como un sistema de control de versiones.
+  
+  Para ello se creó una organización para el proyecto del equipo. En esta organización, se crearon 4 repositorios, los cuales corresponden al informe del proyecto, la landing page, el frontend y el backend.
+  
+  - Organización del proyecto: https://github.com/1ASI0729-2510-4321-devvolution
+    - Informe: https://github.com/1ASI0729-2510-4321-devvolution/PescaGo-Report
+    - Landing page: https://github.com/1ASI0729-2510-4321-devvolution/PescaGo-LandingPage
+    - Frontend: https://github.com/1ASI0729-2510-4321-devvolution/PescaGo-Frontend
+    - Backend: https://github.com/1ASI0729-2510-4321-devvolution/PescaGo-Backend
+
   #### 5.1.3. Source Code Style Guide & Conventions
   #### 5.1.4. Software Deployment Configuration
 ### 5.2. Landing Page, Services & Applications Implementation
