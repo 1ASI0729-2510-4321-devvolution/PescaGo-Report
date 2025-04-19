@@ -64,3 +64,6 @@ Se eligieron tonos de azul, combinando matices claros y oscuros, porque el azul 
 
 #### 4.1.2. Web Style Guidelines
 
+En el diseño web de PescaGo se ha adoptado una línea visual limpia y moderna que transmite confianza y cercanía, valores esenciales en el sector pesquero y logístico. La paleta de colores utiliza tonos azules, que evocan el mar y generan tranquilidad, combinando variantes claras y oscuras para lograr contraste y guiar la atención del usuario. Se ha seleccionado la tipografía Inria Sans por su estilo versátil y legible, usando pesos bold, regular y light para diferenciar jerarquías de información, facilitando la comprensión del contenido. Los botones y formularios mantienen un estilo uniforme y simple, ayudando al usuario a completar sus tareas sin distracciones. Esta combinación de elementos visuales busca ofrecer una experiencia profesional, clara y accesible, adecuada tanto para empresarios pesqueros como para empresas de transporte.
+
+### 4.2. Information Architecture
