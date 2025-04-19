@@ -182,3 +182,27 @@ A continuación se mostrará todos los bocetos con las funcionalidades que reali
 
 
 **Enlace del Figma :** [Ver en Figma](https://www.figma.com/design/6G4202Wv0UNJR3e3yA9GHs/Untitled?node-id=26-379&m=dev&t=4WCujskndBN3NXUK-1)
+
+#### 4.4.4. Web Applications User Flow Diagrams
+
+*- User goal:*<br>
+*Como Empresario pesquero o Empresa de transportes quiero registrarme a la aplicación web Para identificar qué tipo de usuario soy.*<br><br>
+En el dashboard de PescaGo, ambos tipos de usuarios ingresarán a la aplicación web a través de la landing page. Una vez dentro de la página de inicio,
+ deberán registrarse para poder utilizar la plataforma. Para ello, deben hacer clic en la opción “¿Deseas registrarte?”.
+
+A continuación, se les presentarán dos opciones: Empresa Transportista o Empresario Pesquero.
+
+Si selecciona Empresa Transportista, deberá completar un formulario con los siguientes datos: nombre de la empresa, una breve descripción, 
+correo electrónico y contraseña. Luego, deberá hacer clic en “Registrarse” para finalizar el proceso.
+
+Si selecciona Empresario Pesquero, deberá llenar el formulario correspondiente con: nombre del empresario, correo electrónico y contraseña. 
+Finalmente, deberá hacer clic en “Registrarse” para completar su registro.
+
+Si ya cuentan con un usuaio en PescaGo, pueden entrar de manera directa a la aplicación web.
+
+Para una mejor comprensión del flujo, puede consultar el diagrama ilustrativo. (Ver figura 4.17)
+
+
+<p align="center">
+  <img align="center" src="assets/Use flow diagrams-inicio.jpeg"></p>
+<p align="center"><em>Figura 4.17: Web Applications User Flow Diagrams del inicio de sesión.</em></p>
