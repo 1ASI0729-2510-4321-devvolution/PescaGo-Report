@@ -152,3 +152,33 @@ A continuación se mostrará todos los bocetos con las funcionalidades que reali
 
 
 **Enlace del Figma :** [Ver en Figma](https://www.figma.com/design/6G4202Wv0UNJR3e3yA9GHs/Untitled?node-id=26-378&m=dev&t=wIVDlU15xFdh7fHu-1)
+
+
+#### 4.4.3. Web Applications Mock-ups
+
+**Inicio de sesión**
+
+Se muestra a continuación los mock-ups de inicio de sesión que es para ambos segmentos. (Ver figura 4.14)
+
+<p align="center">
+  <img align="center" src="assets/mock ups - ambos usuarios.png"></p>
+<p align="center"><em>Figura 4.14: Web Applications del inicio de sesión.</em></p>
+
+**Mock-ups de la empresa transportista**
+
+A continuación se mostrará todos los bocetos con las funcionalidades que realizara la empresa transportista en la plataforma. Como por ejemplo su registro, solicitudes para cotizar y sus servicios confirmados. (Ver figuras 4.15)
+
+<p align="center">
+  <img align="center" src="assets/mock ups - transportista.png"></p>
+<p align="center"><em>Figura 4.15: Web Applications Mock-ups de la empresa transportista.</em></p>
+
+**Mock-ups del empresario pesquero**
+
+A continuación se mostrará todos los bocetos con las funcionalidades que realizara el empresario pesquero en la plataforma. Como por ejemplo su registro, Búsqueda de empresas transportistas, Estado de Solicitudes y sus Servicios Contratados. (Ver figuras 4.16)
+
+<p align="center">
+  <img align="center" src="assets/mock ups - pesquero.png"></p>
+<p align="center"><em>Figura 4.16: Web Applications Mock-ups del empresario pesquero.</em></p>
+
+
+**Enlace del Figma :** [Ver en Figma](https://www.figma.com/design/6G4202Wv0UNJR3e3yA9GHs/Untitled?node-id=26-379&m=dev&t=4WCujskndBN3NXUK-1)
