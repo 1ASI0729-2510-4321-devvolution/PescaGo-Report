@@ -206,3 +206,26 @@ Para una mejor comprensión del flujo, puede consultar el diagrama ilustrativo. 
 <p align="center">
   <img align="center" src="assets/Use flow diagrams-inicio.jpeg"></p>
 <p align="center"><em>Figura 4.17: Web Applications User Flow Diagrams del inicio de sesión.</em></p>
+
+*- User goal:*<br>
+*Como Empresa de transportes quiero poder comprender e interactuar con el servicio que la aplicación web me está proporcionando Para así poder generar las solicitudes de una manera clara y correcta sin temor a equivocación.*<br><br>
+La página de inicio para el usuario Empresa Transportista cuenta con dos funcionalidades principales:
+
+*1. Solicitudes para Cotizar*<br>
+En este apartado, podrá visualizar todas las solicitudes enviadas por los Empresarios Pesqueros que requieren sus servicios para transportar paquetes.
+Si desea revisar los detalles de un paquete antes de tomar una decisión (aceptar o rechazar la solicitud), deberá hacer clic sobre el ícono del paquete. Al hacerlo, se abrirá una ventana flotante que mostrará información detallada, como el tamaño, la cantidad y el peso, entre otros datos relevantes.
+
+En caso de no estar interesado en alguna solicitud, podrá seleccionarla y cancelarla, indicando de este modo que no aceptará realizar ese servicio.También se puede aplicar si desea cancelar una gran cantidad de solicitudes.
+Por otro lado, si decide aceptar una solicitud y desea enviar una propuesta económica, deberá hacer clic en el botón "Cotizar", donde podrá ingresar el precio total por el servicio solicitado.
+Una vez completada la cotización, la solicitud aparecerá marcada con un check en el apartado "Cotizar", indicando que la propuesta ha sido enviada correctamente.
+
+*2. Servicio Confirmado*<br>
+En esta sección, se mostrarán todas las solicitudes que ya han sido confirmadas y pagadas por los clientes.
+Dentro de cada solicitud, encontrará la opción "Información de Envío", donde deberá completar un formulario con los datos del vehículo y del conductor que realizará la entrega. Es importante llenar esta información lo antes posible para brindar confianza y seguridad al cliente sobre quién será responsable del traslado.
+Una vez completado el formulario, deberá hacer clic en "Enviar". Cuando la información haya sido enviada correctamente, la solicitud mostrará un check en el apartado "Información de Envío", indicando que el proceso se ha completado.
+
+Para una mejor comprensión del flujo, puede consultar el diagrama ilustrativo. (Ver figura 4.18)
+
+<p align="center">
+  <img align="center" src="assets/Use flow diagrams-transportista.jpeg"></p>
+<p align="center"><em>Figura 4.18: Web Applications User Flow Diagrams de la empresa transportista.</em></p>
