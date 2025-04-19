@@ -118,3 +118,4 @@ A continuación se mostrará todos los bocetos con las funcionalidades que reali
   <img align="center" src="assets/funcionalidades del pesquero - boceto.png"></p>
 <p align="center"><em>Figura 4.11: Capturas de los bocetos con las funcionalidades del empresario pesquero.</em></p>
 
+**Enlace del Figma :** [Ver en Figma](https://www.figma.com/design/6G4202Wv0UNJR3e3yA9GHs/Untitled?node-id=0-1&m=dev&t=BFmISqrzhbX9KP8d-1)
