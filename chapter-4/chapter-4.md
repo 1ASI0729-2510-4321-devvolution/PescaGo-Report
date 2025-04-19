@@ -118,4 +118,37 @@ A continuación se mostrará todos los bocetos con las funcionalidades que reali
   <img align="center" src="assets/funcionalidades del pesquero - boceto.png"></p>
 <p align="center"><em>Figura 4.11: Capturas de los bocetos con las funcionalidades del empresario pesquero.</em></p>
 
-**Enlace del Figma :** [Ver en Figma](https://www.figma.com/design/6G4202Wv0UNJR3e3yA9GHs/Untitled?node-id=0-1&m=dev&t=BFmISqrzhbX9KP8d-1)
+**Enlace del Figma :** [Ver en Figma](https://www.figma.com/design/6G4202Wv0UNJR3e3yA9GHs/Untitled?node-id=0-1&m=dev&t=4WCujskndBN3NXUK-1)
+
+
+#### 4.4.2. Web Applications Wireflow Diagrams
+
+**user goal:**<br>
+**Como** Empresario pesquero o Empresa de transportes 
+**quiero** registrarme a la aplicación web
+**Para** identificar qué tipo de usuario soy. (Ver figura 4.12)
+
+<p align="center">
+  <img align="center" src="assets/diagrams - inicio.png"></p>
+<p align="center"><em>Figura 4.12: Wireflow Diagrams del ingreso a PescaGo.</em></p>
+
+**user goal:**<br>
+**Como** Empresa de transportes 
+**quiero** poder comprender e interactuar con el servicio que la aplicación web me está proporcionando
+**Para** así poder generar las solicitudes de una manera clara y correcta sin temor a equivocación. (Ver figura 4.14)
+
+<p align="center">
+  <img align="center" src="assets/diagrams - transportista.png"></p>
+<p align="center"><em>Figura 4.14: Wireflow Diagrams de la empresa transportista.</em></p>
+
+**user goal:**<br>
+**Como** Empresario pesquero 
+**quiero** poder comprender e interactuar con el servicio que la aplicación web me está proporcionando
+**Para** así poder generar mis solicitudes de una manera clara y correcta sin temor a equivocación. (Ver figura 4.13)
+
+<p align="center">
+  <img align="center" src="assets/diagrams - pesquero.png"></p>
+<p align="center"><em>Figura 4.13: Wireflow Diagrams del empresario pesquero.</em></p>
+
+
+**Enlace del Figma :** [Ver en Figma](https://www.figma.com/design/6G4202Wv0UNJR3e3yA9GHs/Untitled?node-id=26-378&m=dev&t=wIVDlU15xFdh7fHu-1)
