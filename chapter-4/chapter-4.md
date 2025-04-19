@@ -69,12 +69,17 @@ En el diseño web de PescaGo se ha adoptado una línea visual limpia y moderna q
 ### 4.2. Information Architecture
 
 
-### 4.4. Web Applications UX/UI Design
 
+
+
+
+
+### 4.4. Web Applications UX/UI Design
 
 #### 4.4.1. Web Applications Wireframes
 
 **Inicio de sesión**
+
 Se muestra a continuación la Wireframe de inicio de sesión que es para ambos segmentos, para hacer mas accesible el ingreso solo se pidio correo y contraseña. (Ver figura 4.7)
 
 <p align="center">
@@ -82,6 +87,7 @@ Se muestra a continuación la Wireframe de inicio de sesión que es para ambos s
 <p align="center"><em>Figura 4.7: Captura del boceto de inicio de sesión.</em></p>
 
 **Registro de la empresa transportista**
+
 Para registrarse le pedira los datos basicos para que asi sea mas factible mostrar esa informacion al segmento de empresa pesquera. (Ver figura 4.8)
 
 <p align="center">
@@ -89,6 +95,7 @@ Para registrarse le pedira los datos basicos para que asi sea mas factible mostr
 <p align="center"><em>Figura 4.8: Captura del boceto del registro de la empresa transportista.</em></p>
 
 **Registro del empresario pesquero**
+
 Para registrase lo mas rapido posible y hacer uno de la plataforma , solo se le pide el nombre, correo y contraseña. (Ver figura 4.9)
 
 <p align="center">
@@ -96,6 +103,7 @@ Para registrase lo mas rapido posible y hacer uno de la plataforma , solo se le 
 <p align="center"><em>Figura 4.9: Captura del boceto del registro de empresario pesquero.</em></p>
 
 **Funcionalidades de la empresa transportista**
+
 A continuación se mostrará todos los bocetos con las funcionalidades que realizara la empresa transportista en la plataforma. Como por ejemplo, solicitudes para cotizar y sus servicios confirmados. (Ver figuras 4.10)
 
 <p align="center">
@@ -103,6 +111,7 @@ A continuación se mostrará todos los bocetos con las funcionalidades que reali
 <p align="center"><em>Figura 4.10: Capturas de los bocetos con las funcionalidades de la empresa transportista.</em></p>
 
 **Funcionalidades del empresario pesquero**
+
 A continuación se mostrará todos los bocetos con las funcionalidades que realizara el empresario pesquero en la plataforma. Como por ejemplo, Búsqueda de empresas transportistas, Estado de Solicitudes y sus Servicios Contratados. (Ver figuras 4.11)
 
 <p align="center">
