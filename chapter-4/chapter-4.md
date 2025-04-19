@@ -229,3 +229,37 @@ Para una mejor comprensión del flujo, puede consultar el diagrama ilustrativo. 
 <p align="center">
   <img align="center" src="assets/Use flow diagrams-transportista.jpeg"></p>
 <p align="center"><em>Figura 4.18: Web Applications User Flow Diagrams de la empresa transportista.</em></p>
+
+*- User goal:*<br>
+*Como Empresario pesquero quiero poder comprender e interactuar con el servicio que la aplicación web me está proporcionando Para así poder generar mis solicitudes de una manera clara y correcta sin temor a equivocación.*<br><br>
+La página de inicio para el usuario Empresa Transportista cuenta con tres funcionalidades principales:
+
+*1. Búsqueda de Empresas*<br>
+En esta sección, se podrán visualizar todas las empresas transportistas registradas en PescaGo. El usuario tendrá acceso a un apartado de filtros que permite buscar empresas por distrito, facilitando así la selección sin necesidad de revisar cada empresa manualmente.
+Además, se mostrará una breve descripción de cada empresa para que el usuario pueda tomar una decisión informada. Una vez seleccionadas las empresas que considera adecuadas para enviar su paquete, deberá hacer clic en "Enviar solicitud" y completar un formulario con los datos específicos del paquete, tales como: dimensiones, peso, cantidad, entre otros. Al finalizar, deberá hacer clic en "Enviar" y la solicitud será enviada a todas las empresas seleccionadas.
+
+*2. Estado de Solicitudes*<br>
+Esta sección permite al usuario visualizar el estado actual de sus solicitudes. Los estados posibles son:
+
+- Pendiente: la empresa aún no ha revisado la solicitud.
+
+- Rechazada: la empresa ha decidido no aceptar el servicio.
+
+- Aceptada: la empresa ha aprobado la solicitud y ha definido un precio, el cual se mostrará en la columna "Precio" de la tabla.
+
+Si el usuario no está conforme con las ofertas recibidas, podrá seleccionar aquellas propuestas que no le interesan y hacer clic en "Cancelar" para descartarlas.
+Si, por el contrario, desea aceptar una de las ofertas, solo deberá seleccionar la empresa que le resulte conveniente y proceder con el pago correspondiente. Para ello, deberá hacer clic en la opción "Pagar" dentro de la tabla. Una vez elegida esta opción, podrá seleccionar entre los diferentes métodos de pago disponibles y completar el formulario con la información solicitada. Una vez finalizado este proceso, la contratación quedará registrada.
+
+*3. Servicios Contratados*<br>
+En esta sección, el usuario podrá visualizar todos los servicios de transporte que ya han sido pagados. Aquí encontrará información relevante sobre la empresa contratada, los detalles del paquete y un apartado adicional con los datos del vehículo y del conductor asignado.
+Si este último campo aparece como Pendiente, significa que la empresa aún está completando la información, la cual será actualizada y enviada al usuario a la brevedad posible.
+
+Para una mejor comprensión del flujo, puede consultar el diagrama ilustrativo. (Ver figura 4.19).
+
+
+<p align="center">
+  <img align="center" src="assets/Use flow diagrams-pesquero.jpeg"></p>
+<p align="center"><em>Figura 4.19: Web Applications User Flow Diagrams del empresario pesquero.</em></p>
+
+
+*Enlace del Miro :* [Ver en Miro](https://miro.com/welcomeonboard/TFg1SVlscDQwdGlNWHZhNkpSeUE5aWhnRm51ZURXc2YvNjRrTlBsS3BwVHdnbE05SFFVSFpwMCtSKzZ0MHUwUk44VU1kYXVaL0pLbDBwaVNnTzVvRnZ5RXlDZ2dXMHg4ZmEzS0plNWNZZDMzUEk3YzYrSG4rb3djRVJhL2I2dGxnbHpza3F6REdEcmNpNEFOMmJXWXBBPT0hdjE=?share_link_id=756884883545)
