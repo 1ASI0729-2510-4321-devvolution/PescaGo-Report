@@ -185,8 +185,8 @@ A continuación se mostrará todos los bocetos con las funcionalidades que reali
 
 #### 4.4.4. Web Applications User Flow Diagrams
 
-*- User goal:*<br>
-*Como Empresario pesquero o Empresa de transportes quiero registrarme a la aplicación web Para identificar qué tipo de usuario soy.*<br><br>
+**- User goal:**<br>
+**Como Empresario pesquero o Empresa de transportes quiero registrarme a la aplicación web Para identificar qué tipo de usuario soy.**<br><br>
 En el dashboard de PescaGo, ambos tipos de usuarios ingresarán a la aplicación web a través de la landing page. Una vez dentro de la página de inicio,
  deberán registrarse para poder utilizar la plataforma. Para ello, deben hacer clic en la opción “¿Deseas registrarte?”.
 
@@ -207,11 +207,11 @@ Para una mejor comprensión del flujo, puede consultar el diagrama ilustrativo. 
   <img align="center" src="assets/Use flow diagrams-inicio.jpeg"></p>
 <p align="center"><em>Figura 4.17: Web Applications User Flow Diagrams del inicio de sesión.</em></p>
 
-*- User goal:*<br>
-*Como Empresa de transportes quiero poder comprender e interactuar con el servicio que la aplicación web me está proporcionando Para así poder generar las solicitudes de una manera clara y correcta sin temor a equivocación.*<br><br>
+**- User goal:**<br>
+**Como Empresa de transportes quiero poder comprender e interactuar con el servicio que la aplicación web me está proporcionando Para así poder generar las solicitudes de una manera clara y correcta sin temor a equivocación.**<br><br>
 La página de inicio para el usuario Empresa Transportista cuenta con dos funcionalidades principales:
 
-*1. Solicitudes para Cotizar*<br>
+**1. Solicitudes para Cotizar**<br>
 En este apartado, podrá visualizar todas las solicitudes enviadas por los Empresarios Pesqueros que requieren sus servicios para transportar paquetes.
 Si desea revisar los detalles de un paquete antes de tomar una decisión (aceptar o rechazar la solicitud), deberá hacer clic sobre el ícono del paquete. Al hacerlo, se abrirá una ventana flotante que mostrará información detallada, como el tamaño, la cantidad y el peso, entre otros datos relevantes.
 
@@ -219,7 +219,7 @@ En caso de no estar interesado en alguna solicitud, podrá seleccionarla y cance
 Por otro lado, si decide aceptar una solicitud y desea enviar una propuesta económica, deberá hacer clic en el botón "Cotizar", donde podrá ingresar el precio total por el servicio solicitado.
 Una vez completada la cotización, la solicitud aparecerá marcada con un check en el apartado "Cotizar", indicando que la propuesta ha sido enviada correctamente.
 
-*2. Servicio Confirmado*<br>
+**2. Servicio Confirmado**<br>
 En esta sección, se mostrarán todas las solicitudes que ya han sido confirmadas y pagadas por los clientes.
 Dentro de cada solicitud, encontrará la opción "Información de Envío", donde deberá completar un formulario con los datos del vehículo y del conductor que realizará la entrega. Es importante llenar esta información lo antes posible para brindar confianza y seguridad al cliente sobre quién será responsable del traslado.
 Una vez completado el formulario, deberá hacer clic en "Enviar". Cuando la información haya sido enviada correctamente, la solicitud mostrará un check en el apartado "Información de Envío", indicando que el proceso se ha completado.
@@ -230,15 +230,15 @@ Para una mejor comprensión del flujo, puede consultar el diagrama ilustrativo. 
   <img align="center" src="assets/Use flow diagrams-transportista.jpeg"></p>
 <p align="center"><em>Figura 4.18: Web Applications User Flow Diagrams de la empresa transportista.</em></p>
 
-*- User goal:*<br>
-*Como Empresario pesquero quiero poder comprender e interactuar con el servicio que la aplicación web me está proporcionando Para así poder generar mis solicitudes de una manera clara y correcta sin temor a equivocación.*<br><br>
+**- User goal:**<br>
+**Como Empresario pesquero quiero poder comprender e interactuar con el servicio que la aplicación web me está proporcionando Para así poder generar mis solicitudes de una manera clara y correcta sin temor a equivocación.**<br><br>
 La página de inicio para el usuario Empresa Transportista cuenta con tres funcionalidades principales:
 
-*1. Búsqueda de Empresas*<br>
+**1. Búsqueda de Empresas**<br>
 En esta sección, se podrán visualizar todas las empresas transportistas registradas en PescaGo. El usuario tendrá acceso a un apartado de filtros que permite buscar empresas por distrito, facilitando así la selección sin necesidad de revisar cada empresa manualmente.
 Además, se mostrará una breve descripción de cada empresa para que el usuario pueda tomar una decisión informada. Una vez seleccionadas las empresas que considera adecuadas para enviar su paquete, deberá hacer clic en "Enviar solicitud" y completar un formulario con los datos específicos del paquete, tales como: dimensiones, peso, cantidad, entre otros. Al finalizar, deberá hacer clic en "Enviar" y la solicitud será enviada a todas las empresas seleccionadas.
 
-*2. Estado de Solicitudes*<br>
+**2. Estado de Solicitudes**<br>
 Esta sección permite al usuario visualizar el estado actual de sus solicitudes. Los estados posibles son:
 
 - Pendiente: la empresa aún no ha revisado la solicitud.
@@ -250,7 +250,7 @@ Esta sección permite al usuario visualizar el estado actual de sus solicitudes.
 Si el usuario no está conforme con las ofertas recibidas, podrá seleccionar aquellas propuestas que no le interesan y hacer clic en "Cancelar" para descartarlas.
 Si, por el contrario, desea aceptar una de las ofertas, solo deberá seleccionar la empresa que le resulte conveniente y proceder con el pago correspondiente. Para ello, deberá hacer clic en la opción "Pagar" dentro de la tabla. Una vez elegida esta opción, podrá seleccionar entre los diferentes métodos de pago disponibles y completar el formulario con la información solicitada. Una vez finalizado este proceso, la contratación quedará registrada.
 
-*3. Servicios Contratados*<br>
+**3. Servicios Contratados**<br>
 En esta sección, el usuario podrá visualizar todos los servicios de transporte que ya han sido pagados. Aquí encontrará información relevante sobre la empresa contratada, los detalles del paquete y un apartado adicional con los datos del vehículo y del conductor asignado.
 Si este último campo aparece como Pendiente, significa que la empresa aún está completando la información, la cual será actualizada y enviada al usuario a la brevedad posible.
 
@@ -262,4 +262,4 @@ Para una mejor comprensión del flujo, puede consultar el diagrama ilustrativo. 
 <p align="center"><em>Figura 4.19: Web Applications User Flow Diagrams del empresario pesquero.</em></p>
 
 
-*Enlace del Miro :* [Ver en Miro](https://miro.com/welcomeonboard/TFg1SVlscDQwdGlNWHZhNkpSeUE5aWhnRm51ZURXc2YvNjRrTlBsS3BwVHdnbE05SFFVSFpwMCtSKzZ0MHUwUk44VU1kYXVaL0pLbDBwaVNnTzVvRnZ5RXlDZ2dXMHg4ZmEzS0plNWNZZDMzUEk3YzYrSG4rb3djRVJhL2I2dGxnbHpza3F6REdEcmNpNEFOMmJXWXBBPT0hdjE=?share_link_id=756884883545)
+**Enlace del Miro :** [Ver en Miro](https://miro.com/welcomeonboard/TFg1SVlscDQwdGlNWHZhNkpSeUE5aWhnRm51ZURXc2YvNjRrTlBsS3BwVHdnbE05SFFVSFpwMCtSKzZ0MHUwUk44VU1kYXVaL0pLbDBwaVNnTzVvRnZ5RXlDZ2dXMHg4ZmEzS0plNWNZZDMzUEk3YzYrSG4rb3djRVJhL2I2dGxnbHpza3F6REdEcmNpNEFOMmJXWXBBPT0hdjE=?share_link_id=756884883545)
