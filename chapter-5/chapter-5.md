@@ -163,9 +163,15 @@ En esta sección describimos los productos de software que hemos usado en el pro
 
 | Sprint # | Sprint 1 | | | | | | |
 |:-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| User Story | Work-Item / Task | | | | | | |
+| Epic/ Story | | Work-Item | | | | | |
 | Id | Title | Id | Title | Description | Estimation (Hours) | Assigned To | Status (To-Do / In-Process/ To- Review/ Done) |
-
+| E1-US01 | Barra de Navegación en la Landing Page | W01 | Barra de Navegación | Facilitar el acceso a las secciones más relevantes del servicio |  4 | Prado Vargas, Mario Benjamín | Done  |
+| E1-US02 | Información sobre el servicio brindado | W02 | Info Trasfondo del Servicio | La página web debe mostrar la información de los servicios que me van a brindar |  4 | Prado Vargas, Mario Benjamín | Done  |
+| E1-US03 | Información sobre el procedimiento de uso de la aplicación web | W03 | Info Uso del Servicio | Mostrar el procedimiento que tendría que hacer un usuario para usar este servicio | 4  | Prado Vargas, Mario Benjamín |  Done |
+| E1-US04 | Conocer los testimonios de clientes pasados | W04 | Sección Testimonios | Mostrar algunos testimonios de "clientes anteriores" |4   | Prado Vargas, Mario Benjamín | Done  |
+| E1-US05 | Conocer las ventajas de la aplicación web | W05 | Sección Beneficios | Mostrar las ventajas que tiene la aplicación frente a otras aplicaciones similares |  4 | Prado Vargas, Mario Benjamín | Done  |
+| E1-US06 | Contacto | W06 | Sección Contactos | Sección con información de contacto | 4  | Prado Vargas, Mario Benjamín | Done  |
+| E1-US07 | Cambiar idiomas | W07 | Botón Idiomas | Cambiar el idioma de la página web de Inglés al Español  y viceversa| 4  | Prado Vargas, Mario Benjamín |  To-Do |
 
 
    #### 5.2.1.3. Development Evidence for Sprint Review
@@ -190,8 +196,46 @@ En esta sección describimos los productos de software que hemos usado en el pro
    </table>
 
    #### 5.2.1.4. Testing Suite Evidence for Sprint Review
+
+   
+Para la entrega del Sprint 1, nos enfocamos en lograr el desarrollo completo y el despliegue del Landing Page.
+
+| Repository   | Branch | Commit Id | Commit Message                      | Commit Message Body | Commited On |
+| ------------ | ------ | --------- | ----------------------------------- | ------------------- | ----------- |
+| landing-page | main   |    |  | -                   |   |
+
    #### 5.2.1.5. Execution Evidence for Sprint Review
+
+   
+En este sprint, el equipo logro desplegar la primera versión de la landing page satisfactoriamente, en este punto se mostrara la evidencia de ello.
+Enlace: https://github.com/1ASI0729-2510-4321-devvolution/PescaGo-LandingPage
+
+Landing Page desplegada
+
+<img src="./assets/Landing-Page.png"/>
+
    #### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+Este primer Sprint solo trata la implementación del landing page, por lo que no se empleó ningún servicio adicional.
+
    #### 5.2.1.7. Software Deployment Evidence for Sprint Review
    #### 5.2.1.8. Team Collaboration Insights during Sprint
+
+   
+A continuación, se compartirá la tabla de colaboradores del repositorio de Github para identificar a cada miembro del equipo:
+
+| Username (GitHub) | Nombre                          |
+| ----------------- | ------------------------------- |
+| AleRamosA                     | Ramos Argüelles, Alexandra Belen |
+| PaoloBellezaTelloo            | Belleza Tello, Paolo Eduardo |
+| MariaFernandaFernandezAlva    | Fernandez Alva, María Fernanda    |
+| IanMQ                         | Macavilca Quispe, Ian      |
+| mariopvdev                    | Prado Vargas, Mario Benjamín     |
   
+
+<img src="./assets/Commits.PNG" alt="imagen de commits"/>
+  
+    
+              
+              
+              
