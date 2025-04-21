@@ -73,13 +73,75 @@ Se estima que múltiples entregas diarias presentan incidencias, especialmente e
 **Problem Statement:**
 
 Los empresarios peruanos del sector pesquero enfretan pérdidas del 30% en su mercadería debido a la falta de acceso a transportistas especializados en cadena de frío, lo que impacta su rentabilidad y la confianza del consumidor. Actualmente, no existe un sistema que conecte a estos actores con garantías de calidad y monitoreo tiempo real. PescaGo busca resolver esta brecha mediante una plataforma digital que certifique transportistas y genere transperencia en el proceso, asegurando productos frescos y reduciendo pérdida económicas.
+ 
+ * **Domain:** Logística y transporte de productos perecederos.
+ * **Customer Segments:** Dentro de los segmentos tenemos a Empresarios pesqueros que exportan a mercados locales y Empresas de transporte.
+ * **Pain points:** Los empresarios tienen un 30% de pérdidas por ruptura de cadena de frío. Las empresas de transporte presentan una falta de demanda estable para justificar inversión en equipos. 
+ * **Gap:** No existe una plataforma que conecte empresarios con transportistas especializados y certifique condiciones óptimas de transporte.
+ * **Visión/Strategy:** Ser el puente digital que garantice la cadena de frío en el transporte pesquero, reduciendo pérdidas y aumentando la confianza en el mercado.
+ * **Initial Segment:** Empresarios pesqueros de Lima y Callao (80% de la producción nacional).
 
 #### 1.2.2.2. Lean UX Assumptions
 
 
+**Features:**
+* jSistema de matchmaking entre empresarios pesqueros y transportistas con equipos refrigerados certificados.
+* Panel de monitoreo en tiempo real con sensores IoT para temperatura/humedad durante el transporte.
+* Sistema de certificación y calificaciones para transportistas basado en cumplimiento de estándares.
+* j
+* j
+
+**Business Outcomes:**
+* Reducción del 50% en pérdidas por mal transporte durante el primer año.
+* 20% de aumento en el precio de venta de productos con "PescaGo".
+* Captar el 15% del mercado de transporte pesquero en Lima/Callao en 18 meses.
+
+**Users:**
+* Empresario Pesquero: Desea minimizar pérdidas por transporte.
+* Empresa de Transporte: Buscan obtener clientes recurrentes que justifiquen su inversión.
+
+**User Outcomes & Benefits:**
+* Disminución de mercancía: Evitar el porcentaje de pérdidas anuales.
+* Mayor utilización de flota: Obtener un 40% más de ingresos por viajes.
+* Confianza en calidad: Los consumidores presentan mayor disposición a pagar el precio de los productos.
+
+**Business Assumptions:**
+1. Existe una necesidad por parte de los empresarios para que la calidad de sus productos esté en buenas condiciones por lo que están dispuestos a adquirir el plan premium con el objetivo de encontrar empresas de transporte certificados.
+2. Implementar sensores IoT ayudaría a proveer datos confiables.
+3. Las auditorías semestrales a las empresas de transporte ayudarían a garatizar la transparecia y confiablidad de la plataforma.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
+#### Hipótesis del Proyecto:
+
+* **Hipótesis 1:**
+  
+  **Creemos que** implementar un sistema de certificación con insignias visibles para los transportistas especializados aumentará su contratación en un 25%.
+  
+  **Sabremos que** estamos en el camino correcto.
+
+  **Cuando observemos** un aumento en la tasa de finalización del proceso de certificación, alcanzando al menos 15 transportistas certificados por mes.
+
+* **Hipótesis 2:**
+
+    **Creemos que** la implementación de monitoreo en tiempo real mediante sensores IoT reducirá los incidentes de ruptura de la cadena de frío en un 40%.
+  
+  **Sabremos que** estamos en el camino correcto.
+
+  **Cuando observemos** una reducción en las quejas relacionadas con la calidad del producto debido a problemas de temperatura durante el transporte.
+
+* **Hipótesis 3:**
+  
+  **Creemos que**  los empresarios estarán dispuestos a pagar un 10% más por servicios de transporte que cuenten con un sello de calidad verificable.
+  
+  **Sabremos que** estamos en el camino correcto.
+
+  **Cuando observemos** un incremento en los ingresos promedio por viaje debido a la adopción del servicio premium.
+  
+
 #### 1.2.2.4. Lean UX Canvas
 
+![lean ux canvas](../assets/lean-ux-process/lean-ux-canvas.png)
+
 ## 1.3. Segmentos objetivo
+
