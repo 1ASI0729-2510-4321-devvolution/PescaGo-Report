@@ -276,3 +276,41 @@ Como parte del proceso, se elaboró un video demostrativo donde se interactúa c
 <p align="center"><em>Figura 4.20: Captura de video sobre la interacción con el prototipo.</em></p>
 
 **Enlace del Clipchamp :** [Ver en Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c131_upc_edu_pe/Efpo172zIoBCqdcPsvyc_CYBYJRY-YugLBOZwhibyoZ5lw?e=XpmDJD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D )
+
+### 4.7. Software Object-Oriented Design.
+
+En dicha sección se verá la estructuración de nuestra star-up que será reevaluada a lo largo de nuestro proyecto.
+
+#### 4.7.1. Class Diagrams.
+
+<p align="center">
+  <img align="center" src="assets/database.png"></p>
+<p align="center">
+
+#### 4.7.2. Class Dictionary.
+
+- Usuario: Entidad abstracta que representa a cualquier usuario del sistema. Contiene la información básica de - autenticación (correo electrónico y contraseña) y el tipo de usuario (empresario pesquero o empresa - transportista).
+
+- EmpresarioPesquero: Entidad que representa a un empresario pesquero, un tipo específico de usuario. Contiene - información adicional como su nombre y mantiene una colección de las solicitudes de transporte que ha creado y - los servicios que ha contratado.
+ 
+- EmpresaTransportista: Entidad que representa a una empresa de transportes, otro tipo específico de usuario. - Contiene información adicional como el nombre de la empresa y su descripción, y mantiene colecciones de las - cotizaciones que ha enviado, los servicios confirmados, sus vehículos y sus conductores.
+ 
+- Paquete: Entidad que representa un paquete que necesita ser transportado. Contiene información sobre su tamaño, - cantidad, peso y una descripción opcional.
+
+- Solicitud: Entidad que representa una petición de transporte creada por un empresario pesquero para un paquete específico. Contiene el estado de la solicitud, la fecha de creación, y referencias al empresario que la creó y al paquete asociado. También mantiene una colección de las cotizaciones recibidas.
+
+- Cotizacion: Entidad que representa una oferta de precio realizada por una empresa transportista en respuesta a  una solicitud. Contiene el precio, la fecha de la cotización y referencias a la solicitud y a la empresa que la realizó.
+
+- ServicioConfirmado: Entidad que representa un acuerdo formal para un servicio de transporte, resultante de la  aceptación de una cotización por parte del empresario pesquero. Contiene información sobre la fecha de - confirmación, el método de pago, el estado del envío y referencias a la solicitud original, la empresa - transportista contratada, el vehículo asignado y el conductor asignado.
+
+- Vehiculo: Entidad que representa un vehículo utilizado por una empresa de transportes. Contiene información como - la placa y el modelo, y una referencia a la empresa propietaria.
+ 
+- Conductor: Entidad que representa a un conductor empleado por una empresa de transportes. Contiene su nombre,  número de licencia y una referencia a la empresa para la que trabaja.
+
+### 4.8. Database Design.
+
+#### 4.8.1. Database Diagram.
+
+<p align="center">
+  <img align="center" src="assets/classdiagram.png"></p>
+<p align="center">
