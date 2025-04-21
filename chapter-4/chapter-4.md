@@ -68,10 +68,53 @@ En el diseño web de PescaGo se ha adoptado una línea visual limpia y moderna q
 
 ### 4.2. Information Architecture
 
+#### 4.2.1. Organization Systems
 
+Para lograr una navegación intuitiva y una estructura de contenido clara en las experiencia web de PescaGo, hemos optado por aplicar diferentes sistemas de organización según el tipo de información que se presenta. A continuación, se detallan las decisiones adoptadas:
 
+ **Organización visual del contenido**
+1. **Visual Hierarchy:**
+   
+   Se utiliza en páginas clave como la Landing Page, el panel de control del usuario, la sección de búsqueda de servicios y el seguimiento de envíos. Esta estructura permite resaltar la información más importante mediante títulos grandes en Inria Sans Bold, contrastes de color azul y una disposición visual que guía al usuario hacia las acciones prioritarias.
+2. **Step-by-Step:**
+   
+   Se aplica en procesos como el registro de usuarios, la solicitud de transporte, la creación de rutas y la generación de órdenes. Aquí, la información se presenta paso a paso, ayudando al usuario a completar tareas mediante formularios claros y botones sencillos, diseñados para una experiencia sin distracciones.
+3. **Matricial:**
+   
+   Está presente en secciones donde el usuario necesita comparar información, como el historial de envíos, opciones de transporte y reportes estadísticos. Mediante tablas, íconos representativos y etiquetas claras, lo cual, facilita el análisis visual simultáneo de múltiples elementos.
 
+**Esquemas de categorización del contenido**
 
+1. **Alfabético:**
+   
+   Se utiliza en listados como empresas de transporte, rutas disponibles o productos registrados. Esta forma de organización permite búsquedas rápidas y efectivas cuando el usuario ya tiene una referencia textual clara.
+2. **Cronológico:**
+   
+   Se emplea en el historial de pedidos, entregas, actualizaciones y actividad reciente del usuario. Presentar la información en orden temporal facilita el seguimiento de acciones pasadas y la revisión de eventos recientes de manera eficiente.
+3. **Por tópicos:**
+   
+   Se implementa en la sección de ayuda, artículos informativos, donde el contenido se agrupa por temas como logística, seguridad o recomendaciones del sector pesquero. Esta clasificación permite una navegación enfocada según los intereses del usuario.
+4. **Según audiencia:**
+   
+   La plataforma distingue entre perfiles como empresarios pesqueros y empresas de transporte. Cada uno accede a una interfaz personalizada con contenido y funcionalidades adaptadas a sus necesidades específicas, mejorando la experiencia de uso.
+
+#### 4.2.2. Labeling Systems
+
+Dentro de la plataforma de PescaGo el sistema de etiquetado ha sido diseñado con un enfoque simple, claro y familiar, para asegurar que los usuarios puedan enteder y navegar en la platafoma sin dificultad. Las etiquetas que se van a emplear utilizan un lenguaje directo, con un número mínimo de palabras, priorizando la comprensión rápida en la aplicación web.
+
+En las **etiquetas de navegación principales** seleccionadas tenemos las etiquetas de *Inicio*, *Buscar transporte*, *Mis pedidos*, *Mi cuenta*, *Ayuda* y *Cerrar sesión*. Estas etiquetas fueron seleccionadas, ya que son las más comunes y para los usuarios será de fácil identificación.
+
+Dentro de las **etiquetas para formularios** seleccionadas tenemos etiquetas como *Nombre*, *Correo electrónico*, *Tipo de carga*, *Fecha de envío*, *Destino*, *Agregar ruta*, *Confirmar* o *Cancelar*. Se evita el uso de frases largas o ambiguas, facilitando una experiencia fluida en cada paso del proceso.
+
+Las **etiquetas para secciones de usuarios** que seleccionamos son *Pedidos activos*, *Historial de envíos*, *Estadísticas*, *Rutas registradas* o *Notificaciones*, las cuales nos permiten una organización clara de las secciones internas. 
+
+Por último, hemos considerado las **etiquetas por rol de usuario**. Por ejemplo, los transportistas encontrarán etiquetas como *Ofertas recibidas*, *Ruta asignada* y *Registrar disponibilidad*, mientras que los empresarios pesqueros verán opciones como *Solicitar transporte* o *Ver entregas*. Esta diferenciación permite personalizar la experiencia según el perfil del usuario.
+
+#### 4.2.3. SEO Tags and Meta Tags
+
+#### 4.2.4. Searching Systems
+
+#### 4.2.5. Navigation Systems
 
 
 ### 4.4. Web Applications UX/UI Design
