@@ -284,7 +284,7 @@ En dicha sección se verá la estructuración de nuestra star-up que será reeva
 #### 4.7.1. Class Diagrams.
 
 <p align="center">
-  <img align="center" src="assets/database.png"></p>
+  <img align="center" src="assets/classdiagram.png"></p>
 <p align="center">
 
 #### 4.7.2. Class Dictionary.
@@ -312,5 +312,5 @@ En dicha sección se verá la estructuración de nuestra star-up que será reeva
 #### 4.8.1. Database Diagram.
 
 <p align="center">
-  <img align="center" src="assets/classdiagram.png"></p>
+  <img align="center" src="assets/database.png"></p>
 <p align="center">
