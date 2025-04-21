@@ -88,8 +88,6 @@ Los empresarios peruanos del sector pesquero enfretan pérdidas del 30% en su me
 * jSistema de matchmaking entre empresarios pesqueros y transportistas con equipos refrigerados certificados.
 * Panel de monitoreo en tiempo real con sensores IoT para temperatura/humedad durante el transporte.
 * Sistema de certificación y calificaciones para transportistas basado en cumplimiento de estándares.
-* j
-* j
 
 **Business Outcomes:**
 * Reducción del 50% en pérdidas por mal transporte durante el primer año.
@@ -145,3 +143,21 @@ Los empresarios peruanos del sector pesquero enfretan pérdidas del 30% en su me
 
 ## 1.3. Segmentos objetivo
 
+Dentro de nuestra propuesta de solución, identificamos dos segmentos clave los cuales se encuentran involucrados en el problema.
+
+* **Empresarios Pesqueros**
+Pequeños y medianos exportadores de productos marinos en Lima y Callao, que enfrentan pérdidas por falta de transporte refrigerado especializado.
+**Características demográficas:**
+  * Ubicación: Principalmente Lima Metropolitana y Callao, donde se concentra el 80% de la producción y exportación pesquera del país.
+  * Tamaño de empresa: MIPYMES
+  * Edad: Mayores de 35
+  * Sexo: Masculino y Femenino
+
+* **Empresas de transporte**
+  
+  Flotas de transporte con capacidad refrigerada, pero con baja utilización debido a la falta de demanda especializada.
+  **Características demográficas:**
+    * Ubicación: Lima Metropolitana y Callao (distritos cercanos a puertos).
+  * Tamaño de empresa: MIPYMES con 2 a 15 unidades vehiculares.
+  * Edad: Entre 5 y 15 años de operación.
+  * Sexo: Masculino y Femenino
