@@ -3,20 +3,20 @@
 
 **Segmento de empresa de transportes**
 
-Utiliza la aplicación para recibir solicitudes de envío por parte de clientes, ofrecer cotizaciones personalizadas y gestionar los datos logísticos de cada servicio. Este perfil busca flexibilidad en la fijación de precios y claridad en la comunicación con el cliente para brindar un servicio eficiente y seguro. El siguiente mapeo describe las fases, pensamientos y emociones que atraviesa durante el uso de la plataforma.(Ver figura 3.1.1)
+Utiliza la aplicación para recibir solicitudes de envío por parte de clientes, ofrecer cotizaciones personalizadas y gestionar los datos logísticos de cada servicio. Este perfil busca flexibilidad en la fijación de precios y claridad en la comunicación con el cliente para brindar un servicio eficiente y seguro. El siguiente mapeo describe las fases, pensamientos y emociones que atraviesa durante el uso de la plataforma.(Ver figura 3.1)
 
 <p align="center">
   <img align="center" src="assets/To-Be%20Scenario%20Mapping%20-%20Transportistas.jpg" alt="To-Be Scenario Mapping del Empresa de transporte"></p>
-<p align="center"><em>Figura 3.1.1: To-Be Scenario Mapping de la empresa de transporte.</em></p>
+<p align="center"><em>Figura 3.1: To-Be Scenario Mapping de la empresa de transporte.</em></p>
 
 **Segmento de empresario pesquero**
 
-Busca empresas de transporte confiables para enviar sus paquetes de forma segura y eficiente. Este perfil valora poder comparar opciones, tener claridad en los precios y recibir información específica sobre el transporte asignado. El siguiente mapeo muestra las fases, pensamientos y emociones que experimenta al utilizar la aplicación para solicitar y coordinar un servicio de transporte.(Ver figura 3.1.2)
+Busca empresas de transporte confiables para enviar sus paquetes de forma segura y eficiente. Este perfil valora poder comparar opciones, tener claridad en los precios y recibir información específica sobre el transporte asignado. El siguiente mapeo muestra las fases, pensamientos y emociones que experimenta al utilizar la aplicación para solicitar y coordinar un servicio de transporte.(Ver figura 3.2)
 
 <p align="center">
   <img align="center" src="assets/To-Be Scenario Mapping - Pesquero.jpg" alt="To-Be Scenario Mapping del Empresario pesquero">
 </p>
-<p align="center"><em>Figura 3.1.2: To-Be Scenario Mapping del empresario pesquero.</em></p>
+<p align="center"><em>Figura 3.2: To-Be Scenario Mapping del empresario pesquero.</em></p>
 
 **Enlace del To-Be Scenario Mapping:** [Ver en Miro](https://miro.com/app/board/uXjVID8wvf0=/?share_link_id=911528094729)
 
@@ -543,17 +543,17 @@ usuario en el sistema</p></td>
 
 **Segmento de empresa de transportes**
 
-El siguiente Impact Mapping muestra de manera clara cómo las empresas de transporte logran organizar sus procesos dentro de la aplicación, permitiendo definir precios, gestionar solicitudes y brindar confianza a sus clientes mediante la asignación de vehículos y conductores. Esta herramienta ayuda a visualizar las funcionalidades clave que permitirán a las empresas ofrecer un servicio seguro y eficiente.(Ver figura 3.3.1)
+El siguiente Impact Mapping muestra de manera clara cómo las empresas de transporte logran organizar sus procesos dentro de la aplicación, permitiendo definir precios, gestionar solicitudes y brindar confianza a sus clientes mediante la asignación de vehículos y conductores. Esta herramienta ayuda a visualizar las funcionalidades clave que permitirán a las empresas ofrecer un servicio seguro y eficiente.(Ver figura 3.3)
 <p align="center">
-  <img align="center" src="assets/Impact map - Empresario transportista.png" alt="Impact Mapping del segmento de Empresa de Transportes"></p>
-<p align="center"><em>Figura 3.3.1: Impact Mapping del segmento de Empresa de Transportes.</em></p>
+  <img align="center" src="assets/Impact map - Transportista.png" alt="Impact Mapping del segmento de Empresa de Transportes"></p>
+<p align="center"><em>Figura 3.3: Impact Mapping del segmento de Empresa de Transportes.</em></p>
 
 **Segmento de empresario pesquero**
 
-A continuación, se presenta el Impact Mapping enfocado en los empresarios pesqueros, que buscan seleccionar de forma segura y rápida a empresas de transporte confiables para el envío de sus productos. Este mapeo permite identificar las funcionalidades necesarias para mejorar su experiencia en la búsqueda, selección y mayor manejo en el cuidado de sus paquetes.(Ver figura 3.3.2)
+A continuación, se presenta el Impact Mapping enfocado en los empresarios pesqueros, que buscan seleccionar de forma segura y rápida a empresas de transporte confiables para el envío de sus productos. Este mapeo permite identificar las funcionalidades necesarias para mejorar su experiencia en la búsqueda, selección y mayor manejo en el cuidado de sus paquetes.(Ver figura 3.4)
 <p align="center">
-  <img align="center" src="assets/Impact map - empresario pesquero.png" alt="Impact Mapping del segmento de Empresario pesquero"></p>
-<p align="center"><em>Figura 3.3.2: Impact Mapping del segmento de Empresario pesquero.</em></p>
+  <img align="center" src="assets/Impact map - Pesquero.png" alt="Impact Mapping del segmento de Empresario pesquero"></p>
+<p align="center"><em>Figura 3.4: Impact Mapping del segmento de Empresario pesquero.</em></p>
 
 ### 3.4. Product Backlog
 
