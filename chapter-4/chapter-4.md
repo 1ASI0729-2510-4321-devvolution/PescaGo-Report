@@ -112,9 +112,44 @@ Por último, hemos considerado las **etiquetas por rol de usuario**. Por ejemplo
 
 #### 4.2.3. SEO Tags and Meta Tags
 
+Para garantizar que PescaGo sea fácilmente encontrado por motores de búsqueda y que su presentación en los resultados de búsqueda sea clara y atractiva, se han definido etiquetas SEO y metaetiquetas específicas tanto para la Landing Page como para la Web Application. Estas etiquetas ayudan a mejorar el posicionamiento orgánico (SEO), incrementar la visibilidad en línea y transmitir confianza a los usuarios desde el primer contacto.
+
+### Landing Page
+
+PescaGo: Plataforma de Transporte y Comercio Pesquero
+
+**Meta Description:**
+
+PescaGo optimiza la logística de tus productos marinos conectando a transportistas especializados con emprendedores del sector pesquero.
+
+**Meta Keywords:**
+
+Pesca, Transporte pesquero, Logística marítima, Envíos pesqueros, Plataforma pesquera, Conectar transporte pesca, PescaGo Perú, Comercio pesquero digital
+
+
+### Web Application
+
+PescaGo: Panel de Usuario - Gestión de Envíos y Rutas
+
+**Meta Description:**
+
+Accede a tu cuenta en PescaGo para gestionar envíos, registrar rutas, recibir notificaciones y optimizar tu operación logística en el sector pesquero.
+
+**Meta Keywords:**
+
+Gestión de envíos, Transporte marítimo, Logística pesquera, Rutas, Plataforma logística, Seguimiento de envíos
+
+
 #### 4.2.4. Searching Systems
 
+En lo que resepeta a los sistemas de búsqueda, PescaGo ha sido diseñado para ofrecer una experiencia de búsqueda intuitiva y eficaz.
+
+
+
+
+
 #### 4.2.5. Navigation Systems
+
 
 
 ### 4.4. Web Applications UX/UI Design
