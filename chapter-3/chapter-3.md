@@ -60,7 +60,7 @@ estructura informática</p>
 <p><strong>Para</strong> poder acceder a las secciones más relevantes
 del servicio</p></td>
 <td style="text-align: left;">
-<p><strong>Escenario 1: El emprendedor o transportista accede a la landing page.</strong></p>
+<p><strong>Escenario 1: El empresario pesquero o la empresa transportista accede a la landing page.</strong></p>
 <p><strong>Dado que </strong>el usuario se encuentra en la Landing Page,</p>
 <p><strong>Cuando </strong>accede a la página,</p>
 <p><strong>Entonces </strong>la barra de navegación es visible en la parte superior de la página.</p>
@@ -232,18 +232,18 @@ vehículos</th>
 </tr>
 <tr>
 <th>E2-US09</th>
-<th style="text-align: left;">Registro para el emprendedor pesquero</th>
+<th style="text-align: left;">Registro para el empresario pesquero</th>
 <td><p><strong>Como</strong> Empresario pesquero</p>
 <p>Quiero llenar mi información</p>
 <p><strong>Para</strong> luego tener comunicación con la empresa
 prestadora de vehículos</p></td>
 <td style="text-align: left;">
 <p><strong>Escenario 1: Registro completo con información obligatoria.</strong></p>
-<p><strong>Dado que </strong>el emprendedor pesquero desea registrarse en la plataforma,</p>
+<p><strong>Dado que </strong>el empresario pesquero desea registrarse en la plataforma,</p>
 <p><strong>Cuando </strong>complete todos los campos obligatorios del formulario de registro(Correo personal, contraseña),</p>
 <p><strong>Entonces </strong>la aplicación registrará sus datos de manera exitosa.</p>
 <p><strong>Escenario 2: Confirmación visual de registro exitoso.</strong></p>
-<p><strong>Dado que </strong>el emprendedor pesquero ha completado correctamente el formulario de registro,</p>
+<p><strong>Dado que </strong>el empresario pesquero ha completado correctamente el formulario de registro,</p>
 <p><strong>Cuando </strong>haga clic en el botón "Registrar" y los datos sean validados sin errores,</p>
 <p><strong>Entonces </strong>la aplicación debe mostrar una notificación o mensaje emergente que confirme que el registro fue exitoso.</p>
 </td>
@@ -272,7 +272,7 @@ web</p></td>
 <tr>
 <th style="text-align: left;">E3</th>
 <th style="text-align: left;">Interfaz clara e intuitiva para el
-emprendedor pesquero</th>
+empresario pesquero</th>
 <td><p><strong>Como</strong> Empresario pesquero</p>
 <p><strong>Quiero</strong> poder comprender e interactuar con el
 servicio que la aplicación web me está proporcionando</p>
@@ -424,14 +424,14 @@ clara y correcta sin temor a equivocación</p></td>
 <td><p><strong>Como</strong> Empresa de
 transportes</p>
 <p><strong>Quiero</strong> observar los detalles de la información de
-los emprendedores pesqueros</p>
+los empresarios pesqueros</p>
 <p><strong>Para</strong> poder aceptar y gestionar una cotización o
 rechazar la solicitud</p></td>
 <td style="text-align: left;">
 <p><strong>Escenario 1: Visualización de detalles de la solicitud.</strong></p>
-<p><strong>Dado que </strong>soy una empresa de transportes con solicitudes recibidas de emprendedores pesqueros,</p>
+<p><strong>Dado que </strong>soy una empresa de transportes con solicitudes recibidas de empresarios pesqueros,</p>
 <p><strong>Cuando </strong>accedo a la sección de "Solicitudes recibidas" en la plataforma,</p>
-<p><strong>Entonces </strong>debo poder ver toda la información relevante de la solicitud, como el nombre del emprendedor, tipo de producto, cantidad, lugar de recogida y entrega, y fecha.</p>
+<p><strong>Entonces </strong>debo poder ver toda la información relevante de la solicitud, como el nombre del empresario, tipo de producto, cantidad, lugar de recogida y entrega, y fecha.</p>
 <p><strong>Escenario 2: Aceptar o rechazar la solicitud.</strong></p>
 <p><strong>Dado que </strong>estoy revisando una solicitud de una empresa pesquera,</p>
 <p><strong>Cuando </strong>presiono los botones "Aceptar" o "Rechazar" en la solicitud correspondiente,</p>
@@ -458,10 +458,10 @@ prestar</p></td>
 <tr>
 <th style="text-align: left;">E4-US19</th>
 <th style="text-align: left;">Enviar información del vehículo hacia el
-emprendedor pesquero</th>
+empresario pesquero</th>
 <td><p><strong>Como</strong> Empresa de transportes</p>
 <p><strong>Quiero</strong> enviar informacion necesaria del vehículo</p>
-<p><strong>Para</strong> que el emprendedor pesquero pueda gestionar la
+<p><strong>Para</strong> que el empresario pesquero pueda gestionar la
 entrega</p></td>
 <td style="text-align: left;">
 <p><strong>Escenario 1: Enviar información del vehículo después de aceptar la solicitud.</strong></p>
@@ -504,7 +504,7 @@ pesquera</p></td>
 </tr>
 <tr>
 <th style="text-align: left;">E5-US21</th>
-<th style="text-align: left;">Agregar solicitud del emprendedor
+<th style="text-align: left;">Agregar solicitud del empresario
 pesquero</th>
 <td><p><strong>Como</strong> desarrollador</p>
 <p><strong>Quiero</strong> agregar los datos de la solicitud de la
@@ -514,7 +514,7 @@ esos datos</p></td>
 <td style="text-align: left;">
 <p><strong>Escenario 1: Registro exitoso de la solicitud de transporte.</strong></p>
 <p><strong>Dado que </strong>tengo acceso al backend y recibo los datos de una solicitud generada por una empresa pesquera,</p>
-<p><strong>Cuando </strong>realizo una petición POST con información como: nombre del emprendedor, tipo de producto, cantidad, origen, destino y fecha de envío,</p>
+<p><strong>Cuando </strong>realizo una petición POST con información como: nombre del empresario, tipo de producto, cantidad, origen, destino y fecha de envío,</p>
 <p><strong>Entonces </strong>la API debe permitir guardar correctamente los datos de la solicitud en la base de datos.</p>
 </td>
 <td style="text-align: center;">5</td>
@@ -596,8 +596,8 @@ A continuación, se presenta el Impact Mapping enfocado en los empresarios pesqu
   <tr>
     <td align="center">5</td>
     <td>E4-US19</td>
-    <td>Enviar información del vehículo hacia el emprendedor pesquero</td>
-    <td>Como Empresa de transportes quiero enviar informacion necesaria del vehículo para que el emprendedor pesquero pueda gestionar la entrega</td>
+    <td>Enviar información del vehículo hacia el empresario pesquero</td>
+    <td>Como Empresa de transportes quiero enviar informacion necesaria del vehículo para que el empresario pesquero pueda gestionar la entrega</td>
     <td align="center">8</td>
   </tr>
   <tr>
@@ -610,7 +610,7 @@ A continuación, se presenta el Impact Mapping enfocado en los empresarios pesqu
   <tr>
     <td align="center">7</td>
     <td>E2-US09</td>
-    <td>Registro para de el emprendedor pesquero</td>
+    <td>Registro para de el empresario pesquero</td>
     <td>Como Empresario pesquero quiero llenar mi información para luego tener comunicación con la empresa prestadora de vehículos</td>
     <td align="center">5</td>
   </tr>
@@ -632,7 +632,7 @@ A continuación, se presenta el Impact Mapping enfocado en los empresarios pesqu
     <td align="center">10</td>
     <td>E4-US17</td>
     <td>Gestión de solicitudes recibidas</td>
-    <td>Como Empresa de transportes quiero observar los detalles de la información de los emprendedores pesqueros para poder aceptar y gestionar una cotización o rechazar la solicitud</td>
+    <td>Como Empresa de transportes quiero observar los detalles de la información de los empresarios pesqueros para poder aceptar y gestionar una cotización o rechazar la solicitud</td>
     <td align="center">5</td>
   </tr>
   <tr>
@@ -673,7 +673,7 @@ A continuación, se presenta el Impact Mapping enfocado en los empresarios pesqu
   <tr>
     <td align="center">16</td>
     <td>E5-US21</td>
-    <td>Agregar solicitud del emprendedor pesquero</td>
+    <td>Agregar solicitud del empresario pesquero</td>
     <td>Como desarrollador quiero agregar los datos de la solicitud de la empresa pesquera mediante el backend para que la empresa de transporte pueda utilizar esos datos</td>
     <td align="center">3</td>
   </tr>
