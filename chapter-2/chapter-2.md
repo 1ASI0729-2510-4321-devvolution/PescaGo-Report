@@ -90,6 +90,66 @@ En esta sección analizaremos nuestros competidores de manera profunda. Investig
   - ¿Qué otras herramientas le serían útiles (rutas, gestión, etc.)?
 
   ### 2.2.2. Registro de entrevistas
+
+  **Segmento Objetivo 1: Empresa Transportista**
+
+*Entrevistado 1*
+
+<table border="1" style="text-align: left;">
+	<tbody>
+		<tr>
+			<td colspan="1" rowspan="6"><img src="assets/Entrevista - Empresario Pesquero - 1.png" alt="" width="575" height="250"></td>
+            <td colspan="1" rowspan="1"><strong>Nombre del entrevistado:
+            <br>
+            </strong> Fernando
+            <br> Escobar
+            </td>
+		</tr>
+        <tr>
+            <td>
+            <strong>Edad:<br></strong> 46 años
+            <br>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Distrito:</strong> 
+            <br>Los Olivos
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Nombre del entrevistador:</strong>
+            <br>Maria Fernanda
+            <br>Fernandez Alva
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Timming: </strong>
+            <br>--<br>
+            <strong>Duración: </strong>
+            <br>04:19:00
+            </td>
+        </tr>
+        <tr>
+            <td>
+             <strong><a href="">URL Entrevista</a></strong>
+            </td>
+        </tr>        
+	</tbody>
+</table>
+
+<strong>Resumen: </strong><br>
+El señor Fernando nos comentó que se dedica a la venta de pescado fresco, principalmente merluza, bonito y caballa, enviando de 2 a 3 toneladas por semana, dependiendo de la temporada. Actualmente trabaja con transportistas conocidos y alquila camiones refrigerados, sin embargo, menciona que uno de sus principales problemas es la puntualidad y asegurar que la cadena de frío no se rompa durante el traslado.
+Además, nos indicó que le gustaría contar con una plataforma que le permita encontrar transportistas de forma rápida, confiable y con vehículos verificados, ya que anteriormente ha enfrentado dificultades para conseguir transporte adecuado en el tiempo que necesita. También destacó que para él es importante que la aplicación permita comparar opciones, enviar solicitudes a varias empresas a la vez y concretar todo el proceso desde la solicitud hasta el pago sin necesidad de llamadas, buscando siempre priorizar la calidad del servicio a un precio justo.
+
+
+**Segmento Objetivo 2: Empresario Pesquero**
+
+*Entrevistado 1*
+
+  
   ### 2.2.3. Análisis de entrevistas
 ## 2.3. Needfinding
   ### 2.3.1. User Personas
