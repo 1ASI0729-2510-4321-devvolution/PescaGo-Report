@@ -259,7 +259,8 @@
     <strong>TB1:</strong> Realicé el To-Be Scenario Mapping, elaboré el Product Backlog y desarrollé el prototipo en Figma, acompañado de un video demostrando la funcionalidad.</td>
   </tr>
   <tr>
-    <td></td>
+    <td><strong>Belleza Tello, Paolo Eduardo</strong><br>
+    <strong>TB1:</strong> Realicé las User Stories, los Wireflow Diagrams, los Mock-ups y los User Flow Diagrams para la aplicación web.</td>
   </tr>
   <tr>
     <td></td>
@@ -278,7 +279,8 @@
     <strong>TB1:</strong> Enfoqué el diseño de la aplicación en la resolución de problemas económicos y sociales identificados en el sector objetivo, asegurando que las funcionalidades propuestas respondieran a sus necesidades específicas.</td>
   </tr>
   <tr>
-    <td></td>
+    <td><strong>Belleza Tello, Paolo Eduardo</strong><br>
+    <strong>TB1:</strong> Realicé la identificación y separación de los bounded contexts correspondientes a la aplicación, aplicando los principios del nivel estratégico de Domain Driven Design, con el fin de estructurar claramente las responsabilidades de cada módulo. </td>
   </tr>
   <tr>
     <td></td>
