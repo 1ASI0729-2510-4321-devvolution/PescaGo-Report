@@ -275,7 +275,7 @@ Para una mejor comprensión del flujo, puede consultar el diagrama ilustrativo. 
 
 **- User goal:**<br>
 **Como Empresario pesquero quiero poder comprender e interactuar con el servicio que la aplicación web me está proporcionando Para así poder generar mis solicitudes de una manera clara y correcta sin temor a equivocación.**<br><br>
-La página de inicio para el usuario Empresa Transportista cuenta con tres funcionalidades principales:
+La página de inicio para el usuario Empresario Pesquero cuenta con tres funcionalidades principales:
 
 **1. Búsqueda de Empresas**<br>
 En esta sección, se podrán visualizar todas las empresas transportistas registradas en PescaGo. El usuario tendrá acceso a un apartado de filtros que permite buscar empresas por distrito, facilitando así la selección sin necesidad de revisar cada empresa manualmente.
