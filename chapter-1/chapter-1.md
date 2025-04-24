@@ -12,12 +12,13 @@ Como respuesta, presentamos PescaGo, una plataforma que busca facilitar la comun
 
 <div align="center">
 
-| Nombres y Apellidos |  Código  | Carrera | Conocimientos técnicos/ Habilidades | Foto |
-|----------|------------|----------|------------|------|
-| Alexandra Belen Ramos Argüelles | U202215164 | Ingeniería de Software | **Frontend:** Angular, Vue y Flutter.<br>**Backend:** Desarrollo de APIs REST con Spring Boot y .NET. <br>**Conocimientos adicionales:** C++, C# Python, gestión de bases de datos.|<img src="../img/alexandra_ramos.png" widht="350" height="160">|
-| Maria Fernanda Fernandez Alva | U20201C131 | Ingeniería de Software | **Frontend:** Angular y Vue .<br>**Backend:** Desarrollo de APIs REST con Spring Boot y .NET. <br>**Conocimientos adicionales:** C++, C# , gestión de bases de datos. También cuento con base en TypeScript, HTML y algo de CSS. Actualmente estoy fortaleciendo mis habilidades en bases de datos a través de cursos de SQL. | <img src="../img/Maria_fernandez.png" widht="350" height="160"> |
-| Paolo Eduardo Belleza Tello | U20191A137 | Ingeniería de Software | **Frontend:** Angular y Vue .<br>**Backend:** Desarrollo de APIs REST con Spring Boot y .NET. <br>**Conocimientos adicionales:** C++, C# ,Python, gestión de bases de datos. También cuento con base en HTML y algo de CSS. Actualmente estoy fortaleciendo mis habilidades en bases de datos a través de cursos de SQL. También me encuentro estudiando Git para mejorar la gestión de versiones en proyectos. | <img src="../img/Paolo_belleza.jpg" widht="350" height="160"> |
-||||||
+| Nombres y Apellidos             | Código     | Carrera                | Conocimientos técnicos/ Habilidades                                                                                                                                                                                                                                                                                                                                                                             | Foto                                                            |
+| ------------------------------- | ---------- | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
+| Alexandra Belen Ramos Argüelles | U202215164 | Ingeniería de Software | **Frontend:** Angular, Vue y Flutter.<br>**Backend:** Desarrollo de APIs REST con Spring Boot y .NET. <br>**Conocimientos adicionales:** C++, C# Python, gestión de bases de datos.                                                                                                                                                                                                                             | <img src="../img/alexandra_ramos.png" widht="350" height="160"> |
+| Maria Fernanda Fernandez Alva   | U20201C131 | Ingeniería de Software | **Frontend:** Angular y Vue .<br>**Backend:** Desarrollo de APIs REST con Spring Boot y .NET. <br>**Conocimientos adicionales:** C++, C# , gestión de bases de datos. También cuento con base en TypeScript, HTML y algo de CSS. Actualmente estoy fortaleciendo mis habilidades en bases de datos a través de cursos de SQL.                                                                                   | <img src="../img/Maria_fernandez.png" widht="350" height="160"> |
+| Paolo Eduardo Belleza Tello     | U20191A137 | Ingeniería de Software | **Frontend:** Angular y Vue .<br>**Backend:** Desarrollo de APIs REST con Spring Boot y .NET. <br>**Conocimientos adicionales:** C++, C# ,Python, gestión de bases de datos. También cuento con base en HTML y algo de CSS. Actualmente estoy fortaleciendo mis habilidades en bases de datos a través de cursos de SQL. También me encuentro estudiando Git para mejorar la gestión de versiones en proyectos. | <img src="../img/Paolo_belleza.jpg" widht="350" height="160">   |
+| Mario Benjamin Prado Vargas     | U202115357 | Ingeniería de Software | **Frontend:** Angular, Tailwind .<br>**Backend:** Desarrollo de APIs REST con Spring Boot y .NET. <br>**Conocimientos adicionales:** C++, gestión de bases de datos, java, python, javascript. También cuento con base en HTML, CSS y el framework Tailwind v4.0. Actualmente estoy aprendiendo desarrollo de redes neuronales y machine learning.                                                              | <img src="../img/mario_prado.jpeg" widht="350" height="160">    |
+|                                 |            |                        |                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                                 |
 
 </div>
 
@@ -35,8 +36,8 @@ Ante esta necesidad, los empresarios del sector requieren servicios de transport
 
 **Principales problemáticas identificadas:**
 
-* **Control de temperatura:** En algunas entregas de los productos se presentaron fluctuaciones de temperatura aceleraron la descomposición, afectando la textura, el sabor y el olor de los productos.
-* **Cadena de frío:** Romper la cadena de frío puede causar crecimiento bacteriano, pérdida de frescura y rechazo comercial debido a los estándares no cumplidos.
+- **Control de temperatura:** En algunas entregas de los productos se presentaron fluctuaciones de temperatura aceleraron la descomposición, afectando la textura, el sabor y el olor de los productos.
+- **Cadena de frío:** Romper la cadena de frío puede causar crecimiento bacteriano, pérdida de frescura y rechazo comercial debido a los estándares no cumplidos.
 
 **Técnica de las 5W's y 2H's**
 
@@ -75,37 +76,41 @@ Se estima que múltiples entregas diarias presentan incidencias, especialmente e
 **Problem Statement:**
 
 Los empresarios peruanos del sector pesquero enfretan pérdidas del 30% en su mercadería debido a la falta de acceso a transportistas especializados en cadena de frío, lo que impacta su rentabilidad y la confianza del consumidor. Actualmente, no existe un sistema que conecte a estos actores con garantías de calidad y monitoreo tiempo real. PescaGo busca resolver esta brecha mediante una plataforma digital que certifique transportistas y genere transperencia en el proceso, asegurando productos frescos y reduciendo pérdida económicas.
- 
- * **Domain:** Logística y transporte de productos perecederos.
- * **Customer Segments:** Dentro de los segmentos tenemos a Empresarios pesqueros que exportan a mercados locales y Empresas de transporte.
- * **Pain points:** Los empresarios tienen un 30% de pérdidas por ruptura de cadena de frío. Las empresas de transporte presentan una falta de demanda estable para justificar inversión en equipos. 
- * **Gap:** No existe una plataforma que conecte empresarios con transportistas especializados y certifique condiciones óptimas de transporte.
- * **Visión/Strategy:** Ser el puente digital que garantice la cadena de frío en el transporte pesquero, reduciendo pérdidas y aumentando la confianza en el mercado.
- * **Initial Segment:** Empresarios pesqueros de Lima y Callao (80% de la producción nacional).
+
+- **Domain:** Logística y transporte de productos perecederos.
+- **Customer Segments:** Dentro de los segmentos tenemos a Empresarios pesqueros que exportan a mercados locales y Empresas de transporte.
+- **Pain points:** Los empresarios tienen un 30% de pérdidas por ruptura de cadena de frío. Las empresas de transporte presentan una falta de demanda estable para justificar inversión en equipos.
+- **Gap:** No existe una plataforma que conecte empresarios con transportistas especializados y certifique condiciones óptimas de transporte.
+- **Visión/Strategy:** Ser el puente digital que garantice la cadena de frío en el transporte pesquero, reduciendo pérdidas y aumentando la confianza en el mercado.
+- **Initial Segment:** Empresarios pesqueros de Lima y Callao (80% de la producción nacional).
 
 #### 1.2.2.2. Lean UX Assumptions
 
-
 **Features:**
-* jSistema de matchmaking entre empresarios pesqueros y transportistas con equipos refrigerados certificados.
-* Panel de monitoreo en tiempo real con sensores IoT para temperatura/humedad durante el transporte.
-* Sistema de certificación y calificaciones para transportistas basado en cumplimiento de estándares.
+
+- jSistema de matchmaking entre empresarios pesqueros y transportistas con equipos refrigerados certificados.
+- Panel de monitoreo en tiempo real con sensores IoT para temperatura/humedad durante el transporte.
+- Sistema de certificación y calificaciones para transportistas basado en cumplimiento de estándares.
 
 **Business Outcomes:**
-* Reducción del 50% en pérdidas por mal transporte durante el primer año.
-* 20% de aumento en el precio de venta de productos con "PescaGo".
-* Captar el 15% del mercado de transporte pesquero en Lima/Callao en 18 meses.
+
+- Reducción del 50% en pérdidas por mal transporte durante el primer año.
+- 20% de aumento en el precio de venta de productos con "PescaGo".
+- Captar el 15% del mercado de transporte pesquero en Lima/Callao en 18 meses.
 
 **Users:**
-* Empresario Pesquero: Desea minimizar pérdidas por transporte.
-* Empresa de Transporte: Buscan obtener clientes recurrentes que justifiquen su inversión.
+
+- Empresario Pesquero: Desea minimizar pérdidas por transporte.
+- Empresa de Transporte: Buscan obtener clientes recurrentes que justifiquen su inversión.
 
 **User Outcomes & Benefits:**
-* Disminución de mercancía: Evitar el porcentaje de pérdidas anuales.
-* Mayor utilización de flota: Obtener un 40% más de ingresos por viajes.
-* Confianza en calidad: Los consumidores presentan mayor disposición a pagar el precio de los productos.
+
+- Disminución de mercancía: Evitar el porcentaje de pérdidas anuales.
+- Mayor utilización de flota: Obtener un 40% más de ingresos por viajes.
+- Confianza en calidad: Los consumidores presentan mayor disposición a pagar el precio de los productos.
 
 **Business Assumptions:**
+
 1. Existe una necesidad por parte de los empresarios para que la calidad de sus productos esté en buenas condiciones por lo que están dispuestos a adquirir el plan premium con el objetivo de encontrar empresas de transporte certificados.
 2. Implementar sensores IoT ayudaría a proveer datos confiables.
 3. Las auditorías semestrales a las empresas de transporte ayudarían a garatizar la transparecia y confiablidad de la plataforma.
@@ -114,30 +119,29 @@ Los empresarios peruanos del sector pesquero enfretan pérdidas del 30% en su me
 
 #### Hipótesis del Proyecto:
 
-* **Hipótesis 1:**
-  
+- **Hipótesis 1:**
+
   **Creemos que** implementar un sistema de certificación con insignias visibles para los transportistas especializados aumentará su contratación en un 25%.
-  
+
   **Sabremos que** estamos en el camino correcto.
 
   **Cuando observemos** un aumento en la tasa de finalización del proceso de certificación, alcanzando al menos 15 transportistas certificados por mes.
 
-* **Hipótesis 2:**
+- **Hipótesis 2:**
 
-    **Creemos que** la implementación de monitoreo en tiempo real mediante sensores IoT reducirá los incidentes de ruptura de la cadena de frío en un 40%.
-  
+  **Creemos que** la implementación de monitoreo en tiempo real mediante sensores IoT reducirá los incidentes de ruptura de la cadena de frío en un 40%.
+
   **Sabremos que** estamos en el camino correcto.
 
   **Cuando observemos** una reducción en las quejas relacionadas con la calidad del producto debido a problemas de temperatura durante el transporte.
 
-* **Hipótesis 3:**
-  
-  **Creemos que**  los empresarios estarán dispuestos a pagar un 10% más por servicios de transporte que cuenten con un sello de calidad verificable.
-  
+- **Hipótesis 3:**
+
+  **Creemos que** los empresarios estarán dispuestos a pagar un 10% más por servicios de transporte que cuenten con un sello de calidad verificable.
+
   **Sabremos que** estamos en el camino correcto.
 
   **Cuando observemos** un incremento en los ingresos promedio por viaje debido a la adopción del servicio premium.
-  
 
 #### 1.2.2.4. Lean UX Canvas
 
@@ -147,19 +151,21 @@ Los empresarios peruanos del sector pesquero enfretan pérdidas del 30% en su me
 
 Dentro de nuestra propuesta de solución, identificamos dos segmentos clave los cuales se encuentran involucrados en el problema.
 
-* **Empresarios Pesqueros**
-Pequeños y medianos exportadores de productos marinos en Lima y Callao, que enfrentan pérdidas por falta de transporte refrigerado especializado.
-**Características demográficas:**
-  * Ubicación: Principalmente Lima Metropolitana y Callao, donde se concentra el 80% de la producción y exportación pesquera del país.
-  * Tamaño de empresa: MIPYMES
-  * Edad: Mayores de 35
-  * Sexo: Masculino y Femenino
+- **Empresarios Pesqueros**
+  Pequeños y medianos exportadores de productos marinos en Lima y Callao, que enfrentan pérdidas por falta de transporte refrigerado especializado.
+  **Características demográficas:**
 
-* **Empresas de transporte**
-  
+  - Ubicación: Principalmente Lima Metropolitana y Callao, donde se concentra el 80% de la producción y exportación pesquera del país.
+  - Tamaño de empresa: MIPYMES
+  - Edad: Mayores de 35
+  - Sexo: Masculino y Femenino
+
+- **Empresas de transporte**
+
   Flotas de transporte con capacidad refrigerada, pero con baja utilización debido a la falta de demanda especializada.
   **Características demográficas:**
-    * Ubicación: Lima Metropolitana y Callao (distritos cercanos a puertos).
-  * Tamaño de empresa: MIPYMES con 2 a 15 unidades vehiculares.
-  * Edad: Entre 5 y 15 años de operación.
-  * Sexo: Masculino y Femenino
+
+  - Ubicación: Lima Metropolitana y Callao (distritos cercanos a puertos).
+  - Tamaño de empresa: MIPYMES con 2 a 15 unidades vehiculares.
+  - Edad: Entre 5 y 15 años de operación.
+  - Sexo: Masculino y Femenino
