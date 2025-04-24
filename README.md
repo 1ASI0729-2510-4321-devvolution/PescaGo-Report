@@ -263,7 +263,8 @@
     <strong>TB1:</strong> Realicé las User Stories, los Wireflow Diagrams, los Mock-ups y los User Flow Diagrams para la aplicación web.</td>
   </tr>
   <tr>
-    <td></td>
+    <td><strong>Macavilca Quispe, Ian</strong><br>
+    <strong>TB1:</strong> Realicé los Class Diagrams, Database Diagram, capítulo 2 y 5.</td>
   </tr>
   <tr>
     <td></td>
@@ -283,7 +284,8 @@
     <strong>TB1:</strong> Realicé la identificación y separación de los bounded contexts correspondientes a la aplicación, aplicando los principios del nivel estratégico de Domain Driven Design, con el fin de estructurar claramente las responsabilidades de cada módulo. </td>
   </tr>
   <tr>
-    <td></td>
+    <td><strong>Macavilca Quispe, Ian</strong><br>
+    <strong>TB1:</strong> Realicé la identificación de competidores, el desarrollo de estrategias frente a estos, el diseño y analisis de entrevistas, así como también el planteamiento de diagramas que orienten el desarrollo de nuestra propuesta. </td>
   </tr>
   <tr>
     <td></td>
