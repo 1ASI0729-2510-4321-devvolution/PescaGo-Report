@@ -147,6 +147,59 @@ _Entrevistado 1_
 El señor Fernando nos comentó que se dedica a la venta de pescado fresco, principalmente merluza, bonito y caballa, enviando de 2 a 3 toneladas por semana, dependiendo de la temporada. Actualmente trabaja con transportistas conocidos y alquila camiones refrigerados, sin embargo, menciona que uno de sus principales problemas es la puntualidad y asegurar que la cadena de frío no se rompa durante el traslado.
 Además, nos indicó que le gustaría contar con una plataforma que le permita encontrar transportistas de forma rápida, confiable y con vehículos verificados, ya que anteriormente ha enfrentado dificultades para conseguir transporte adecuado en el tiempo que necesita. También destacó que para él es importante que la aplicación permita comparar opciones, enviar solicitudes a varias empresas a la vez y concretar todo el proceso desde la solicitud hasta el pago sin necesidad de llamadas, buscando siempre priorizar la calidad del servicio a un precio justo.
 
+_Entrevistado 2_
+
+<table border="1" style="text-align: left;">
+	<tbody>
+		<tr>
+			<td colspan="1" rowspan="6"><img src="assets/Entrevista 2 de Empresaria Pesquera.jpg" alt="" width="575" height="250"></td>
+            <td colspan="1" rowspan="1"><strong>Nombre del entrevistada:
+            <br>
+            </strong> Roxana 
+            <br> Tello
+            </td>
+		</tr>
+        <tr>
+            <td>
+            <strong>Edad:<br></strong> 50 años
+            <br>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Distrito:</strong> 
+            <br>Comas
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Nombre del entrevistador:</strong>
+            <br>Paolo Eduardo
+            <br>Belleza Tello
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Timming: </strong>
+            <br>--<br>
+            <strong>Duración: </strong>
+            <br>05:41:00
+            </td>
+        </tr>
+        <tr>
+            <td>
+             <strong><a href="">URL Entrevista</a></strong>
+            </td>
+        </tr>        
+	</tbody>
+</table>
+
+<strong>Resumen: </strong><br>
+El entrevistado se dedica a la venta de pescado fresco, principalmente merluza, bonito y caballa, enviando entre 2 a 3 toneladas semanales a Lima, Trujillo y Arequipa. Usa camiones refrigerados alquilados, pero enfrenta problemas con la puntualidad y el mantenimiento de la cadena de frío. Valora la calidad del servicio por encima del precio y necesita encontrar transporte en menos de 24 horas.
+
+Busca una app fácil de usar, con guía, búsqueda por distrito, formularios para envíos, notificaciones y reseñas reales. Prefiere comunicarse por teléfono, pagar contra entrega con Yape y conocer los datos del transportista por seguridad. Estaría dispuesto a pagar entre 20 y 40 soles por envío si la app ofrece un servicio confiable, idealmente con un periodo de prueba de 30 días.
+
+
 **Segmento Objetivo 2: Empresario Pesquero**
 
 _Entrevistado 1_
