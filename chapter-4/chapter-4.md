@@ -124,13 +124,21 @@ Por último, hemos considerado las **etiquetas por rol de usuario**. Por ejemplo
 
 #### 4.3.1. Landing Page Wireframe
 
-Se muestra a continuación la Wireframe de la landing page del proyecto. (Ver figura 4.6)
+Se muestra a continuación la Wireframe de la landing page del proyecto. (Ver figura 4.7)
 
 <p align="center">
   <img align="center" src="assets/Wireframe PescaGo.png"></p>
-<p align="center"><em>Figura 4.6: Wireframe de la landing page</em></p>
+<p align="center"><em>Figura 4.7: Wireframe de la landing page</em></p>
 
 #### 4.3.2. Landing Page Mock-up
+
+Se muestra a continuación el Mock-up de la landing page del proyecto. (Ver figura 4.8)
+
+<p align="center">
+  <img align="center" src="assets/Mockup Langing PescaGo.png"></p>
+<p align="center"><em>Figura 4.8: Mock-up de la landing page</em></p>
+
+**Enlace del Figma :** [Ver en Figma](https://www.figma.com/design/s49leLcWFM93UvJB0DWSWw/PescaGo?node-id=0-1&t=q02mj36o0FPFa3s9-1)
 
 ### 4.4. Web Applications UX/UI Design
 
@@ -138,43 +146,43 @@ Se muestra a continuación la Wireframe de la landing page del proyecto. (Ver fi
 
 **Inicio de sesión**
 
-Se muestra a continuación la Wireframe de inicio de sesión que es para ambos segmentos, para hacer mas accesible el ingreso solo se pidio correo y contraseña. (Ver figura 4.7)
+Se muestra a continuación la Wireframe de inicio de sesión que es para ambos segmentos, para hacer mas accesible el ingreso solo se pidio correo y contraseña. (Ver figura 4.9)
 
 <p align="center">
   <img align="center" src="assets/inicio de sesion - boceto.png"></p>
-<p align="center"><em>Figura 4.7: Captura del boceto de inicio de sesión.</em></p>
+<p align="center"><em>Figura 4.9: Captura del boceto de inicio de sesión.</em></p>
 
 **Registro de la empresa transportista**
 
-Para registrarse le pedira los datos basicos para que asi sea mas factible mostrar esa informacion al segmento de empresa pesquera. (Ver figura 4.8)
+Para registrarse le pedira los datos basicos para que asi sea mas factible mostrar esa informacion al segmento de empresa pesquera. (Ver figura 4.10)
 
 <p align="center">
   <img align="center" src="assets/registro transportista - boceto.png"></p>
-<p align="center"><em>Figura 4.8: Captura del boceto del registro de la empresa transportista.</em></p>
+<p align="center"><em>Figura 4.10: Captura del boceto del registro de la empresa transportista.</em></p>
 
 **Registro del empresario pesquero**
 
-Para registrase lo mas rapido posible y hacer uno de la plataforma , solo se le pide el nombre, correo y contraseña. (Ver figura 4.9)
+Para registrase lo mas rapido posible y hacer uno de la plataforma , solo se le pide el nombre, correo y contraseña. (Ver figura 4.11)
 
 <p align="center">
   <img align="center" src="assets/registro pesquero- boceto.png"></p>
-<p align="center"><em>Figura 4.9: Captura del boceto del registro de empresario pesquero.</em></p>
+<p align="center"><em>Figura 4.11: Captura del boceto del registro de empresario pesquero.</em></p>
 
 **Funcionalidades de la empresa transportista**
 
-A continuación se mostrará todos los bocetos con las funcionalidades que realizara la empresa transportista en la plataforma. Como por ejemplo, solicitudes para cotizar y sus servicios confirmados. (Ver figuras 4.10)
+A continuación se mostrará todos los bocetos con las funcionalidades que realizara la empresa transportista en la plataforma. Como por ejemplo, solicitudes para cotizar y sus servicios confirmados. (Ver figuras 4.12)
 
 <p align="center">
   <img align="center" src="assets/funcionalidades del transportista - boceto.png"></p>
-<p align="center"><em>Figura 4.10: Capturas de los bocetos con las funcionalidades de la empresa transportista.</em></p>
+<p align="center"><em>Figura 4.12: Capturas de los bocetos con las funcionalidades de la empresa transportista.</em></p>
 
 **Funcionalidades del empresario pesquero**
 
-A continuación se mostrará todos los bocetos con las funcionalidades que realizara el empresario pesquero en la plataforma. Como por ejemplo, Búsqueda de empresas transportistas, Estado de Solicitudes y sus Servicios Contratados. (Ver figuras 4.11)
+A continuación se mostrará todos los bocetos con las funcionalidades que realizara el empresario pesquero en la plataforma. Como por ejemplo, Búsqueda de empresas transportistas, Estado de Solicitudes y sus Servicios Contratados. (Ver figuras 4.13)
 
 <p align="center">
   <img align="center" src="assets/funcionalidades del pesquero - boceto.png"></p>
-<p align="center"><em>Figura 4.11: Capturas de los bocetos con las funcionalidades del empresario pesquero.</em></p>
+<p align="center"><em>Figura 4.13: Capturas de los bocetos con las funcionalidades del empresario pesquero.</em></p>
 
 **Enlace del Figma :** [Ver en Figma](https://www.figma.com/design/6G4202Wv0UNJR3e3yA9GHs/Untitled?node-id=0-1&m=dev&t=4WCujskndBN3NXUK-1)
 
@@ -183,29 +191,29 @@ A continuación se mostrará todos los bocetos con las funcionalidades que reali
 **user goal:**<br>
 **Como** Empresario pesquero o Empresa de transportes
 **quiero** registrarme a la aplicación web
-**Para** identificar qué tipo de usuario soy. (Ver figura 4.12)
+**Para** identificar qué tipo de usuario soy. (Ver figura 4.14)
 
 <p align="center">
   <img align="center" src="assets/diagrams - inicio.png"></p>
-<p align="center"><em>Figura 4.12: Wireflow Diagrams del ingreso a PescaGo.</em></p>
+<p align="center"><em>Figura 4.14: Wireflow Diagrams del ingreso a PescaGo.</em></p>
 
 **user goal:**<br>
 **Como** Empresa de transportes
 **quiero** poder comprender e interactuar con el servicio que la aplicación web me está proporcionando
-**Para** así poder generar las solicitudes de una manera clara y correcta sin temor a equivocación. (Ver figura 4.14)
+**Para** así poder generar las solicitudes de una manera clara y correcta sin temor a equivocación. (Ver figura 4.15)
 
 <p align="center">
   <img align="center" src="assets/diagrams - transportista.png"></p>
-<p align="center"><em>Figura 4.14: Wireflow Diagrams de la empresa transportista.</em></p>
+<p align="center"><em>Figura 4.15: Wireflow Diagrams de la empresa transportista.</em></p>
 
 **user goal:**<br>
 **Como** Empresario pesquero
 **quiero** poder comprender e interactuar con el servicio que la aplicación web me está proporcionando
-**Para** así poder generar mis solicitudes de una manera clara y correcta sin temor a equivocación. (Ver figura 4.13)
+**Para** así poder generar mis solicitudes de una manera clara y correcta sin temor a equivocación. (Ver figura 4.16)
 
 <p align="center">
   <img align="center" src="assets/diagrams - pesquero.png"></p>
-<p align="center"><em>Figura 4.13: Wireflow Diagrams del empresario pesquero.</em></p>
+<p align="center"><em>Figura 4.16: Wireflow Diagrams del empresario pesquero.</em></p>
 
 **Enlace del Figma :** [Ver en Figma](https://www.figma.com/design/6G4202Wv0UNJR3e3yA9GHs/Untitled?node-id=26-378&m=dev&t=wIVDlU15xFdh7fHu-1)
 
@@ -213,27 +221,27 @@ A continuación se mostrará todos los bocetos con las funcionalidades que reali
 
 **Inicio de sesión**
 
-Se muestra a continuación los mock-ups de inicio de sesión que es para ambos segmentos. (Ver figura 4.14)
+Se muestra a continuación los mock-ups de inicio de sesión que es para ambos segmentos. (Ver figura 4.17)
 
 <p align="center">
   <img align="center" src="assets/mock ups - ambos usuarios.png"></p>
-<p align="center"><em>Figura 4.14: Web Applications del inicio de sesión.</em></p>
+<p align="center"><em>Figura 4.17: Web Applications del inicio de sesión.</em></p>
 
 **Mock-ups de la empresa transportista**
 
-A continuación se mostrará todos los bocetos con las funcionalidades que realizara la empresa transportista en la plataforma. Como por ejemplo su registro, solicitudes para cotizar y sus servicios confirmados. (Ver figuras 4.15)
+A continuación se mostrará todos los bocetos con las funcionalidades que realizara la empresa transportista en la plataforma. Como por ejemplo su registro, solicitudes para cotizar y sus servicios confirmados. (Ver figuras 4.18)
 
 <p align="center">
   <img align="center" src="assets/mock ups - transportista.png"></p>
-<p align="center"><em>Figura 4.15: Web Applications Mock-ups de la empresa transportista.</em></p>
+<p align="center"><em>Figura 4.18: Web Applications Mock-ups de la empresa transportista.</em></p>
 
 **Mock-ups del empresario pesquero**
 
-A continuación se mostrará todos los bocetos con las funcionalidades que realizara el empresario pesquero en la plataforma. Como por ejemplo su registro, Búsqueda de empresas transportistas, Estado de Solicitudes y sus Servicios Contratados. (Ver figuras 4.16)
+A continuación se mostrará todos los bocetos con las funcionalidades que realizara el empresario pesquero en la plataforma. Como por ejemplo su registro, Búsqueda de empresas transportistas, Estado de Solicitudes y sus Servicios Contratados. (Ver figuras 4.19)
 
 <p align="center">
   <img align="center" src="assets/mock ups - pesquero.png"></p>
-<p align="center"><em>Figura 4.16: Web Applications Mock-ups del empresario pesquero.</em></p>
+<p align="center"><em>Figura 4.19: Web Applications Mock-ups del empresario pesquero.</em></p>
 
 **Enlace del Figma :** [Ver en Figma](https://www.figma.com/design/6G4202Wv0UNJR3e3yA9GHs/Untitled?node-id=26-379&m=dev&t=4WCujskndBN3NXUK-1)
 
@@ -254,11 +262,11 @@ Finalmente, deberá hacer clic en “Registrarse” para completar su registro.
 
 Si ya cuentan con un usuaio en PescaGo, pueden entrar de manera directa a la aplicación web.
 
-Para una mejor comprensión del flujo, puede consultar el diagrama ilustrativo. (Ver figura 4.17)
+Para una mejor comprensión del flujo, puede consultar el diagrama ilustrativo. (Ver figura 4.20)
 
 <p align="center">
   <img align="center" src="assets/Use flow diagrams-inicio.jpeg"></p>
-<p align="center"><em>Figura 4.17: Web Applications User Flow Diagrams del inicio de sesión.</em></p>
+<p align="center"><em>Figura 4.20: Web Applications User Flow Diagrams del inicio de sesión.</em></p>
 
 **- User goal:**<br>
 **Como Empresa de transportes quiero poder comprender e interactuar con el servicio que la aplicación web me está proporcionando Para así poder generar las solicitudes de una manera clara y correcta sin temor a equivocación.**<br><br>
@@ -277,11 +285,11 @@ En esta sección, se mostrarán todas las solicitudes que ya han sido confirmada
 Dentro de cada solicitud, encontrará la opción "Información de Envío", donde deberá completar un formulario con los datos del vehículo y del conductor que realizará la entrega. Es importante llenar esta información lo antes posible para brindar confianza y seguridad al cliente sobre quién será responsable del traslado.
 Una vez completado el formulario, deberá hacer clic en "Enviar". Cuando la información haya sido enviada correctamente, la solicitud mostrará un check en el apartado "Información de Envío", indicando que el proceso se ha completado.
 
-Para una mejor comprensión del flujo, puede consultar el diagrama ilustrativo. (Ver figura 4.18)
+Para una mejor comprensión del flujo, puede consultar el diagrama ilustrativo. (Ver figura 4.21)
 
 <p align="center">
   <img align="center" src="assets/Use flow diagrams-transportista.jpeg"></p>
-<p align="center"><em>Figura 4.18: Web Applications User Flow Diagrams de la empresa transportista.</em></p>
+<p align="center"><em>Figura 4.21: Web Applications User Flow Diagrams de la empresa transportista.</em></p>
 
 **- User goal:**<br>
 **Como Empresario pesquero quiero poder comprender e interactuar con el servicio que la aplicación web me está proporcionando Para así poder generar mis solicitudes de una manera clara y correcta sin temor a equivocación.**<br><br>
@@ -307,11 +315,11 @@ Si, por el contrario, desea aceptar una de las ofertas, solo deberá seleccionar
 En esta sección, el usuario podrá visualizar todos los servicios de transporte que ya han sido pagados. Aquí encontrará información relevante sobre la empresa contratada, los detalles del paquete y un apartado adicional con los datos del vehículo y del conductor asignado.
 Si este último campo aparece como Pendiente, significa que la empresa aún está completando la información, la cual será actualizada y enviada al usuario a la brevedad posible.
 
-Para una mejor comprensión del flujo, puede consultar el diagrama ilustrativo. (Ver figura 4.19).
+Para una mejor comprensión del flujo, puede consultar el diagrama ilustrativo. (Ver figura 4.22).
 
 <p align="center">
   <img align="center" src="assets/Use flow diagrams-pesquero.jpeg"></p>
-<p align="center"><em>Figura 4.19: Web Applications User Flow Diagrams del empresario pesquero.</em></p>
+<p align="center"><em>Figura 4.22: Web Applications User Flow Diagrams del empresario pesquero.</em></p>
 
 **Enlace del Miro :** [Ver en Miro](https://miro.com/welcomeonboard/TFg1SVlscDQwdGlNWHZhNkpSeUE5aWhnRm51ZURXc2YvNjRrTlBsS3BwVHdnbE05SFFVSFpwMCtSKzZ0MHUwUk44VU1kYXVaL0pLbDBwaVNnTzVvRnZ5RXlDZ2dXMHg4ZmEzS0plNWNZZDMzUEk3YzYrSG4rb3djRVJhL2I2dGxnbHpza3F6REdEcmNpNEFOMmJXWXBBPT0hdjE=?share_link_id=756884883545)
 
@@ -319,11 +327,11 @@ Para una mejor comprensión del flujo, puede consultar el diagrama ilustrativo. 
 
 Durante la creación de los flujos de acción para los prototipos, se consideraron las diferentes formas en que los usuarios podrían interactuar con la aplicación web. Los prototipos fueron diseñados de manera interactiva, permitiendo que cada sección garantice una experiencia de usuario intuitiva y funcional.
 Asimismo, se tomaron como referencia los Diagramas de Flujo de Usuario y los Wireflow Diagrams, los cuales contribuyeron a una mejor comprensión y organización de cada funcionalidad dentro de la aplicación.
-Como parte del proceso, se elaboró un video demostrativo donde se interactúa con el prototipo, con el fin de mostrar de manera visual la experiencia de navegación y el flujo de uso propuesto para los usuarios. Además, se incluye una imagen referencial del prototipo. (Ver figura 4.20)
+Como parte del proceso, se elaboró un video demostrativo donde se interactúa con el prototipo, con el fin de mostrar de manera visual la experiencia de navegación y el flujo de uso propuesto para los usuarios. Además, se incluye una imagen referencial del prototipo. (Ver figura 4.23)
 
 <p align="center">
   <img align="center" src="assets/Prototipo - explicacion.jpeg"></p>
-<p align="center"><em>Figura 4.20: Captura de video sobre la interacción con el prototipo.</em></p>
+<p align="center"><em>Figura 4.23: Captura de video sobre la interacción con el prototipo.</em></p>
 
 **Enlace del Clipchamp :** [Ver en Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c131_upc_edu_pe/Efpo172zIoBCqdcPsvyc_CYBYJRY-YugLBOZwhibyoZ5lw?e=XpmDJD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
