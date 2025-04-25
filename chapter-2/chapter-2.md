@@ -226,8 +226,8 @@ Busca una app fácil de usar, con guía, búsqueda por distrito, formularios par
         <tr>
             <td>
             <strong>Nombre del entrevistador:</strong>
-            <br>Maria Fernanda
-            <br>Fernandez Alva
+            <br>Mario Benjamin
+            <br>Prado Vargas
             </td>
         </tr>
         <tr>
