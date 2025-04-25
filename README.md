@@ -47,32 +47,66 @@
 
 -----
 
-<center>
+</div>
 
-**Abril 2025**
+<div align="center">
+<br>
 
-</center>
+# Abril - 2025
+
+</div>
 
 ---
 
 ## Registro de Versiones Del Informe
 
-| **Versión** | **Fecha** | **Autor** | **Descripción de modificación** |
-|-------------|-----------|-----------|--------------------------------|
-| 0.1         | 10/04/25  | R |  R
-
-
-
-
+<table border="1">
+  <thead>
+    <tr>
+      <th>Versión</th>
+      <th>Fecha</th>
+      <th>Autor</th>
+      <th>Descripción de modificación</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>TB1</td>
+      <td>24/04/2025</td>
+      <td>
+        <ul>
+            <li>Macavilca Quispe, Ian</li>
+            <li>Prado Vargas, Mario Benjamín</li>
+            <li>Ramos Argüelles, Alexandra Belen</li>
+            <li>Belleza Tello, Paolo Eduardo</li>
+            <li>Fernandez Alva, Maria Fernanda</li>
+        </ul>
+      </td>
+      <td>
+        ● Capítulo I: Introducción<br>
+        ● Capítulo II: Requirements Elicitation & Analysis<br>
+        ● Capítulo III: Requirements Specification<br>
+        ● Capítulo IV: Solution Software Design<br>
+        ● Avance de Conclusiones, Bibliografía y Anexos
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 ## Project Report Collaboration Insights
 
+A continuación, se detalla el proceso de elaboración del informe para cada entrega, junto con capturas de pantalla que muestran los análisis de colaboración y commits en GitHub para el repositorio del informe:
+
 **Link del repositorio-Informe:** 
 
-**Link de los repositorios de la oraganización:** 
-### **Reporte de colaboración de la entrega del TB1:**
+**Link de los repositorios de la organización:** 
 
+**Reporte de colaboración de la entrega del TB1:**
+
+- Todos los miembros del equipo contribuyeron en la redacción del Informe. Se dividió en secciones específicas para cada capítulo, lo que permitió un mayor avance y equidad en el desarrollo del informe.
+
+- Se establecieron fechas límite para la finalización de cada capítulo, lo que facilitó el avance de cada capítulo.
 
 
 ------
