@@ -199,6 +199,55 @@ El entrevistado se dedica a la venta de pescado fresco, principalmente merluza, 
 
 Busca una app fácil de usar, con guía, búsqueda por distrito, formularios para envíos, notificaciones y reseñas reales. Prefiere comunicarse por teléfono, pagar contra entrega con Yape y conocer los datos del transportista por seguridad. Estaría dispuesto a pagar entre 20 y 40 soles por envío si la app ofrece un servicio confiable, idealmente con un periodo de prueba de 30 días.
 
+# Entrevistado 3
+
+<table border="1" style="text-align: left;">
+	<tbody>
+		<tr>
+			<td colspan="1" rowspan="6"><img src="assets/Entrevista 3 - Transportista.PNG" alt="" width="575" height="250"></td>
+            <td colspan="1" rowspan="1"><strong>Nombre del entrevistado:
+            <br>
+            </strong> Juan
+            <br> Pérez
+            </td>
+		</tr>
+        <tr>
+            <td>
+            <strong>Edad:<br></strong> 24 años
+            <br>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Distrito:</strong> 
+            <br>Callao
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Nombre del entrevistador:</strong>
+            <br>Maria Fernanda
+            <br>Fernandez Alva
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Timming: </strong>
+            <br>--<br>
+            <strong>Duración: </strong>
+            <br>06:01:00
+            </td>
+        </tr>
+        <tr>
+            <td>
+             <strong><a href="https://www.canva.com/design/DAGlk1jQ5ow/b33aFtHzILb4Eo1IqCrJsw/watch?utm_content=DAGlk1jQ5ow&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h86049f25bd">URL Entrevista</a></strong>
+            </td>
+        </tr>        
+	</tbody>
+</table>
+
+<strong>Resumen: </strong><br>
+Juan Pérez, de 24 años, trabaja en Transporte Pérez, un negocio familiar en Callao que se dedica al transporte de carga refrigerada, principalmente productos pesqueros como pescado y mariscos. Cuentan con dos camiones refrigerados (5 y 8 toneladas) y realizan rutas frecuentes dentro de Lima y Callao, aunque a veces viajan a provincias cercanas. Actualmente, consiguen clientes por recomendaciones, pero Juan menciona que uno de sus mayores desafíos es encontrar cargas de forma constante para evitar viajar vacío, lo que afecta sus ingresos. También destacó la importancia de conocer los detalles de la carga (tipo, temperatura, destino) antes de aceptarla y de tener un sistema claro para coordinar entregas y pagos. Juan expresó interés en una plataforma que le permita encontrar clientes rápidamente, mostrar la calidad de sus servicios, y gestionar todo el proceso (solicitudes, comunicación, pagos) de forma digital, priorizando la confiabilidad y la eficiencia para maximizar sus viajes.
 
 ### 2.2.3. Análisis de entrevistas
 
