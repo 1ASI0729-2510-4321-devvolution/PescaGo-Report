@@ -47,52 +47,66 @@
 
 -----
 
-<center>
+</div>
 
-**Abril 2025**
+<div align="center">
+<br>
 
-</center>
+# Abril - 2025
+
+</div>
 
 ---
 
 ## Registro de Versiones Del Informe
 
-| **Versión** | **Fecha** | **Autor** | **Descripción de modificación** |
-|-------------|-----------|-----------|--------------------------------|
-| 0.1         | 10/04/25  | R |  R
-
-
-
-
+<table border="1">
+  <thead>
+    <tr>
+      <th>Versión</th>
+      <th>Fecha</th>
+      <th>Autor</th>
+      <th>Descripción de modificación</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>TB1</td>
+      <td>24/04/2025</td>
+      <td>
+        <ul>
+            <li>Macavilca Quispe, Ian</li>
+            <li>Prado Vargas, Mario Benjamín</li>
+            <li>Ramos Argüelles, Alexandra Belen</li>
+            <li>Belleza Tello, Paolo Eduardo</li>
+            <li>Fernandez Alva, Maria Fernanda</li>
+        </ul>
+      </td>
+      <td>
+        ● Capítulo I: Introducción<br>
+        ● Capítulo II: Requirements Elicitation & Analysis<br>
+        ● Capítulo III: Requirements Specification<br>
+        ● Capítulo IV: Solution Software Design<br>
+        ● Avance de Conclusiones, Bibliografía y Anexos
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 ## Project Report Collaboration Insights
 
+A continuación, se detalla el proceso de elaboración del informe para cada entrega, junto con capturas de pantalla que muestran los análisis de colaboración y commits en GitHub para el repositorio del informe:
+
 **Link del repositorio-Informe:** 
 
-**Link de los repositorios de la oraganización:** 
-### **Reporte de colaboración de la entrega del TB1:**
+**Link de los repositorios de la organización:** 
 
+**Reporte de colaboración de la entrega del TB1:**
 
+- Todos los miembros del equipo contribuyeron en la redacción del Informe. Se dividió en secciones específicas para cada capítulo, lo que permitió un mayor avance y equidad en el desarrollo del informe.
 
-------
-
-### **Reporte de colaboración de la entrega del TP1:**
-
-
-
-
-------
-
-### **Reporte de colaboración de la entrega del TB2:**
-
-
-
-------
-
-### **Reporte de colaboración de la entrega del TF1:**
-
-
+- Se establecieron fechas límite para la finalización de cada capítulo, lo que facilitó el avance de cada capítulo.
 
 ------
 
@@ -131,115 +145,110 @@
 - [3.1. To-Be Scenario Mapping](/docs/chapter-IV.md/#31-to-be-scenario-mapping)  
 - [3.2. User Stories](/docs/chapter-IV.md/#32-user-stories)  
 - [3.3. Impact Mapping](/docs/chapter-IV.md/#33-impact-mapping)  
-- [3.4. Product Backlog](/docs/chapter-IV.md/#34-product-backlog)  
+- [3.4. Product Backlog](/docs/chapter-IV.md/#34-product-backlog)   
 
-## Capítulo IV: Solution Software Design  
-- [4.1. Strategic-Level Domain-Driven Design](/docs/chapter-IV.md/#41-strategic-level-domain-driven-design)  
-  - [4.1.1. EventStorming](/docs/chapter-IV.md/#411-eventstorming)  
-    - [4.1.1.1. Candidate Context Discovery](/docs/chapter-IV.md/#4111-candidate-context-discovery)  
-    - [4.1.1.2. Domain Message Flows Modeling](/docs/chapter-IV.md/#4112-domain-message-flows-modeling)  
-    - [4.1.1.3. Bounded Context Canvases](/docs/chapter-IV.md/#4113-bounded-context-canvases)  
-  - [4.1.2. Context Mapping](/docs/chapter-IV.md/#412-context-mapping)  
-  - [4.1.3. Software Architecture](/docs/chapter-IV.md/#413-software-architecture)  
-    - [4.1.3.1. Software Architecture System Landscape Diagram](/docs/chapter-IV.md/#4131-software-architecture-system-landscape-diagram)  
-    - [4.1.3.2. Software Architecture Context Level Diagrams](/docs/chapter-IV.md/#4132-software-architecture-context-level-diagrams)  
-    - [4.1.3.3. Software Architecture Container Level Diagrams](/docs/chapter-IV.md/#4133-software-architecture-container-level-diagrams)  
-    - [4.1.3.4. Software Architecture Deployment Diagrams](/docs/chapter-IV.md/#4134-software-architecture-deployment-diagrams)  
-- [4.2. Tactical-Level Domain-Driven Design](/docs/chapter-IV.md/#42-tactical-level-domain-driven-design)  
-  - [4.2.1. Bounded Account & Subscription Management Context](/docs/chapter-IV.md/#421-bounded-account-subscription-management-context)  
-    - [4.2.1.1. Domain Layer](/docs/chapter-IV.md/#4211-domain-layer)  
-    - [4.2.1.2. Interface Layer](/docs/chapter-IV.md/#4212-interface-layer)  
-    - [4.2.1.3. Application Layer](/docs/chapter-IV.md/#4213-application-layer)  
-    - [4.2.1.4. Infrastructure Layer](/docs/chapter-IV.md/#4214-infrastructure-layer)  
-    - [4.2.1.5. Bounded Context Software Architecture Component Level Diagrams](/docs/chapter-IV.md/#4215-bounded-context-software-architecture-component-level-diagrams)  
-    - [4.2.1.6. Bounded Context Software Architecture Code Level Diagrams](/docs/chapter-IV.md/#4216-bounded-context-software-architecture-code-level-diagrams)  
-      - [4.2.1.6.1. Bounded Context Domain Layer Class Diagrams](/docs/chapter-IV.md/#42161-bounded-context-domain-layer-class-diagrams)  
-      - [4.2.1.6.2. Bounded Context Database Design Diagram](/docs/chapter-IV.md/#42162-bounded-context-database-design-diagram)  
-  - [4.2.2. Bounded User & Profile Management Context](/docs/chapter-IV.md/#422-bounded-user-profile-management-context)  
-    - [4.2.2.1. Domain Layer](/docs/chapter-IV.md/#4221-domain-layer)  
-    - [4.2.2.2. Interface Layer](/docs/chapter-IV.md/#4222-interface-layer)  
-    - [4.2.2.3. Application Layer](/docs/chapter-IV.md/#4223-application-layer)  
-    - [4.2.2.4. Infrastructure Layer](/docs/chapter-IV.md/#4224-infrastructure-layer)  
-    - [4.2.2.5. Bounded Context Software Architecture Component Level Diagrams](/docs/chapter-IV.md/#4225-bounded-context-software-architecture-component-level-diagrams)  
-    - [4.2.2.6. Bounded Context Software Architecture Code Level Diagrams](/docs/chapter-IV.md/#4226-bounded-context-software-architecture-code-level-diagrams)  
-      - [4.2.2.6.1. Bounded Context Domain Layer Class Diagrams](/docs/chapter-IV.md/#42261-bounded-context-domain-layer-class-diagrams)  
-      - [4.2.2.6.2. Bounded Context Database Design Diagram](/docs/chapter-IV.md/#42262-bounded-context-database-design-diagram)  
-  - [4.2.3. Bounded Container Management Context](/docs/chapter-IV.md/#423-bounded-container-management-context)  
-    - [4.2.3.1. Domain Layer](/docs/chapter-IV.md/#4231-domain-layer)  
-    - [4.2.3.2. Interface Layer](/docs/chapter-IV.md/#4232-interface-layer)  
-    - [4.2.3.3. Application Layer](/docs/chapter-IV.md/#4233-application-layer)  
-    - [4.2.3.4. Infrastructure Layer](/docs/chapter-IV.md/#4234-infrastructure-layer)  
-    - [4.2.3.5. Bounded Context Software Architecture Component Level Diagrams](/docs/chapter-IV.md/#4235-bounded-context-software-architecture-component-level-diagrams)  
-    - [4.2.3.6. Bounded Context Software Architecture Code Level Diagrams](/docs/chapter-IV.md/#4236-bounded-context-software-architecture-code-level-diagrams)  
-      - [4.2.3.6.1. Bounded Context Domain Layer Class Diagrams](/docs/chapter-IV.md/#42361-bounded-context-domain-layer-class-diagrams)  
-      - [4.2.3.6.2. Bounded Context Database Design Diagram](/docs/chapter-IV.md/#42362-bounded-context-database-design-diagram)  
-  - [4.2.4. Bounded Groups Management Context](/docs/chapter-IV.md/#424-bounded-groups-management-context)  
-    - [4.2.4.1. Domain Layer](/docs/chapter-IV.md/#4241-domain-layer)  
-    - [4.2.4.2. Interface Layer](/docs/chapter-IV.md/#4242-interface-layer)  
-    - [4.2.4.3. Application Layer](/docs/chapter-IV.md/#4243-application-layer)  
-    - [4.2.4.4. Infrastructure Layer](/docs/chapter-IV.md/#4244-infrastructure-layer)  
-    - [4.2.4.5. Bounded Context Software Architecture Component Level Diagrams](/docs/chapter-IV.md/#4245-bounded-context-software-architecture-component-level-diagrams)  
-    - [4.2.4.6. Bounded Context Software Architecture Code Level Diagrams](/docs/chapter-IV.md/#4246-bounded-context-software-architecture-code-level-diagrams)  
-      - [4.2.4.6.1. Bounded Context Domain Layer Class Diagrams](/docs/chapter-IV.md/#42461-bounded-context-domain-layer-class-diagrams)  
-      - [4.2.4.6.2. Bounded Context Database Design Diagram](/docs/chapter-IV.md/#42462-bounded-context-database-design-diagram)  
+## Capítulo IV: Product Design  
+- [4.1. Style Guidelines](/docs/chapter-IV.md/#41-style-guidelines)  
+  - [4.1.1. General Style Guidelines](/docs/chapter-IV.md/#411-general-style-guidelines)  
+  - [4.1.2. Web Style Guidelines](/docs/chapter-IV.md/#412-web-style-guidelines)  
+- [4.2. Information Architecture](/docs/chapter-IV.md/#42-information-architecture)  
+  - [4.2.1. Organization Systems](/docs/chapter-IV.md/#421-organization-systems)  
+  - [4.2.2. Labeling Systems](/docs/chapter-IV.md/#422-labeling-systems)  
+  - [4.2.3. SEO Tags and Meta Tags](/docs/chapter-IV.md/#423-seo-tags-and-meta-tags)  
+  - [4.2.4. Searching Systems](/docs/chapter-IV.md/#424-searching-systems)  
+  - [4.2.5. Navigation Systems](/docs/chapter-IV.md/#425-navigation-systems)  
+- [4.3. Landing Page UI Design](/docs/chapter-IV.md/#43-landing-page-ui-design)  
+  - [4.3.1. Landing Page Wireframe](/docs/chapter-IV.md/#431-landing-page-wireframe)  
+  - [4.3.2. Landing Page Mock-up](/docs/chapter-IV.md/#432-landing-page-mock-up)  
+- [4.4. Web Applications UX/UI Design](/docs/chapter-IV.md/#44-web-applications-uxui-design)  
+  - [4.4.1. Web Applications Wireframes](/docs/chapter-IV.md/#441-web-applications-wireframes)  
+  - [4.4.2. Web Applications Wireflow Diagrams](/docs/chapter-IV.md/#442-web-applications-wireflow-diagrams)  
+  - [4.4.3. Web Applications Mock-ups](/docs/chapter-IV.md/#443-web-applications-mock-ups)  
+  - [4.4.4. Web Applications User Flow Diagrams](/docs/chapter-IV.md/#444-web-applications-user-flow-diagrams)  
+- [4.5. Web Applications Prototyping](/docs/chapter-IV.md/#45-web-applications-prototyping)
+- [4.6. Domain-Driven Software Architecture](/docs/chapter-IV.md/#46-domain-driven-software-architecture)  
+  - [4.6.1. Software Architecture Context Diagram](/docs/chapter-IV.md/#461-software-architecture-context-diagram)
+  - [4.6.2. Software Architecture Container Diaframs](/docs/chapter-IV.md/#462-software-architecture-container-diagrams)
+  - [4.6.3. Software Architecture Components Diagrams](/docs/chapter-IV.md/#463-software-architecture-components-diagrams)
+- [4.7. Software Object-Oriented Design](/docs/chapter-IV.md/#47-software-object-oriented-design) 
+  - [4.7.1. Class Diagrams](/docs/chapter-IV.md/#471-class-diagrams) 
+  - [4.7.2. Class Dictionary](/docs/chapter-IV.md/#472-class-dictionary) 
+- [4.8. Database Design](/docs/chapter-IV.md/#48-Database-design) 
+  - [4.8.1. Database Diagram](/docs/chapter-IV.md/#481-Database-diagram) 
 
-## Capítulo V: Solution UI/UX Design  
-- [5.1. Style Guidelines](/docs/chapter-V.md/#51-style-guidelines)  
-  - [5.1.1. General Style Guidelines](/docs/chapter-V.md/#511-general-style-guidelines)  
-  - [5.1.2. Web, Mobile and IoT Style Guidelines](/docs/chapter-V.md/#512-web-mobile-and-iot-style-guidelines)  
-- [5.2. Information Architecture](/docs/chapter-V.md/#52-information-architecture)  
-  - [5.2.1. Organization Systems](/docs/chapter-V.md/#521-organization-systems)  
-  - [5.2.2. Labeling Systems](/docs/chapter-V.md/#522-labeling-systems)  
-  - [5.2.3. SEO Tags and Meta Tags](/docs/chapter-V.md/#523-seo-tags-and-meta-tags)  
-  - [5.2.4. Searching Systems](/docs/chapter-V.md/#524-searching-systems)  
-  - [5.2.5. Navigation Systems](/docs/chapter-V.md/#525-navigation-systems)  
-- [5.3. Landing Page UI Design](/docs/chapter-V.md/#53-landing-page-ui-design)  
-  - [5.3.1. Landing Page Wireframe](/docs/chapter-V.md/#531-landing-page-wireframe)  
-  - [5.3.2. Landing Page Mock-up](/docs/chapter-V.md/#532-landing-page-mock-up)  
-- [5.4. Applications UX/UI Design](/docs/chapter-V.md/#54-applications-uxui-design)  
-  - [5.4.1. Applications Wireframes](/docs/chapter-V.md/#541-applications-wireframes)  
-  - [5.4.2. Applications Wireflow Diagrams](/docs/chapter-V.md/#542-applications-wireflow-diagrams)  
-  - [5.4.3. Applications Mock-ups](/docs/chapter-V.md/#543-applications-mock-ups)  
-  - [5.4.4. Applications User Flow Diagrams](/docs/chapter-V.md/#544-applications-user-flow-diagrams)  
-- [5.5. Applications Prototyping](/docs/chapter-V.md/#55-applications-prototyping)  
+## Capítulo V: Product Implementation, Validation & Deployment
+- [5.1. Software Configuration Management](/docs/chapter-V.md/#51-software-configuration-management)  
+  - [5.1.1. Software Development Environment Configuration](/docs/chapter-V.md/#511-software-development-environment-configuration)  
+  - [5.1.2. Source Code Management](/docs/chapter-V.md/#512-software-code-management)  
+  - [5.1.3. Source Code Style Guide & Conventions](/docs/chapter-V.md/#513-source-code-style-guide-conventions)  
+  - [5.1.4. Software Development Configuration](/docs/chapter-V.md/#514-software-development-configuration)  
+- [5.2. Lading Page, Services & Applications Implementation](/docs/chapter-V.md/#52-lading-page-services-applications-implementation) 
+  - [5.2.1. Sprint 1](/docs/chapter-V.md/#521-spring-1)
+    - [5.2.1.1. Sprint Planning 1](/docs/chapter-V.md/#5211-spring-planning-1)
+    - [5.2.1.2. Aspect Leaders and Collaborators](/docs/chapter-V.md/#5212-aspect-leaders-and-collaborators)
+    - [5.2.1.3. Sprint Backlog 1](/docs/chapter-V.md/#5213-spring-backlog-1)
+    - [5.2.1.4. Development Evidence for Sprint Review](/docs/chapter-V.md/#5214-development-evidence-for-sprint-review)
+    - [5.2.1.5. Execution Evidence for Sprint Review](/docs/chapter-V.md/#5215-execution-evidence-for-sprint-review)
+    - [5.2.1.6. Services Documentation Evidence for Sprint Review](/docs/chapter-V.md/#5216-services-documentation-evidence-for-sprint-review)
+    - [5.2.1.7. Software Deployment Evidence for Sprint Review](/docs/chapter-V.md/#5217-software-deployment-evidence-for-sprint-review)
+    - [5.2.1.8. Team Collaboration Insights during Sprint](/docs/chapter-V.md/#5218-team-collaboration-insights-during-sprint)
 
-## Capítulo VI: Product Implementation, Validation & Deployment  
-- [6.1. Software Configuration Management](/docs/chapter-VI.md/#61-software-configuration-management)  
-  - [6.1.1. Software Development Environment Configuration](/docs/chapter-VI.md/#611-software-development-environment-configuration)  
-  - [6.1.2. Source Code Management](/docs/chapter-VI.md/#612-source-code-management)  
-  - [6.1.3. Source Code Style Guide & Conventions](/docs/chapter-VI.md/#613-source-code-style-guide--conventions)  
-  - [6.1.4. Software Deployment Configuration](/docs/chapter-VI.md/#614-software-deployment-configuration)  
-- [6.2. Landing Page, Services & Applications Implementation](/docs/chapter-VI.md/#62-landing-page-services--applications-implementation)  
-  - [6.2.1. Sprint 1](/docs/chapter-VI.md/#621-sprint-1)  
-    - [6.2.1.1. Sprint Planning 1](/docs/chapter-VI.md/#6211-sprint-planning-1)  
-    - [6.2.1.2. Sprint Backlog 1](/docs/chapter-VI.md/#6212-sprint-backlog-1)  
-    - [6.2.1.3. Development Evidence for Sprint Review](/docs/chapter-VI.md/#6213-development-evidence-for-sprint-review)  
-    - [6.2.1.4. Testing Suite Evidence for Sprint Review](/docs/chapter-VI.md/#6214-testing-suite-evidence-for-sprint-review)  
-    - [6.2.1.5. Execution Evidence for Sprint Review](/docs/chapter-VI.md/#6215-execution-evidence-for-sprint-review)  
-    - [6.2.1.6. Services Documentation Evidence for Sprint Review](/docs/chapter-VI.md/#6216-services-documentation-evidence-for-sprint-review)  
-    - [6.2.1.7. Software Deployment Evidence for Sprint Review](/docs/chapter-VI.md/#6217-software-deployment-evidence-for-sprint-review)  
-    - [6.2.1.8. Team Collaboration Insights during Sprint](/docs/chapter-VI.md/#6218-team-collaboration-insights-during-sprint)  
-  - [6.2.2. Sprint 2](/docs/chapter-VI.md/#622-sprint-2)  
-    - [6.2.2.1. Sprint Planning 2](/docs/chapter-VI.md/#6221-sprint-planning-2)  
-    - [6.2.2.2. Sprint Backlog 2](/docs/chapter-VI.md/#6222-sprint-backlog-2)  
-    - [6.2.2.3. Development Evidence for Sprint Review](/docs/chapter-VI.md/#6223-development-evidence-for-sprint-review)  
-    - [6.2.2.4. Testing Suite Evidence for Sprint Review](/docs/chapter-VI.md/#6224-testing-suite-evidence-for-sprint-review)  
-    - [6.2.2.5. Execution Evidence for Sprint Review](/docs/chapter-VI.md/#6225-execution-evidence-for-sprint-review)  
-    - [6.2.2.6. Services Documentation Evidence for Sprint Review](/docs/chapter-VI.md/#6226-services-documentation-evidence-for-sprint-review)  
-    - [6.2.2.7. Software Deployment Evidence for Sprint Review](/docs/chapter-VI.md/#6227-software-deployment-evidence-for-sprint-review)  
-    - [6.2.2.8. Team Collaboration Insights during Sprint](/docs/chapter-VI.md/#6228-team-collaboration-insights-during-sprint)  
-- [6.3. Validation Interviews](/docs/chapter-VI.md/#63-validation-interviews)  
-  - [6.3.1. Diseño de Entrevistas](/docs/chapter-VI.md/#631-diseño-de-entrevistas)  
-  - [6.3.2. Registro de Entrevistas](/docs/chapter-VI.md/#632-registro-de-entrevistas)  
-  - [6.3.3. Evaluaciones según Heurísticas](/docs/chapter-VI.md/#633-evaluaciones-según-heurísticas)  
-- [6.4. Video About-The-Product](/docs/chapter-VI.md/#64-video-about-the-product)  
-
-## Anexos y Bibliografía  
-- [Anexos](/docs/appendices&bibliography.md/#71-anexos)  
-- [Bibliografía](/docs/appendices&bibliography.md/#72-bibliografía)  
+## Conclusiones
+- [Conclusiones y recomendaciones](/docs/conclusiones-recomendaciones)
+- [Anexos](/docs/anexos)  
+- [Bibliografía](/docs/bibliografía)  
 
 
 ## Student Outcome
 
-| **Criterio Específico** | **Acciones Realizadas**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+<table>
+  <tr>
+    <th>Criterio Específicos</th>
+    <th>Acciones realizadas</th>
+    <th>Conclusiones</th>
+  </tr>
+  <tr>
+    <td rowspan="5"><strong>Comunica oralmente con efectividad a diferentes rangos de audiencia.</strong></td>
+    <td></td>
+    <td rowspan="5">
+    <strong>TB1:</strong>En esta primera entrega, se comunicaron de manera responsable los intereses de los stakeholders, asegurando el cumplimiento de los estándares en el desarrollo del software<br>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Fernandez Alva, Maria Fernanda</strong><br>
+    <strong>TB1:</strong> Realicé el To-Be Scenario Mapping, elaboré el Product Backlog y desarrollé el prototipo en Figma, acompañado de un video demostrando la funcionalidad.</td>
+  </tr>
+  <tr>
+    <td><strong>Belleza Tello, Paolo Eduardo</strong><br>
+    <strong>TB1:</strong> Realicé las User Stories, los Wireflow Diagrams, los Mock-ups y los User Flow Diagrams para la aplicación web.</td>
+  </tr>
+  <tr>
+    <td><strong>Macavilca Quispe, Ian</strong><br>
+    <strong>TB1:</strong> Realicé los Class Diagrams, Database Diagram, capítulo 2 y 5.</td>
+  </tr>
+  <tr>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="5"><strong>Comunica por escrito con efectividad a diferentes rangos de audiencia</strong></td>
+    <td></td>
+    <td rowspan="5">
+    <strong>TB1:</strong> En esta primera entrega, se documentaron y redactaron las soluciones propuestas, estableciendo las bases funcionales y conceptuales del proyecto. Además, se desarrolló la landing page, marcando el primer avance tangible en la construcción de la aplicación web.</td>
+  </tr>
+  <tr>
+    <td><strong>Fernandez Alva, Maria Fernanda</strong><br>
+    <strong>TB1:</strong> Enfoqué el diseño de la aplicación en la resolución de problemas económicos y sociales identificados en el sector objetivo, asegurando que las funcionalidades propuestas respondieran a sus necesidades específicas.</td>
+  </tr>
+  <tr>
+    <td><strong>Belleza Tello, Paolo Eduardo</strong><br>
+    <strong>TB1:</strong> Realicé la identificación y separación de los bounded contexts correspondientes a la aplicación, aplicando los principios del nivel estratégico de Domain Driven Design, con el fin de estructurar claramente las responsabilidades de cada módulo. </td>
+  </tr>
+  <tr>
+    <td><strong>Macavilca Quispe, Ian</strong><br>
+    <strong>TB1:</strong> Realicé la identificación de competidores, el desarrollo de estrategias frente a estos, el diseño y analisis de entrevistas, así como también el planteamiento de diagramas que orienten el desarrollo de nuestra propuesta. </td>
+  </tr>
+  <tr>
+    <td></td>
+  </tr>
+</table>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
 
