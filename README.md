@@ -274,7 +274,6 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
     <td></td>
   </tr>
 </table>
-<<<<<<< Updated upstream
 
 # Capítulo I: Introducción
 
@@ -1602,5 +1601,3 @@ A continuación, se presenta el Impact Mapping enfocado en los empresarios pesqu
 
 
 
-=======
->>>>>>> Stashed changes
