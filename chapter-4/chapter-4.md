@@ -116,29 +116,62 @@ Por último, hemos considerado las **etiquetas por rol de usuario**. Por ejemplo
 
 #### 4.2.3. SEO Tags and Meta Tags
 
+Para garantizar que PescaGo sea fácilmente encontrado por motores de búsqueda y que su presentación en los resultados de búsqueda sea clara y atractiva, se han definido etiquetas SEO y metaetiquetas específicas tanto para la Landing Page como para la Web Application. Estas etiquetas ayudan a mejorar el posicionamiento orgánico (SEO), incrementar la visibilidad en línea y transmitir confianza a los usuarios desde el primer contacto. 
+
+### Landing Page
+
+PescaGo: Plataforma de Transporte y Comercio Pesquero
+
+**Meta Description:**
+
+PescaGo optimiza la logística de tus productos marinos conectando a transportistas especializados con emprendedores del sector pesquero.
+
+**Meta Keywords:**
+
+Pesca, Transporte pesquero, Logística marítima, Envíos pesqueros, Plataforma pesquera, Conectar transporte pesca, PescaGo Perú, Comercio pesquero digital
+
+
+### Web Application
+
+PescaGo: Panel de Usuario - Gestión de Envíos y Rutas
+
+**Meta Description:**
+
+Accede a tu cuenta en PescaGo para gestionar envíos, registrar rutas, recibir notificaciones y optimizar tu operación logística en el sector pesquero.
+
+**Meta Keywords:**
+
+Gestión de envíos, Transporte marítimo, Logística pesquera, Rutas, Plataforma logística, Seguimiento de envíos
+
+
 #### 4.2.4. Searching Systems
+
+En lo que respeta a los sistemas de búsqueda, PescaGo ha sido diseñado para ofrecer una experiencia de búsqueda intuitiva y eficaz. 
+
+Para los empresarios, esta implementación está enfocada directamente para la búsqueda de empresas transportistas y utilizar los filtros para luego visualizar toda la información mediante Cards visuales. Dentro de estas Cards se observará información como el **Nombre de la empresa**, **Descripción de la Empresa** y los distritos de cobertura.
+
+<p align="center">
+  <img align="center" src="assets/searching-system-1.png"></p>
+<p align="center"><em>Figura 4.7: Captura del boceto de búsqueda de empresas transportistas.</em></p>
+
+
+<p align="center">
+  <img align="center" src="assets/searching-system-2.png"></p>
+<p align="center"><em>Figura 4.8: Captura del boceto de lista de Cards con información de empresas de transporte.</em></p>
 
 #### 4.2.5. Navigation Systems
 
-### 4.3. Landing Page UI Design
+**Para Empresarios Pesqueros**
 
-#### 4.3.1. Landing Page Wireframe
+El sistema de navegación para empresarios pesqueros está diseñado con una estructura clara y eficiente. En la parte superior de la pantalla se encuentra una barra de navegación principal que incluye el logo de PescaGo y un menú desplegable con las opciones más importantes: **Inicio**, **Búsqueda de Empresa de Transportistas**, **Estado de Solicitudes**, **Servicios Contratados**.
 
-Se muestra a continuación la Wireframe de la landing page del proyecto. (Ver figura 4.7)
+**Para Empresas de Transporte**
 
-<p align="center">
-  <img align="center" src="assets/Wireframe PescaGo.png"></p>
-<p align="center"><em>Figura 4.7: Wireframe de la landing page</em></p>
-
-#### 4.3.2. Landing Page Mock-up
-
-Se muestra a continuación el Mock-up de la landing page del proyecto. (Ver figura 4.8)
+La navegación para transportistas sigue un enfoque diferente, optimizado para sus necesidades específicas. Se implemetó un menú principal que cuenta con las principales opciones: **Inicio**, **Solicitudes para cotizar** y **Servicio Confirmado**.
 
 <p align="center">
-  <img align="center" src="assets/Mockup Langing PescaGo.png"></p>
-<p align="center"><em>Figura 4.8: Mock-up de la landing page</em></p>
-
-**Enlace del Figma :** [Ver en Figma](https://www.figma.com/design/s49leLcWFM93UvJB0DWSWw/PescaGo?node-id=0-1&t=q02mj36o0FPFa3s9-1)
+  <img align="center" src="assets/navigation-systems.png"></p>
+<p align="center"><em>Figura 4.9: Captura del boceto de los sistemas de navegación dentro de la plataforma.</em></p>
 
 ### 4.4. Web Applications UX/UI Design
 
@@ -150,7 +183,8 @@ Se muestra a continuación la Wireframe de inicio de sesión que es para ambos s
 
 <p align="center">
   <img align="center" src="assets/inicio de sesion - boceto.png"></p>
-<p align="center"><em>Figura 4.9: Captura del boceto de inicio de sesión.</em></p>
+<p align="center"><em>Figura 4.10: Captura del boceto de inicio de sesión.</em></p>
+
 
 **Registro de la empresa transportista**
 
@@ -159,6 +193,7 @@ Para registrarse le pedira los datos basicos para que asi sea mas factible mostr
 <p align="center">
   <img align="center" src="assets/registro transportista - boceto.png"></p>
 <p align="center"><em>Figura 4.10: Captura del boceto del registro de la empresa transportista.</em></p>
+<p align="center"><em>Figura 4.11: Captura del boceto del registro de la empresa transportista.</em></p>
 
 **Registro del empresario pesquero**
 
@@ -167,6 +202,7 @@ Para registrase lo mas rapido posible y hacer uno de la plataforma , solo se le 
 <p align="center">
   <img align="center" src="assets/registro pesquero- boceto.png"></p>
 <p align="center"><em>Figura 4.11: Captura del boceto del registro de empresario pesquero.</em></p>
+<p align="center"><em>Figura 4.12: Captura del boceto del registro de empresario pesquero.</em></p>
 
 **Funcionalidades de la empresa transportista**
 
@@ -175,6 +211,7 @@ A continuación se mostrará todos los bocetos con las funcionalidades que reali
 <p align="center">
   <img align="center" src="assets/funcionalidades del transportista - boceto.png"></p>
 <p align="center"><em>Figura 4.12: Capturas de los bocetos con las funcionalidades de la empresa transportista.</em></p>
+<p align="center"><em>Figura 4.13: Capturas de los bocetos con las funcionalidades de la empresa transportista.</em></p>
 
 **Funcionalidades del empresario pesquero**
 
@@ -183,6 +220,7 @@ A continuación se mostrará todos los bocetos con las funcionalidades que reali
 <p align="center">
   <img align="center" src="assets/funcionalidades del pesquero - boceto.png"></p>
 <p align="center"><em>Figura 4.13: Capturas de los bocetos con las funcionalidades del empresario pesquero.</em></p>
+<p align="center"><em>Figura 4.14: Capturas de los bocetos con las funcionalidades del empresario pesquero.</em></p>
 
 **Enlace del Figma :** [Ver en Figma](https://www.figma.com/design/6G4202Wv0UNJR3e3yA9GHs/Untitled?node-id=0-1&m=dev&t=4WCujskndBN3NXUK-1)
 
@@ -195,6 +233,7 @@ A continuación se mostrará todos los bocetos con las funcionalidades que reali
 
 <p align="center">
   <img align="center" src="assets/diagrams - inicio.png"></p>
+<p align="center"><em>Figura 4.15: Wireflow Diagrams del ingreso a PescaGo.</em></p>
 <p align="center"><em>Figura 4.14: Wireflow Diagrams del ingreso a PescaGo.</em></p>
 
 **user goal:**<br>
@@ -204,6 +243,7 @@ A continuación se mostrará todos los bocetos con las funcionalidades que reali
 
 <p align="center">
   <img align="center" src="assets/diagrams - transportista.png"></p>
+<p align="center"><em>Figura 4.16: Wireflow Diagrams de la empresa transportista.</em></p>
 <p align="center"><em>Figura 4.15: Wireflow Diagrams de la empresa transportista.</em></p>
 
 **user goal:**<br>
@@ -213,7 +253,8 @@ A continuación se mostrará todos los bocetos con las funcionalidades que reali
 
 <p align="center">
   <img align="center" src="assets/diagrams - pesquero.png"></p>
-<p align="center"><em>Figura 4.16: Wireflow Diagrams del empresario pesquero.</em></p>
+<p align="center"><em>Figura 4.17: Wireflow Diagrams del empresario pesquero.</em></p>
+
 
 **Enlace del Figma :** [Ver en Figma](https://www.figma.com/design/6G4202Wv0UNJR3e3yA9GHs/Untitled?node-id=26-378&m=dev&t=wIVDlU15xFdh7fHu-1)
 
@@ -226,6 +267,7 @@ Se muestra a continuación los mock-ups de inicio de sesión que es para ambos s
 <p align="center">
   <img align="center" src="assets/mock ups - ambos usuarios.png"></p>
 <p align="center"><em>Figura 4.17: Web Applications del inicio de sesión.</em></p>
+<p align="center"><em>Figura 4.18: Web Applications del inicio de sesión.</em></p>
 
 **Mock-ups de la empresa transportista**
 
@@ -234,6 +276,7 @@ A continuación se mostrará todos los bocetos con las funcionalidades que reali
 <p align="center">
   <img align="center" src="assets/mock ups - transportista.png"></p>
 <p align="center"><em>Figura 4.18: Web Applications Mock-ups de la empresa transportista.</em></p>
+<p align="center"><em>Figura 4.19: Web Applications Mock-ups de la empresa transportista.</em></p>
 
 **Mock-ups del empresario pesquero**
 
@@ -241,7 +284,8 @@ A continuación se mostrará todos los bocetos con las funcionalidades que reali
 
 <p align="center">
   <img align="center" src="assets/mock ups - pesquero.png"></p>
-<p align="center"><em>Figura 4.19: Web Applications Mock-ups del empresario pesquero.</em></p>
+<p align="center"><em>Figura 4.20: Web Applications Mock-ups del empresario pesquero.</em></p>
+
 
 **Enlace del Figma :** [Ver en Figma](https://www.figma.com/design/6G4202Wv0UNJR3e3yA9GHs/Untitled?node-id=26-379&m=dev&t=4WCujskndBN3NXUK-1)
 
@@ -267,6 +311,7 @@ Para una mejor comprensión del flujo, puede consultar el diagrama ilustrativo. 
 <p align="center">
   <img align="center" src="assets/Use flow diagrams-inicio.jpeg"></p>
 <p align="center"><em>Figura 4.20: Web Applications User Flow Diagrams del inicio de sesión.</em></p>
+<p align="center"><em>Figura 4.21: Web Applications User Flow Diagrams del inicio de sesión.</em></p>
 
 **- User goal:**<br>
 **Como Empresa de transportes quiero poder comprender e interactuar con el servicio que la aplicación web me está proporcionando Para así poder generar las solicitudes de una manera clara y correcta sin temor a equivocación.**<br><br>
@@ -289,6 +334,7 @@ Para una mejor comprensión del flujo, puede consultar el diagrama ilustrativo. 
 
 <p align="center">
   <img align="center" src="assets/Use flow diagrams-transportista.jpeg"></p>
+<p align="center"><em>Figura 4.22: Web Applications User Flow Diagrams de la empresa transportista.</em></p>
 <p align="center"><em>Figura 4.21: Web Applications User Flow Diagrams de la empresa transportista.</em></p>
 
 **- User goal:**<br>
@@ -319,7 +365,8 @@ Para una mejor comprensión del flujo, puede consultar el diagrama ilustrativo. 
 
 <p align="center">
   <img align="center" src="assets/Use flow diagrams-pesquero.jpeg"></p>
-<p align="center"><em>Figura 4.22: Web Applications User Flow Diagrams del empresario pesquero.</em></p>
+<p align="center"><em>Figura 4.23: Web Applications User Flow Diagrams del empresario pesquero.</em></p>
+
 
 **Enlace del Miro :** [Ver en Miro](https://miro.com/welcomeonboard/TFg1SVlscDQwdGlNWHZhNkpSeUE5aWhnRm51ZURXc2YvNjRrTlBsS3BwVHdnbE05SFFVSFpwMCtSKzZ0MHUwUk44VU1kYXVaL0pLbDBwaVNnTzVvRnZ5RXlDZ2dXMHg4ZmEzS0plNWNZZDMzUEk3YzYrSG4rb3djRVJhL2I2dGxnbHpza3F6REdEcmNpNEFOMmJXWXBBPT0hdjE=?share_link_id=756884883545)
 
@@ -332,6 +379,7 @@ Como parte del proceso, se elaboró un video demostrativo donde se interactúa c
 <p align="center">
   <img align="center" src="assets/Prototipo - explicacion.jpeg"></p>
 <p align="center"><em>Figura 4.23: Captura de video sobre la interacción con el prototipo.</em></p>
+<p align="center"><em>Figura 4.24: Captura de video sobre la interacción con el prototipo.</em></p>
 
 **Enlace del Clipchamp :** [Ver en Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c131_upc_edu_pe/Efpo172zIoBCqdcPsvyc_CYBYJRY-YugLBOZwhibyoZ5lw?e=XpmDJD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
