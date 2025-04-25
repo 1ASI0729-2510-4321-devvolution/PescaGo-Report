@@ -245,9 +245,7 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
     <td><strong>Prado Vargas, Mario Benjamin</strong><br>
     <strong>TB1:</strong> Realicé el User Personas, User Task Matrix, User Journey Mapping, Empathy Mapping, As-Is Scenario Mapping, Ubiquitous Language, Software Architecture Context Diagram, Container Diagrams, Components Diagrams, Landing Page Wireframe, Landing Page Mock-up</td>
   </tr>
-  <tr>
-    <td></td>
-  </tr>
+ 
   <tr>
     <td rowspan="5"><strong>Comunica por escrito con efectividad a diferentes rangos de audiencia</strong></td>
     <td></td>
@@ -270,11 +268,8 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
     <td><strong>Prado Vargas, Mario Benjamin</strong><br>
     <strong>TB1:</strong> Mis contribuciones en la primera entrega incluyeron la documentación y estructuración técnica del proyecto mediante bounded contexts y diagramas, así como la creación de la landing page, sentando las bases funcionales y visuales para el desarrollo de PescaGo. </td>
   </tr>
-  <tr>
-    <td></td>
-  </tr>
+  
 </table>
-<<<<<<< Updated upstream
 
 # Capítulo I: Introducción
 
@@ -290,14 +285,14 @@ Como respuesta, presentamos PescaGo, una plataforma que busca facilitar la comun
 
 <div align="center">
 
-| Nombres y Apellidos |  Código  | Carrera | Conocimientos técnicos/ Habilidades | Foto |
-|----------|------------|----------|------------|------|
-| Alexandra Belen Ramos Argüelles | U202215164 | Ingeniería de Software | **Frontend:** Angular, Vue y Flutter.<br>**Backend:** Desarrollo de APIs REST con Spring Boot y .NET. <br>**Conocimientos adicionales:** C++, C# Python, gestión de bases de datos.|<img src="https://github.com/1ASI0729-2510-4321-devvolution/PescaGo-Report/blob/main/img/alexandra_ramos.png?raw=true" widht="350" height="160">|
-| Ian Macavilca Quispe | U202121325 | Ingeniería de Software | **Frontend:** Angular, Vue, React y Flutter.<br>**Backend:** Desarrollo de APIs REST con Spring Boot y .NET. <br>**Conocimientos adicionales:** C++, Python, gestión de bases de datos.|<img src="https://github.com/1ASI0729-2510-4321-devvolution/PescaGo-Report/blob/main/img/ian_macavilca.png?raw=true" widht="350" height="160">
+| Nombres y Apellidos             | Código     | Carrera                | Conocimientos técnicos/ Habilidades                                                                                                                                                                                                                                                                                                                                                                             | Foto                                                                                                                                             |
+| ------------------------------- | ---------- | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Alexandra Belen Ramos Argüelles | U202215164 | Ingeniería de Software | **Frontend:** Angular, Vue y Flutter.<br>**Backend:** Desarrollo de APIs REST con Spring Boot y .NET. <br>**Conocimientos adicionales:** C++, C# Python, gestión de bases de datos.                                                                                                                                                                                                                             | <img src="https://github.com/1ASI0729-2510-4321-devvolution/PescaGo-Report/blob/main/img/alexandra_ramos.png?raw=true" widht="350" height="160"> |
+| Ian Macavilca Quispe            | U202121325 | Ingeniería de Software | **Frontend:** Angular, Vue, React y Flutter.<br>**Backend:** Desarrollo de APIs REST con Spring Boot y .NET. <br>**Conocimientos adicionales:** C++, Python, gestión de bases de datos.                                                                                                                                                                                                                         | <img src="https://github.com/1ASI0729-2510-4321-devvolution/PescaGo-Report/blob/main/img/ian_macavilca.png?raw=true" widht="350" height="160">   |
 | Maria Fernanda Fernandez Alva   | U20201C131 | Ingeniería de Software | **Frontend:** Angular y Vue .<br>**Backend:** Desarrollo de APIs REST con Spring Boot y .NET. <br>**Conocimientos adicionales:** C++, C# , gestión de bases de datos. También cuento con base en TypeScript, HTML y algo de CSS. Actualmente estoy fortaleciendo mis habilidades en bases de datos a través de cursos de SQL.                                                                                   | <img src="https://github.com/1ASI0729-2510-4321-devvolution/PescaGo-Report/blob/main/img/Maria_fernandez.png?raw=true" widht="350" height="160"> |
 | Paolo Eduardo Belleza Tello     | U20191A137 | Ingeniería de Software | **Frontend:** Angular y Vue .<br>**Backend:** Desarrollo de APIs REST con Spring Boot y .NET. <br>**Conocimientos adicionales:** C++, C# ,Python, gestión de bases de datos. También cuento con base en HTML y algo de CSS. Actualmente estoy fortaleciendo mis habilidades en bases de datos a través de cursos de SQL. También me encuentro estudiando Git para mejorar la gestión de versiones en proyectos. | <img src="https://github.com/1ASI0729-2510-4321-devvolution/PescaGo-Report/blob/main/img/Paolo_belleza.jpg?raw=true" width="350" height="160">   |
 | Mario Benjamin Prado Vargas     | U202115357 | Ingeniería de Software | **Frontend:** Angular, Tailwind .<br>**Backend:** Desarrollo de APIs REST con Spring Boot y .NET. <br>**Conocimientos adicionales:** C++, gestión de bases de datos, java, python, javascript. También cuento con base en HTML, CSS y el framework Tailwind v4.0. Actualmente estoy aprendiendo desarrollo de redes neuronales y machine learning.                                                              | <img src="https://github.com/1ASI0729-2510-4321-devvolution/PescaGo-Report/blob/main/img/mario_prado.jpeg?raw=true" width="350" height="160">    |
-|                                 |            |                        |                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                                 |
+|                                 |            |                        |                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                                                                  |
 
 </div>
 
@@ -455,8 +450,8 @@ Dentro de nuestra propuesta de solución, identificamos dos segmentos clave los 
 
 Es vital para la estrategia y planificación de nuestro producto conocer a fondo el panorama competitivo. Por ello, en este apartado explicaremos quiénes son nuestros competidores y describiremos sus aspectos más relevantes.
 
-| EMPRESA    | DESCRIPCIÓN                                                                                                                                                                                                                                                                | IMAGEN                                        |
-| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
+| EMPRESA    | DESCRIPCIÓN                                                                                                                                                                                                                                                                | IMAGEN                                                  |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
 | DeltaX     | Esta se presenta como una plataforma digital de transporte para Latinoamérica, con operaciones específicas en Perú. Podría ser un competidor directo si conecta a generadores de carga con transportistas en la región.                                                    | ![DeltaX Logo](chapter-2/assets/logo_deltax.jpeg)       |
 | Movil Move | Se describe como una aplicación para empresas de transporte de pasajeros, carga, mensajería y domicilios en Perú. Si bien su enfoque parece ser más amplio, podría tener funcionalidades para conectar a empresas con necesidades de carga con transportistas disponibles. | ![Movil Move Logo](chapter-2/assets/logo_movilmove.png) |
 | Efletex    | Mencionada como una startup peruana que conecta proveedores y usuarios de transporte de carga a través de una app móvil.                                                                                                                                                   | ![Efletex Logo](chapter-2/assets/logo_efletex.jpeg)     |
@@ -467,7 +462,7 @@ En esta sección analizaremos nuestros competidores de manera profunda. Investig
 
 |                                             |                                       | DeltaX                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Movil Move                                                                                                                                                                                                                                                                                          | Efletex                                                                                                                                                                                                                                                                                                    |
 | ------------------------------------------- | ------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|                                             | **Nombre y Logo**                     | ![DeltaX Logo](chapter-2/assets/logo_deltax.jpeg)                                                                                                                                                                                                                                                                                                                                                                                                                                             | ![Movil Move Logo](chapter-2/assets/logo_movilmove.png)                                                                                                                                                                                                                                                       | ![Efletex Logo](chapter-2/assets/logo_efletex.jpeg)                                                                                                                                                                                                                                                                  |
+|                                             | **Nombre y Logo**                     | ![DeltaX Logo](chapter-2/assets/logo_deltax.jpeg)                                                                                                                                                                                                                                                                                                                                                                                                                                   | ![Movil Move Logo](chapter-2/assets/logo_movilmove.png)                                                                                                                                                                                                                                             | ![Efletex Logo](chapter-2/assets/logo_efletex.jpeg)                                                                                                                                                                                                                                                        |
 | **Perfil**                                  | **Overview**                          | Plataforma digital de transporte de carga que opera en América Latina, con un enfoque en Perú. Conecta a remitentes con transportistas disponibles, facilitando el transporte de mercancías.                                                                                                                                                                                                                                                                                        | Aplicación móvil diseñada para transporte de pasajeros, carga, mensajería y entregas a domicilio en Perú. Aunque se enfoca principalmente en el transporte de pasajeros, también ofrece servicios de entrega de carga.                                                                              | Startup peruana que conecta proveedores y usuarios de transporte de carga a través de una aplicación móvil. Busca agilizar el proceso logístico para remitentes y transportistas.                                                                                                                          |
 | **Ventaja competitiva**                     | **¿Qué valor ofrece a los clientes?** | Agiliza el proceso logístico para remitentes y transportistas. Proporciona una plataforma centralizada para que los remitentes encuentren y reserven servicios de transporte, mientras que ofrece a los transportistas acceso a una mayor cantidad de clientes potenciales. La plataforma también ofrece funciones como seguimiento en tiempo real, documentación automatizada y procesamiento de pagos, lo que hace que todo el proceso de envío sea más eficiente y transparente. | Proporciona una forma conveniente y eficiente para que individuos y empresas reserven servicios de transporte para pasajeros, carga o entregas. La aplicación ofrece seguimiento en tiempo real, pagos en línea y atención al cliente, lo que facilita la gestión de las necesidades de transporte. | Proporciona una forma conveniente y eficiente para que los remitentes encuentren y reserven servicios de transporte. La aplicación ofrece seguimiento en tiempo real, pagos en línea y atención al cliente, lo que facilita la gestión de las necesidades de envío.                                        |
 | **Perfil de Marketing**                     | **Mercado objetivo**                  | Principalmente pequeñas y medianas empresas en Perú que necesitan transportar mercancías dentro del país o a regiones vecinas.                                                                                                                                                                                                                                                                                                                                                      | Individuos y empresas en Perú que necesitan servicios de transporte para pasajeros, carga o entregas.                                                                                                                                                                                               | Principalmente pequeñas y medianas empresas en Perú que necesitan transportar mercancías dentro del país.                                                                                                                                                                                                  |
@@ -749,7 +744,6 @@ _Entrevistado 4_
 <strong>Resumen: </strong><br>
 Miguel Rivera, vendedor de pescado fresco como anchoveta, jurel y bonito, nos comenta que realiza envíos semanales a Lima y, en menor medida, a Ecuador y Chile, dependiendo de la temporada. Actualmente trabaja con camiones refrigerados, pero señala que estos no siempre mantienen una temperatura constante, lo cual afecta la calidad del producto. Nos dice que necesita vehículos con buen sistema de refrigeración y monitoreo en tiempo real. Realiza inspecciones al recibir la carga, aunque a veces pierde producto por fallas. Requiere permisos específicos para transportar y exportar. Espera que una plataforma le permita encontrar transportistas confiables, hacer seguimiento de la temperatura, ver referencias y comunicarse fácilmente. Aunque considera importante el precio, valora más la calidad del servicio. Prefiere comunicarse por teléfono o WhatsApp y pagar por envío, aunque estaría abierto a una suscripción si garantiza disponibilidad y calidad. Nos comenta que probaría una nueva app si le ofrece garantías reales, como monitoreo constante y transportistas certificados.
 
-
 ### 2.2.3. Análisis de entrevistas
 
 Ambos entrevistados representan un segmento de mercado con necesidades similares pero con algunas preferencias distintas. Una plataforma exitosa debería considerar:
@@ -876,9 +870,9 @@ Sinónimos: Seguimiento, Status del viaje.
 Definición: Es la evaluación y comentario que un usuario (Transportista o Remitente) realiza sobre la experiencia con la otra parte una vez completado el Viaje. Las calificaciones contribuyen a la reputación de los usuarios dentro de la plataforma.
 Sinónimos: Puntuación, Valoración, Feedback.
 
-
 ## Capítulo III: Requirements Specification
-### 3.1. To-Be Scenario Mapping 
+
+### 3.1. To-Be Scenario Mapping
 
 **Segmento de empresa de transportes**
 
@@ -900,6 +894,7 @@ Busca empresas de transporte confiables para enviar sus paquetes de forma segura
 **Enlace del To-Be Scenario Mapping:** [Ver en Miro](https://miro.com/app/board/uXjVID8wvf0=/?share_link_id=911528094729)
 
 ### 3.2. User Stories
+
 <table>
 <colgroup>
 <col style="width: 20%" />
@@ -1418,11 +1413,12 @@ usuario en el sistema</p></td>
 </tbody>
 </table>
 
-### 3.3. Impact Mapping 
+### 3.3. Impact Mapping
 
 **Segmento de empresa de transportes**
 
 El siguiente Impact Mapping muestra de manera clara cómo las empresas de transporte logran organizar sus procesos dentro de la aplicación, permitiendo definir precios, gestionar solicitudes y brindar confianza a sus clientes mediante la asignación de vehículos y conductores. Esta herramienta ayuda a visualizar las funcionalidades clave que permitirán a las empresas ofrecer un servicio seguro y eficiente.(Ver figura 3.3)
+
 <p align="center">
   <img align="center" src="chapter-3/assets/Impact map - Transportista.png" alt="Impact Mapping del segmento de Empresa de Transportes"></p>
 <p align="center"><em>Figura 3.3: Impact Mapping del segmento de Empresa de Transportes.</em></p>
@@ -1430,6 +1426,7 @@ El siguiente Impact Mapping muestra de manera clara cómo las empresas de transp
 **Segmento de empresario pesquero**
 
 A continuación, se presenta el Impact Mapping enfocado en los empresarios pesqueros, que buscan seleccionar de forma segura y rápida a empresas de transporte confiables para el envío de sus productos. Este mapeo permite identificar las funcionalidades necesarias para mejorar su experiencia en la búsqueda, selección y mayor manejo en el cuidado de sus paquetes.(Ver figura 3.4)
+
 <p align="center">
   <img align="center" src="chapter-3/assets/Impact map - Pesquero.png" alt="Impact Mapping del segmento de Empresario pesquero"></p>
 <p align="center"><em>Figura 3.4: Impact Mapping del segmento de Empresario pesquero.</em></p>
@@ -1599,8 +1596,3 @@ A continuación, se presenta el Impact Mapping enfocado en los empresarios pesqu
     <td align="center">1</td>
   </tr>
 </table>
-
-
-
-=======
->>>>>>> Stashed changes
