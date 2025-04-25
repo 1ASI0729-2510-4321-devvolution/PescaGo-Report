@@ -35,7 +35,7 @@ En esta sección describimos los productos de software que hemos usado en el pro
     - Angular: Es un framework que usaremos para el desarrollo frontend de la aplicación web
 
   - Software Deployment
-    - Netify: Plataforma para desplegar la landing page
+    - Netlify: Plataforma para desplegar la landing page
 
   #### 5.1.2. Source Code Management
 
