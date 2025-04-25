@@ -337,22 +337,22 @@ Para la entrega del Sprint 1, nos enfocamos en lograr el desarrollo completo y e
    En este sprint, el equipo logro desplegar la primera versión de la landing page satisfactoriamente, en este punto se mostrara la evidencia de ello.   
    
    #### Inicio
-   <img src="./assets/landing_d1_01.png"/>
+   <img src="./assets/landing_d1_01.PNG"/>
 
    #### Caracteristicas
-   <img src="./assets/landing_d1_02.png"/>
+   <img src="./assets/landing_d1_02.PNG"/>
 
    #### Cómo Funciona
-   <img src="./assets/landing_d1_03.png"/>
+   <img src="./assets/landing_d1_03.PNG"/>
 
    #### Testimonios
-   <img src="./assets/landing_d1_04.png"/>
+   <img src="./assets/landing_d1_04.PNG"/>
 
    #### Beneficios
-   <img src="./assets/landing_d1_05.png"/>
+   <img src="./assets/landing_d1_05.PNG"/>
 
    #### Contacto
-   <img src="./assets/landing_d1_06.png"/>   
+   <img src="./assets/landing_d1_06.PNG"/>   
 
    #### 5.2.1.6. Services Documentation Evidence for Sprint Review
    
