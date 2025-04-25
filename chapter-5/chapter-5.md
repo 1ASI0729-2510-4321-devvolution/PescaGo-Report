@@ -384,6 +384,26 @@ A continuación, se compartirá la tabla de colaboradores del repositorio de Git
   
 
 <img src="./assets/commits_sprint1.PNG" alt="imagen de commits"/>
+
+## Conclusiones
+
+### Conclusiones y recomendaciones
+
+Tras un periodo de cuatro semanas de trabajo intensivo, se ha completado exitosamente el primer sprint del proyecto. Durante esta fase inicial, se abordaron aspectos fundamentales para el desarrollo de la aplicación web.
+
+En primer lugar, se llevó a cabo un exhaustivo análisis de la experiencia del usuario (UX) con el objetivo de comprender en profundidad las necesidades de los futuros usuarios y determinar la manera más eficaz de satisfacerlas a través de una interfaz intuitiva y eficiente. La elaboración de diagramas AS-IS y TO-BE permitió visualizar el estado actual y el estado futuro deseado del flujo de trabajo dentro de la aplicación, identificando áreas susceptibles de mejora y optimización.
+
+Adicionalmente, se desarrolló un backlog de historias de usuario, lo cual facilitó la priorización de las funcionalidades esenciales que serán implementadas en las siguientes etapas del proyecto. Este backlog constituirá una guía para el desarrollo continuo, asegurando el enfoque en la consecución de los objetivos previamente establecidos.
+
+Asimismo, se dedicó un esfuerzo significativo al diseño y desarrollo de la página de inicio (landing page) de la aplicación, la cual representará la primera interacción de los usuarios con la plataforma. Se elaboraron mockups detallados para esta página, garantizando la coherencia con los principios de diseño definidos durante el análisis UX.
+
+En resumen, este primer sprint ha permitido establecer una base sólida para el proyecto, alineando los objetivos y definiendo una hoja de ruta clara para las fases venideras. El trabajo colaborativo y la meticulosa atención al detalle han sido cruciales para alcanzar los resultados obtenidos hasta el momento, y el equipo se encuentra en una posición favorable para avanzar en las próximas etapas de desarrollo.
+
+## Video About-the-Team
+
+## Bibliografía
+
+## Anexos
   
     
               
