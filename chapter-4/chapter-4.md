@@ -116,7 +116,7 @@ Por último, hemos considerado las **etiquetas por rol de usuario**. Por ejemplo
 
 #### 4.2.3. SEO Tags and Meta Tags
 
-Para garantizar que PescaGo sea fácilmente encontrado por motores de búsqueda y que su presentación en los resultados de búsqueda sea clara y atractiva, se han definido etiquetas SEO y metaetiquetas específicas tanto para la Landing Page como para la Web Application. Estas etiquetas ayudan a mejorar el posicionamiento orgánico (SEO), incrementar la visibilidad en línea y transmitir confianza a los usuarios desde el primer contacto. 
+Para garantizar que PescaGo sea fácilmente encontrado por motores de búsqueda y que su presentación en los resultados de búsqueda sea clara y atractiva, se han definido etiquetas SEO y metaetiquetas específicas tanto para la Landing Page como para la Web Application. Estas etiquetas ayudan a mejorar el posicionamiento orgánico (SEO), incrementar la visibilidad en línea y transmitir confianza a los usuarios desde el primer contacto.
 
 ### Landing Page
 
@@ -130,7 +130,6 @@ PescaGo optimiza la logística de tus productos marinos conectando a transportis
 
 Pesca, Transporte pesquero, Logística marítima, Envíos pesqueros, Plataforma pesquera, Conectar transporte pesca, PescaGo Perú, Comercio pesquero digital
 
-
 ### Web Application
 
 PescaGo: Panel de Usuario - Gestión de Envíos y Rutas
@@ -143,17 +142,15 @@ Accede a tu cuenta en PescaGo para gestionar envíos, registrar rutas, recibir n
 
 Gestión de envíos, Transporte marítimo, Logística pesquera, Rutas, Plataforma logística, Seguimiento de envíos
 
-
 #### 4.2.4. Searching Systems
 
-En lo que respeta a los sistemas de búsqueda, PescaGo ha sido diseñado para ofrecer una experiencia de búsqueda intuitiva y eficaz. 
+En lo que respeta a los sistemas de búsqueda, PescaGo ha sido diseñado para ofrecer una experiencia de búsqueda intuitiva y eficaz.
 
 Para los empresarios, esta implementación está enfocada directamente para la búsqueda de empresas transportistas y utilizar los filtros para luego visualizar toda la información mediante Cards visuales. Dentro de estas Cards se observará información como el **Nombre de la empresa**, **Descripción de la Empresa** y los distritos de cobertura.
 
 <p align="center">
   <img align="center" src="assets/searching-system-1.png"></p>
 <p align="center"><em>Figura 4.7: Captura del boceto de búsqueda de empresas transportistas.</em></p>
-
 
 <p align="center">
   <img align="center" src="assets/searching-system-2.png"></p>
@@ -184,7 +181,6 @@ Se muestra a continuación la Wireframe de inicio de sesión que es para ambos s
 <p align="center">
   <img align="center" src="assets/inicio de sesion - boceto.png"></p>
 <p align="center"><em>Figura 4.10: Captura del boceto de inicio de sesión.</em></p>
-
 
 **Registro de la empresa transportista**
 
@@ -255,7 +251,6 @@ A continuación se mostrará todos los bocetos con las funcionalidades que reali
   <img align="center" src="assets/diagrams - pesquero.png"></p>
 <p align="center"><em>Figura 4.17: Wireflow Diagrams del empresario pesquero.</em></p>
 
-
 **Enlace del Figma :** [Ver en Figma](https://www.figma.com/design/6G4202Wv0UNJR3e3yA9GHs/Untitled?node-id=26-378&m=dev&t=wIVDlU15xFdh7fHu-1)
 
 #### 4.4.3. Web Applications Mock-ups
@@ -285,7 +280,6 @@ A continuación se mostrará todos los bocetos con las funcionalidades que reali
 <p align="center">
   <img align="center" src="assets/mock ups - pesquero.png"></p>
 <p align="center"><em>Figura 4.20: Web Applications Mock-ups del empresario pesquero.</em></p>
-
 
 **Enlace del Figma :** [Ver en Figma](https://www.figma.com/design/6G4202Wv0UNJR3e3yA9GHs/Untitled?node-id=26-379&m=dev&t=4WCujskndBN3NXUK-1)
 
@@ -366,7 +360,6 @@ Para una mejor comprensión del flujo, puede consultar el diagrama ilustrativo. 
 <p align="center">
   <img align="center" src="assets/Use flow diagrams-pesquero.jpeg"></p>
 <p align="center"><em>Figura 4.23: Web Applications User Flow Diagrams del empresario pesquero.</em></p>
-
 
 **Enlace del Miro :** [Ver en Miro](https://miro.com/welcomeonboard/TFg1SVlscDQwdGlNWHZhNkpSeUE5aWhnRm51ZURXc2YvNjRrTlBsS3BwVHdnbE05SFFVSFpwMCtSKzZ0MHUwUk44VU1kYXVaL0pLbDBwaVNnTzVvRnZ5RXlDZ2dXMHg4ZmEzS0plNWNZZDMzUEk3YzYrSG4rb3djRVJhL2I2dGxnbHpza3F6REdEcmNpNEFOMmJXWXBBPT0hdjE=?share_link_id=756884883545)
 
