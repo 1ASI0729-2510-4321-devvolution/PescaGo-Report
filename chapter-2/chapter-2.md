@@ -249,6 +249,56 @@ Busca una app fácil de usar, con guía, búsqueda por distrito, formularios par
 <strong>Resumen: </strong><br>
 Juan Pérez, de 24 años, trabaja en Transporte Pérez, un negocio familiar en Callao que se dedica al transporte de carga refrigerada, principalmente productos pesqueros como pescado y mariscos. Cuentan con dos camiones refrigerados (5 y 8 toneladas) y realizan rutas frecuentes dentro de Lima y Callao, aunque a veces viajan a provincias cercanas. Actualmente, consiguen clientes por recomendaciones, pero Juan menciona que uno de sus mayores desafíos es encontrar cargas de forma constante para evitar viajar vacío, lo que afecta sus ingresos. También destacó la importancia de conocer los detalles de la carga (tipo, temperatura, destino) antes de aceptarla y de tener un sistema claro para coordinar entregas y pagos. Juan expresó interés en una plataforma que le permita encontrar clientes rápidamente, mostrar la calidad de sus servicios, y gestionar todo el proceso (solicitudes, comunicación, pagos) de forma digital, priorizando la confiabilidad y la eficiencia para maximizar sus viajes.
 
+_Entrevistado 4_
+
+<table border="1" style="text-align: left;">
+	<tbody>
+		<tr>
+			<td colspan="1" rowspan="6"><img src="assets/empresario-pesquero-2.jpg" alt="" width="575" height="250"></td>
+            <td colspan="1" rowspan="1"><strong>Nombre del entrevistado:
+            <br>
+            </strong> Miguel Rivera
+            </td>
+		</tr>
+        <tr>
+            <td>
+            <strong>Edad:<br></strong> 40 años
+            <br>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Distrito:</strong> 
+            <br>Surquillo
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Nombre del entrevistador:</strong>
+            <br>Alexandra Belen
+            <br>Ramos Argüelles
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Timming: </strong>
+            <br>--<br>
+            <strong>Duración: </strong>
+            <br>06:10:00
+            </td>
+        </tr>
+        <tr>
+            <td>
+             <strong><a href="https://www.canva.com/design/DAGlk1jQ5ow/b33aFtHzILb4Eo1IqCrJsw/watch?utm_content=DAGlk1jQ5ow&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h86049f25bd">URL Entrevista</a></strong>
+            </td>
+        </tr>        
+	</tbody>
+</table>
+
+<strong>Resumen: </strong><br>
+Miguel Rivera, vendedor de pescado fresco como anchoveta, jurel y bonito, nos comenta que realiza envíos semanales a Lima y, en menor medida, a Ecuador y Chile, dependiendo de la temporada. Actualmente trabaja con camiones refrigerados, pero señala que estos no siempre mantienen una temperatura constante, lo cual afecta la calidad del producto. Nos dice que necesita vehículos con buen sistema de refrigeración y monitoreo en tiempo real. Realiza inspecciones al recibir la carga, aunque a veces pierde producto por fallas. Requiere permisos específicos para transportar y exportar. Espera que una plataforma le permita encontrar transportistas confiables, hacer seguimiento de la temperatura, ver referencias y comunicarse fácilmente. Aunque considera importante el precio, valora más la calidad del servicio. Prefiere comunicarse por teléfono o WhatsApp y pagar por envío, aunque estaría abierto a una suscripción si garantiza disponibilidad y calidad. Nos comenta que probaría una nueva app si le ofrece garantías reales, como monitoreo constante y transportistas certificados.
+
+
 ### 2.2.3. Análisis de entrevistas
 
 Ambos entrevistados representan un segmento de mercado con necesidades similares pero con algunas preferencias distintas. Una plataforma exitosa debería considerar:
