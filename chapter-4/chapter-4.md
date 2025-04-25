@@ -116,7 +116,7 @@ Por último, hemos considerado las **etiquetas por rol de usuario**. Por ejemplo
 
 #### 4.2.3. SEO Tags and Meta Tags
 
-Para garantizar que PescaGo sea fácilmente encontrado por motores de búsqueda y que su presentación en los resultados de búsqueda sea clara y atractiva, se han definido etiquetas SEO y metaetiquetas específicas tanto para la Landing Page como para la Web Application. Estas etiquetas ayudan a mejorar el posicionamiento orgánico (SEO), incrementar la visibilidad en línea y transmitir confianza a los usuarios desde el primer contacto. 
+Para garantizar que PescaGo sea fácilmente encontrado por motores de búsqueda y que su presentación en los resultados de búsqueda sea clara y atractiva, se han definido etiquetas SEO y metaetiquetas específicas tanto para la Landing Page como para la Web Application. Estas etiquetas ayudan a mejorar el posicionamiento orgánico (SEO), incrementar la visibilidad en línea y transmitir confianza a los usuarios desde el primer contacto.
 
 ### Landing Page
 
@@ -130,7 +130,6 @@ PescaGo optimiza la logística de tus productos marinos conectando a transportis
 
 Pesca, Transporte pesquero, Logística marítima, Envíos pesqueros, Plataforma pesquera, Conectar transporte pesca, PescaGo Perú, Comercio pesquero digital
 
-
 ### Web Application
 
 PescaGo: Panel de Usuario - Gestión de Envíos y Rutas
@@ -143,17 +142,15 @@ Accede a tu cuenta en PescaGo para gestionar envíos, registrar rutas, recibir n
 
 Gestión de envíos, Transporte marítimo, Logística pesquera, Rutas, Plataforma logística, Seguimiento de envíos
 
-
 #### 4.2.4. Searching Systems
 
-En lo que respeta a los sistemas de búsqueda, PescaGo ha sido diseñado para ofrecer una experiencia de búsqueda intuitiva y eficaz. 
+En lo que respeta a los sistemas de búsqueda, PescaGo ha sido diseñado para ofrecer una experiencia de búsqueda intuitiva y eficaz.
 
 Para los empresarios, esta implementación está enfocada directamente para la búsqueda de empresas transportistas y utilizar los filtros para luego visualizar toda la información mediante Cards visuales. Dentro de estas Cards se observará información como el **Nombre de la empresa**, **Descripción de la Empresa** y los distritos de cobertura.
 
 <p align="center">
   <img align="center" src="assets/searching-system-1.png"></p>
 <p align="center"><em>Figura 4.7: Captura del boceto de búsqueda de empresas transportistas.</em></p>
-
 
 <p align="center">
   <img align="center" src="assets/searching-system-2.png"></p>
@@ -184,7 +181,6 @@ Se muestra a continuación la Wireframe de inicio de sesión que es para ambos s
 <p align="center">
   <img align="center" src="assets/inicio de sesion - boceto.png"></p>
 <p align="center"><em>Figura 4.10: Captura del boceto de inicio de sesión.</em></p>
-
 
 **Registro de la empresa transportista**
 
@@ -255,7 +251,6 @@ A continuación se mostrará todos los bocetos con las funcionalidades que reali
   <img align="center" src="assets/diagrams - pesquero.png"></p>
 <p align="center"><em>Figura 4.17: Wireflow Diagrams del empresario pesquero.</em></p>
 
-
 **Enlace del Figma :** [Ver en Figma](https://www.figma.com/design/6G4202Wv0UNJR3e3yA9GHs/Untitled?node-id=26-378&m=dev&t=wIVDlU15xFdh7fHu-1)
 
 #### 4.4.3. Web Applications Mock-ups
@@ -285,7 +280,6 @@ A continuación se mostrará todos los bocetos con las funcionalidades que reali
 <p align="center">
   <img align="center" src="assets/mock ups - pesquero.png"></p>
 <p align="center"><em>Figura 4.20: Web Applications Mock-ups del empresario pesquero.</em></p>
-
 
 **Enlace del Figma :** [Ver en Figma](https://www.figma.com/design/6G4202Wv0UNJR3e3yA9GHs/Untitled?node-id=26-379&m=dev&t=4WCujskndBN3NXUK-1)
 
@@ -367,7 +361,6 @@ Para una mejor comprensión del flujo, puede consultar el diagrama ilustrativo. 
   <img align="center" src="assets/Use flow diagrams-pesquero.jpeg"></p>
 <p align="center"><em>Figura 4.23: Web Applications User Flow Diagrams del empresario pesquero.</em></p>
 
-
 **Enlace del Miro :** [Ver en Miro](https://miro.com/welcomeonboard/TFg1SVlscDQwdGlNWHZhNkpSeUE5aWhnRm51ZURXc2YvNjRrTlBsS3BwVHdnbE05SFFVSFpwMCtSKzZ0MHUwUk44VU1kYXVaL0pLbDBwaVNnTzVvRnZ5RXlDZ2dXMHg4ZmEzS0plNWNZZDMzUEk3YzYrSG4rb3djRVJhL2I2dGxnbHpza3F6REdEcmNpNEFOMmJXWXBBPT0hdjE=?share_link_id=756884883545)
 
 ### 4.5. Web Applications Prototyping.
@@ -382,6 +375,67 @@ Como parte del proceso, se elaboró un video demostrativo donde se interactúa c
 <p align="center"><em>Figura 4.24: Captura de video sobre la interacción con el prototipo.</em></p>
 
 **Enlace del Clipchamp :** [Ver en Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c131_upc_edu_pe/Efpo172zIoBCqdcPsvyc_CYBYJRY-YugLBOZwhibyoZ5lw?e=XpmDJD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+### 4.6. Domain-Driven Software Architecture.
+
+#### 4.6.1. Software Architecture Context Diagram.
+
+El Diagrama de Contexto muestra una vista general de la Plataforma PescaGo, sus usuarios y los sistemas externos con los que interactúa.
+
+- **Plataforma PescaGo:** Plataforma web que conecta empresarios pesqueros y empresas de transporte para facilitar el transporte de productos pesqueros.
+- **Empresario Pesquero:** Interactúa con PescaGo para crear solicitudes de transporte, seleccionar empresas de transporte, pagar servicios y rastrear envíos.
+- **Empresa Transportista:** Usa PescaGo para recibir solicitudes de transporte, enviar cotizaciones, proporcionar información de vehículos/conductores y gestionar servicios confirmados.
+- **Payment Gateway:** Sistema externo que PescaGo usa para procesar pagos de servicios de transporte.
+- **Email/Notification Service:** Envía confirmaciones, actualizaciones y notificaciones a los usuarios.
+
+<p align="center">
+  <img align="center" src="assets/context_diagram.jpg"></p>
+<p align="center">
+
+#### 4.6.2. Software Architecture Container Diagrams.
+
+El Diagrama de Contenedores muestra los principales componentes (contenedores) de la Plataforma PescaGo y sus interacciones con usuarios y sistemas externos.
+
+- **Web Application:** Interfaz basada en navegador (Angular/Vue) donde los usuarios interactúan con PescaGo para realizar tareas como crear solicitudes y rastrear envíos.
+- **Backend API:** API RESTful (Spring Boot/.NET) que maneja la lógica de negocio, procesa solicitudes y se comunica con la base de datos y sistemas externos.
+- **Database:** Base de datos relacional que almacena datos de usuarios, solicitudes, cotizaciones, servicios confirmados, vehículos y conductores.
+- **Notification Service:** Servicio interno que envía correos electrónicos o notificaciones a los usuarios (por ejemplo, confirmando una solicitud o pago).
+
+<p align="center">
+  <img align="center" src="assets/container_diagram.jpg"></p>
+<p align="center">
+
+#### 4.6.3. Software Architecture Components Diagrams.
+
+El Diagrama de Componentes detalla los componentes internos del Backend API, organizados en contextos acotados (Bounded Contexts) siguiendo los principios de Domain-Driven Design (DDD).
+
+- **User Management Context:**
+  - _User Controller:_ Recibe solicitudes HTTP para operaciones relacionadas con usuarios.
+  - _User Service:_ Implementa la lógica de negocio para la gestión de usuarios (por ejemplo, validar correos únicos).
+  - _User Repository:_ Realiza operaciones CRUD en las entidades _Usuario_, _EmpresarioPesquero_ y _EmpresaTransportista_ en la base de datos.
+- **Transport Request Context:**
+  - _Request Controller:_ Recibe solicitudes HTTP para crear, actualizar y rastrear solicitudes de transporte.
+  - _Request Service:_ Gestiona el ciclo de vida de _Solicitud_, _Cotizacion_ y _ServicioConfirmado_.
+  - _Request Repository:_ Realiza operaciones CRUD en las entidades relacionadas con solicitudes.
+- **Vehicle Management Context:**
+  - _Vehicle Controller:_ Recibe solicitudes HTTP para gestionar datos de vehículos y conductores.
+  - _Vehicle Service:_ Valida y gestiona datos de _Vehiculo_ y _Conductor_.
+  - _Vehicle Repository:_ Realiza operaciones CRUD en las entidades relacionadas con vehículos.
+- **Payment Context:**
+  - _Payment Service:_ Se comunica con el Payment Gateway para procesar pagos de servicios confirmados.
+- **Notification Context:**
+  - _Notification Service:_ Envía notificaciones (por ejemplo, correos electrónicos) a los usuarios cuando una solicitud es aceptada o un pago es procesado.
+
+**Interacciones:**
+
+- La Web Application envía solicitudes HTTP a los controladores (_User Controller_, _Request Controller_, _Vehicle Controller_).
+- El _Request Service_ interactúa con el _Payment Service_ para procesar pagos después de crear un _ServicioConfirmado_.
+- El _Request Service_ usa el _Notification Service_ para enviar actualizaciones a los usuarios.
+- Todos los repositorios (_User Repository_, _Request Repository_, _Vehicle Repository_) interactúan con la Database para almacenar y recuperar datos.
+
+<p align="center">
+  <img align="center" src="assets/components_diagram.jpg"></p>
+<p align="center">
 
 ### 4.7. Software Object-Oriented Design.
 
