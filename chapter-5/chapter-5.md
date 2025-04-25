@@ -383,7 +383,7 @@ A continuación, se compartirá la tabla de colaboradores del repositorio de Git
 | mariopvdev                    | Prado Vargas, Mario Benjamín     |
   
 
-<img src="./assets/Commits.PNG" alt="imagen de commits"/>
+<img src="./assets/commits_sprint1.PNG" alt="imagen de commits"/>
   
     
               
