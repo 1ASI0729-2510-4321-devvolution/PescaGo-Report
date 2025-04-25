@@ -86,7 +86,8 @@
         ● Capítulo I: Introducción<br>
         ● Capítulo II: Requirements Elicitation & Analysis<br>
         ● Capítulo III: Requirements Specification<br>
-        ● Capítulo IV: Solution Software Design<br>
+        ● Capítulo IV: Product Design<br>
+        ● Capítulo V: Product Implementation, Validation & Deployment<br>
         ● Avance de Conclusiones, Bibliografía y Anexos
       </td>
     </tr>
