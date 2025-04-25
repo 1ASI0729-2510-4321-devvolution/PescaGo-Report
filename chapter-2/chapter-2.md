@@ -94,8 +94,6 @@ En esta sección analizaremos nuestros competidores de manera profunda. Investig
 
 ### 2.2.2. Registro de entrevistas
 
-**Segmento Objetivo 1: Empresa Transportista**
-
 _Entrevistado 1_
 
 <table border="1" style="text-align: left;">
@@ -199,10 +197,6 @@ El entrevistado se dedica a la venta de pescado fresco, principalmente merluza, 
 
 Busca una app fácil de usar, con guía, búsqueda por distrito, formularios para envíos, notificaciones y reseñas reales. Prefiere comunicarse por teléfono, pagar contra entrega con Yape y conocer los datos del transportista por seguridad. Estaría dispuesto a pagar entre 20 y 40 soles por envío si la app ofrece un servicio confiable, idealmente con un periodo de prueba de 30 días.
 
-
-**Segmento Objetivo 2: Empresario Pesquero**
-
-_Entrevistado 1_
 
 ### 2.2.3. Análisis de entrevistas
 
