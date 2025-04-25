@@ -86,7 +86,8 @@
         ● Capítulo I: Introducción<br>
         ● Capítulo II: Requirements Elicitation & Analysis<br>
         ● Capítulo III: Requirements Specification<br>
-        ● Capítulo IV: Solution Software Design<br>
+        ● Capítulo IV: Product Design<br>
+        ● Capítulo V: Product Implementation, Validation & Deployment<br>
         ● Avance de Conclusiones, Bibliografía y Anexos
       </td>
     </tr>
@@ -98,15 +99,23 @@
 
 A continuación, se detalla el proceso de elaboración del informe para cada entrega, junto con capturas de pantalla que muestran los análisis de colaboración y commits en GitHub para el repositorio del informe:
 
-**Link del repositorio-Informe:** 
+**Link del repositorio-Informe:** [https://github.com/1ASI0729-2510-4321-devvolution/PescaGo-Report](https://github.com/1ASI0729-2510-4321-devvolution/PescaGo-Report)
 
-**Link de los repositorios de la organización:** 
+**Link de los repositorios de la organización:** [https://github.com/1ASI0729-2510-4321-devvolution](https://github.com/1ASI0729-2510-4321-devvolution)
 
 **Reporte de colaboración de la entrega del TB1:**
 
 - Todos los miembros del equipo contribuyeron en la redacción del Informe. Se dividió en secciones específicas para cada capítulo, lo que permitió un mayor avance y equidad en el desarrollo del informe.
 
 - Se establecieron fechas límite para la finalización de cada capítulo, lo que facilitó el avance de cada capítulo.
+
+<p align="center">
+  <img align="center" src="img/Commits.jpeg"></p>
+
+
+<p align="center">
+  <img align="center" src="img/Contribuidores.jpeg"></p>
+
 
 ------
 
