@@ -7,8 +7,8 @@
 **Branding**
 
 Hemos seleccionado el nombre "**PescaGo**" junto con un logo que representa un barco pesquero estilizado.
-El logo ha sido elegido porque simboliza de manera directa y visual la esencia de la actividad que la aplicación busca facilitar: el transporte y comercio relacionado con la pesca. 
-El barco es un ícono universalmente reconocido en el sector pesquero, lo que permite que tanto empresarios del rubro como empresas de transporte se identifiquen fácilmente con la plataforma. 
+El logo ha sido elegido porque simboliza de manera directa y visual la esencia de la actividad que la aplicación busca facilitar: el transporte y comercio relacionado con la pesca.
+El barco es un ícono universalmente reconocido en el sector pesquero, lo que permite que tanto empresarios del rubro como empresas de transporte se identifiquen fácilmente con la plataforma.
 
 El nombre "PescaGo" combina dos conceptos clave:
 "Pesca", que remite directamente al sector pesquero, principal público objetivo de la plataforma.
@@ -28,7 +28,6 @@ Se utilizó la tipografía Inria Sans en sus variantes Bold, Regular y Light par
   <img align="center" src="assets/titulos.png"></p>
 <p align="center"><em>Figura 4.2: Topografía de los titulos.</em></p>
 
-
 Botones:
 
 Se utilizo estos estilos de botones, sencillo y claros para que el usuario se puede sentir a gusto con la plataforma. (Ver figura 4.3)
@@ -36,7 +35,6 @@ Se utilizo estos estilos de botones, sencillo y claros para que el usuario se pu
 <p align="center">
   <img align="center" src="assets/botones.png"></p>
 <p align="center"><em>Figura 4.3: Diferentes estilos de los botones.</em></p>
-
 
 Parráfos:
 
@@ -72,43 +70,49 @@ En el diseño web de PescaGo se ha adoptado una línea visual limpia y moderna q
 
 Para lograr una navegación intuitiva y una estructura de contenido clara en las experiencia web de PescaGo, hemos optado por aplicar diferentes sistemas de organización según el tipo de información que se presenta. A continuación, se detallan las decisiones adoptadas:
 
- **Organización visual del contenido**
+**Organización visual del contenido**
+
 1. **Visual Hierarchy:**
-   
+
    Se utiliza en páginas clave como la Landing Page, el panel de control del usuario, la sección de búsqueda de servicios y el seguimiento de envíos. Esta estructura permite resaltar la información más importante mediante títulos grandes en Inria Sans Bold, contrastes de color azul y una disposición visual que guía al usuario hacia las acciones prioritarias.
+
 2. **Step-by-Step:**
-   
+
    Se aplica en procesos como el registro de usuarios, la solicitud de transporte, la creación de rutas y la generación de órdenes. Aquí, la información se presenta paso a paso, ayudando al usuario a completar tareas mediante formularios claros y botones sencillos, diseñados para una experiencia sin distracciones.
+
 3. **Matricial:**
-   
+
    Está presente en secciones donde el usuario necesita comparar información, como el historial de envíos, opciones de transporte y reportes estadísticos. Mediante tablas, íconos representativos y etiquetas claras, lo cual, facilita el análisis visual simultáneo de múltiples elementos.
 
 **Esquemas de categorización del contenido**
 
 1. **Alfabético:**
-   
+
    Se utiliza en listados como empresas de transporte, rutas disponibles o productos registrados. Esta forma de organización permite búsquedas rápidas y efectivas cuando el usuario ya tiene una referencia textual clara.
+
 2. **Cronológico:**
-   
+
    Se emplea en el historial de pedidos, entregas, actualizaciones y actividad reciente del usuario. Presentar la información en orden temporal facilita el seguimiento de acciones pasadas y la revisión de eventos recientes de manera eficiente.
+
 3. **Por tópicos:**
-   
+
    Se implementa en la sección de ayuda, artículos informativos, donde el contenido se agrupa por temas como logística, seguridad o recomendaciones del sector pesquero. Esta clasificación permite una navegación enfocada según los intereses del usuario.
+
 4. **Según audiencia:**
-   
+
    La plataforma distingue entre perfiles como empresarios pesqueros y empresas de transporte. Cada uno accede a una interfaz personalizada con contenido y funcionalidades adaptadas a sus necesidades específicas, mejorando la experiencia de uso.
 
 #### 4.2.2. Labeling Systems
 
 Dentro de la plataforma de PescaGo el sistema de etiquetado ha sido diseñado con un enfoque simple, claro y familiar, para asegurar que los usuarios puedan enteder y navegar en la platafoma sin dificultad. Las etiquetas que se van a emplear utilizan un lenguaje directo, con un número mínimo de palabras, priorizando la comprensión rápida en la aplicación web.
 
-En las **etiquetas de navegación principales** seleccionadas tenemos las etiquetas de *Inicio*, *Buscar transporte*, *Mis pedidos*, *Mi cuenta*, *Ayuda* y *Cerrar sesión*. Estas etiquetas fueron seleccionadas, ya que son las más comunes y para los usuarios será de fácil identificación.
+En las **etiquetas de navegación principales** seleccionadas tenemos las etiquetas de _Inicio_, _Buscar transporte_, _Mis pedidos_, _Mi cuenta_, _Ayuda_ y _Cerrar sesión_. Estas etiquetas fueron seleccionadas, ya que son las más comunes y para los usuarios será de fácil identificación.
 
-Dentro de las **etiquetas para formularios** seleccionadas tenemos etiquetas como *Nombre*, *Correo electrónico*, *Tipo de carga*, *Fecha de envío*, *Destino*, *Agregar ruta*, *Confirmar* o *Cancelar*. Se evita el uso de frases largas o ambiguas, facilitando una experiencia fluida en cada paso del proceso.
+Dentro de las **etiquetas para formularios** seleccionadas tenemos etiquetas como _Nombre_, _Correo electrónico_, _Tipo de carga_, _Fecha de envío_, _Destino_, _Agregar ruta_, _Confirmar_ o _Cancelar_. Se evita el uso de frases largas o ambiguas, facilitando una experiencia fluida en cada paso del proceso.
 
-Las **etiquetas para secciones de usuarios** que seleccionamos son *Pedidos activos*, *Historial de envíos*, *Estadísticas*, *Rutas registradas* o *Notificaciones*, las cuales nos permiten una organización clara de las secciones internas. 
+Las **etiquetas para secciones de usuarios** que seleccionamos son _Pedidos activos_, _Historial de envíos_, _Estadísticas_, _Rutas registradas_ o _Notificaciones_, las cuales nos permiten una organización clara de las secciones internas.
 
-Por último, hemos considerado las **etiquetas por rol de usuario**. Por ejemplo, los transportistas encontrarán etiquetas como *Ofertas recibidas*, *Ruta asignada* y *Registrar disponibilidad*, mientras que los empresarios pesqueros verán opciones como *Solicitar transporte* o *Ver entregas*. Esta diferenciación permite personalizar la experiencia según el perfil del usuario.
+Por último, hemos considerado las **etiquetas por rol de usuario**. Por ejemplo, los transportistas encontrarán etiquetas como _Ofertas recibidas_, _Ruta asignada_ y _Registrar disponibilidad_, mientras que los empresarios pesqueros verán opciones como _Solicitar transporte_ o _Ver entregas_. Esta diferenciación permite personalizar la experiencia según el perfil del usuario.
 
 #### 4.2.3. SEO Tags and Meta Tags
 
@@ -165,71 +169,77 @@ Para los empresarios, esta implementación está enfocada directamente para la b
 
 **Inicio de sesión**
 
-Se muestra a continuación la Wireframe de inicio de sesión que es para ambos segmentos, para hacer mas accesible el ingreso solo se pidio correo y contraseña. (Ver figura 4.7)
+Se muestra a continuación la Wireframe de inicio de sesión que es para ambos segmentos, para hacer mas accesible el ingreso solo se pidio correo y contraseña. (Ver figura 4.9)
 
 <p align="center">
   <img align="center" src="assets/inicio de sesion - boceto.png"></p>
 <p align="center"><em>Figura 4.9: Captura del boceto de inicio de sesión.</em></p>
+<p align="center"><em>Figura 4.9: Captura del boceto de inicio de sesión.</em></p>
 
 **Registro de la empresa transportista**
 
-Para registrarse le pedira los datos basicos para que asi sea mas factible mostrar esa informacion al segmento de empresa pesquera. (Ver figura 4.8)
+Para registrarse le pedira los datos basicos para que asi sea mas factible mostrar esa informacion al segmento de empresa pesquera. (Ver figura 4.10)
 
 <p align="center">
   <img align="center" src="assets/registro transportista - boceto.png"></p>
 <p align="center"><em>Figura 4.10: Captura del boceto del registro de la empresa transportista.</em></p>
+<p align="center"><em>Figura 4.10: Captura del boceto del registro de la empresa transportista.</em></p>
 
 **Registro del empresario pesquero**
 
-Para registrase lo mas rapido posible y hacer uno de la plataforma , solo se le pide el nombre, correo y contraseña. (Ver figura 4.9)
+Para registrase lo mas rapido posible y hacer uno de la plataforma , solo se le pide el nombre, correo y contraseña. (Ver figura 4.11)
 
 <p align="center">
   <img align="center" src="assets/registro pesquero- boceto.png"></p>
 <p align="center"><em>Figura 4.11: Captura del boceto del registro de empresario pesquero.</em></p>
+<p align="center"><em>Figura 4.11: Captura del boceto del registro de empresario pesquero.</em></p>
 
 **Funcionalidades de la empresa transportista**
 
-A continuación se mostrará todos los bocetos con las funcionalidades que realizara la empresa transportista en la plataforma. Como por ejemplo, solicitudes para cotizar y sus servicios confirmados. (Ver figuras 4.10)
+A continuación se mostrará todos los bocetos con las funcionalidades que realizara la empresa transportista en la plataforma. Como por ejemplo, solicitudes para cotizar y sus servicios confirmados. (Ver figuras 4.12)
 
 <p align="center">
   <img align="center" src="assets/funcionalidades del transportista - boceto.png"></p>
 <p align="center"><em>Figura 4.12: Capturas de los bocetos con las funcionalidades de la empresa transportista.</em></p>
+<p align="center"><em>Figura 4.12: Capturas de los bocetos con las funcionalidades de la empresa transportista.</em></p>
 
 **Funcionalidades del empresario pesquero**
 
-A continuación se mostrará todos los bocetos con las funcionalidades que realizara el empresario pesquero en la plataforma. Como por ejemplo, Búsqueda de empresas transportistas, Estado de Solicitudes y sus Servicios Contratados. (Ver figuras 4.11)
+A continuación se mostrará todos los bocetos con las funcionalidades que realizara el empresario pesquero en la plataforma. Como por ejemplo, Búsqueda de empresas transportistas, Estado de Solicitudes y sus Servicios Contratados. (Ver figuras 4.13)
 
 <p align="center">
   <img align="center" src="assets/funcionalidades del pesquero - boceto.png"></p>
 <p align="center"><em>Figura 4.13: Capturas de los bocetos con las funcionalidades del empresario pesquero.</em></p>
+<p align="center"><em>Figura 4.13: Capturas de los bocetos con las funcionalidades del empresario pesquero.</em></p>
 
 **Enlace del Figma :** [Ver en Figma](https://www.figma.com/design/6G4202Wv0UNJR3e3yA9GHs/Untitled?node-id=0-1&m=dev&t=4WCujskndBN3NXUK-1)
-
 
 #### 4.4.2. Web Applications Wireflow Diagrams
 
 **user goal:**<br>
-**Como** Empresario pesquero o Empresa de transportes 
+**Como** Empresario pesquero o Empresa de transportes
 **quiero** registrarme a la aplicación web
-**Para** identificar qué tipo de usuario soy. (Ver figura 4.12)
+**Para** identificar qué tipo de usuario soy. (Ver figura 4.14)
 
 <p align="center">
   <img align="center" src="assets/diagrams - inicio.png"></p>
 <p align="center"><em>Figura 4.14: Wireflow Diagrams del ingreso a PescaGo.</em></p>
+<p align="center"><em>Figura 4.14: Wireflow Diagrams del ingreso a PescaGo.</em></p>
 
 **user goal:**<br>
-**Como** Empresa de transportes 
+**Como** Empresa de transportes
 **quiero** poder comprender e interactuar con el servicio que la aplicación web me está proporcionando
-**Para** así poder generar las solicitudes de una manera clara y correcta sin temor a equivocación. (Ver figura 4.14)
+**Para** así poder generar las solicitudes de una manera clara y correcta sin temor a equivocación. (Ver figura 4.15)
 
 <p align="center">
   <img align="center" src="assets/diagrams - transportista.png"></p>
 <p align="center"><em>Figura 4.15: Wireflow Diagrams de la empresa transportista.</em></p>
+<p align="center"><em>Figura 4.15: Wireflow Diagrams de la empresa transportista.</em></p>
 
 **user goal:**<br>
-**Como** Empresario pesquero 
+**Como** Empresario pesquero
 **quiero** poder comprender e interactuar con el servicio que la aplicación web me está proporcionando
-**Para** así poder generar mis solicitudes de una manera clara y correcta sin temor a equivocación. (Ver figura 4.13)
+**Para** así poder generar mis solicitudes de una manera clara y correcta sin temor a equivocación. (Ver figura 4.16)
 
 <p align="center">
   <img align="center" src="assets/diagrams - pesquero.png"></p>
@@ -238,28 +248,29 @@ A continuación se mostrará todos los bocetos con las funcionalidades que reali
 
 **Enlace del Figma :** [Ver en Figma](https://www.figma.com/design/6G4202Wv0UNJR3e3yA9GHs/Untitled?node-id=26-378&m=dev&t=wIVDlU15xFdh7fHu-1)
 
-
 #### 4.4.3. Web Applications Mock-ups
 
 **Inicio de sesión**
 
-Se muestra a continuación los mock-ups de inicio de sesión que es para ambos segmentos. (Ver figura 4.14)
+Se muestra a continuación los mock-ups de inicio de sesión que es para ambos segmentos. (Ver figura 4.17)
 
 <p align="center">
   <img align="center" src="assets/mock ups - ambos usuarios.png"></p>
 <p align="center"><em>Figura 4.17: Web Applications del inicio de sesión.</em></p>
+<p align="center"><em>Figura 4.17: Web Applications del inicio de sesión.</em></p>
 
 **Mock-ups de la empresa transportista**
 
-A continuación se mostrará todos los bocetos con las funcionalidades que realizara la empresa transportista en la plataforma. Como por ejemplo su registro, solicitudes para cotizar y sus servicios confirmados. (Ver figuras 4.15)
+A continuación se mostrará todos los bocetos con las funcionalidades que realizara la empresa transportista en la plataforma. Como por ejemplo su registro, solicitudes para cotizar y sus servicios confirmados. (Ver figuras 4.18)
 
 <p align="center">
   <img align="center" src="assets/mock ups - transportista.png"></p>
 <p align="center"><em>Figura 4.18: Web Applications Mock-ups de la empresa transportista.</em></p>
+<p align="center"><em>Figura 4.18: Web Applications Mock-ups de la empresa transportista.</em></p>
 
 **Mock-ups del empresario pesquero**
 
-A continuación se mostrará todos los bocetos con las funcionalidades que realizara el empresario pesquero en la plataforma. Como por ejemplo su registro, Búsqueda de empresas transportistas, Estado de Solicitudes y sus Servicios Contratados. (Ver figuras 4.16)
+A continuación se mostrará todos los bocetos con las funcionalidades que realizara el empresario pesquero en la plataforma. Como por ejemplo su registro, Búsqueda de empresas transportistas, Estado de Solicitudes y sus Servicios Contratados. (Ver figuras 4.19)
 
 <p align="center">
   <img align="center" src="assets/mock ups - pesquero.png"></p>
@@ -273,23 +284,23 @@ A continuación se mostrará todos los bocetos con las funcionalidades que reali
 **- User goal:**<br>
 **Como Empresario pesquero o Empresa de transportes quiero registrarme a la aplicación web Para identificar qué tipo de usuario soy.**<br><br>
 En el dashboard de PescaGo, ambos tipos de usuarios ingresarán a la aplicación web a través de la landing page. Una vez dentro de la página de inicio,
- deberán registrarse para poder utilizar la plataforma. Para ello, deben hacer clic en la opción “¿Deseas registrarte?”.
+deberán registrarse para poder utilizar la plataforma. Para ello, deben hacer clic en la opción “¿Deseas registrarte?”.
 
 A continuación, se les presentarán dos opciones: Empresa Transportista o Empresario Pesquero.
 
-Si selecciona Empresa Transportista, deberá completar un formulario con los siguientes datos: nombre de la empresa, una breve descripción, 
+Si selecciona Empresa Transportista, deberá completar un formulario con los siguientes datos: nombre de la empresa, una breve descripción,
 correo electrónico y contraseña. Luego, deberá hacer clic en “Registrarse” para finalizar el proceso.
 
-Si selecciona Empresario Pesquero, deberá llenar el formulario correspondiente con: nombre del empresario, correo electrónico y contraseña. 
+Si selecciona Empresario Pesquero, deberá llenar el formulario correspondiente con: nombre del empresario, correo electrónico y contraseña.
 Finalmente, deberá hacer clic en “Registrarse” para completar su registro.
 
 Si ya cuentan con un usuaio en PescaGo, pueden entrar de manera directa a la aplicación web.
 
-Para una mejor comprensión del flujo, puede consultar el diagrama ilustrativo. (Ver figura 4.17)
-
+Para una mejor comprensión del flujo, puede consultar el diagrama ilustrativo. (Ver figura 4.20)
 
 <p align="center">
   <img align="center" src="assets/Use flow diagrams-inicio.jpeg"></p>
+<p align="center"><em>Figura 4.20: Web Applications User Flow Diagrams del inicio de sesión.</em></p>
 <p align="center"><em>Figura 4.20: Web Applications User Flow Diagrams del inicio de sesión.</em></p>
 
 **- User goal:**<br>
@@ -309,15 +320,16 @@ En esta sección, se mostrarán todas las solicitudes que ya han sido confirmada
 Dentro de cada solicitud, encontrará la opción "Información de Envío", donde deberá completar un formulario con los datos del vehículo y del conductor que realizará la entrega. Es importante llenar esta información lo antes posible para brindar confianza y seguridad al cliente sobre quién será responsable del traslado.
 Una vez completado el formulario, deberá hacer clic en "Enviar". Cuando la información haya sido enviada correctamente, la solicitud mostrará un check en el apartado "Información de Envío", indicando que el proceso se ha completado.
 
-Para una mejor comprensión del flujo, puede consultar el diagrama ilustrativo. (Ver figura 4.18)
+Para una mejor comprensión del flujo, puede consultar el diagrama ilustrativo. (Ver figura 4.21)
 
 <p align="center">
   <img align="center" src="assets/Use flow diagrams-transportista.jpeg"></p>
 <p align="center"><em>Figura 4.21: Web Applications User Flow Diagrams de la empresa transportista.</em></p>
+<p align="center"><em>Figura 4.21: Web Applications User Flow Diagrams de la empresa transportista.</em></p>
 
 **- User goal:**<br>
 **Como Empresario pesquero quiero poder comprender e interactuar con el servicio que la aplicación web me está proporcionando Para así poder generar mis solicitudes de una manera clara y correcta sin temor a equivocación.**<br><br>
-La página de inicio para el usuario Empresa Transportista cuenta con tres funcionalidades principales:
+La página de inicio para el usuario Empresario Pesquero cuenta con tres funcionalidades principales:
 
 **1. Búsqueda de Empresas**<br>
 En esta sección, se podrán visualizar todas las empresas transportistas registradas en PescaGo. El usuario tendrá acceso a un apartado de filtros que permite buscar empresas por distrito, facilitando así la selección sin necesidad de revisar cada empresa manualmente.
@@ -339,8 +351,7 @@ Si, por el contrario, desea aceptar una de las ofertas, solo deberá seleccionar
 En esta sección, el usuario podrá visualizar todos los servicios de transporte que ya han sido pagados. Aquí encontrará información relevante sobre la empresa contratada, los detalles del paquete y un apartado adicional con los datos del vehículo y del conductor asignado.
 Si este último campo aparece como Pendiente, significa que la empresa aún está completando la información, la cual será actualizada y enviada al usuario a la brevedad posible.
 
-Para una mejor comprensión del flujo, puede consultar el diagrama ilustrativo. (Ver figura 4.19).
-
+Para una mejor comprensión del flujo, puede consultar el diagrama ilustrativo. (Ver figura 4.22).
 
 <p align="center">
   <img align="center" src="assets/Use flow diagrams-pesquero.jpeg"></p>
@@ -349,18 +360,18 @@ Para una mejor comprensión del flujo, puede consultar el diagrama ilustrativo. 
 
 **Enlace del Miro :** [Ver en Miro](https://miro.com/welcomeonboard/TFg1SVlscDQwdGlNWHZhNkpSeUE5aWhnRm51ZURXc2YvNjRrTlBsS3BwVHdnbE05SFFVSFpwMCtSKzZ0MHUwUk44VU1kYXVaL0pLbDBwaVNnTzVvRnZ5RXlDZ2dXMHg4ZmEzS0plNWNZZDMzUEk3YzYrSG4rb3djRVJhL2I2dGxnbHpza3F6REdEcmNpNEFOMmJXWXBBPT0hdjE=?share_link_id=756884883545)
 
-
 ### 4.5. Web Applications Prototyping.
 
 Durante la creación de los flujos de acción para los prototipos, se consideraron las diferentes formas en que los usuarios podrían interactuar con la aplicación web. Los prototipos fueron diseñados de manera interactiva, permitiendo que cada sección garantice una experiencia de usuario intuitiva y funcional.
 Asimismo, se tomaron como referencia los Diagramas de Flujo de Usuario y los Wireflow Diagrams, los cuales contribuyeron a una mejor comprensión y organización de cada funcionalidad dentro de la aplicación.
-Como parte del proceso, se elaboró un video demostrativo donde se interactúa con el prototipo, con el fin de mostrar de manera visual la experiencia de navegación y el flujo de uso propuesto para los usuarios. Además, se incluye una imagen referencial del prototipo. (Ver figura 4.20)
+Como parte del proceso, se elaboró un video demostrativo donde se interactúa con el prototipo, con el fin de mostrar de manera visual la experiencia de navegación y el flujo de uso propuesto para los usuarios. Además, se incluye una imagen referencial del prototipo. (Ver figura 4.23)
 
 <p align="center">
   <img align="center" src="assets/Prototipo - explicacion.jpeg"></p>
 <p align="center"><em>Figura 4.23: Captura de video sobre la interacción con el prototipo.</em></p>
+<p align="center"><em>Figura 4.23: Captura de video sobre la interacción con el prototipo.</em></p>
 
-**Enlace del Clipchamp :** [Ver en Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c131_upc_edu_pe/Efpo172zIoBCqdcPsvyc_CYBYJRY-YugLBOZwhibyoZ5lw?e=XpmDJD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D )
+**Enlace del Clipchamp :** [Ver en Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c131_upc_edu_pe/Efpo172zIoBCqdcPsvyc_CYBYJRY-YugLBOZwhibyoZ5lw?e=XpmDJD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ### 4.7. Software Object-Oriented Design.
 
@@ -377,20 +388,20 @@ En dicha sección se verá la estructuración de nuestra star-up que será reeva
 - Usuario: Entidad abstracta que representa a cualquier usuario del sistema. Contiene la información básica de - autenticación (correo electrónico y contraseña) y el tipo de usuario (empresario pesquero o empresa - transportista).
 
 - EmpresarioPesquero: Entidad que representa a un empresario pesquero, un tipo específico de usuario. Contiene - información adicional como su nombre y mantiene una colección de las solicitudes de transporte que ha creado y - los servicios que ha contratado.
- 
+
 - EmpresaTransportista: Entidad que representa a una empresa de transportes, otro tipo específico de usuario. - Contiene información adicional como el nombre de la empresa y su descripción, y mantiene colecciones de las - cotizaciones que ha enviado, los servicios confirmados, sus vehículos y sus conductores.
- 
+
 - Paquete: Entidad que representa un paquete que necesita ser transportado. Contiene información sobre su tamaño, - cantidad, peso y una descripción opcional.
 
 - Solicitud: Entidad que representa una petición de transporte creada por un empresario pesquero para un paquete específico. Contiene el estado de la solicitud, la fecha de creación, y referencias al empresario que la creó y al paquete asociado. También mantiene una colección de las cotizaciones recibidas.
 
-- Cotizacion: Entidad que representa una oferta de precio realizada por una empresa transportista en respuesta a  una solicitud. Contiene el precio, la fecha de la cotización y referencias a la solicitud y a la empresa que la realizó.
+- Cotizacion: Entidad que representa una oferta de precio realizada por una empresa transportista en respuesta a una solicitud. Contiene el precio, la fecha de la cotización y referencias a la solicitud y a la empresa que la realizó.
 
-- ServicioConfirmado: Entidad que representa un acuerdo formal para un servicio de transporte, resultante de la  aceptación de una cotización por parte del empresario pesquero. Contiene información sobre la fecha de - confirmación, el método de pago, el estado del envío y referencias a la solicitud original, la empresa - transportista contratada, el vehículo asignado y el conductor asignado.
+- ServicioConfirmado: Entidad que representa un acuerdo formal para un servicio de transporte, resultante de la aceptación de una cotización por parte del empresario pesquero. Contiene información sobre la fecha de - confirmación, el método de pago, el estado del envío y referencias a la solicitud original, la empresa - transportista contratada, el vehículo asignado y el conductor asignado.
 
 - Vehiculo: Entidad que representa un vehículo utilizado por una empresa de transportes. Contiene información como - la placa y el modelo, y una referencia a la empresa propietaria.
- 
-- Conductor: Entidad que representa a un conductor empleado por una empresa de transportes. Contiene su nombre,  número de licencia y una referencia a la empresa para la que trabaja.
+
+- Conductor: Entidad que representa a un conductor empleado por una empresa de transportes. Contiene su nombre, número de licencia y una referencia a la empresa para la que trabaja.
 
 ### 4.8. Database Design.
 
