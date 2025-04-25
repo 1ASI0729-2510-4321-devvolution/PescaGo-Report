@@ -90,7 +90,7 @@ En esta sección describimos los productos de software que hemos usado en el pro
 
   #### 5.1.4. Software Deployment Configuration
 
-  Implementaremos la landing page utilizando Github Pages. Esta herramienta nos permite publicarla directamente desde un repositorio de Github. El proceso implica crear el repositorio, configurarlo para la publicación, subir los archivos con un commit y copiar el nombre del repositorio para finalizar la configuración. Con estos pasos, la página estará accesible en la web.
+  Implementaremos la landing page utilizando Netlify, una plataforma que facilita el despliegue y hosting de sitios web estáticos. El proceso implica conectar un repositorio de Github a Netlify. Una vez conectado, Netlify se encarga de construir y desplegar automáticamente la landing page cada vez que se realicen cambios y se suban al repositorio. Simplemente necesitamos autorizar a Netlify a acceder al repositorio de Github que contiene los archivos de la landing page, y la plataforma se encargará del resto, proporcionando una URL pública para acceder al sitio web.
 
 ### 5.2. Landing Page, Services & Applications Implementation
   #### 5.2.1. Sprint 1
