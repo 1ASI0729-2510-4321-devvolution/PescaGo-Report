@@ -335,6 +335,67 @@ Como parte del proceso, se elaboró un video demostrativo donde se interactúa c
 
 **Enlace del Clipchamp :** [Ver en Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c131_upc_edu_pe/Efpo172zIoBCqdcPsvyc_CYBYJRY-YugLBOZwhibyoZ5lw?e=XpmDJD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
+### 4.6. Domain-Driven Software Architecture.
+
+#### 4.6.1. Software Architecture Context Diagram.
+
+El Diagrama de Contexto muestra una vista general de la Plataforma PescaGo, sus usuarios y los sistemas externos con los que interactúa.
+
+- **Plataforma PescaGo:** Plataforma web que conecta empresarios pesqueros y empresas de transporte para facilitar el transporte de productos pesqueros.
+- **Empresario Pesquero:** Interactúa con PescaGo para crear solicitudes de transporte, seleccionar empresas de transporte, pagar servicios y rastrear envíos.
+- **Empresa Transportista:** Usa PescaGo para recibir solicitudes de transporte, enviar cotizaciones, proporcionar información de vehículos/conductores y gestionar servicios confirmados.
+- **Payment Gateway:** Sistema externo que PescaGo usa para procesar pagos de servicios de transporte.
+- **Email/Notification Service:** Envía confirmaciones, actualizaciones y notificaciones a los usuarios.
+
+<p align="center">
+  <img align="center" src="assets/context_diagram.jpg"></p>
+<p align="center">
+
+#### 4.6.2. Software Architecture Container Diagrams.
+
+El Diagrama de Contenedores muestra los principales componentes (contenedores) de la Plataforma PescaGo y sus interacciones con usuarios y sistemas externos.
+
+- **Web Application:** Interfaz basada en navegador (Angular/Vue) donde los usuarios interactúan con PescaGo para realizar tareas como crear solicitudes y rastrear envíos.
+- **Backend API:** API RESTful (Spring Boot/.NET) que maneja la lógica de negocio, procesa solicitudes y se comunica con la base de datos y sistemas externos.
+- **Database:** Base de datos relacional que almacena datos de usuarios, solicitudes, cotizaciones, servicios confirmados, vehículos y conductores.
+- **Notification Service:** Servicio interno que envía correos electrónicos o notificaciones a los usuarios (por ejemplo, confirmando una solicitud o pago).
+
+<p align="center">
+  <img align="center" src="assets/container_diagram.jpg"></p>
+<p align="center">
+
+#### 4.6.3. Software Architecture Components Diagrams.
+
+El Diagrama de Componentes detalla los componentes internos del Backend API, organizados en contextos acotados (Bounded Contexts) siguiendo los principios de Domain-Driven Design (DDD).
+
+- **User Management Context:**
+  - _User Controller:_ Recibe solicitudes HTTP para operaciones relacionadas con usuarios.
+  - _User Service:_ Implementa la lógica de negocio para la gestión de usuarios (por ejemplo, validar correos únicos).
+  - _User Repository:_ Realiza operaciones CRUD en las entidades _Usuario_, _EmpresarioPesquero_ y _EmpresaTransportista_ en la base de datos.
+- **Transport Request Context:**
+  - _Request Controller:_ Recibe solicitudes HTTP para crear, actualizar y rastrear solicitudes de transporte.
+  - _Request Service:_ Gestiona el ciclo de vida de _Solicitud_, _Cotizacion_ y _ServicioConfirmado_.
+  - _Request Repository:_ Realiza operaciones CRUD en las entidades relacionadas con solicitudes.
+- **Vehicle Management Context:**
+  - _Vehicle Controller:_ Recibe solicitudes HTTP para gestionar datos de vehículos y conductores.
+  - _Vehicle Service:_ Valida y gestiona datos de _Vehiculo_ y _Conductor_.
+  - _Vehicle Repository:_ Realiza operaciones CRUD en las entidades relacionadas con vehículos.
+- **Payment Context:**
+  - _Payment Service:_ Se comunica con el Payment Gateway para procesar pagos de servicios confirmados.
+- **Notification Context:**
+  - _Notification Service:_ Envía notificaciones (por ejemplo, correos electrónicos) a los usuarios cuando una solicitud es aceptada o un pago es procesado.
+
+**Interacciones:**
+
+- La Web Application envía solicitudes HTTP a los controladores (_User Controller_, _Request Controller_, _Vehicle Controller_).
+- El _Request Service_ interactúa con el _Payment Service_ para procesar pagos después de crear un _ServicioConfirmado_.
+- El _Request Service_ usa el _Notification Service_ para enviar actualizaciones a los usuarios.
+- Todos los repositorios (_User Repository_, _Request Repository_, _Vehicle Repository_) interactúan con la Database para almacenar y recuperar datos.
+
+<p align="center">
+  <img align="center" src="assets/components_diagram.jpg"></p>
+<p align="center">
+
 ### 4.7. Software Object-Oriented Design.
 
 En dicha sección se verá la estructuración de nuestra star-up que será reevaluada a lo largo de nuestro proyecto.
