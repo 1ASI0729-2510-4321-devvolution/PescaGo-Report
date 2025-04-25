@@ -200,6 +200,21 @@ Busca una app fácil de usar, con guía, búsqueda por distrito, formularios par
 
 ### 2.2.3. Análisis de entrevistas
 
+Ambos entrevistados representan un segmento de mercado con necesidades similares pero con algunas preferencias distintas. Una plataforma exitosa debería considerar:
+
+- Priorizar la confiabilidad y la verificación de los transportistas y sus vehículos refrigerados. La garantía de la cadena de frío y la puntualidad son cruciales.
+- Ofrecer una interfaz intuitiva y fácil de usar. La guía y la búsqueda por distrito son aspectos valorados.
+- Implementar un sistema de notificaciones efectivo para mantener informados a los usuarios sobre el estado de sus envíos.
+- Incluir un sistema de reseñas reales para generar confianza y transparencia.
+- Considerar ambas opciones de comunicación: permitir la gestión completa online para quienes lo prefieren, pero también ofrecer la posibilidad de contacto telefónico.
+- Ofrecer flexibilidad en las opciones de pago, incluyendo pagos contra entrega y medios digitales populares como Yape.
+- Brindar información básica de los transportistas por seguridad.
+- Tener en cuenta la sensibilidad al precio, ofreciendo opciones competitivas sin comprometer la calidad.
+- La posibilidad de comparar opciones y enviar solicitudes múltiples es un punto fuerte a considerar.
+- Un periodo de prueba podría ser una estrategia efectiva para atraer nuevos usuarios.
+
+En resumen, existe una clara necesidad en el mercado de una plataforma que conecte a vendedores de pescado fresco con transportistas confiables y verificados, resolviendo los problemas actuales de puntualidad y cadena de frío. La plataforma deberá ser fácil de usar y ofrecer diversas funcionalidades que se adapten a las preferencias de diferentes usuarios, como las observadas en estas dos entrevistas.
+
 ## 2.3. Needfinding
 
 ### 2.3.1. User Personas
