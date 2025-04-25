@@ -238,6 +238,10 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
     <strong>TB1:</strong> Realicé las User Stories, los Wireflow Diagrams, los Mock-ups y los User Flow Diagrams para la aplicación web.</td>
   </tr>
   <tr>
+  <td><strong>Ramos Argüelles, Alexandra Belen</strong><br>
+    <strong>TB1:</strong> Realicé Descripción de la Startup, Solution Profile: Antecedentes y problemática, Lean UX Process: Lean UX Problem Statements, Lean UX Assumptions, Lean UX Hypothesis Statements y Lean UX Canvas, Segmentos objetivo e Information Architecture.</td>
+  </tr>
+  <tr>
     <td><strong>Macavilca Quispe, Ian</strong><br>
     <strong>TB1:</strong> Realicé los Class Diagrams, Database Diagram, capítulo 2 y 5.</td>
   </tr>
@@ -263,6 +267,10 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
   <tr>
     <td><strong>Macavilca Quispe, Ian</strong><br>
     <strong>TB1:</strong> Realicé la identificación de competidores, el desarrollo de estrategias frente a estos, el diseño y analisis de entrevistas, así como también el planteamiento de diagramas que orienten el desarrollo de nuestra propuesta. </td>
+  </tr>
+  <tr>
+  <td><strong>Ramos Argüelles, Alexandra Belen</strong><br>
+    <strong>TB1:</strong> Realicé la investigación para identificar el problema y detallar la solución más conveniente para los segementos objetivo. Además, identifiqué cómo la plataforma tiene ventajas para ambos segmentos.</td>
   </tr>
   <tr>
     <td><strong>Prado Vargas, Mario Benjamin</strong><br>
