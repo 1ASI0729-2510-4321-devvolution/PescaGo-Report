@@ -94,6 +94,8 @@ En esta sección analizaremos nuestros competidores de manera profunda. Investig
 
 ### 2.2.2. Registro de entrevistas
 
+Link a las entrevistas: https://www.canva.com/design/DAGlk1jQ5ow/b33aFtHzILb4Eo1IqCrJsw/watch?utm_content=DAGlk1jQ5ow&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h86049f25bd
+
 _Entrevistado 1_
 
 <table border="1" style="text-align: left;">
@@ -135,7 +137,7 @@ _Entrevistado 1_
         </tr>
         <tr>
             <td>
-             <strong><a href="">URL Entrevista</a></strong>
+             <strong><a href="https://www.canva.com/design/DAGlk1jQ5ow/b33aFtHzILb4Eo1IqCrJsw/watch?utm_content=DAGlk1jQ5ow&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h86049f25bd">URL Entrevista</a></strong>
             </td>
         </tr>        
 	</tbody>
@@ -186,7 +188,7 @@ _Entrevistado 2_
         </tr>
         <tr>
             <td>
-             <strong><a href="">URL Entrevista</a></strong>
+             <strong><a href="https://www.canva.com/design/DAGlk1jQ5ow/b33aFtHzILb4Eo1IqCrJsw/watch?utm_content=DAGlk1jQ5ow&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h86049f25bd">URL Entrevista</a></strong>
             </td>
         </tr>        
 	</tbody>
