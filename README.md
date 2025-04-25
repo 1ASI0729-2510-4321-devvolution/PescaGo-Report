@@ -108,26 +108,6 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
 
 - Se establecieron fechas límite para la finalización de cada capítulo, lo que facilitó el avance de cada capítulo.
 
-
-------
-
-### **Reporte de colaboración de la entrega del TP1:**
-
-
-
-
-------
-
-### **Reporte de colaboración de la entrega del TB2:**
-
-
-
-------
-
-### **Reporte de colaboración de la entrega del TF1:**
-
-
-
 ------
 
 # Contenido
