@@ -186,13 +186,141 @@ En esta sección describimos los productos de software que hemos usado en el pro
      <td><strong>Commited on (Date)</strong></td>
     </tr>
     <tr>
-     <td>Landing-Page</td>
+     <td>PescaGo-LandingPage</td>
      <td>main</td>
-     <td>8bda2cc</td>
-     <td>feature:</td>
-     <td>feat(repo): add README</td>
-     <td>0x/0x/2025</td>
-    </tr>  
+     <td>81b0748</td>
+     <td>Create index.html</td>
+     <td>Add base code to the index.html doc</td>
+     <td>24/04/2025</td>
+    </tr>
+    <tr>
+     <td>PescaGo-LandingPage</td>
+     <td>main</td>
+     <td>09032da</td>
+     <td>feat: add navbar</td>
+     <td></td>
+     <td>24/04/2025</td>
+    </tr>
+    <tr>
+     <td>PescaGo-LandingPage</td>
+     <td>main</td>
+     <td>dc8a856</td>
+     <td>feat: add hero section</td>
+     <td></td>
+     <td>24/04/2025</td>
+    </tr>
+    <tr>
+     <td>PescaGo-LandingPage</td>
+     <td>main</td>
+     <td>59a0490</td>
+     <td>feat: Adding the Features Section</td>
+     <td></td>
+     <td>24/04/2025</td>
+    </tr>
+    <tr>
+     <td>PescaGo-LandingPage</td>
+     <td>main</td>
+     <td>9671f7d</td>
+     <td>feat: Adding the Works Section</td>
+     <td></td>
+     <td>24/04/2025</td>
+    </tr> 
+    <tr>
+     <td>PescaGo-LandingPage</td>
+     <td>main</td>
+     <td>99cff96</td>
+     <td>feat: add testimonials section</td>
+     <td></td>
+     <td>24/04/2025</td>
+    </tr> 
+    <tr>
+     <td>PescaGo-LandingPage</td>
+     <td>main</td>
+     <td>2ca13af</td>
+     <td>feat: add Why Choose Us Section</td>
+     <td></td>
+     <td>24/04/2025</td>
+    </tr> 
+    <tr>
+     <td>PescaGo-LandingPage</td>
+     <td>main</td>
+     <td> 249afd7</td>
+     <td>Create script.js</td>
+     <td></td>
+     <td>24/04/2025</td>
+    </tr> 
+    <tr>
+     <td>PescaGo-LandingPage</td>
+     <td>main</td>
+     <td>0a3ab9e</td>
+     <td>feat: add footer and bootstrap</td>
+     <td></td>
+     <td>24/04/2025</td>
+    </tr> 
+    <tr>
+     <td>PescaGo-LandingPage</td>
+     <td>main</td>
+     <td>23fb61f</td>
+     <td>Create style.css</td>
+     <td></td>
+     <td>24/04/2025</td>
+    </tr> 
+    <tr>
+     <td>PescaGo-LandingPage</td>
+     <td>main</td>
+     <td>aff84c2</td>
+     <td>feat: Animation added</td>
+     <td></td>
+     <td>24/04/2025</td>
+    </tr>
+    <tr>
+     <td>PescaGo-LandingPage</td>
+     <td>main</td>
+     <td>13c3ffb</td>
+     <td>feat: Add base styles and hero section to style.css</td>
+     <td></td>
+     <td>24/04/2025</td>
+    </tr>
+    <tr>
+     <td>PescaGo-LandingPage</td>
+     <td>main</td>
+     <td>4b09311</td>
+     <td>feat: add styles for primary buttons and section layout with transitions</td>
+     <td></td>
+     <td>24/04/2025</td>
+    </tr>
+    <tr>
+     <td>PescaGo-LandingPage</td>
+     <td>main</td>
+     <td>3d77f25</td>
+     <td>docs: add styles</td>
+     <td></td>
+     <td>24/04/2025</td>
+    </tr>
+    <tr>
+     <td>PescaGo-LandingPage</td>
+     <td>main</td>
+     <td>3ee40be</td>
+     <td>Create logo.svg</td>
+     <td></td>
+     <td>24/04/2025</td>
+    </tr>
+    <tr>
+     <td>PescaGo-LandingPage</td>
+     <td>main</td>
+     <td>ba13e90</td>
+     <td>feat: add footer and bootstrap</td>
+     <td></td>
+     <td>24/04/2025</td>
+    </tr>
+    <tr>
+     <td>PescaGo-LandingPage</td>
+     <td>main</td>
+     <td>c17b832</td>
+     <td>docs: add image and assets folder</td>
+     <td>Created the `assets` folder and uploaded an image for use as the logo.</td>
+     <td>24/04/2025</td>
+    </tr>
    </table>
 
    #### 5.2.1.4. Testing Suite Evidence for Sprint Review
@@ -202,23 +330,45 @@ Para la entrega del Sprint 1, nos enfocamos en lograr el desarrollo completo y e
 
 | Repository   | Branch | Commit Id | Commit Message                      | Commit Message Body | Commited On |
 | ------------ | ------ | --------- | ----------------------------------- | ------------------- | ----------- |
-| landing-page | main   |    |  | -                   |   |
+| PescaGo-LandingPage | main   | 81b0748   | Create index.html | - | 24/04/2025  |
 
    #### 5.2.1.5. Execution Evidence for Sprint Review
-
    
-En este sprint, el equipo logro desplegar la primera versión de la landing page satisfactoriamente, en este punto se mostrara la evidencia de ello.
-Enlace: https://github.com/1ASI0729-2510-4321-devvolution/PescaGo-LandingPage
+   En este sprint, el equipo logro desplegar la primera versión de la landing page satisfactoriamente, en este punto se mostrara la evidencia de ello.   
+   
+   #### Inicio
+   <img src="./assets/landing_d1_01.png"/>
 
-Landing Page desplegada
+   #### Caracteristicas
+   <img src="./assets/landing_d1_02.png"/>
 
-<img src="./assets/Landing-Page.png"/>
+   #### Cómo Funciona
+   <img src="./assets/landing_d1_03.png"/>
+
+   #### Testimonios
+   <img src="./assets/landing_d1_04.png"/>
+
+   #### Beneficios
+   <img src="./assets/landing_d1_05.png"/>
+
+   #### Contacto
+   <img src="./assets/landing_d1_06.png"/>   
 
    #### 5.2.1.6. Services Documentation Evidence for Sprint Review
-
-Este primer Sprint solo trata la implementación del landing page, por lo que no se empleó ningún servicio adicional.
+   
+   Link de la landing page desployada: https://pescago.netlify.app/
 
    #### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+   Para el desarrollo de la landing page, se usó lo siguiente:
+   
+   - HTML: Para la estructura de la landing page
+   - CSS: Para darle estilos a la landing page
+   - JS: Para darle dinamismo a la landing page
+   - Git: Es el sistema de control de versiones
+   - Github: Software online para almacenar repositorios Git
+
+
    #### 5.2.1.8. Team Collaboration Insights during Sprint
 
    
