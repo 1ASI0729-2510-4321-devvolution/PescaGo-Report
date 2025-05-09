@@ -131,12 +131,12 @@ En esta sección describimos los productos de software que hemos usado en el pro
           </td>
       </tr>
       <tr>
-          <td style="font-weight: bold;">Sprint 1 Review Summary</td>
-          <td>Se desarrolló la landing page a partir de los diseños de wireframe, mockup y  prototipo, para luego implementar el código en HTML, CSS y JavaScript.</td>
+          <td style="font-weight: bold;">Sprint 0 Review Summary</td>
+          <td>Debido a que es nuestro primer sprint de desarrollo, no existe un review summary del sprint.</td>
       </tr>
       <tr>
-          <td style="font-weight: bold;">Sprint 1 Retrospective Summary</td>
-          <td>Buscaremos ser más precisos con los plazos de entrega de los avances. La comunicación entre el equipo fue positiva y todos contribuyeron con ideas al proyecto.</td>
+          <td style="font-weight: bold;">Sprint 0 Retrospective Summary</td>
+          <td>Debido a que es nuestro primer sprint de desarrollo, no existen planes de mejora.</td>
       </tr>
       <tr> 
           <td colspan="2" style="text-align: center;">Sprint Goal & User Stories</td>
@@ -144,7 +144,7 @@ En esta sección describimos los productos de software que hemos usado en el pro
       <tr>
           <td style="font-weight: bold;">Sprint 1 Goal</td>
           <td>
-              El objetivo principal de este sprint es la creación de la landing page de nuestro   producto. Esperamos que esta página ofrezca una experiencia visualmente atractiva y   una información concisa, lo cual se validará con la interacción de los usuarios en  cada parte.
+              El objetivo principal de este sprint es la creación de la landing page de nuestro producto. Esperamos que esta página ofrezca una experiencia visualmente atractiva y   una información concisa, lo cual se validará con la interacción de los usuarios en  cada parte.
           </td>
       </tr>
       <tr>
@@ -384,6 +384,70 @@ A continuación, se compartirá la tabla de colaboradores del repositorio de Git
   
 
 <img src="./assets/commits_sprint1.PNG" alt="imagen de commits"/>
+
+  #### 5.2.2. Sprint 2
+   #### 5.2.2.1. Sprint Planning 2
+
+<table border="1px" align="center">
+      <tr>
+          <th style="font-weight: bold;" >Sprint #</th>
+          <th style="font-weight: bold;" >Sprint 2</th>
+      </tr>
+      <tr> 
+          <td colspan="2" style="font-weight: bold;">Sprint Planning Background</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Date</td>
+          <td>13-05-2025</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Time</td>
+          <td>5:00 pm - 10:00 pm</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Location</td>
+          <td>Canal de Voz de Discord</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Prepared By</td>
+          <td>Prado Vargas, Mario Benjamín</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Attendees (to planning meeting)</td>
+          <td>
+              Belleza Tello, Paolo Eduardo<br>
+              Fernandez Alva, María Fernanda<br>
+              Macavilca Quispe, Ian<br>
+              Prado Vargas, Mario Benjamín<br>
+              Ramos Argüelles, Alexandra Belen<br>
+          </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Sprint 1 Review Summary</td>
+          <td>Debido a que no hubó una revisión en la TB1, no existe un review summary del sprint 1.</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Sprint 1 Retrospective Summary</td>
+          <td>El equipo logró organizarse y completar las tareas planificadas, a pesar de algunos desafíos iniciales relacionados con la coordinación y la gestión del tiempo. Se identificó la necesidad de mejorar la comunicación interna y definir mejor los roles desde el inicio. </td>
+      </tr>
+      <tr> 
+          <td colspan="2" style="font-weight: bold;">Sprint Goal & User Stories</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Sprint 2 Goal</td>
+          <td>
+              El objetivo principal de este sprint es desarrollar el frontend de nuestra aplicación PescaGo, con especial enfoque en implementar las funcionalidades clave para los usuarios.
+          </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Sprint 2 Velocity</td>
+          <td>18</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Sum of Story Points</td>
+          <td>18</td>
+      </tr>
+    </table>
 
 ## Conclusiones
 
