@@ -449,7 +449,66 @@ A continuación, se compartirá la tabla de colaboradores del repositorio de Git
       </tr>
     </table>
 
-  #### 5.2.1.2. Sprint Backlog 2
+   #### 5.2.2.2. Aspect Leaders and Collaborators
+
+<table border="1" style="border-collapse: collapse; text-align: center;">
+  <tr>
+    <th>Team Member (Last Name, First Name)</th>
+    <th>GitHub Username</th>
+    <th>Solicitud de búsqueda</th>
+    <th>Solicitud del servicio</th>
+    <th>Informacion del vehículo</th>
+    <th>Solicitudes enviadas</th>
+    <th>Registro del usuario</th>
+  </tr>
+  <tr>
+    <td>Ramos Argüelles, Alexandra Belen</td>
+    <td>AleRamosA</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Belleza Tello, Paolo Eduardo</td>
+    <td>PaoloBellezaTelloo</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Fernandez Alva, María Fernanda</td>
+    <td>MariaFernandaFernandezAlva</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Macavilca Quispe, Ian Fernanda</td>
+    <td>IanMQ</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Prado Vargas, Mario Benjamín</td>
+    <td>mariopvdev</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+  </tr>
+</table>
+
+  #### 5.2.2.3. Sprint Backlog 2
 
 <table border="1" cellspacing="0" cellpadding="4">
   <tr>
@@ -593,7 +652,7 @@ A continuación, se compartirá la tabla de colaboradores del repositorio de Git
   </tr>
 </table>
 
-   #### 5.2.2.3. Development Evidence for Sprint Review.
+   #### 5.2.2.4. Development Evidence for Sprint Review.
 En esta sección, se presentan los commits realizados en el repositorio del frontend en GitHub. Estos commits reflejan el progreso y las mejoras implementadas durante el sprint 2, proporcionando una visión detallada de las actividades de desarrollo y las contribuciones del equipo.
 
 Link del repositorio: [PescaGo - Frontend](https://github.com/1ASI0729-2510-4321-devvolution/PescaGo-Frontend)
