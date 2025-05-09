@@ -449,6 +449,150 @@ A continuación, se compartirá la tabla de colaboradores del repositorio de Git
       </tr>
     </table>
 
+  #### 5.2.1.2. Sprint Backlog 2
+
+<table border="1" cellspacing="0" cellpadding="4">
+  <tr>
+    <th style="text-align: center;"><b>Sprint #</b></th>
+    <th colspan="7" style="text-align: center;"><b>Sprint 2</b></th>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align: center;"><b>User Story</b></td>
+    <td colspan="6" style="text-align: center;"><b>Work-item / Task</b></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><b>ID</b></td>
+    <td style="text-align: center;"><b>Title</b></td>
+    <td style="text-align: center;"><b>ID</b></td>
+    <td style="text-align: center;"><b>Title</b></td>
+    <td style="text-align: center;"><b>Description</b></td>
+    <td style="text-align: center;"><b>Estimation (hours)</b></td>
+    <td style="text-align: center;"><b>Assigned To</b></td>
+    <td style="text-align: center;"><b>Status</b></td>
+  </tr>
+
+  <tr>
+    <td>E3-US11</td>
+    <td>Sección de búsqueda</td>
+    <td>T1</td>
+    <td>Solicitud de búsqueda</td>
+    <td>Implementacion de una busqueda de empresas por filtro</td>
+    <td style="text-align: center;">8h</td>
+    <td>integrante1</td>
+    <td style="text-align: center;">Done</td>
+  </tr>
+
+  <tr>
+    <td>E3-US13</td>
+    <td>Solicitar el servicio a la empresa prestadora de vehículos</td>
+    <td>T2</td>
+    <td>Solicitud del servicio</td>
+    <td>Implementacion de un boton para enviar una solicitud a la empresa</td>
+    <td style="text-align: center;">8h</td>
+    <td>integrante2</td>
+    <td style="text-align: center;">Done</td>
+  </tr>
+
+  <tr>
+    <td>E3-US14</td>
+    <td>Gestionar solicitudes enviadas</td>
+    <td>T3</td>
+    <td>Solicitudes enviadas</td>
+    <td>Implementación de una tabla con informacion de cada solicitud</td>
+    <td style="text-align: center;">7h</td>
+    <td>integrante3</td>
+    <td style="text-align: center;">Done</td>
+  </tr>
+
+  <tr>
+    <td>E4-US18</td>
+    <td>Gestión de pagos</td>
+    <td>T4</td>
+    <td>Pagos</td>
+    <td>Implementar una tabla con donde se pueda visualizar los clientes que pagaron por el servicio.</td>
+    <td style="text-align: center;">7h</td>
+    <td>integrante4</td>
+    <td style="text-align: center;">Done</td>
+  </tr>
+
+  <tr>
+    <td>E4-US19</td>
+    <td>Enviar información del vehículo hacia el empresario pesquero</td>
+    <td>T5</td>
+    <td>Informacion del vehículo</td>
+    <td>Implementar un formulario para el registro de vehículos y para conductores</td>
+    <td style="text-align: center;">6h</td>
+    <td>integrante5</td>
+    <td style="text-align: center;">Done</td>
+  </tr>
+
+  <tr>
+    <td>E2-US08</td>
+    <td>Registro para de la empresa prestadora de vehículos</td>
+    <td>T6</td>
+    <td>Información de la empresa</td>
+    <td>Implementación de un formulario para el llenado de los datos generales</td>
+    <td style="text-align: center;">5h</td>
+    <td>Integrante1</td>
+    <td style="text-align: center;">Done</td>
+  </tr>
+
+  <tr>
+    <td>E2-US09</td>
+    <td>Registro para de el empresario pesquero</td>
+    <td>T7</td>
+    <td>Información del empresario</td>
+    <td>Implementación de un formulario para el llenado de los datos generales</td>
+    <td style="text-align: center;">5h</td>
+    <td>Integrante2</td>
+    <td style="text-align: center;">Done</td>
+  </tr>
+
+  <tr>
+    <td>E3-US15</td>
+    <td>Pagar a la empresa seleccionada</td>
+    <td>T8</td>
+    <td>Pagar servicio</td>
+    <td>Implementar un botón para pagar de manera rápida</td>
+    <td style="text-align: center;">4h</td>
+    <td>Integrante3</td>
+    <td style="text-align: center;">Done</td>
+  </tr>
+
+  <tr>
+    <td>E3-US16</td>
+    <td>Obtener información del vehículo repartidor</td>
+    <td>T9</td>
+    <td>Información del vehiculo como conductor</td>
+    <td>Implementar una tabla con todos los datos requeridos</td>
+    <td style="text-align: center;">4h</td>
+    <td>Integrante4</td>
+    <td style="text-align: center;">Done</td>
+  </tr>
+
+  <tr>
+    <td>E3-US15</td>
+    <td>Gestión de solicitudes recibidas</td>
+    <td>T10</td>
+    <td>Solicitudes recibidas</td>
+    <td>Implementación para cotizar las solicitudes de los empresarios pesqueros</td>
+    <td style="text-align: center;">4h</td>
+    <td>Integrante5</td>
+    <td style="text-align: center;">Done</td>
+  </tr>
+
+  <tr>
+    <td>E2-US10</td>
+    <td>Ingreso a la aplicación</td>
+    <td>T11</td>
+    <td>Inicio de sesión</td>
+    <td>Implementación de dos botones para seleccionar el usuario que desea ser</td>
+    <td style="text-align: center;">2h</td>
+    <td>Integrante5</td>
+    <td style="text-align: center;">Done</td>
+  </tr>
+</table>
+
 ## Conclusiones
 
 ### Conclusiones y recomendaciones
