@@ -777,6 +777,19 @@ Para este sprint, contamos con los siguientes endpoints principales:
 
 <div align="center"> <img src="./assets/commits.png"> </div>
 
+   #### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+Durante el Sprint 2, se desplegó tanto el frontend como la fake API para permitir la integración y validación de las funcionalidades desarrolladas. Utilizamos JSON Server para simular la API REST, y el frontend fue ejecutado en entorno local para facilitar las pruebas.
+
+(Tambien si se puede , se debe evidenciar en donde se esta desplegando y sus pasos a seguir)
+
+A continuación, se presentan los links que evidencian el despliegue:
+
+* <strong>Despliegue de la Fake Api</strong>: [Fake Api](url)
+
+* <strong>Despliegue del Frontend</strong>: [PescaGo](url)
+
+
 
 ## Conclusiones
 
