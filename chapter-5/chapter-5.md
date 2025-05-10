@@ -724,6 +724,36 @@ Link del repositorio: [PescaGo - Frontend](https://github.com/1ASI0729-2510-4321
   </tr>
 </table>
 
+   #### 5.2.2.5. Execution Evidence for Sprint Review
+
+En el Sprint 2 hemos logrado implementar las funcionalidades más relevantes para los usuarios principales: el empresario pesquero y la empresa transportista.
+
+Video sobre la navegacion : [navegación en PescaGo](url)
+
+A continuación, se presentan capturas de pantalla de las vistas implementadas.
+
+* <strong>Registro de ambos usurios</strong>
+
+<div align=center>
+    <img src="./assets/commits.png">
+</div>
+
+
+* <strong>Solicitud de búsqueda</strong>
+
+<div align=center>
+    <img src="./assets/commits.png">
+</div>
+
+
+* <strong>Solicitud del servicio</strong>
+
+<div align=center>
+    <img src="./assets/commits.png">
+</div>
+
+
+
 ## Conclusiones
 
 ### Conclusiones y recomendaciones
