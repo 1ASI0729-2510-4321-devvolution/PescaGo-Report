@@ -777,7 +777,7 @@ Para este sprint, contamos con los siguientes endpoints principales:
 
 <div align="center"> <img src="./assets/commits.png"> </div>
 
-   #### 5.2.2.6. Services Documentation Evidence for Sprint Review
+   #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
 Durante el Sprint 2, se desplegó tanto el frontend como la fake API para permitir la integración y validación de las funcionalidades desarrolladas. Utilizamos JSON Server para simular la API REST, y el frontend fue ejecutado en entorno local para facilitar las pruebas.
 
