@@ -883,7 +883,6 @@ Asimismo, se dedicó un esfuerzo significativo al diseño y desarrollo de la pá
 
 En resumen, este primer sprint ha permitido establecer una base sólida para el proyecto, alineando los objetivos y definiendo una hoja de ruta clara para las fases venideras. El trabajo colaborativo y la meticulosa atención al detalle han sido cruciales para alcanzar los resultados obtenidos hasta el momento, y el equipo se encuentra en una posición favorable para avanzar en las próximas etapas de desarrollo.
 
-## Video About-the-Team
 
 ## Bibliografía
 
