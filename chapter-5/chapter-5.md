@@ -753,6 +753,30 @@ A continuación, se presentan capturas de pantalla de las vistas implementadas.
 </div>
 
 
+   #### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+Durante el Sprint 2, utilizamos servicios HTTP mediante JSON Server, lo cual nos permitió crear una fake API para simular el backend de la aplicación.
+Para este sprint, contamos con los siguientes endpoints principales:
+
+-Empresa Transportista
+
+-Empresario Pesquero
+
+
+* Captura de la estructura de la Empresa Transportista (db.json):
+
+<div align="center"> <img src="./assets/commits.png"> </div>
+
+
+* Captura de la estructura del Empresario Pesquero (db.json):
+
+<div align="center"> <img src="./assets/commits.png"> </div>
+
+
+* Captura de la Fake API en funcionamiento:
+
+<div align="center"> <img src="./assets/commits.png"> </div>
+
 
 ## Conclusiones
 
