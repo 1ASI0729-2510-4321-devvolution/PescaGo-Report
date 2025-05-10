@@ -763,17 +763,17 @@ Para este sprint, contamos con los siguientes endpoints principales:
 -Empresario Pesquero
 
 
-* Captura de la estructura de la Empresa Transportista (db.json):
+* <strong>Captura de la estructura de la Empresa Transportista (db.json):</strong>
 
 <div align="center"> <img src="./assets/commits.png"> </div>
 
 
-* Captura de la estructura del Empresario Pesquero (db.json):
+* <strong>Captura de la estructura del Empresario Pesquero (db.json):</strong>
 
 <div align="center"> <img src="./assets/commits.png"> </div>
 
 
-* Captura de la Fake API en funcionamiento:
+* <strong>Captura de la Fake API en funcionamiento:</strong>
 
 <div align="center"> <img src="./assets/commits.png"> </div>
 
