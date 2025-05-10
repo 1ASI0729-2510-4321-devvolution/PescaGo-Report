@@ -489,7 +489,7 @@ A continuación, se compartirá la tabla de colaboradores del repositorio de Git
     <td>C</td>
   </tr>
   <tr>
-    <td>Macavilca Quispe, Ian Fernanda</td>
+    <td>Macavilca Quispe, Ian</td>
     <td>IanMQ</td>
     <td>C</td>
     <td>C</td>
