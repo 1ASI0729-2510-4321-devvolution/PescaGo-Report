@@ -441,11 +441,11 @@ A continuación, se compartirá la tabla de colaboradores del repositorio de Git
       </tr>
       <tr>
           <td style="font-weight: bold;">Sprint 2 Velocity</td>
-          <td>18</td>
+          <td>67</td>
       </tr>
       <tr>
           <td style="font-weight: bold;">Sum of Story Points</td>
-          <td>18</td>
+          <td>67</td>
       </tr>
     </table>
 
@@ -630,7 +630,7 @@ A continuación, se compartirá la tabla de colaboradores del repositorio de Git
   </tr>
 
   <tr>
-    <td>E3-US15</td>
+    <td>E3-US17</td>
     <td>Gestión de solicitudes recibidas</td>
     <td>T10</td>
     <td>Solicitudes recibidas</td>
