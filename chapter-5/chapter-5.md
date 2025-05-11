@@ -455,16 +455,18 @@ A continuación, se compartirá la tabla de colaboradores del repositorio de Git
   <tr>
     <th>Team Member (Last Name, First Name)</th>
     <th>GitHub Username</th>
-    <th>Solicitud de búsqueda</th>
-    <th>Solicitud del servicio</th>
-    <th>Informacion de Pago</th>
-    <th>Solicitudes enviadas</th>
-    <th>Registro del usuario</th>
+    <th>Inicio de sesion & Registro</th>
+    <th>Solicitudes para cotizar</th>
+    <th>Servicio Confirmado</th>
+    <th>Búsqueda de empresas transportistas</th>
+    <th>Estado de Solicitudes</th>
+    <th>Servicios Contratados</th>
   </tr>
   <tr>
     <td>Ramos Argüelles, Alexandra Belen</td>
     <td>AleRamosA</td>
     <td>L</td>
+    <td>C</td>
     <td>C</td>
     <td>C</td>
     <td>C</td>
@@ -478,6 +480,7 @@ A continuación, se compartirá la tabla de colaboradores del repositorio de Git
     <td>C</td>
     <td>C</td>
     <td>C</td>
+    <td>C</td>
   </tr>
   <tr>
     <td>Fernandez Alva, María Fernanda</td>
@@ -485,6 +488,7 @@ A continuación, se compartirá la tabla de colaboradores del repositorio de Git
     <td>C</td>
     <td>C</td>
     <td>L</td>
+    <td>C</td>
     <td>C</td>
     <td>C</td>
   </tr>
@@ -496,6 +500,7 @@ A continuación, se compartirá la tabla de colaboradores del repositorio de Git
     <td>C</td>
     <td>L</td>
     <td>C</td>
+    <td>C</td>
   </tr>
   <tr>
     <td>Prado Vargas, Mario Benjamín</td>
@@ -504,6 +509,7 @@ A continuación, se compartirá la tabla de colaboradores del repositorio de Git
     <td>C</td>
     <td>C</td>
     <td>C</td>
+    <td>L</td>
     <td>L</td>
   </tr>
 </table>
@@ -877,23 +883,23 @@ A continuación, se presentarán las tareas asignadas a cada integrante del equi
   </tr>
   <tr>
     <td>Ramos Argüelles, Alexandra Belen</td>
-    <td>Depende</td>
+    <td>Se encargó del inicio de sesión como los registros para ambos segmentos objetivos</td>
   </tr>
   <tr>
     <td>Belleza Tello, Paolo Eduardo</td>
-    <td>Depende</td>
+    <td>Se encargó de realizar la funcionalidad "Solicitudes para cotizar" del segmento objetivo: Empresa Transportista</td>
   </tr>
   <tr>
     <td>Fernandez Alva, María Fernanda</td>
-    <td>Depende</td>
+    <td>Se encargó de realizar la funcionalidad "Servicio Confirmado" del segmento objetivo: Empresa Transportista</td>
   </tr>
   <tr>
     <td>Macavilca Quispe, Ian</td>
-    <td>Depende</td>
+    <td>Se encargó de realizar la funcionalidad "Búsqueda de empresas transportistas" del segmento objetivo: Empresario Pesquero. Tambien elaboró una parte de la funcionalidad "Servicios Contratados"</td>
   </tr>
   <tr>
     <td>Prado Vargas, Mario Benjamín</td>
-    <td>Depende</td>
+    <td>Se encargó de realizar la funcionalidad "Estado de Solicitudes" del segmento objetivo: Empresario Pesquero. Tambien termino elaborar la funcionalidad "Servicios Contratados"</td>
   </tr>
 </table>
 
