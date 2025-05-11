@@ -441,7 +441,7 @@ A continuación, se compartirá la tabla de colaboradores del repositorio de Git
       </tr>
       <tr>
           <td style="font-weight: bold;">Sprint 2 Velocity</td>
-          <td>67</td>
+          <td>8</td>
       </tr>
       <tr>
           <td style="font-weight: bold;">Sum of Story Points</td>
@@ -457,7 +457,7 @@ A continuación, se compartirá la tabla de colaboradores del repositorio de Git
     <th>GitHub Username</th>
     <th>Solicitud de búsqueda</th>
     <th>Solicitud del servicio</th>
-    <th>Informacion del vehículo</th>
+    <th>Informacion de Pago</th>
     <th>Solicitudes enviadas</th>
     <th>Registro del usuario</th>
   </tr>
@@ -728,11 +728,9 @@ Link del repositorio: [PescaGo - Frontend](https://github.com/1ASI0729-2510-4321
 
 En el Sprint 2 hemos logrado implementar las funcionalidades más relevantes para los usuarios principales: el empresario pesquero y la empresa transportista.
 
-Video sobre la navegacion : [navegación en PescaGo](url)
-
 A continuación, se presentan capturas de pantalla de las vistas implementadas.
 
-* <strong>Registro de ambos usurios</strong>
+* <strong>Inicio de sesión</strong>
 
 <div align=center>
     <img src="./assets/commits.png">
