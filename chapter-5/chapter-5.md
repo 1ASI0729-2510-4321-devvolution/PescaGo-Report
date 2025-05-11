@@ -730,25 +730,99 @@ En el Sprint 2 hemos logrado implementar las funcionalidades más relevantes par
 
 A continuación, se presentan capturas de pantalla de las vistas implementadas.
 
-* <strong>Inicio de sesión</strong>
+* <strong>Inicio de sesión y registro</strong>
 
 <div align=center>
-    <img src="./assets/commits.png">
+    <img src="./assets/inicio de sesion.png">
 </div>
-
-
-* <strong>Solicitud de búsqueda</strong>
 
 <div align=center>
-    <img src="./assets/commits.png">
+    <img src="./assets/registro.png">
 </div>
+<br>
 
-
-* <strong>Solicitud del servicio</strong>
+* <strong>Registro de Empresa Transportista</strong>
 
 <div align=center>
-    <img src="./assets/commits.png">
+    <img src="./assets/registro_transportista.png">
 </div>
+<br>
+
+* <strong>Registro de Empresario Pesquero</strong>
+
+<div align=center>
+    <img src="./assets/registro_pesquero.png">
+</div>
+<br>
+
+* <strong>Pantalla de inicio de la Empresa Transportista</strong>
+
+<div align=center>
+    <img src="./assets/pantalla de inicio del transportista.png">
+</div>
+<br>
+
+* <strong>Funcionalidad de la solicitudes para cotizar</strong>
+
+<div align=center>
+    <img src="./assets/transportista_cotizar.png">
+</div>
+
+<div align=center>
+    <img src="./assets/transportista_cotizar_paquete.png">
+</div>
+
+<div align=center>
+    <img src="./assets/transportista_cotizar_precio.png">
+</div>
+<br>
+
+* <strong>Funcionalidad de Servicio Confirmado</strong>
+
+<div align=center>
+    <img src="./assets/transportista__servicio confirmado.png">
+</div>
+<br>
+
+* <strong>Pantalla de inicio del Empresario Pesquero</strong>
+
+<div align=center>
+    <img src="./assets/pantalla de inicio del pesquero.png">
+</div>
+<br>
+
+* <strong>Funcionalidad de Búsqueda de empresas transportistas</strong>
+
+<div align=center>
+    <img src="./assets/pesquero_busqueda.png">
+</div>
+
+<div align=center>
+    <img src="./assets/pesquero_formulario del paquete.png">
+</div>
+<br>
+
+* <strong>Funcionalidad de Estado de Solicitudes</strong>
+
+<div align=center>
+    <img src="./assets/pesquero_estado de solicitudes.png">
+</div>
+
+<div align=center>
+    <img src="./assets/pesquero_pagos.png">
+</div>
+
+<div align=center>
+    <img src="./assets/pesquero_detalles de pago.png">
+</div>
+<br>
+
+* <strong>Funcionalidad de Servicios Contratados</strong>
+
+<div align=center>
+    <img src="./assets/pesquero_servicios contratados.png">
+</div>
+<br>
 
 
    #### 5.2.2.6. Services Documentation Evidence for Sprint Review
