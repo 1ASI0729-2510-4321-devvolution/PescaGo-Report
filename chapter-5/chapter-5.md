@@ -543,7 +543,7 @@ A continuación, se compartirá la tabla de colaboradores del repositorio de Git
     <td>Solicitud de búsqueda</td>
     <td>Implementacion de una busqueda de empresas por filtro</td>
     <td style="text-align: center;">8h</td>
-    <td>integrante1</td>
+    <td>Macavilca Quispe, Ian</td>
     <td style="text-align: center;">Done</td>
   </tr>
 
@@ -554,7 +554,7 @@ A continuación, se compartirá la tabla de colaboradores del repositorio de Git
     <td>Solicitud del servicio</td>
     <td>Implementacion de un boton para enviar una solicitud a la empresa</td>
     <td style="text-align: center;">8h</td>
-    <td>integrante2</td>
+    <td>Macavilca Quispe, Ian</td>
     <td style="text-align: center;">Done</td>
   </tr>
 
@@ -565,7 +565,7 @@ A continuación, se compartirá la tabla de colaboradores del repositorio de Git
     <td>Solicitudes enviadas</td>
     <td>Implementación de una tabla con informacion de cada solicitud</td>
     <td style="text-align: center;">7h</td>
-    <td>integrante3</td>
+    <td>Belleza Tello, Paolo</td>
     <td style="text-align: center;">Done</td>
   </tr>
 
@@ -576,7 +576,7 @@ A continuación, se compartirá la tabla de colaboradores del repositorio de Git
     <td>Pagos</td>
     <td>Implementar una tabla con donde se pueda visualizar los clientes que pagaron por el servicio.</td>
     <td style="text-align: center;">7h</td>
-    <td>integrante4</td>
+    <td>Fernandez Alva, Maria</td>
     <td style="text-align: center;">Done</td>
   </tr>
 
@@ -587,7 +587,7 @@ A continuación, se compartirá la tabla de colaboradores del repositorio de Git
     <td>Informacion del vehículo</td>
     <td>Implementar un formulario para el registro de vehículos y para conductores</td>
     <td style="text-align: center;">6h</td>
-    <td>integrante5</td>
+    <td>Fernandez Alva, Maria</td>
     <td style="text-align: center;">Done</td>
   </tr>
 
@@ -598,7 +598,7 @@ A continuación, se compartirá la tabla de colaboradores del repositorio de Git
     <td>Información de la empresa</td>
     <td>Implementación de un formulario para el llenado de los datos generales</td>
     <td style="text-align: center;">5h</td>
-    <td>Integrante1</td>
+    <td>Ramos Argüelles, Belen</td>
     <td style="text-align: center;">Done</td>
   </tr>
 
@@ -609,7 +609,7 @@ A continuación, se compartirá la tabla de colaboradores del repositorio de Git
     <td>Información del empresario</td>
     <td>Implementación de un formulario para el llenado de los datos generales</td>
     <td style="text-align: center;">5h</td>
-    <td>Integrante2</td>
+    <td>Ramos Argüelles, Belen</td>
     <td style="text-align: center;">Done</td>
   </tr>
 
@@ -620,7 +620,7 @@ A continuación, se compartirá la tabla de colaboradores del repositorio de Git
     <td>Pagar servicio</td>
     <td>Implementar un botón para pagar de manera rápida</td>
     <td style="text-align: center;">4h</td>
-    <td>Integrante3</td>
+    <td>Prado Vargas, Mario</td>
     <td style="text-align: center;">Done</td>
   </tr>
 
@@ -631,7 +631,10 @@ A continuación, se compartirá la tabla de colaboradores del repositorio de Git
     <td>Información del vehiculo como conductor</td>
     <td>Implementar una tabla con todos los datos requeridos</td>
     <td style="text-align: center;">4h</td>
-    <td>Integrante4</td>
+    <td>
+      Prado Vargas, Mario
+      Macavilca Quispe, Ian
+    </td>
     <td style="text-align: center;">Done</td>
   </tr>
 
@@ -642,7 +645,7 @@ A continuación, se compartirá la tabla de colaboradores del repositorio de Git
     <td>Solicitudes recibidas</td>
     <td>Implementación para cotizar las solicitudes de los empresarios pesqueros</td>
     <td style="text-align: center;">4h</td>
-    <td>Integrante5</td>
+    <td>Belleza Tello, Paolo</td>
     <td style="text-align: center;">Done</td>
   </tr>
 
@@ -653,7 +656,7 @@ A continuación, se compartirá la tabla de colaboradores del repositorio de Git
     <td>Inicio de sesión</td>
     <td>Implementación de dos botones para seleccionar el usuario que desea ser</td>
     <td style="text-align: center;">2h</td>
-    <td>Integrante5</td>
+    <td>Ramos Argüelles, Belen</td>
     <td style="text-align: center;">Done</td>
   </tr>
 </table>
@@ -828,8 +831,6 @@ A continuación, se presentan capturas de pantalla de las vistas implementadas.
 <div align=center>
     <img src="./assets/pesquero_servicios contratados.png">
 </div>
-<br>
-
 
    #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
