@@ -224,7 +224,8 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
   </tr>
   <tr>
     <td rowspan="5"><strong>Comunica oralmente con efectividad a diferentes rangos de audiencia.</strong></td>
-    <td></td>
+    <td><strong>Prado Vargas, Mario Benjamin</strong><br>
+    <strong>TB1:</strong> Realicé el User Personas, User Task Matrix, User Journey Mapping, Empathy Mapping, As-Is Scenario Mapping, Ubiquitous Language, Software Architecture Context Diagram, Container Diagrams, Components Diagrams, Landing Page Wireframe, Landing Page Mock-up</td>
     <td rowspan="5">
     <strong>TB1:</strong>En esta primera entrega, se comunicaron de manera responsable los intereses de los stakeholders, asegurando el cumplimiento de los estándares en el desarrollo del software<br>
     </td>
@@ -245,14 +246,11 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
     <td><strong>Macavilca Quispe, Ian</strong><br>
     <strong>TB1:</strong> Realicé los Class Diagrams, Database Diagram, capítulo 2 y 5.</td>
   </tr>
-  <tr>
-    <td><strong>Prado Vargas, Mario Benjamin</strong><br>
-    <strong>TB1:</strong> Realicé el User Personas, User Task Matrix, User Journey Mapping, Empathy Mapping, As-Is Scenario Mapping, Ubiquitous Language, Software Architecture Context Diagram, Container Diagrams, Components Diagrams, Landing Page Wireframe, Landing Page Mock-up</td>
-  </tr>
  
   <tr>
     <td rowspan="5"><strong>Comunica por escrito con efectividad a diferentes rangos de audiencia</strong></td>
-    <td></td>
+    <td><strong>Prado Vargas, Mario Benjamin</strong><br>
+    <strong>TB1:</strong> Mis contribuciones en la primera entrega incluyeron la documentación y estructuración técnica del proyecto mediante bounded contexts y diagramas, así como la creación de la landing page, sentando las bases funcionales y visuales para el desarrollo de PescaGo.</td>
     <td rowspan="5">
     <strong>TB1:</strong> En esta primera entrega, se documentaron y redactaron las soluciones propuestas, estableciendo las bases funcionales y conceptuales del proyecto. Además, se desarrolló la landing page, marcando el primer avance tangible en la construcción de la aplicación web.</td>
   </tr>
@@ -271,12 +269,7 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
   <tr>
   <td><strong>Ramos Argüelles, Alexandra Belen</strong><br>
     <strong>TB1:</strong> Realicé la investigación para identificar el problema y detallar la solución más conveniente para los segementos objetivo. Además, identifiqué cómo la plataforma tiene ventajas para ambos segmentos.</td>
-  </tr>
-  <tr>
-    <td><strong>Prado Vargas, Mario Benjamin</strong><br>
-    <strong>TB1:</strong> Mis contribuciones en la primera entrega incluyeron la documentación y estructuración técnica del proyecto mediante bounded contexts y diagramas, así como la creación de la landing page, sentando las bases funcionales y visuales para el desarrollo de PescaGo. </td>
-  </tr>
-  
+  </tr>  
 </table>
 
 # Capítulo I: Introducción
