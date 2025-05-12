@@ -95,6 +95,25 @@
         ● Avance de Conclusiones, Bibliografía y Anexos
       </td>
     </tr>
+    <tr>
+      <td>TP</td>
+      <td>13/05/2025</td>
+      <td>
+        <ul>
+            <li>Macavilca Quispe, Ian</li>
+            <li>Prado Vargas, Mario Benjamín</li>
+            <li>Ramos Argüelles, Alexandra Belen</li>
+            <li>Belleza Tello, Paolo Eduardo</li>
+            <li>Fernandez Alva, Maria Fernanda</li>
+        </ul>
+      </td>
+      <td>
+        ● Capítulo V: Product Implementation, Validation & Deployment 
+        con respecto al Sprint 2<br>
+        ● Avance de Conclusiones, Bibliografía y Anexos<br>
+        ● Implementación de la Aplicación Web - PescaGo
+      </td>
+    </tr>
   </tbody>
 </table>
 
