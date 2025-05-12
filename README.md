@@ -227,8 +227,7 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
     <td><strong>Prado Vargas, Mario Benjamin</strong><br>
     <strong>TB1:</strong> Realicé el User Personas, User Task Matrix, User Journey Mapping, Empathy Mapping, As-Is Scenario Mapping, Ubiquitous Language, Software Architecture Context Diagram, Container Diagrams, Components Diagrams, Landing Page Wireframe, Landing Page Mock-up</td>
     <td rowspan="5">
-    <strong>TB1:</strong>En esta primera entrega, se comunicaron de manera responsable los intereses de los stakeholders, asegurando el cumplimiento de los estándares en el desarrollo del software<br>
-    </td>
+    <strong>TB1:</strong>En esta primera entrega, se comunicaron de manera responsable los intereses de los stakeholders, asegurando el cumplimiento de los estándares en el desarrollo del software<br><strong></strong>TP:</strong> En esta segunda entrega, se abordó la implementación del frontend de la aplicación web PescaGo. Además, se asignaron las secciones correspondientes para la elaboración del documento.<br></td>
   </tr>
   <tr>
     <td><strong>Fernandez Alva, Maria Fernanda</strong><br>
@@ -252,7 +251,7 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
     <td><strong>Prado Vargas, Mario Benjamin</strong><br>
     <strong>TB1:</strong> Mis contribuciones en la primera entrega incluyeron la documentación y estructuración técnica del proyecto mediante bounded contexts y diagramas, así como la creación de la landing page, sentando las bases funcionales y visuales para el desarrollo de PescaGo.</td>
     <td rowspan="5">
-    <strong>TB1:</strong> En esta primera entrega, se documentaron y redactaron las soluciones propuestas, estableciendo las bases funcionales y conceptuales del proyecto. Además, se desarrolló la landing page, marcando el primer avance tangible en la construcción de la aplicación web.</td>
+    <strong>TB1:</strong> En esta primera entrega, se documentaron y redactaron las soluciones propuestas, estableciendo las bases funcionales y conceptuales del proyecto. Además, se desarrolló la landing page, marcando el primer avance tangible en la construcción de la aplicación web.<br><strong>TP:</strong> En la segunda entrega, se desarrolló la implementación del frontend de la aplicación web PescaGo y se distribuyeron las secciones del documento entre los integrantes del equipo. La redacción de los avances se realizó con un lenguaje técnico accesible, permitiendo su comprensión tanto por parte de desarrolladores como de lectores externos al proyecto</td>
   </tr>
   <tr>
     <td><strong>Fernandez Alva, Maria Fernanda</strong><br>
