@@ -424,7 +424,7 @@ A continuación, se compartirá la tabla de colaboradores del repositorio de Git
       </tr>
       <tr>
           <td style="font-weight: bold;">Sprint 1 Review Summary</td>
-          <td>Debido a que no hubó una revisión en la TB1, no existe un review summary del sprint 1.</td>
+          <td>Se recomienda incluir funciones innovadoras, mejorar los detalles técnicos con diagramas y pruebas de usabilidad, y reforzar la documentación con buenas prácticas de código y un mejor llamado a la acción en la landing page.</td>
       </tr>
       <tr>
           <td style="font-weight: bold;">Sprint 1 Retrospective Summary</td>
