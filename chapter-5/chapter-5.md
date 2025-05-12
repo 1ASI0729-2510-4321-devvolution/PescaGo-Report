@@ -859,14 +859,44 @@ Para este sprint, contamos con los siguientes endpoints principales:
 
 Durante el Sprint 2, se desplegó el frontend para permitir la integración y validación de las funcionalidades desarrolladas. Utilizamos vercel para el despliegue del frontend.
 
-(Tambien si se puede , se debe evidenciar en donde se esta desplegando y sus pasos a seguir)
+1. Haz `fork` del repositorio (si el proyecto no es tuyo). Ve al repositorio original en GitHub, haz clic en el botón `Fork` (esquina superior derecha) y se creará una copia del repositorio en tu cuenta.
+
+    <div align="center"> <img src="./assets/paso 1.png"> </div>
+    <br>
+
+2. Conecta el proyecto a [Vercel](https://vercel.com) iniciando sesión con tu cuenta de GitHub.
+
+    <div align="center"> <img src="./assets/paso 2.jpg"> </div>
+    <br>
+
+3. Haz clic en `Add New Project` y luego en `Project`.
+
+    <div align="center"> <img src="./assets/paso 3.jpg"> </div>
+    <br>
+
+4. Selecciona tu repositorio (el fork o el que hayas creado), haz clic en `Import` (esto tomará unos segundos), asegúrate de que esté seleccionado el **Framework Preset: `Angular`** y luego haz clic en `Deploy`.
+
+    <div align="center"> <img src="./assets/paso 4.1.jpg"> </div>
+
+    <div align="center"> <img src="./assets/paso 4.2.jpg"> </div>
+    <br>
+
+5. Espera a que finalice el proceso (puede tardar un poco la primera vez). Después, haz clic en `Continue to Dashboard`.
+
+    <div align="center"> <img src="./assets/paso 5.jpg"> </div>
+    <br>
+
+6. Finalmente, Vercel te mostrará el enlace de tu aplicación web desplegada.
+
+    <div align="center"> <img src="./assets/paso 6.jpg"> </div>
+
 
 A continuación, se presentan el link que evidencia el despliegue:
 
 * <strong>Despliegue del Frontend</strong>: [PescaGo-Frontend](url)
-  
 
-   #### 5.2.2.8. Team Collaboration Insights during Sprint. 
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint. 
 
 El equipo desarrolló el frontend por ramas con la finalidad de desarrollar cada sección de manera individual para optimizar el mantenimientoy colaboración durante el sprint. 
 
