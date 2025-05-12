@@ -227,11 +227,11 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
     <td><strong>Prado Vargas, Mario Benjamin</strong><br>
     <strong>TB1:</strong> Realicé el User Personas, User Task Matrix, User Journey Mapping, Empathy Mapping, As-Is Scenario Mapping, Ubiquitous Language, Software Architecture Context Diagram, Container Diagrams, Components Diagrams, Landing Page Wireframe, Landing Page Mock-up</td>
     <td rowspan="5">
-    <strong>TB1:</strong>En esta primera entrega, se comunicaron de manera responsable los intereses de los stakeholders, asegurando el cumplimiento de los estándares en el desarrollo del software<br><strong></strong>TP:</strong> En esta segunda entrega, se abordó la implementación del frontend de la aplicación web PescaGo. Además, se asignaron las secciones correspondientes para la elaboración del documento.<br></td>
+    <strong>TB1:</strong>En esta primera entrega, se comunicaron de manera responsable los intereses de los stakeholders, asegurando el cumplimiento de los estándares en el desarrollo del software<br><br><strong>TP:</strong> En esta segunda entrega, se abordó la implementación del frontend de la aplicación web PescaGo. Además, se asignaron las secciones correspondientes para la elaboración del documento.<br><br></td>
   </tr>
   <tr>
     <td><strong>Fernandez Alva, Maria Fernanda</strong><br>
-    <strong>TB1:</strong> Realicé el To-Be Scenario Mapping, elaboré el Product Backlog y desarrollé el prototipo en Figma, acompañado de un video demostrando la funcionalidad.</td>
+    <strong>TB1:</strong> Realicé el To-Be Scenario Mapping, elaboré el Product Backlog y desarrollé el prototipo en Figma, acompañado de un video demostrando la funcionalidad.<br><strong>TP:</strong> Realicé la documentacion del sprint 2 en los siguientes puntos: Sprint Planning 2 , Aspect Leaders y la funcionalidad "Servicio Confirmado".</td>
   </tr>
   <tr>
     <td><strong>Belleza Tello, Paolo Eduardo</strong><br>
@@ -251,11 +251,11 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
     <td><strong>Prado Vargas, Mario Benjamin</strong><br>
     <strong>TB1:</strong> Mis contribuciones en la primera entrega incluyeron la documentación y estructuración técnica del proyecto mediante bounded contexts y diagramas, así como la creación de la landing page, sentando las bases funcionales y visuales para el desarrollo de PescaGo.</td>
     <td rowspan="5">
-    <strong>TB1:</strong> En esta primera entrega, se documentaron y redactaron las soluciones propuestas, estableciendo las bases funcionales y conceptuales del proyecto. Además, se desarrolló la landing page, marcando el primer avance tangible en la construcción de la aplicación web.<br><strong>TP:</strong> En la segunda entrega, se desarrolló la implementación del frontend de la aplicación web PescaGo y se distribuyeron las secciones del documento entre los integrantes del equipo. La redacción de los avances se realizó con un lenguaje técnico accesible, permitiendo su comprensión tanto por parte de desarrolladores como de lectores externos al proyecto</td>
+    <strong>TB1:</strong> En esta primera entrega, se documentaron y redactaron las soluciones propuestas, estableciendo las bases funcionales y conceptuales del proyecto. Además, se desarrolló la landing page, marcando el primer avance tangible en la construcción de la aplicación web.<br><br><strong>TP:</strong> En la segunda entrega, se desarrolló la implementación del frontend de la aplicación web PescaGo y se distribuyeron las secciones del documento entre los integrantes del equipo. La redacción de los avances se realizó con un lenguaje técnico accesible, permitiendo su comprensión tanto por parte de desarrolladores como de lectores externos al proyecto</td>
   </tr>
   <tr>
     <td><strong>Fernandez Alva, Maria Fernanda</strong><br>
-    <strong>TB1:</strong> Enfoqué el diseño de la aplicación en la resolución de problemas económicos y sociales identificados en el sector objetivo, asegurando que las funcionalidades propuestas respondieran a sus necesidades específicas.</td>
+    <strong>TB1:</strong> Enfoqué el diseño de la aplicación en la resolución de problemas económicos y sociales identificados en el sector objetivo, asegurando que las funcionalidades propuestas respondieran a sus necesidades específicas.<br><strong>TP:</strong> Elaboré la documentación del Sprint 2, desarrollando los apartados de Sprint Planning 2, Aspect Leaders y la funcionalidad Servicio Confirmado. La redacción fue realizada con un enfoque claro y estructurado, considerando tanto a miembros técnicos del equipo como a lectores externos que evalúan el progreso del proyecto</td>
   </tr>
   <tr>
     <td><strong>Belleza Tello, Paolo Eduardo</strong><br>
