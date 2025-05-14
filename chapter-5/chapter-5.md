@@ -1021,13 +1021,13 @@ A continuación, se mostrarán las capturas de participación:
 * <strong>Captura de los commits realizados</strong>
 
 <div align=center>
-    <img src="./assets/commits.png">
+    <img src="./assets/pulse-frontend.png">
 </div>
 
 * <strong>Captura de la contribución de los integrantes</strong>
 
 <div align=center>
-    <img src="./assets/commits.png">
+    <img src="./assets/contribuidores-frontend.png">
 </div>
 
 
