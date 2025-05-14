@@ -131,12 +131,12 @@ En esta sección describimos los productos de software que hemos usado en el pro
           </td>
       </tr>
       <tr>
-          <td style="font-weight: bold;">Sprint 1 Review Summary</td>
-          <td>Se desarrolló la landing page a partir de los diseños de wireframe, mockup y  prototipo, para luego implementar el código en HTML, CSS y JavaScript.</td>
+          <td style="font-weight: bold;">Sprint 0 Review Summary</td>
+          <td>Debido a que es nuestro primer sprint de desarrollo, no existe un review summary del sprint.</td>
       </tr>
       <tr>
-          <td style="font-weight: bold;">Sprint 1 Retrospective Summary</td>
-          <td>Buscaremos ser más precisos con los plazos de entrega de los avances. La comunicación entre el equipo fue positiva y todos contribuyeron con ideas al proyecto.</td>
+          <td style="font-weight: bold;">Sprint 0 Retrospective Summary</td>
+          <td>Debido a que es nuestro primer sprint de desarrollo, no existen planes de mejora.</td>
       </tr>
       <tr> 
           <td colspan="2" style="text-align: center;">Sprint Goal & User Stories</td>
@@ -144,7 +144,7 @@ En esta sección describimos los productos de software que hemos usado en el pro
       <tr>
           <td style="font-weight: bold;">Sprint 1 Goal</td>
           <td>
-              El objetivo principal de este sprint es la creación de la landing page de nuestro   producto. Esperamos que esta página ofrezca una experiencia visualmente atractiva y   una información concisa, lo cual se validará con la interacción de los usuarios en  cada parte.
+              El objetivo principal de este sprint es la creación de la landing page de nuestro producto. Esperamos que esta página ofrezca una experiencia visualmente atractiva y   una información concisa, lo cual se validará con la interacción de los usuarios en  cada parte.
           </td>
       </tr>
       <tr>
@@ -385,6 +385,652 @@ A continuación, se compartirá la tabla de colaboradores del repositorio de Git
 
 <img src="./assets/commits_sprint1.PNG" alt="imagen de commits"/>
 
+  #### 5.2.2. Sprint 2
+   #### 5.2.2.1. Sprint Planning 2
+
+En esta parte mostramos las tareas que se realizaron en este sprint.
+
+Link del Trello: [Ir a Trello](https://trello.com/invite/b/6821201064fc162fd1070c4b/ATTIe7594534dfacff282c80125476e30b4a12551FAF/pescago)
+
+Vista del Sprint Backlog 1 en Trello:
+
+<div align="center">
+  <img align="center" src="./assets/trello - 2.png">
+</div><br><br>
+
+<table border="1px" align="center">
+      <tr>
+          <th style="font-weight: bold;" >Sprint #</th>
+          <th style="font-weight: bold;" >Sprint 2</th>
+      </tr>
+      <tr> 
+          <td colspan="2" style="font-weight: bold;">Sprint Planning Background</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Date</td>
+          <td>13-05-2025</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Time</td>
+          <td>5:00 pm - 10:00 pm</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Location</td>
+          <td>Canal de Voz de Discord</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Prepared By</td>
+          <td>Prado Vargas, Mario Benjamín</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Attendees (to planning meeting)</td>
+          <td>
+              Belleza Tello, Paolo Eduardo<br>
+              Fernandez Alva, María Fernanda<br>
+              Macavilca Quispe, Ian<br>
+              Prado Vargas, Mario Benjamín<br>
+              Ramos Argüelles, Alexandra Belen<br>
+          </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Sprint 1 Review Summary</td>
+          <td>Se recomienda incluir funciones innovadoras, mejorar los detalles técnicos con diagramas y pruebas de usabilidad, y reforzar la documentación con buenas prácticas de código y un mejor llamado a la acción en la landing page.</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Sprint 1 Retrospective Summary</td>
+          <td>El equipo logró organizarse y completar las tareas planificadas, a pesar de algunos desafíos iniciales relacionados con la coordinación y la gestión del tiempo. Se identificó la necesidad de mejorar la comunicación interna y definir mejor los roles desde el inicio. </td>
+      </tr>
+      <tr> 
+          <td colspan="2" style="font-weight: bold;">Sprint Goal & User Stories</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Sprint 2 Goal</td>
+          <td>
+              El objetivo principal de este sprint es desarrollar el frontend de nuestra aplicación PescaGo, con especial enfoque en implementar las funcionalidades clave para los usuarios.
+          </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Sprint 2 Velocity</td>
+          <td>8</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Sum of Story Points</td>
+          <td>67</td>
+      </tr>
+    </table>
+
+   #### 5.2.2.2. Aspect Leaders and Collaborators
+
+<table border="1" style="border-collapse: collapse; text-align: center;">
+  <tr>
+    <th>Team Member (Last Name, First Name)</th>
+    <th>GitHub Username</th>
+    <th>Inicio de sesion & Registro</th>
+    <th>Solicitudes para cotizar</th>
+    <th>Servicio Confirmado</th>
+    <th>Búsqueda de empresas transportistas</th>
+    <th>Estado de Solicitudes</th>
+    <th>Servicios Contratados</th>
+  </tr>
+  <tr>
+    <td>Ramos Argüelles, Alexandra Belen</td>
+    <td>AleRamosA</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Belleza Tello, Paolo Eduardo</td>
+    <td>PaoloBellezaTelloo</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Fernandez Alva, María Fernanda</td>
+    <td>MariaFernandaFernandezAlva</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Macavilca Quispe, Ian</td>
+    <td>IanMQ</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Prado Vargas, Mario Benjamín</td>
+    <td>mariopvdev</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+    <td>L</td>
+  </tr>
+</table>
+
+  #### 5.2.2.3. Sprint Backlog 2
+
+<table border="1" cellspacing="0" cellpadding="4">
+  <tr>
+    <th style="text-align: center;"><b>Sprint #</b></th>
+    <th colspan="7" style="text-align: center;"><b>Sprint 2</b></th>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align: center;"><b>User Story</b></td>
+    <td colspan="6" style="text-align: center;"><b>Work-item / Task</b></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><b>ID</b></td>
+    <td style="text-align: center;"><b>Title</b></td>
+    <td style="text-align: center;"><b>ID</b></td>
+    <td style="text-align: center;"><b>Title</b></td>
+    <td style="text-align: center;"><b>Description</b></td>
+    <td style="text-align: center;"><b>Estimation (hours)</b></td>
+    <td style="text-align: center;"><b>Assigned To</b></td>
+    <td style="text-align: center;"><b>Status</b></td>
+  </tr>
+
+  <tr>
+    <td>E3-US11</td>
+    <td>Sección de búsqueda</td>
+    <td>T1</td>
+    <td>Solicitud de búsqueda</td>
+    <td>Implementacion de una busqueda de empresas por filtro</td>
+    <td style="text-align: center;">8h</td>
+    <td>Macavilca Quispe, Ian</td>
+    <td style="text-align: center;">Done</td>
+  </tr>
+
+  <tr>
+    <td>E3-US13</td>
+    <td>Solicitar el servicio a la empresa prestadora de vehículos</td>
+    <td>T2</td>
+    <td>Solicitud del servicio</td>
+    <td>Implementacion de un boton para enviar una solicitud a la empresa</td>
+    <td style="text-align: center;">8h</td>
+    <td>Macavilca Quispe, Ian</td>
+    <td style="text-align: center;">Done</td>
+  </tr>
+
+  <tr>
+    <td>E3-US14</td>
+    <td>Gestionar solicitudes enviadas</td>
+    <td>T3</td>
+    <td>Solicitudes enviadas</td>
+    <td>Implementación de una tabla con informacion de cada solicitud</td>
+    <td style="text-align: center;">7h</td>
+    <td>Belleza Tello, Paolo</td>
+    <td style="text-align: center;">Done</td>
+  </tr>
+
+  <tr>
+    <td>E4-US18</td>
+    <td>Gestión de pagos</td>
+    <td>T4</td>
+    <td>Pagos</td>
+    <td>Implementar una tabla con donde se pueda visualizar los clientes que pagaron por el servicio.</td>
+    <td style="text-align: center;">7h</td>
+    <td>Fernandez Alva, Maria</td>
+    <td style="text-align: center;">Done</td>
+  </tr>
+
+  <tr>
+    <td>E4-US19</td>
+    <td>Enviar información del vehículo hacia el empresario pesquero</td>
+    <td>T5</td>
+    <td>Informacion del vehículo</td>
+    <td>Implementar un formulario para el registro de vehículos y para conductores</td>
+    <td style="text-align: center;">6h</td>
+    <td>Fernandez Alva, Maria</td>
+    <td style="text-align: center;">Done</td>
+  </tr>
+
+  <tr>
+    <td>E2-US08</td>
+    <td>Registro para de la empresa prestadora de vehículos</td>
+    <td>T6</td>
+    <td>Información de la empresa</td>
+    <td>Implementación de un formulario para el llenado de los datos generales</td>
+    <td style="text-align: center;">5h</td>
+    <td>Ramos Argüelles, Belen</td>
+    <td style="text-align: center;">Done</td>
+  </tr>
+
+  <tr>
+    <td>E2-US09</td>
+    <td>Registro para de el empresario pesquero</td>
+    <td>T7</td>
+    <td>Información del empresario</td>
+    <td>Implementación de un formulario para el llenado de los datos generales</td>
+    <td style="text-align: center;">5h</td>
+    <td>Ramos Argüelles, Belen</td>
+    <td style="text-align: center;">Done</td>
+  </tr>
+
+  <tr>
+    <td>E3-US15</td>
+    <td>Pagar a la empresa seleccionada</td>
+    <td>T8</td>
+    <td>Pagar servicio</td>
+    <td>Implementar un botón para pagar de manera rápida</td>
+    <td style="text-align: center;">4h</td>
+    <td>Prado Vargas, Mario</td>
+    <td style="text-align: center;">Done</td>
+  </tr>
+
+  <tr>
+    <td>E3-US16</td>
+    <td>Obtener información del vehículo repartidor</td>
+    <td>T9</td>
+    <td>Información del vehiculo como conductor</td>
+    <td>Implementar una tabla con todos los datos requeridos</td>
+    <td style="text-align: center;">4h</td>
+    <td>
+      Prado Vargas, Mario
+      Macavilca Quispe, Ian
+    </td>
+    <td style="text-align: center;">Done</td>
+  </tr>
+
+  <tr>
+    <td>E3-US17</td>
+    <td>Gestión de solicitudes recibidas</td>
+    <td>T10</td>
+    <td>Solicitudes recibidas</td>
+    <td>Implementación para cotizar las solicitudes de los empresarios pesqueros</td>
+    <td style="text-align: center;">4h</td>
+    <td>Belleza Tello, Paolo</td>
+    <td style="text-align: center;">Done</td>
+  </tr>
+
+  <tr>
+    <td>E2-US10</td>
+    <td>Ingreso a la aplicación</td>
+    <td>T11</td>
+    <td>Inicio de sesión</td>
+    <td>Implementación de dos botones para seleccionar el usuario que desea ser</td>
+    <td style="text-align: center;">2h</td>
+    <td>Ramos Argüelles, Belen</td>
+    <td style="text-align: center;">Done</td>
+  </tr>
+</table>
+
+   #### 5.2.2.4. Development Evidence for Sprint Review.
+En esta sección, se presentan los commits realizados en el repositorio del frontend en GitHub. Estos commits reflejan el progreso y las mejoras implementadas durante el sprint 2, proporcionando una visión detallada de las actividades de desarrollo y las contribuciones del equipo.
+
+Link del repositorio: [PescaGo - Frontend](https://github.com/1ASI0729-2510-4321-devvolution/PescaGo-Frontend)
+
+<table border="1" cellpadding="5" cellspacing="0">
+  <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit Id</th>
+    <th>Commit Message</th>
+    <th>Commit Message Body</th>
+    <th>Commited on (Date)</th>
+  </tr>
+  <tr>
+    <td>PescaGo - Frontend</td>
+    <td>main</td>
+    <td>a947b63</td>
+    <td>feat: implementar filtro de búsqueda por nombre</td>
+    <td>Funcionalidad de búsqueda</td>
+    <td>9/05/2025</td>
+  </tr>
+  <tr>
+    <td>PescaGo - Frontend</td>
+    <td>main</td>
+    <td>424601e</td>
+    <td>feat: add carrier confirmed-services component</td>
+    <td>Funcionalidad del carrier</td>
+    <td>10/05/2025</td>
+  </tr>
+  <tr>
+    <td>PescaGo - Frontend</td>
+    <td>main</td>
+    <td>5835ab5</td>
+    <td>feat: add carrier packet-details component</td>
+    <td>Detalles del carrier</td>
+    <td>11/05/2025</td>
+  </tr>
+  <tr>
+    <td>PescaGo - Frontend</td>
+    <td>main</td>
+    <td>6fb067b</td>
+    <td>refactor: initiate project restructuring to align with DDD and modular architecture</td>
+    <td>Restructurar las carpetas del proyecto</td>
+    <td>12/05/2025</td>
+  </tr>
+  <tr>
+    <td>PescaGo - Frontend</td>
+    <td>main</td>
+    <td>0bf3632</td>
+    <td>feat: add provideHttpClient() to app.config.ts</td>
+    <td>Implementación de la Api local</td>
+    <td>13/05/2025</td>
+  </tr>
+  <tr>
+    <td>PescaGo - Frontend</td>
+    <td>main</td>
+    <td>9e044fb</td>
+    <td>feat: add component Home</td>
+    <td>Página Principal</td>
+    <td>13/05/2025</td>
+  </tr>
+  <tr>
+    <td>PescaGo - Frontend</td>
+    <td>main</td>
+    <td>3d0d134</td>
+    <td>feat: add component payment form</td>
+    <td>Formulario de pago</td>
+    <td>13/05/2025</td>
+  </tr>
+  <tr>
+    <td>PescaGo - Frontend</td>
+    <td>main</td>
+    <td>ee9bedd</td>
+    <td>feat: add methods for payment gateway</td>
+    <td>Funcionalidad de los metodos de pago</td>
+    <td>13/05/2025</td>
+  </tr>
+  <tr>
+    <td>PescaGo - Frontend</td>
+    <td>main</td>
+    <td>559dd00</td>
+    <td>feat: add describe to request-status</td>
+    <td>Funcionalidad de los estados de solicitudes</td>
+    <td>13/05/2025</td>
+  </tr>
+</table>
+
+   #### 5.2.2.5. Execution Evidence for Sprint Review
+
+En el Sprint 2 hemos logrado implementar las funcionalidades más relevantes para los usuarios principales: el empresario pesquero y la empresa transportista.
+
+A continuación, se presentan capturas de pantalla de las vistas implementadas.
+
+* <strong>Inicio de sesión y registro</strong>
+
+<div align=center>
+    <img src="./assets/inicio de sesion.png">
+</div>
+
+<div align=center>
+    <img src="./assets/registro.png">
+</div>
+<br>
+
+* <strong>Registro de Empresa Transportista</strong>
+
+<div align=center>
+    <img src="./assets/registro_transportista.png">
+</div>
+<br>
+
+* <strong>Registro de Empresario Pesquero</strong>
+
+<div align=center>
+    <img src="./assets/registro_pesquero.png">
+</div>
+<br>
+
+* <strong>Pantalla de inicio de la Empresa Transportista</strong>
+
+<div align=center>
+    <img src="./assets/pantalla de inicio del transportista.png">
+</div>
+<br>
+
+* <strong>Funcionalidad de la solicitudes para cotizar</strong>
+
+<div align=center>
+    <img src="./assets/transportista_cotizar.png">
+</div>
+
+<div align=center>
+    <img src="./assets/transportista_cotizar_paquete.png">
+</div>
+
+<div align=center>
+    <img src="./assets/transportista_cotizar_precio.png">
+</div>
+<br>
+
+* <strong>Funcionalidad de Servicio Confirmado</strong>
+
+<div align=center>
+    <img src="./assets/transportista__servicio confirmado.png">
+</div>
+<br>
+
+* <strong>Pantalla de inicio del Empresario Pesquero</strong>
+
+<div align=center>
+    <img src="./assets/pantalla de inicio del pesquero.png">
+</div>
+<br>
+
+* <strong>Funcionalidad de Búsqueda de empresas transportistas</strong>
+
+<div align=center>
+    <img src="./assets/pesquero_busqueda.png">
+</div>
+
+<div align=center>
+    <img src="./assets/pesquero_formulario del paquete.png">
+</div>
+<br>
+
+* <strong>Funcionalidad de Estado de Solicitudes</strong>
+
+<div align=center>
+    <img src="./assets/pesquero_estado de solicitudes.png">
+</div>
+
+<div align=center>
+    <img src="./assets/pesquero_pagos.png">
+</div>
+
+<div align=center>
+    <img src="./assets/pesquero_detalles de pago.png">
+</div>
+<br>
+
+* <strong>Funcionalidad de Servicios Contratados</strong>
+
+<div align=center>
+    <img src="./assets/pesquero_servicios contratados.png">
+</div>
+
+   #### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+Durante el Sprint 2, utilizamos servicios HTTP mediante JSON Server, lo cual nos permitió crear una fake API para simular el backend de la aplicación.
+Para este sprint, contamos con los siguientes endpoints principales:
+
+-Empresa Transportista
+
+-Empresario Pesquero
+
+
+* <strong>Captura de la estructura del users - requests (db.json):</strong>
+
+<div align="center"> 
+  <img src="./assets/server/users.png" style="margin: 10px; width: 450px;"> 
+  <img src="./assets/server/requests.png" style="margin: 10px; width: 450px;"> 
+</div><br>
+
+* <strong>Captura de la estructura del entrepreneurs - carries (db.json):</strong>
+
+<div align="center"> 
+  <img src="./assets/server/entrepreneurs.png" style="margin: 10px; width: 450px;"> 
+  <img src="./assets/server/carriers.png" style="margin: 10px; width: 450px;"> 
+</div><br>
+
+* <strong>Captura de la Fake API en funcionamiento:</strong>
+
+  * **GET**
+
+    <div align="center"> 
+      <img src="./assets/server/pruebaGet.png" style="margin: 10px; width: 420px;"> 
+      <img src="./assets/server/pruebaGet-1.png" style="margin: 10px; width: 420px;"> 
+    </div><br>
+
+  * **POST**
+
+    <div align="center"> 
+      <img src="./assets/server/pruebaPost-1.png" style="margin: 10px; width: 420px;"> 
+    </div><br>
+
+  * **PUT**
+
+    <div align="center"> 
+      <img src="./assets/server/pruebaPut.png" style="margin: 10px; width: 420px;">
+    </div><br>
+
+  * **DELETE**
+
+    <div align="center"> 
+      <img src="./assets/server/pruebaDelete.png" style="margin: 10px; width: 420px;">
+      <img src="./assets/server/pruebaDelete-2.png" style="margin: 10px; width: 420px;">
+    </div><br>
+
+
+   #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+
+Durante el Sprint 2, se desplegó el frontend para permitir la integración y validación de las funcionalidades desarrolladas. Utilizamos vercel para el despliegue del frontend.
+
+1. Haz `fork` del repositorio (si el proyecto no es tuyo). Ve al repositorio original en GitHub, haz clic en el botón `Fork` (esquina superior derecha) y se creará una copia del repositorio en tu cuenta.
+
+    <div align="center"> <img src="./assets/paso 1.png"> </div>
+    <br>
+
+2. Conecta el proyecto a [Vercel](https://vercel.com) iniciando sesión con tu cuenta de GitHub.
+
+    <div align="center"> <img src="./assets/paso 2.jpg"> </div>
+    <br>
+
+3. Haz clic en `Add New Project` y luego en `Project`.
+
+    <div align="center"> <img src="./assets/paso 3.jpg"> </div>
+    <br>
+
+4. Selecciona tu repositorio (el fork o el que hayas creado), haz clic en `Import` (esto tomará unos segundos), asegúrate de que esté seleccionado el **Framework Preset: `Angular`** y luego haz clic en `Deploy`.
+
+    <div align="center"> <img src="./assets/paso 4.1.jpg"> </div>
+
+    <div align="center"> <img src="./assets/paso 4.2.jpg"> </div>
+    <br>
+
+5. Espera a que finalice el proceso (puede tardar un poco la primera vez). Después, haz clic en `Continue to Dashboard`.
+
+    <div align="center"> <img src="./assets/paso 5.jpg"> </div>
+    <br>
+
+6. Finalmente, Vercel te mostrará el enlace de tu aplicación web desplegada.
+
+    <div align="center"> <img src="./assets/paso 6.jpg"> </div>
+
+
+A continuación, se presentan el link que evidencia el despliegue:
+
+* <strong>Despliegue del Frontend</strong>: [PescaGo-Frontend](url)
+
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint. 
+
+El equipo desarrolló el frontend por ramas con la finalidad de desarrollar cada sección de manera individual para optimizar el mantenimientoy colaboración durante el sprint. 
+
+Link del GitHub con a la participación: [Pulse de GitHub](https://github.com/1ASI0729-2510-4321-devvolution/PescaGo-Frontend/pulse)
+
+A continuación, se presentarán las tareas asignadas a cada integrante del equipo, así como el insight del equipo a través de la plataforma GitHub:
+
+<table border="1">
+  <tr>
+    <th>Integrante</th>
+    <th>Actividad</th>
+  </tr>
+  <tr>
+    <td>Ramos Argüelles, Alexandra Belen</td>
+    <td>Se encargó del inicio de sesión como los registros para ambos segmentos objetivos</td>
+  </tr>
+  <tr>
+    <td>Belleza Tello, Paolo Eduardo</td>
+    <td>Se encargó de realizar la funcionalidad "Solicitudes para cotizar" del segmento objetivo: Empresa Transportista</td>
+  </tr>
+  <tr>
+    <td>Fernandez Alva, María Fernanda</td>
+    <td>Se encargó de realizar la funcionalidad "Servicio Confirmado" del segmento objetivo: Empresa Transportista</td>
+  </tr>
+  <tr>
+    <td>Macavilca Quispe, Ian</td>
+    <td>Se encargó de realizar la funcionalidad "Búsqueda de empresas transportistas" del segmento objetivo: Empresario Pesquero. Tambien elaboró una parte de la funcionalidad "Servicios Contratados"</td>
+  </tr>
+  <tr>
+    <td>Prado Vargas, Mario Benjamín</td>
+    <td>Se encargó de realizar la funcionalidad "Estado de Solicitudes" del segmento objetivo: Empresario Pesquero. Tambien termino elaborar la funcionalidad "Servicios Contratados"</td>
+  </tr>
+</table>
+
+Con la finalidad de identificar a cada integrante del equipo, presentaremos una tabla con los usuarios de los colaboradores en el repositorio de GitHub.
+
+<table border="1">
+  <tr>
+    <th>Username (GitHub)</th>
+    <th>Nombre</th>
+  </tr>
+  <tr>
+    <td>AleRamosA</td>
+    <td>Ramos Argüelles, Alexandra Belen</td>
+  </tr>
+  <tr>
+    <td>PaoloBellezaTelloo</td>
+    <td>Belleza Tello, Paolo Eduardo</td>
+  </tr>
+  <tr>
+    <td>MariaFernandaFernandezAlva</td>
+    <td>Fernandez Alva, María Fernanda</td>
+  </tr>
+  <tr>
+    <td>IanMQ</td>
+    <td>Macavilca Quispe, Ian Fernanda</td>
+  </tr>
+  <tr>
+    <td>mariopvdev</td>
+    <td>Prado Vargas, Mario Benjamín</td>
+  </tr>
+</table>
+
+A continuación, se mostrarán las capturas de participación:
+
+* <strong>Captura de los commits realizados</strong>
+
+<div align=center>
+    <img src="./assets/pulse-frontend.png">
+</div>
+
+* <strong>Captura de la contribución de los integrantes</strong>
+
+<div align=center>
+    <img src="./assets/contribuidores-frontend.png">
+</div>
+
+
 ## Conclusiones
 
 ### Conclusiones y recomendaciones
@@ -399,7 +1045,6 @@ Asimismo, se dedicó un esfuerzo significativo al diseño y desarrollo de la pá
 
 En resumen, este primer sprint ha permitido establecer una base sólida para el proyecto, alineando los objetivos y definiendo una hoja de ruta clara para las fases venideras. El trabajo colaborativo y la meticulosa atención al detalle han sido cruciales para alcanzar los resultados obtenidos hasta el momento, y el equipo se encuentra en una posición favorable para avanzar en las próximas etapas de desarrollo.
 
-## Video About-the-Team
 
 ## Bibliografía
 
