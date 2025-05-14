@@ -2234,7 +2234,10 @@ En esta sección describimos los productos de software que hemos usado en el pro
 
    #### 5.2.1.2. Sprint Backlog 1
 
+   En esta seccion mostramos las tareas que se realizaron en este sprint.
 
+   [Link del tablero de trello](https://trello.com/b/2f2fee81/pescago)
+    ![Sprint Backlog 1](image.png)
 | Sprint # | Sprint 1 | | | | | | |
 |:-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 | Epic/ Story | | Work-Item | | | | | |
