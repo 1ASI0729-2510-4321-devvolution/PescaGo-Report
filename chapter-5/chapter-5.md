@@ -388,6 +388,16 @@ A continuación, se compartirá la tabla de colaboradores del repositorio de Git
   #### 5.2.2. Sprint 2
    #### 5.2.2.1. Sprint Planning 2
 
+En esta parte mostramos las tareas que se realizaron en este sprint.
+
+Link del Trello: [Ir a Trello](https://trello.com/invite/b/6821201064fc162fd1070c4b/ATTIe7594534dfacff282c80125476e30b4a12551FAF/pescago)
+
+Vista del Sprint Backlog 1 en Trello:
+
+<div align="center">
+  <img align="center" src="./assets/trello - 2.png">
+</div><br><br>
+
 <table border="1px" align="center">
       <tr>
           <th style="font-weight: bold;" >Sprint #</th>
@@ -678,57 +688,73 @@ Link del repositorio: [PescaGo - Frontend](https://github.com/1ASI0729-2510-4321
   <tr>
     <td>PescaGo - Frontend</td>
     <td>main</td>
-    <td>81b748</td>
-    <td>feat: add ..</td>
-    <td>Acceso a la funcionalidad..</td>
+    <td>a947b63</td>
+    <td>feat: implementar filtro de búsqueda por nombre</td>
+    <td>Funcionalidad de búsqueda</td>
+    <td>9/05/2025</td>
+  </tr>
+  <tr>
+    <td>PescaGo - Frontend</td>
+    <td>main</td>
+    <td>424601e</td>
+    <td>feat: add carrier confirmed-services component</td>
+    <td>Funcionalidad del carrier</td>
+    <td>10/05/2025</td>
+  </tr>
+  <tr>
+    <td>PescaGo - Frontend</td>
+    <td>main</td>
+    <td>5835ab5</td>
+    <td>feat: add carrier packet-details component</td>
+    <td>Detalles del carrier</td>
+    <td>11/05/2025</td>
+  </tr>
+  <tr>
+    <td>PescaGo - Frontend</td>
+    <td>main</td>
+    <td>6fb067b</td>
+    <td>refactor: initiate project restructuring to align with DDD and modular architecture</td>
+    <td>Restructurar las carpetas del proyecto</td>
+    <td>12/05/2025</td>
+  </tr>
+  <tr>
+    <td>PescaGo - Frontend</td>
+    <td>main</td>
+    <td>0bf3632</td>
+    <td>feat: add provideHttpClient() to app.config.ts</td>
+    <td>Implementación de la Api local</td>
     <td>13/05/2025</td>
   </tr>
   <tr>
     <td>PescaGo - Frontend</td>
     <td>main</td>
-    <td>81b748</td>
-    <td>feat: add ..</td>
-    <td>Acceso a la funcionalidad..</td>
+    <td>9e044fb</td>
+    <td>feat: add component Home</td>
+    <td>Página Principal</td>
     <td>13/05/2025</td>
   </tr>
   <tr>
     <td>PescaGo - Frontend</td>
     <td>main</td>
-    <td>81b748</td>
-    <td>feat: add ..</td>
-    <td>Acceso a la funcionalidad..</td>
+    <td>3d0d134</td>
+    <td>feat: add component payment form</td>
+    <td>Formulario de pago</td>
     <td>13/05/2025</td>
   </tr>
   <tr>
     <td>PescaGo - Frontend</td>
     <td>main</td>
-    <td>81b748</td>
-    <td>feat: add ..</td>
-    <td>Acceso a la funcionalidad..</td>
+    <td>ee9bedd</td>
+    <td>feat: add methods for payment gateway</td>
+    <td>Funcionalidad de los metodos de pago</td>
     <td>13/05/2025</td>
   </tr>
   <tr>
     <td>PescaGo - Frontend</td>
     <td>main</td>
-    <td>81b748</td>
-    <td>feat: add ..</td>
-    <td>Acceso a la funcionalidad..</td>
-    <td>13/05/2025</td>
-  </tr>
-  <tr>
-    <td>PescaGo - Frontend</td>
-    <td>main</td>
-    <td>81b748</td>
-    <td>feat: add ..</td>
-    <td>Acceso a la funcionalidad..</td>
-    <td>13/05/2025</td>
-  </tr>
-  <tr>
-    <td>PescaGo - Frontend</td>
-    <td>main</td>
-    <td>81b748</td>
-    <td>feat: add ..</td>
-    <td>Acceso a la funcionalidad..</td>
+    <td>559dd00</td>
+    <td>feat: add describe to request-status</td>
+    <td>Funcionalidad de los estados de solicitudes</td>
     <td>13/05/2025</td>
   </tr>
 </table>
