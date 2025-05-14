@@ -842,19 +842,48 @@ Para este sprint, contamos con los siguientes endpoints principales:
 -Empresario Pesquero
 
 
-* <strong>Captura de la estructura de la Empresa Transportista (db.json):</strong>
+* <strong>Captura de la estructura del users - requests (db.json):</strong>
 
-<div align="center"> <img src="./assets/commits.png"> </div>
+<div align="center"> 
+  <img src="./assets/server/users.png" style="margin: 10px; width: 450px;"> 
+  <img src="./assets/server/requests.png" style="margin: 10px; width: 450px;"> 
+</div><br>
 
+* <strong>Captura de la estructura del entrepreneurs - carries (db.json):</strong>
 
-* <strong>Captura de la estructura del Empresario Pesquero (db.json):</strong>
-
-<div align="center"> <img src="./assets/commits.png"> </div>
-
+<div align="center"> 
+  <img src="./assets/server/entrepreneurs.png" style="margin: 10px; width: 450px;"> 
+  <img src="./assets/server/carriers.png" style="margin: 10px; width: 450px;"> 
+</div><br>
 
 * <strong>Captura de la Fake API en funcionamiento:</strong>
 
-<div align="center"> <img src="./assets/commits.png"> </div>
+  * **GET**
+
+    <div align="center"> 
+      <img src="./assets/server/pruebaGet.png" style="margin: 10px; width: 420px;"> 
+      <img src="./assets/server/pruebaGet-1.png" style="margin: 10px; width: 420px;"> 
+    </div><br>
+
+  * **POST**
+
+    <div align="center"> 
+      <img src="./assets/server/pruebaPost-1.png" style="margin: 10px; width: 420px;"> 
+    </div><br>
+
+  * **PUT**
+
+    <div align="center"> 
+      <img src="./assets/server/pruebaPut.png" style="margin: 10px; width: 420px;">
+    </div><br>
+
+  * **DELETE**
+
+    <div align="center"> 
+      <img src="./assets/server/pruebaDelete.png" style="margin: 10px; width: 420px;">
+      <img src="./assets/server/pruebaDelete-2.png" style="margin: 10px; width: 420px;">
+    </div><br>
+
 
    #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
