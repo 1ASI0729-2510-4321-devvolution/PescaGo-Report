@@ -114,6 +114,26 @@
         ● Implementación de la Aplicación Web - PescaGo
       </td>
     </tr>
+    <tr>
+      <td>TB2</td>
+      <td>15/06/2025</td>
+      <td>
+        <ul>
+            <li>Macavilca Quispe, Ian</li>
+            <li>Prado Vargas, Mario Benjamín</li>
+            <li>Ramos Argüelles, Alexandra Belen</li>
+            <li>Belleza Tello, Paolo Eduardo</li>
+            <li>Fernandez Alva, Maria Fernanda</li>
+        </ul>
+      </td>
+      <td>
+        ● Capítulo V: Product Implementation, Validation & Deployment 
+        con respecto al Sprint 3<br>
+        ● Validation Interviews y video about-the-product<br>
+        ● Avance de Conclusiones, Bibliografía y Anexos<br>
+        ● Implementación del Backend - PescaGo
+      </td>
+    </tr>
   </tbody>
 </table>
 
