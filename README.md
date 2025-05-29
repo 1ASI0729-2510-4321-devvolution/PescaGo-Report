@@ -3201,7 +3201,7 @@ Vista del Sprint Backlog 3 en Trello:
       </tr>
     </table>
 
-   #### 5.2.2.2. Aspect Leaders and Collaborators
+   #### 5.2.3.2. Aspect Leaders and Collaborators
 
 <table border="1" style="border-collapse: collapse; text-align: center;">
   <tr>
@@ -3260,7 +3260,7 @@ Vista del Sprint Backlog 3 en Trello:
   </tr>
 </table>
 
-  #### 5.2.2.3. Sprint Backlog 3
+  #### 5.2.3.3. Sprint Backlog 3
 
 <table border="1" cellspacing="0" cellpadding="4">
   <tr>
