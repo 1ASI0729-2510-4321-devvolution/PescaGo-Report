@@ -3403,6 +3403,29 @@ Link del repositorio: [PescaGo - Backend](https://github.com/1ASI0729-2510-4321-
   </tr>
 </table>
 
+   #### 5.2.3.5. Execution Evidence for Sprint Review
+
+En el Sprint 3 hemos logrado implementar las validaciones como los llamados principales (GET-POST-DELETE-PUT) más relevantes para el correcto llamado de los datos
+
+A continuación, se presentan capturas de los endpoints en swagger.
+
+<div align=center>
+    <img src="./chapter-5/assets/inicio de sesion.png">
+</div>
+
+<div align=center>
+    <img src="./chapter-5/assets/inicio de sesion.png">
+</div>
+
+<div align=center>
+    <img src="./chapter-5/assets/inicio de sesion.png">
+</div>
+
+<div align=center>
+    <img src="./chapter-5/assets/registro.png">
+</div>
+<br>
+
 ## Conclusiones
 
 ### Conclusiones y recomendaciones
