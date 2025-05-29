@@ -3201,6 +3201,65 @@ Vista del Sprint Backlog 3 en Trello:
       </tr>
     </table>
 
+   #### 5.2.2.2. Aspect Leaders and Collaborators
+
+<table border="1" style="border-collapse: collapse; text-align: center;">
+  <tr>
+    <th>Team Member (Last Name, First Name)</th>
+    <th>GitHub Username</th>
+    <th>Registro de los dos segmentos objetivos</th>
+    <th>Validación de los datos en inicio de sesión</th>
+    <th>Solicitud del servicio</th>
+    <th>Solicitud de los datos del vehiculo y conductor</th>
+    <th>Envio del dato de la cotización</th>
+  </tr>
+  <tr>
+    <td>Ramos Argüelles, Alexandra Belen</td>
+    <td>AleRamosA</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Belleza Tello, Paolo Eduardo</td>
+    <td>PaoloBellezaTelloo</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Fernandez Alva, María Fernanda</td>
+    <td>MariaFernandaFernandezAlva</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Macavilca Quispe, Ian</td>
+    <td>IanMQ</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Prado Vargas, Mario Benjamín</td>
+    <td>mariopvdev</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+  </tr>
+</table>
+
 ## Conclusiones
 
 ### Conclusiones y recomendaciones
