@@ -3339,6 +3339,70 @@ Vista del Sprint Backlog 3 en Trello:
 
 </table>
 
+   #### 5.2.3.4. Development Evidence for Sprint Review.
+En esta sección, se presentan los commits realizados en el repositorio del backend en GitHub. Estos commits reflejan el progreso y las mejoras implementadas durante el sprint 3, proporcionando una visión detallada de las actividades de desarrollo y las contribuciones del equipo.
+
+Link del repositorio: [PescaGo - Backend](https://github.com/1ASI0729-2510-4321-devvolution/PescaGo-Backend)
+
+<table border="1" cellpadding="5" cellspacing="0">
+  <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit Id</th>
+    <th>Commit Message</th>
+    <th>Commit Message Body</th>
+    <th>Commited on (Date)</th>
+  </tr>
+  <tr>
+    <td>PescaGo - Backend</td>
+    <td>main</td>
+    <td>a947b63</td>
+    <td>feat: ---</td>
+    <td>------</td>
+    <td>14/06/2025</td>
+  </tr>
+  <tr>
+    <td>PescaGo - Backend</td>
+    <td>main</td>
+    <td>424601e</td>
+    <td>feat: ---</td>
+    <td>------</td>
+    <td>14/06/2025</td>
+  </tr>
+  <tr>
+    <td>PescaGo - Backend</td>
+    <td>main</td>
+    <td>5835ab5</td>
+    <td>feat: ---</td>
+    <td>------</td>
+    <td>14/06/2025</td>
+  </tr>
+  <tr>
+    <td>PescaGo - Backend</td>
+    <td>main</td>
+    <td>6fb067b</td>
+    <td>feat: ---</td>
+    <td>------</td>
+    <td>14/06/2025</td>
+  </tr>
+  <tr>
+    <td>PescaGo - Backend</td>
+    <td>main</td>
+    <td>0bf3632</td>
+    <td>feat: ---</td>
+    <td>------</td>
+    <td>14/06/2025</td>
+  </tr>
+  <tr>
+    <td>PescaGo - Backend</td>
+    <td>main</td>
+    <td>9e044fb</td>
+    <td>feat: ---</td>
+    <td>------</td>
+    <td>14/06/2025</td>
+  </tr>
+</table>
+
 ## Conclusiones
 
 ### Conclusiones y recomendaciones
