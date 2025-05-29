@@ -160,14 +160,28 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
 
 **Reporte de colaboración de la entrega del TP:**
 
+- Todos los miembros del equipo contribuyeron en distintas partes del entregable. Por ejemplo, todos nos ayudamos en esta entrega como en la documentación , la implementación del frontend y la elaboracion de un API local.
+
+- Se establecieron fechas límite para la finalización de cada tarea asignada.
+<br><br>
+  
+<p align="center">
+  <img align="center" src="assets/pulse-frontend.png" style="width:320px; margin: 10px;">
+  <img align="center" src="assets/contribuidores-frontend.png" style="width:320px; margin: 10px;">
+</p>
+
+---
+
+**Reporte de colaboración de la entrega del TB2:**
+
 - Todos los miembros del equipo contribuyeron en distintas partes del entregable. Por ejemplo, algunos se encargaron de la documentación , implementación de los videos en el landing page, elaboración del backend, y la implementación de una Api externa.
 
 - Se establecieron fechas límite para la finalización de cada tarea asignada. Y coordinación con semanas de anticipación para finalizar el proyecto.
 <br><br>
   
 <p align="center">
-  <img align="center" src="assets/contribuidores-frontend.png" style="width:320px; margin: 10px;">
-  <img align="center" src="assets/pulse-frontend.png" style="width:320px; margin: 10px;">
+  <img align="center" src="assets/Sprint3/" style="width:320px; margin: 10px;">
+  <img align="center" src="assets/Sprint3/" style="width:320px; margin: 10px;">
 </p>
 
 ---
