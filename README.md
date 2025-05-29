@@ -3260,6 +3260,85 @@ Vista del Sprint Backlog 3 en Trello:
   </tr>
 </table>
 
+  #### 5.2.2.3. Sprint Backlog 3
+
+<table border="1" cellspacing="0" cellpadding="4">
+  <tr>
+    <th style="text-align: center;"><b>Sprint #</b></th>
+    <th colspan="7" style="text-align: center;"><b>Sprint 3</b></th>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align: center;"><b>User Story</b></td>
+    <td colspan="6" style="text-align: center;"><b>Work-item / Task</b></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><b>ID</b></td>
+    <td style="text-align: center;"><b>Title</b></td>
+    <td style="text-align: center;"><b>ID</b></td>
+    <td style="text-align: center;"><b>Title</b></td>
+    <td style="text-align: center;"><b>Description</b></td>
+    <td style="text-align: center;"><b>Estimation (hours)</b></td>
+    <td style="text-align: center;"><b>Assigned To</b></td>
+    <td style="text-align: center;"><b>Status</b></td>
+  </tr>
+
+  <tr>
+    <td>E5-US20</td>
+    <td>Agregar una empresa prestadora de vehículos</td>
+    <td>T1</td>
+    <td>Datos de la empresa transportista</td>
+    <td>Desarrollar una solicitud POST con los datos completados de la empresa transportista.</td>
+    <td style="text-align: center;">5h</td>
+    <td>Ramos Argüelles, Belen</td>
+    <td style="text-align: center;">Done</td>
+  </tr>
+
+  <tr>
+    <td>E5-US21</td>
+    <td>Agregar solicitud del empresario pesquero</td>
+    <td>T2</td>
+    <td>Solicitud del servicio</td>
+    <td>Desarrollar la petición POST con los respectivos datos como: nombre del empresario, tipo de producto, cantidad, origen, destino y fecha de envío.</td>
+    <td style="text-align: center;">5h</td>
+    <td>Macavilca Quispe, Ian</td>
+    <td style="text-align: center;">Done</td>
+  </tr>
+
+  <tr>
+    <td>E5-US22</td>
+    <td>Gestionar usuarios</td>
+    <td>T3</td>
+    <td>Registro de cuenta</td>
+    <td>Desarrollar las respectivas validaciones como en el correo y contraseña que ingrese el usuario a la hora de regitrarse.</td>
+    <td style="text-align: center;">5h</td>
+    <td>Belleza Tello, Paolo</td>
+    <td style="text-align: center;">Done</td>
+  </tr>
+
+  <tr>
+    <td>E5-US23</td>
+    <td>Información sobre vehiculo y conductor</td>
+    <td>T4</td>
+    <td>Datos del vehiculo y conductor</td>
+    <td>Desarrollar un Get para la optención de los datos para enviar al empresario pesquero</td>
+    <td style="text-align: center;">5h</td>
+    <td>Prado Vargas, Mario</td>
+    <td style="text-align: center;">Done</td>
+  </tr>
+
+  <tr>
+    <td>E5-US24</td>
+    <td>Envio del dato de la cotización</td>
+    <td>T5</td>
+    <td>Dato de la cotización</td>
+    <td>Desarrollar un Get para la optención del precio del servicio y transferirlo a empresario pesquero</td>
+    <td style="text-align: center;">5h</td>
+    <td>Fernandez Alva, Maria</td>
+    <td style="text-align: center;">Done</td>
+  </tr>
+
+</table>
+
 ## Conclusiones
 
 ### Conclusiones y recomendaciones
