@@ -132,10 +132,23 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
 - Se establecieron fechas límite para la finalización de cada capítulo, lo que facilitó el avance de cada capítulo.
 
 <p align="center">
-  <img align="center" src="img/Commits.jpeg"></p>
+  <img align="center" src="img/Commits.jpeg" style="width:320px; margin: 10px;">
+  <img align="center" src="img/Contribuidores.jpeg" style="width:320px; margin: 10px;">
+</p>
 
+---
+
+**Reporte de colaboración de la entrega del TP:**
+
+- Todos los miembros del equipo contribuyeron en distintas partes del entregable. Por ejemplo, algunos se encargaron de la documentación , implementación de los videos en el landing page, elaboración del backend, y la implementación de una Api externa.
+
+- Se establecieron fechas límite para la finalización de cada tarea asignada. Y coordinación con semanas de anticipación para finalizar el proyecto.
+<br><br>
+  
 <p align="center">
-  <img align="center" src="img/Contribuidores.jpeg"></p>
+  <img align="center" src="assets/contribuidores-frontend.png" style="width:320px; margin: 10px;">
+  <img align="center" src="assets/pulse-frontend.png" style="width:320px; margin: 10px;">
+</p>
 
 ---
 
