@@ -3426,6 +3426,78 @@ A continuación, se presentan capturas de los endpoints en swagger.
 </div>
 <br>
 
+   #### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+Durante el Sprint 3, hemos integrado nuestra API desarrollada con Java y Spring Boot. A continuación, se detallan los endpoints principales que nuestro equipo creó, organizados por Bounded Context.
+
+<table>
+	<tbody>
+		<tr>
+			<td>Bounded Context</td>
+			<td colspan="2">Gestión de Empresas Transportistas</td>
+		</tr>
+		<tr>
+			<td>Entity</td>
+			<td>Endpoint URL</td>
+			<td>Swagger</td>
+		</tr>
+		<tr>
+			<td>---</td>
+			<td>api/v1/----</td>
+			<td><img src="./assets/chapter-5/endpoint_evidence.png" alt="Imagen" width="600" height="100"></td>
+		</tr>
+		<tr>
+			<td>---</td>
+			<td>api/v1/----</td>
+			<td><img src="./assets/chapter-5/endpoint_expense.png" alt="Imagen" width="600" height="100"></td>
+		</tr>
+    <tr>
+			<td>---</td>
+			<td>api/v1/----</td>
+			<td><img src="./assets/chapter-5/endpoint_vehicles.png" alt="Imagen" width="600" height="100"></td>
+		</tr>
+    <tr>
+			<td>---</td>
+			<td>api/v1/----</td>
+			<td><img src="./assets/chapter-5/endpoint_alert.png" alt="Imagen" width="600" height="100"></td>
+		</tr>
+	</tbody>
+</table>
+
+<table>
+	<tbody>
+		<tr>
+			<td>Bounded Context</td>
+			<td colspan="2">Gestión de Empresarios Pesqueros</td>
+		</tr>
+		<tr>
+			<td>Entity</td>
+			<td>Endpoint URL</td>
+			<td>Swagger</td>
+		</tr>
+		<tr>
+			<td>---</td>
+			<td>api/v1/----</td>
+			<td><img src="./assets/chapter-5/endpoint_evidence.png" alt="Imagen" width="600" height="100"></td>
+		</tr>
+		<tr>
+			<td>---</td>
+			<td>api/v1/----</td>
+			<td><img src="./assets/chapter-5/endpoint_expense.png" alt="Imagen" width="600" height="100"></td>
+		</tr>
+    <tr>
+			<td>---</td>
+			<td>api/v1/----</td>
+			<td><img src="./assets/chapter-5/endpoint_vehicles.png" alt="Imagen" width="600" height="100"></td>
+		</tr>
+    <tr>
+			<td>---</td>
+			<td>api/v1/----</td>
+			<td><img src="./assets/chapter-5/endpoint_alert.png" alt="Imagen" width="600" height="100"></td>
+		</tr>
+	</tbody>
+</table>
+
 ## Conclusiones
 
 ### Conclusiones y recomendaciones
