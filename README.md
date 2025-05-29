@@ -282,6 +282,20 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
     - [5.2.2.6. Services Documentation Evidence for Sprint Review](/docs/chapter-V.md/#5226-services-documentation-evidence-for-sprint-review)
     - [5.2.2.7. Software Deployment Evidence for Sprint Review](/docs/chapter-V.md/#5227-software-deployment-evidence-for-sprint-review)
     - [5.2.2.8. Team Collaboration Insights during Sprint](/docs/chapter-V.md/#5228-team-collaboration-insights-during-sprint)
+  - [5.2.3. Sprint 3](/docs/chapter-V.md/#523-spring-3)
+    - [5.2.3.1. Sprint Planning 2](/docs/chapter-V.md/#5231-spring-planning-3)
+    - [5.2.3.2. Aspect Leaders and Collaborators](/docs/chapter-V.md/#5232-aspect-leaders-and-collaborators)
+    - [5.2.3.3. Sprint Backlog 2](/docs/chapter-V.md/#5233-spring-backlog-3)
+    - [5.2.3.4. Development Evidence for Sprint Review](/docs/chapter-V.md/#5234-development-evidence-for-sprint-review)
+    - [5.2.3.5. Execution Evidence for Sprint Review](/docs/chapter-V.md/#5235-execution-evidence-for-sprint-review)
+    - [5.2.3.6. Services Documentation Evidence for Sprint Review](/docs/chapter-V.md/#5236-services-documentation-evidence-for-sprint-review)
+    - [5.2.3.7. Software Deployment Evidence for Sprint Review](/docs/chapter-V.md/#5237-software-deployment-evidence-for-sprint-review)
+    - [5.2.3.8. Team Collaboration Insights during Sprint](/docs/chapter-V.md/#5238-team-collaboration-insights-during-sprint)
+- [5.3. Validation Interviews](/docs/chapter-V.md/#53-validation-interviews)
+  - [5.3.1. Diseño de Entrevistas](/docs/chapter-V.md/#531-diseño-de-entrevistas)
+  - [5.3.2. Registro de Entrevistas](/docs/chapter-V.md/#532-registro-de-entrevistas)
+  - [5.3.3. Evaluaciones según heurísticas](/docs/chapter-V.md/#533-evaluaciones-segun-heuristicas)
+- [5.4. Video About-the-Product](/docs/chapter-V.md/#54-video-about-the-product)
 
 ## Conclusiones
 
