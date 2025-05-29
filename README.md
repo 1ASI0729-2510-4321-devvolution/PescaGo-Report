@@ -3527,9 +3527,7 @@ Durante el Sprint 3, se desplegó el backend para permitir la integración y val
    Espera a que el estado del `deployment` pase de `building` a `active`. Una vez activo, ve a `Settings` → `Networking` para copiar el link desplegado de tu backend.
 
 
-A continuación, se presentan el link que evidencia el despliegue:
-
-**Enlace del Despliegue del Backend:** [PescaGo - Backend]()
+    **Enlace del Despliegue del Backend:** [PescaGo - Backend]()
 
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint. 
