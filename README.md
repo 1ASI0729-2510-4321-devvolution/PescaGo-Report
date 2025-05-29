@@ -3532,6 +3532,85 @@ A continuación, se presentan el link que evidencia el despliegue:
 **Enlace del Despliegue del Backend:** [PescaGo - Backend]()
 
 
+#### 5.2.3.8. Team Collaboration Insights during Sprint. 
+
+El equipo desarrolló el backend por ramas con la finalidad de desarrollar cada sección de manera individual para optimizar el mantenimientoy colaboración durante el sprint. 
+
+Link del GitHub con a la participación: [Pulse de GitHub](https://github.com/1ASI0729-2510-4321-devvolution/PescaGo-Backend/pulse)
+
+A continuación, se presentarán las tareas asignadas a cada integrante del equipo, así como el insight del equipo a través de la plataforma GitHub:
+
+<table border="1">
+  <tr>
+    <th>Integrante</th>
+    <th>Actividad</th>
+  </tr>
+  <tr>
+    <td>Ramos Argüelles, Alexandra Belen</td>
+    <td>-------</td>
+  </tr>
+  <tr>
+    <td>Belleza Tello, Paolo Eduardo</td>
+    <td>-------</td>>
+  </tr>
+  <tr>
+    <td>Fernandez Alva, María Fernanda</td>
+    <td>-------</td>
+  </tr>
+  <tr>
+    <td>Macavilca Quispe, Ian</td>
+    <td>-------</td>
+  </tr>
+  <tr>
+    <td>Prado Vargas, Mario Benjamín</td>
+    <td>-------</td>
+  </tr>
+</table>
+
+Con la finalidad de identificar a cada integrante del equipo, presentaremos una tabla con los usuarios de los colaboradores en el repositorio de GitHub.
+
+<table border="1">
+  <tr>
+    <th>Username (GitHub)</th>
+    <th>Nombre</th>
+  </tr>
+  <tr>
+    <td>AleRamosA</td>
+    <td>Ramos Argüelles, Alexandra Belen</td>
+  </tr>
+  <tr>
+    <td>PaoloBellezaTelloo</td>
+    <td>Belleza Tello, Paolo Eduardo</td>
+  </tr>
+  <tr>
+    <td>MariaFernandaFernandezAlva</td>
+    <td>Fernandez Alva, María Fernanda</td>
+  </tr>
+  <tr>
+    <td>IanMQ</td>
+    <td>Macavilca Quispe, Ian Fernanda</td>
+  </tr>
+  <tr>
+    <td>mariopvdev</td>
+    <td>Prado Vargas, Mario Benjamín</td>
+  </tr>
+</table>
+
+A continuación, se mostrarán las capturas de participación:
+
+* <strong>Captura de los commits realizados</strong>
+
+<div align=center>
+    <img src="./chapter-5/assets/pulse-frontend.png">
+</div>
+
+* <strong>Captura de la contribución de los integrantes</strong>
+
+<div align=center>
+    <img src="./chapter-5/assets/contribuidores-frontend.png">
+</div>
+
+
 ## Conclusiones
 
 ### Conclusiones y recomendaciones
