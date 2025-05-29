@@ -3197,7 +3197,7 @@ Vista del Sprint Backlog 3 en Trello:
       </tr>
       <tr>
           <td style="font-weight: bold;">Sum of Story Points</td>
-          <td>15</td>
+          <td>25</td>
       </tr>
     </table>
 
