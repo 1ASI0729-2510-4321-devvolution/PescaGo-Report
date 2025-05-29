@@ -3127,6 +3127,376 @@ A continuación, se mostrarán las capturas de participación:
     <img src="./chapter-5/assets/contribuidores-frontend.png">
 </div>
 
+#### 5.2.3. Sprint 3
+   #### 5.2.3.1. Sprint Planning 3
+
+En esta parte mostramos las tareas que se realizaron en este sprint.
+
+Link del Trello: [Ir a Trello](https://trello.com/invite/b/6821201064fc162fd1070c4b/ATTIe7594534dfacff282c80125476e30b4a12551FAF/pescago)
+
+Vista del Sprint Backlog 3 en Trello:
+
+<div align="center">
+  <img align="center" src="./chapter-5/assets/">  
+</div><br><br>
+
+<table border="1px" align="center">
+      <tr>
+          <th style="font-weight: bold;" >Sprint #</th>
+          <th style="font-weight: bold;" >Sprint 3</th>
+      </tr>
+      <tr> 
+          <td colspan="2" style="font-weight: bold;">Sprint Planning Background</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Date</td>
+          <td>13-06-2025</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Time</td>
+          <td>8:00 pm - 10:00 pm</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Location</td>
+          <td>Canal de Voz de Discord</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Prepared By</td>
+          <td>Prado Vargas, Mario Benjamín</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Attendees (to planning meeting)</td>
+          <td>
+              Belleza Tello, Paolo Eduardo<br>
+              Fernandez Alva, María Fernanda<br>
+              Macavilca Quispe, Ian<br>
+              Prado Vargas, Mario Benjamín<br>
+              Ramos Argüelles, Alexandra Belen<br>
+          </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Sprint 2 Review Summary</td>
+          <td>El profesor nos indicó que debemos implementar una API externa como una API de pagos.</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Sprint 2 Retrospective Summary</td>
+          <td>El equipo logró organizarse y completar las tareas planificadas. Se logró implementar una API externa para el proyecto</td>
+      </tr>
+      <tr> 
+          <td colspan="2" style="font-weight: bold;">Sprint Goal & User Stories</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Sprint 3 Goal</td>
+          <td>
+              El objetivo principal de este sprint es desarrollar el backend de nuestra aplicación PescaGo, con especial enfoque en implementar un buen manejo de la estructura del proyecto como sus validaciones y seguridades.
+          </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Sprint 3 Velocity</td>
+          <td>5</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Sum of Story Points</td>
+          <td>25</td>
+      </tr>
+    </table>
+
+   #### 5.2.3.2. Aspect Leaders and Collaborators
+
+<table border="1" style="border-collapse: collapse; text-align: center;">
+  <tr>
+    <th>Team Member (Last Name, First Name)</th>
+    <th>GitHub Username</th>
+    <th>Registro de los dos segmentos objetivos</th>
+    <th>Validación de los datos en inicio de sesión</th>
+    <th>Solicitud del servicio</th>
+    <th>Solicitud de los datos del vehiculo y conductor</th>
+    <th>Envio del dato de la cotización</th>
+  </tr>
+  <tr>
+    <td>Ramos Argüelles, Alexandra Belen</td>
+    <td>AleRamosA</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Belleza Tello, Paolo Eduardo</td>
+    <td>PaoloBellezaTelloo</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Fernandez Alva, María Fernanda</td>
+    <td>MariaFernandaFernandezAlva</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Macavilca Quispe, Ian</td>
+    <td>IanMQ</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Prado Vargas, Mario Benjamín</td>
+    <td>mariopvdev</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+  </tr>
+</table>
+
+  #### 5.2.3.3. Sprint Backlog 3
+
+<table border="1" cellspacing="0" cellpadding="4">
+  <tr>
+    <th style="text-align: center;"><b>Sprint #</b></th>
+    <th colspan="7" style="text-align: center;"><b>Sprint 3</b></th>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align: center;"><b>User Story</b></td>
+    <td colspan="6" style="text-align: center;"><b>Work-item / Task</b></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><b>ID</b></td>
+    <td style="text-align: center;"><b>Title</b></td>
+    <td style="text-align: center;"><b>ID</b></td>
+    <td style="text-align: center;"><b>Title</b></td>
+    <td style="text-align: center;"><b>Description</b></td>
+    <td style="text-align: center;"><b>Estimation (hours)</b></td>
+    <td style="text-align: center;"><b>Assigned To</b></td>
+    <td style="text-align: center;"><b>Status</b></td>
+  </tr>
+
+  <tr>
+    <td>E5-US20</td>
+    <td>Agregar una empresa prestadora de vehículos</td>
+    <td>T1</td>
+    <td>Datos de la empresa transportista</td>
+    <td>Desarrollar una solicitud POST con los datos completados de la empresa transportista.</td>
+    <td style="text-align: center;">5h</td>
+    <td>Ramos Argüelles, Belen</td>
+    <td style="text-align: center;">Done</td>
+  </tr>
+
+  <tr>
+    <td>E5-US21</td>
+    <td>Agregar solicitud del empresario pesquero</td>
+    <td>T2</td>
+    <td>Solicitud del servicio</td>
+    <td>Desarrollar la petición POST con los respectivos datos como: nombre del empresario, tipo de producto, cantidad, origen, destino y fecha de envío.</td>
+    <td style="text-align: center;">5h</td>
+    <td>Macavilca Quispe, Ian</td>
+    <td style="text-align: center;">Done</td>
+  </tr>
+
+  <tr>
+    <td>E5-US22</td>
+    <td>Gestionar usuarios</td>
+    <td>T3</td>
+    <td>Registro de cuenta</td>
+    <td>Desarrollar las respectivas validaciones como en el correo y contraseña que ingrese el usuario a la hora de regitrarse.</td>
+    <td style="text-align: center;">5h</td>
+    <td>Belleza Tello, Paolo</td>
+    <td style="text-align: center;">Done</td>
+  </tr>
+
+  <tr>
+    <td>E5-US23</td>
+    <td>Información sobre vehiculo y conductor</td>
+    <td>T4</td>
+    <td>Datos del vehiculo y conductor</td>
+    <td>Desarrollar un Get para la optención de los datos para enviar al empresario pesquero</td>
+    <td style="text-align: center;">5h</td>
+    <td>Prado Vargas, Mario</td>
+    <td style="text-align: center;">Done</td>
+  </tr>
+
+  <tr>
+    <td>E5-US24</td>
+    <td>Envio del dato de la cotización</td>
+    <td>T5</td>
+    <td>Dato de la cotización</td>
+    <td>Desarrollar un Get para la optención del precio del servicio y transferirlo a empresario pesquero</td>
+    <td style="text-align: center;">5h</td>
+    <td>Fernandez Alva, Maria</td>
+    <td style="text-align: center;">Done</td>
+  </tr>
+
+</table>
+
+   #### 5.2.3.4. Development Evidence for Sprint Review.
+En esta sección, se presentan los commits realizados en el repositorio del backend en GitHub. Estos commits reflejan el progreso y las mejoras implementadas durante el sprint 3, proporcionando una visión detallada de las actividades de desarrollo y las contribuciones del equipo.
+
+Link del repositorio: [PescaGo - Backend](https://github.com/1ASI0729-2510-4321-devvolution/PescaGo-Backend)
+
+<table border="1" cellpadding="5" cellspacing="0">
+  <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit Id</th>
+    <th>Commit Message</th>
+    <th>Commit Message Body</th>
+    <th>Commited on (Date)</th>
+  </tr>
+  <tr>
+    <td>PescaGo - Backend</td>
+    <td>main</td>
+    <td>a947b63</td>
+    <td>feat: ---</td>
+    <td>------</td>
+    <td>14/06/2025</td>
+  </tr>
+  <tr>
+    <td>PescaGo - Backend</td>
+    <td>main</td>
+    <td>424601e</td>
+    <td>feat: ---</td>
+    <td>------</td>
+    <td>14/06/2025</td>
+  </tr>
+  <tr>
+    <td>PescaGo - Backend</td>
+    <td>main</td>
+    <td>5835ab5</td>
+    <td>feat: ---</td>
+    <td>------</td>
+    <td>14/06/2025</td>
+  </tr>
+  <tr>
+    <td>PescaGo - Backend</td>
+    <td>main</td>
+    <td>6fb067b</td>
+    <td>feat: ---</td>
+    <td>------</td>
+    <td>14/06/2025</td>
+  </tr>
+  <tr>
+    <td>PescaGo - Backend</td>
+    <td>main</td>
+    <td>0bf3632</td>
+    <td>feat: ---</td>
+    <td>------</td>
+    <td>14/06/2025</td>
+  </tr>
+  <tr>
+    <td>PescaGo - Backend</td>
+    <td>main</td>
+    <td>9e044fb</td>
+    <td>feat: ---</td>
+    <td>------</td>
+    <td>14/06/2025</td>
+  </tr>
+</table>
+
+   #### 5.2.3.5. Execution Evidence for Sprint Review
+
+En el Sprint 3 hemos logrado implementar las validaciones como los llamados principales (GET-POST-DELETE-PUT) más relevantes para el correcto llamado de los datos
+
+A continuación, se presentan capturas de los endpoints en swagger.
+
+<div align=center>
+    <img src="./chapter-5/assets/inicio de sesion.png">
+</div>
+
+<div align=center>
+    <img src="./chapter-5/assets/inicio de sesion.png">
+</div>
+
+<div align=center>
+    <img src="./chapter-5/assets/inicio de sesion.png">
+</div>
+
+<div align=center>
+    <img src="./chapter-5/assets/registro.png">
+</div>
+<br>
+
+   #### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+Durante el Sprint 3, hemos integrado nuestra API desarrollada con Java y Spring Boot. A continuación, se detallan los endpoints principales que nuestro equipo creó, organizados por Bounded Context.
+
+<table>
+	<tbody>
+		<tr>
+			<td>Bounded Context</td>
+			<td colspan="2">Gestión de Empresas Transportistas</td>
+		</tr>
+		<tr>
+			<td>Entity</td>
+			<td>Endpoint URL</td>
+			<td>Swagger</td>
+		</tr>
+		<tr>
+			<td>---</td>
+			<td>api/v1/----</td>
+			<td><img src="./assets/chapter-5/endpoint_evidence.png" alt="Imagen" width="600" height="100"></td>
+		</tr>
+		<tr>
+			<td>---</td>
+			<td>api/v1/----</td>
+			<td><img src="./assets/chapter-5/endpoint_expense.png" alt="Imagen" width="600" height="100"></td>
+		</tr>
+    <tr>
+			<td>---</td>
+			<td>api/v1/----</td>
+			<td><img src="./assets/chapter-5/endpoint_vehicles.png" alt="Imagen" width="600" height="100"></td>
+		</tr>
+    <tr>
+			<td>---</td>
+			<td>api/v1/----</td>
+			<td><img src="./assets/chapter-5/endpoint_alert.png" alt="Imagen" width="600" height="100"></td>
+		</tr>
+	</tbody>
+</table>
+
+<table>
+	<tbody>
+		<tr>
+			<td>Bounded Context</td>
+			<td colspan="2">Gestión de Empresarios Pesqueros</td>
+		</tr>
+		<tr>
+			<td>Entity</td>
+			<td>Endpoint URL</td>
+			<td>Swagger</td>
+		</tr>
+		<tr>
+			<td>---</td>
+			<td>api/v1/----</td>
+			<td><img src="./assets/chapter-5/endpoint_evidence.png" alt="Imagen" width="600" height="100"></td>
+		</tr>
+		<tr>
+			<td>---</td>
+			<td>api/v1/----</td>
+			<td><img src="./assets/chapter-5/endpoint_expense.png" alt="Imagen" width="600" height="100"></td>
+		</tr>
+    <tr>
+			<td>---</td>
+			<td>api/v1/----</td>
+			<td><img src="./assets/chapter-5/endpoint_vehicles.png" alt="Imagen" width="600" height="100"></td>
+		</tr>
+    <tr>
+			<td>---</td>
+			<td>api/v1/----</td>
+			<td><img src="./assets/chapter-5/endpoint_alert.png" alt="Imagen" width="600" height="100"></td>
+		</tr>
+	</tbody>
+</table>
 
 ## Conclusiones
 
