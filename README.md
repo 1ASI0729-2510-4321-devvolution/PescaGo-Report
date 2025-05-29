@@ -3498,6 +3498,40 @@ Durante el Sprint 3, hemos integrado nuestra API desarrollada con Java y Spring 
 	</tbody>
 </table>
 
+   #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+
+Durante el Sprint 3, se desplegó el backend para permitir la integración y validación de las funcionalidades desarrolladas. Utilizamos Railway para el despliegue del backend.
+
+1. **Crea tu cuenta en Railway**  
+   Entra a [Railway](https://railway.com/) e inicia sesión con tu cuenta de GitHub
+
+    <div align=center>
+      <img src="./assets/Sprint3/paso1-backend.png">
+    </div><br>
+
+2. **Conecta tu repositorio**  
+   Haz clic en `New Project`, después elige la opción `Deploy from GitHub Repo` y seleccionas el repositorio del backend
+
+    <div align=center>
+      <img src="./assets/Sprint3/paso2-backend.png">
+    </div><br>
+
+3. **Configurar las Variables de Entorno**  
+   Ve a la pestaña `Variables` y haz clic en `Raw Editor`. Pega todas las variables de entorno necesarias (como en el archivo `application.properties` o `application.yml` de tu backend). Luego haz clic en `Update Variables`, presiona `Apply changes` y finalmente en `Deploy` para aplicar y ejecutar el backend.
+
+    <div align=center>
+      <img src="./assets/Sprint3/paso3-backend.png">
+    </div><br>
+
+3. **Despliegue del Backend**  
+   Espera a que el estado del `deployment` pase de `building` a `active`. Una vez activo, ve a `Settings` → `Networking` para copiar el link desplegado de tu backend.
+
+
+A continuación, se presentan el link que evidencia el despliegue:
+
+**Enlace del Despliegue del Backend:** [PescaGo - Backend]()
+
+
 ## Conclusiones
 
 ### Conclusiones y recomendaciones
