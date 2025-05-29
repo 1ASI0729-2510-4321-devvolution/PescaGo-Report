@@ -3127,6 +3127,79 @@ A continuación, se mostrarán las capturas de participación:
     <img src="./chapter-5/assets/contribuidores-frontend.png">
 </div>
 
+#### 5.2.3. Sprint 3
+   #### 5.2.3.1. Sprint Planning 3
+
+En esta parte mostramos las tareas que se realizaron en este sprint.
+
+Link del Trello: [Ir a Trello](https://trello.com/invite/b/6821201064fc162fd1070c4b/ATTIe7594534dfacff282c80125476e30b4a12551FAF/pescago)
+
+Vista del Sprint Backlog 3 en Trello:
+
+<div align="center">
+  <img align="center" src="./chapter-5/assets/">  
+</div><br><br>
+
+<table border="1px" align="center">
+      <tr>
+          <th style="font-weight: bold;" >Sprint #</th>
+          <th style="font-weight: bold;" >Sprint 3</th>
+      </tr>
+      <tr> 
+          <td colspan="2" style="font-weight: bold;">Sprint Planning Background</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Date</td>
+          <td>13-06-2025</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Time</td>
+          <td>8:00 pm - 10:00 pm</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Location</td>
+          <td>Canal de Voz de Discord</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Prepared By</td>
+          <td>Prado Vargas, Mario Benjamín</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Attendees (to planning meeting)</td>
+          <td>
+              Belleza Tello, Paolo Eduardo<br>
+              Fernandez Alva, María Fernanda<br>
+              Macavilca Quispe, Ian<br>
+              Prado Vargas, Mario Benjamín<br>
+              Ramos Argüelles, Alexandra Belen<br>
+          </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Sprint 2 Review Summary</td>
+          <td>El profesor nos indicó que debemos implementar una API externa como una API de pagos.</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Sprint 2 Retrospective Summary</td>
+          <td>El equipo logró organizarse y completar las tareas planificadas. Se logró implementar una API externa para el proyecto</td>
+      </tr>
+      <tr> 
+          <td colspan="2" style="font-weight: bold;">Sprint Goal & User Stories</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Sprint 3 Goal</td>
+          <td>
+              El objetivo principal de este sprint es desarrollar el backend de nuestra aplicación PescaGo, con especial enfoque en implementar un buen manejo de la estructura del proyecto como sus validaciones y seguridades.
+          </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Sprint 3 Velocity</td>
+          <td>5</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Sum of Story Points</td>
+          <td>15</td>
+      </tr>
+    </table>
 
 ## Conclusiones
 
