@@ -3926,12 +3926,38 @@ Asimismo, se dedicó un esfuerzo significativo al diseño y desarrollo de la pá
 
 En resumen, este primer sprint ha permitido establecer una base sólida para el proyecto, alineando los objetivos y definiendo una hoja de ruta clara para las fases venideras. El trabajo colaborativo y la meticulosa atención al detalle han sido cruciales para alcanzar los resultados obtenidos hasta el momento, y el equipo se encuentra en una posición favorable para avanzar en las próximas etapas de desarrollo.
 
+Como grupo, consideramos que el desarrollo de PescaGo nos permitió aplicar de manera integral los conocimientos adquiridos a lo largo del curso, desde la identificación de una problemática real hasta el diseño y validación de una solución tecnológica funcional. A través del diseño de la landing page y la aplicación web, buscamos facilitar la conexión entre empresarios pesqueros y empresas transportistas, optimizando sus procesos logísticos y fomentando una red de colaboración eficiente.
+
+Durante el proceso, enfrentamos desafíos técnicos y de comunicación con los usuarios, los cuales superamos gracias al trabajo colaborativo, la escucha activa y la mejora continua basada en entrevistas y validaciones. Concluimos que PescaGo no solo responde a una necesidad concreta del sector, sino que tiene potencial para escalar y generar impacto positivo en la cadena productiva pesquera.
 
 ## Bibliografía
 
+- Portal Portuario. (2024, abril 1). _Llaman a prevenir robos al transporte de carga pesada ante próxima inauguración del megapuerto de Chancay_. [https://portalportuario.cl/llaman-a-prevenir-robos-al-transporte-de-carga-pesada-ante-proxima-inauguracion-del-megapuerto-de-chancay/](https://portalportuario.cl/llaman-a-prevenir-robos-al-transporte-de-carga-pesada-ante-proxima-inauguracion-del-megapuerto-de-chancay/)
+
+- Cuya et al. (2015). _Calidad en el Sector Transporte de Carga en Lima Metropolitana_. [Tesis de Magíster, Pontificia Universidad Católica del Perú]. Repositorio de tesis PUCP. [http://hdl.handle.net/20.500.12404/14317](http://hdl.handle.net/20.500.12404/14317)
+
+- Perez, A. (2023). _Gestión de riesgos: factor importante en las empresas de transporte de carga_. [Tesis de Bachiller, Universidad Católica Santo Toribio de Mogrovejo]. Repositorio de Tesis USAT. [http://hdl.handle.net/20.500.12423/6326](http://hdl.handle.net/20.500.12423/6326)
+
+- Angular. (s. f.). _Angular_. [https://angular.dev/](https://angular.dev/)
+
+- Team, A. C. (s. f.). _Angular material. Angular Material_. [https://material.angular.io/](https://material.angular.io/)
+
+- Chandrakant y Cummings. (2024, mayo 11). _CQRS and Event Sourcing in Java_. [https://www.baeldung.com/cqrs-event-sourcing-java](https://www.baeldung.com/cqrs-event-sourcing-java)
+
+- VMware Tanzu. (s. f.). _Getting Started | Accessing Data With MySQL_. [https://spring.io/guides/gs/accessing-data-mysql](https://spring.io/guides/gs/accessing-data-mysql)
+
+- Tiwari, A. (2023, julio 31). _Spring Boot + MySQL + Spring Data JPA: A Beginner’s Guide to REST API CRUD Operations. DEV Community_. [https://dev.to/abhi9720/a-beginners-guide-to-crud-operations-of-rest-api-in-spring-boot-mysql-5hcl](https://dev.to/abhi9720/a-beginners-guide-to-crud-operations-of-rest-api-in-spring-boot-mysql-5hcl)
+
 ## Anexos
-  
-    
+
+- **Link de Exposición antes de PescaGo:** []()
+- **Link de Exposición después de PescaGo:** []()
+- **Link de Landing Page:** []()
+- **Link de la Aplicación Web:** []()
+- **Link del Backend:** []()
+- **Link del repositorio:** [https://github.com/1ASI0729-2510-4321-devvolution/PescaGo-Report](https://github.com/1ASI0729-2510-4321-devvolution/PescaGo-Report)
+- **About The Product:** []()
+- **About The Team:** []()
               
               
               
