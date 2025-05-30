@@ -3899,7 +3899,18 @@ resumen de la entrevistas
 
 ## 5.4. Video About-the-Product.
 
+En esta sección se presenta el contenido del video About the Product, dirigido a los visitantes de la Landing Page que desean conocer más sobre PescaGo.
 
+El video muestra tanto la Landing Page como la aplicación web de PescaGo, permitiendo a los usuarios explorar sus principales funcionalidades. El tono del video está alineado con la identidad del producto, lo que garantiza una comunicación clara, coherente y cercana al público objetivo.
+
+Además, se incluyen testimonios positivos de usuarios pertenecientes a cada segmento objetivo entrevistado durante la fase de validación. Estos testimonios destacan los beneficios y la satisfacción obtenida al utilizar la plataforma, reforzando la propuesta de valor de PescaGo.
+<br>
+
+<div align="center">
+  <img src="ruta-de-tu-imagen.jpg">
+</div><br>
+
+**Link :** [About-the-product]()
 
 ## Conclusiones
 
