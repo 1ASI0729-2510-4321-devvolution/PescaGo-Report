@@ -3671,8 +3671,43 @@ A continuación, se mostrarán las capturas de participación:
 
 ## 5.3. Validation Interviews.
 
-
 ### 5.3.1. Diseño de Entrevistas.
+
+En esta sección se redactaron las preguntas para las entrevistas a fin de obtener la información necesaria acerca de la aplicación, viendo aspectos a mantener y a mejorar.
+
+**Preguntas principales:**
+
+   1. ¿Cómo te llamas?
+   2. ¿Qué edad tienes?
+   3. ¿Cuál es tu profesión?
+
+**Preguntas sobre la Landing Page:**
+
+   1. ¿La información presentada en la landing page te pareció clara y fácil de entender?
+   2. ¿Sientes que la landing page comunica bien los beneficios que PescaGo puede ofrecer a una empresa transportista / empresario pesquero como la tuya?
+   3. ¿Qué opinas sobre los videos incluidos? ¿Te ayudaron a comprender mejor el funcionamiento y propósito de la plataforma?
+   4. ¿Te parece útil tener un botón que redirige directamente a la aplicación web? ¿Lo encontraste fácilmente?
+
+**Preguntas para la empresa transportista:**
+
+   1. ¿Cómo fue tu experiencia registrándote como empresa transportista? ¿Fue sencillo identificar tu tipo de usuario y llenar los datos?
+   2. ¿Qué te pareció la opción de ingresar manualmente los distritos a los que llega tu servicio de transporte? ¿Te resultó fácil? ¿Cambiarías algo de esa parte del registro?
+   3. ¿La información mostrada en la tabla de solicitudes es clara y suficiente para que puedas decidir si quieres cotizar?
+   4. ¿El proceso para cotizar una solicitud (ingresar precio) te pareció intuitivo? o ¿Te gustaría agregar algo más?
+   5. ¿Qué opinas de la funcionalidad para eliminar varias solicitudes al mismo tiempo? ¿Te resulta útil?
+   6. ¿Te parece útil la columna “Tipo de pago” en la tabla de servicios confirmados? ¿O te gustaría que también se mostrara el monto pagado por el servicio?
+   7. ¿Fue fácil llenar y enviar los datos del envío (vehículo, placa, conductor)? ¿Agregarías o quitarías algo de esos datos?
+   8. En general, cómo fue tu experiencia usando PescaGo como empresa transportista? ¿Qué fue lo que más te gustó? ¿Qué mejorarías?
+
+**Preguntas para la empresario pesquero:**
+
+   1. ¿Te resultó útil la lista de empresas transportistas disponibles como la información mostrada (imagen, nombre, descripción, distritos) fue suficiente para elegir a cuál(es) enviar la solicitud?
+   2. ¿Te he útil el filtro por nombre de empresa o te gustaría tener otro tipo de filtro?
+   3. ¿El formulario para enviar una solicitud te pareció claro y fácil de llenar? ¿Hubo algún campo que te generó dudas o que sientes que podría mejorarse?
+   4. ¿Te quedó claro qué significa cada estado (pendiente, rechazado, aceptado)? ¿Agregarías algún mensaje o ayuda adicional?
+   5. ¿El proceso de pago fue claro para ti? , ¿Te sentiste cómodo con las opciones de pago disponibles (tarjeta, plin, yape)?
+   6. ¿La información que te brinda la tabla de servicios contratados te pareció completa? ¿Fue útil conocer de antemano los datos del vehículo y del conductor?
+   7. En general, cómo fue tu experiencia usando PescaGo como empresario pesquero? ¿Qué fue lo que más te gustó? ¿Qué mejorarías?
 
 ### 5.3.2. Registro de Entrevistas.
 
