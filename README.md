@@ -3711,6 +3711,189 @@ En esta sección se redactaron las preguntas para las entrevistas a fin de obten
 
 ### 5.3.2. Registro de Entrevistas.
 
+**Link de todas las entrevistas:** [URL Entrevistas]()
+
+**Entrevistado 1**
+
+<table border="1" style="text-align: left;">
+  <tbody>
+    <tr>
+      <td colspan="1" rowspan="6"><img src="" alt="" width="575" height="250"></td>
+            <td colspan="1" rowspan="1"><strong>Nombre del entrevistado:
+            <br>
+            </strong> Nombre del entrevistado
+            <br> Apellido del entrevistado
+            </td>
+    </tr>
+        <tr>
+            <td>
+            <strong>Edad:<br></strong> - años
+            <br>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Distrito:</strong> 
+            <br>Los Olivos
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Nombre del entrevistador:</strong>
+            <br>Nombre 
+            <br>Apellido
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Timming: </strong>
+            <br>--<br>
+            <strong>Duración: </strong>
+            <br>04:19:00
+            </td>
+        </tr>      
+  </tbody>
+</table>
+
+<strong>Resumen: </strong><br>
+resumen de la entrevistas
+
+**Entrevistado 2**
+
+<table border="1" style="text-align: left;">
+  <tbody>
+    <tr>
+      <td colspan="1" rowspan="6"><img src="" alt="" width="575" height="250"></td>
+            <td colspan="1" rowspan="1"><strong>Nombre del entrevistado:
+            <br>
+            </strong> Nombre del entrevistado
+            <br> Apellido del entrevistado
+            </td>
+    </tr>
+        <tr>
+            <td>
+            <strong>Edad:<br></strong> - años
+            <br>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Distrito:</strong> 
+            <br>Los Olivos
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Nombre del entrevistador:</strong>
+            <br>Nombre 
+            <br>Apellido
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Timming: </strong>
+            <br>--<br>
+            <strong>Duración: </strong>
+            <br>04:19:00
+            </td>
+        </tr>      
+  </tbody>
+</table>
+
+<strong>Resumen: </strong><br>
+resumen de la entrevistas
+
+**Entrevistado 3**
+
+<table border="1" style="text-align: left;">
+  <tbody>
+    <tr>
+      <td colspan="1" rowspan="6"><img src="" alt="" width="575" height="250"></td>
+            <td colspan="1" rowspan="1"><strong>Nombre del entrevistado:
+            <br>
+            </strong> Nombre del entrevistado
+            <br> Apellido del entrevistado
+            </td>
+    </tr>
+        <tr>
+            <td>
+            <strong>Edad:<br></strong> - años
+            <br>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Distrito:</strong> 
+            <br>Los Olivos
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Nombre del entrevistador:</strong>
+            <br>Nombre 
+            <br>Apellido
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Timming: </strong>
+            <br>--<br>
+            <strong>Duración: </strong>
+            <br>04:19:00
+            </td>
+        </tr>      
+  </tbody>
+</table>
+
+<strong>Resumen: </strong><br>
+resumen de la entrevistas
+
+
+**Entrevistado 4**
+
+<table border="1" style="text-align: left;">
+  <tbody>
+    <tr>
+      <td colspan="1" rowspan="6"><img src="" alt="" width="575" height="250"></td>
+            <td colspan="1" rowspan="1"><strong>Nombre del entrevistado:
+            <br>
+            </strong> Nombre del entrevistado
+            <br> Apellido del entrevistado
+            </td>
+    </tr>
+        <tr>
+            <td>
+            <strong>Edad:<br></strong> - años
+            <br>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Distrito:</strong> 
+            <br>Los Olivos
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Nombre del entrevistador:</strong>
+            <br>Nombre 
+            <br>Apellido
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <strong>Timming: </strong>
+            <br>--<br>
+            <strong>Duración: </strong>
+            <br>04:19:00
+            </td>
+        </tr>      
+  </tbody>
+</table>
+
+<strong>Resumen: </strong><br>
+resumen de la entrevistas
+
 ### 5.3.3. Evaluaciones según heurísticas.
 
 
