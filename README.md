@@ -180,8 +180,8 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
 <br><br>
   
 <p align="center">
-  <img align="center" src="assets/Sprint3/" style="width:320px; margin: 10px;">
-  <img align="center" src="assets/Sprint3/" style="width:320px; margin: 10px;">
+  <img align="center" src="./assets/Sprint3/pulse.png" style="width:320px; margin: 10px;">
+  <img align="center" src="./assets/Sprint3/contribuidores.png" style="width:320px; margin: 10px;">
 </p>
 
 ---
@@ -316,15 +316,15 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
     <td><strong>Prado Vargas, Mario Benjamin</strong><br>
     <strong>TB1:</strong> Realicé el User Personas, User Task Matrix, User Journey Mapping, Empathy Mapping, As-Is Scenario Mapping, Ubiquitous Language, Software Architecture Context Diagram, Container Diagrams, Components Diagrams, Landing Page Wireframe, Landing Page Mock-up<br><strong>TP:</strong> Contribuí en el Development Evidence for Sprint Review. Además, implementé las funcionalidades relacionadas en la interaccion entre modules y conexion con fakeapi.</td>
     <td rowspan="5">
-    <strong>TB1:</strong>En esta primera entrega, se comunicaron de manera responsable los intereses de los stakeholders, asegurando el cumplimiento de los estándares en el desarrollo del software<br><br><strong>TP:</strong> En esta segunda entrega, se abordó la implementación del frontend de la aplicación web PescaGo. Además, se asignaron las secciones correspondientes para la elaboración del documento.<br><br></td>
+    <strong>TB1:</strong>En esta primera entrega, se comunicaron de manera responsable los intereses de los stakeholders, asegurando el cumplimiento de los estándares en el desarrollo del software<br><br><strong>TP:</strong> En esta segunda entrega, se abordó la implementación del frontend de la aplicación web PescaGo. Además, se asignaron las secciones correspondientes para la elaboración del documento.<br><br><strong>TB2:</strong> En esta tercera entrega, se abordo las restriccionaes para ambos segmentos, Haciendo pruebas , realizando cambios y asegurandonos que haya seguridad a la hora de entregar los datos.</td>
   </tr>
   <tr>
     <td><strong>Fernandez Alva, Maria Fernanda</strong><br>
-    <strong>TB1:</strong> Realicé el To-Be Scenario Mapping, elaboré el Product Backlog y desarrollé el prototipo en Figma, acompañado de un video demostrando la funcionalidad.<br><strong>TP:</strong> Realicé la documentacion del sprint 2 en los siguientes puntos: Sprint Planning 2 , Aspect Leaders y la funcionalidad "Servicio Confirmado".</td>
+    <strong>TB1:</strong> Realicé el To-Be Scenario Mapping, elaboré el Product Backlog y desarrollé el prototipo en Figma, acompañado de un video demostrando la funcionalidad.<br><strong>TP:</strong> Realicé la documentacion del sprint 2 en los siguientes puntos: Sprint Planning 2 , Aspect Leaders y la funcionalidad "Servicio Confirmado".<br><strong>TB2:</strong> Realice la documentacion con respecto al sprint 3 como las restriccion para el segmento objetivo del empresario pesquero</td>
   </tr>
   <tr>
     <td><strong>Belleza Tello, Paolo Eduardo</strong><br>
-    <strong>TB1:</strong> Realicé las User Stories, los Wireflow Diagrams, los Mock-ups y los User Flow Diagrams para la aplicación web.<br><strong>TP:</strong> Realicé una parte de la documentació como : Sprint Backlog 2 y developmente evidence for Sprint Review y la funcionalidad "Solicitudes para cotizar" en el código.</td>
+    <strong>TB1:</strong> Realicé las User Stories, los Wireflow Diagrams, los Mock-ups y los User Flow Diagrams para la aplicación web.<br><strong>TP:</strong> Realicé una parte de la documentació como : Sprint Backlog 2 y developmente evidence for Sprint Review y la funcionalidad "Solicitudes para cotizar" en el código.<br><strong>TB2:</strong> Realicé la documentación con respecto al sprint 3 como las restriccion para el segmento objetivo de empresa transportista</td>
   </tr>
   <tr>
   <td><strong>Ramos Argüelles, Alexandra Belen</strong><br>
@@ -332,8 +332,7 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
   </tr>
   <tr>
     <td><strong>Macavilca Quispe, Ian</strong><br>
-    <strong>TB1:</strong> Realicé los Class Diagrams, Database Diagram, capítulo 2 y 5.<br><strong>TP:</strong> Realicé una parte del developmente evidence for Sprint Review y me enfoque en las conexiones con la fakeapi y modularidad de componentes.
-    <strong>TB2:</strong> Realicé el planeamiento y desarrollo de la WebApi, así como el testing para el deploy de la misma.</td>
+    <strong>TB1:</strong> Realicé los Class Diagrams, Database Diagram, capítulo 2 y 5.<br><strong>TP:</strong> Realicé una parte del developmente evidence for Sprint Review y me enfoque en las conexiones con la fakeapi y modularidad de componentes.<br><strong>TB2:</strong> Realicé el planeamiento y desarrollo de la WebApi, así como el testing para el deploy de la misma.</td>
   </tr>
  
   <tr>
@@ -341,19 +340,19 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
     <td><strong>Prado Vargas, Mario Benjamin</strong><br>
     <strong>TB1:</strong> Mis contribuciones en la primera entrega incluyeron la documentación y estructuración técnica del proyecto mediante bounded contexts y diagramas, así como la creación de la landing page, sentando las bases funcionales y visuales para el desarrollo de PescaGo.<br><strong>TP:</strong> Contribuí en el Development Evidence for Sprint Review. Además, implementé la funcionalidad relacionadas al fakeapi y conexion entre componentes.</td>
     <td rowspan="5">
-    <strong>TB1:</strong> En esta primera entrega, se documentaron y redactaron las soluciones propuestas, estableciendo las bases funcionales y conceptuales del proyecto. Además, se desarrolló la landing page, marcando el primer avance tangible en la construcción de la aplicación web.<br><br><strong>TP:</strong> En la segunda entrega, se desarrolló la implementación del frontend de la aplicación web PescaGo y se distribuyeron las secciones del documento entre los integrantes del equipo. La redacción de los avances se realizó con un lenguaje técnico accesible, permitiendo su comprensión tanto por parte de desarrolladores como de lectores externos al proyecto</td>
+    <strong>TB1:</strong> En esta primera entrega, se documentaron y redactaron las soluciones propuestas, estableciendo las bases funcionales y conceptuales del proyecto. Además, se desarrolló la landing page, marcando el primer avance tangible en la construcción de la aplicación web.<br><br><strong>TP:</strong> En la segunda entrega, se desarrolló la implementación del frontend de la aplicación web PescaGo y se distribuyeron las secciones del documento entre los integrantes del equipo. La redacción de los avances se realizó con un lenguaje técnico accesible, permitiendo su comprensión tanto por parte de desarrolladores como de lectores externos al proyecto<br><br><strong>TB2:</strong> En esta tercera entrega, distribuimos el trabajo entre todos los integrantes del grupo. Elaboramos todo lo quese acordo en las reuniones, con algunos contratiempos.</td>
   </tr>
   <tr>
     <td><strong>Fernandez Alva, Maria Fernanda</strong><br>
-    <strong>TB1:</strong> Enfoqué el diseño de la aplicación en la resolución de problemas económicos y sociales identificados en el sector objetivo, asegurando que las funcionalidades propuestas respondieran a sus necesidades específicas.<br><strong>TP:</strong> Elaboré la documentación del Sprint 2, desarrollando los apartados de Sprint Planning 2, Aspect Leaders y la funcionalidad Servicio Confirmado. La redacción fue realizada con un enfoque claro y estructurado, considerando tanto a miembros técnicos del equipo como a lectores externos que evalúan el progreso del proyecto.</td>
+    <strong>TB1:</strong> Enfoqué el diseño de la aplicación en la resolución de problemas económicos y sociales identificados en el sector objetivo, asegurando que las funcionalidades propuestas respondieran a sus necesidades específicas.<br><strong>TP:</strong> Elaboré la documentación del Sprint 2, desarrollando los apartados de Sprint Planning 2, Aspect Leaders y la funcionalidad Servicio Confirmado. La redacción fue realizada con un enfoque claro y estructurado, considerando tanto a miembros técnicos del equipo como a lectores externos que evalúan el progreso del proyecto.<br><strong>TB2:</strong> Realice la documentacion con respecto al sprint 3 como las restriccion para el segmento objetivo del empresario pesquero.</td>
   </tr>
   <tr>
     <td><strong>Belleza Tello, Paolo Eduardo</strong><br>
-    <strong>TB1:</strong> Realicé la identificación y separación de los bounded contexts correspondientes a la aplicación, aplicando los principios del nivel estratégico de Domain Driven Design, con el fin de estructurar claramente las responsabilidades de cada módulo.<br><strong>TP:</strong> Contribuí en la documentación del Sprint 2 desarrollando los apartados Sprint Backlog 2 y Development Evidence for Sprint Review. Además, implementé la funcionalidad Solicitudes para cotizar en el código fuente. La documentación fue redactada de manera clara y estructurada, considerando su comprensión por parte de compañeros del equipo y evaluadores externos.</td>
+    <strong>TB1:</strong> Realicé la identificación y separación de los bounded contexts correspondientes a la aplicación, aplicando los principios del nivel estratégico de Domain Driven Design, con el fin de estructurar claramente las responsabilidades de cada módulo.<br><strong>TP:</strong> Contribuí en la documentación del Sprint 2 desarrollando los apartados Sprint Backlog 2 y Development Evidence for Sprint Review. Además, implementé la funcionalidad Solicitudes para cotizar en el código fuente. La documentación fue redactada de manera clara y estructurada, considerando su comprensión por parte de compañeros del equipo y evaluadores externos.<br><strong>TB2:</strong> Realicé la documentación con respecto al sprint 3 como las restriccion para el segmento objetivo de empresa transportista.</td>
   </tr>
   <tr>
     <td><strong>Macavilca Quispe, Ian</strong><br>
-    <strong>TB1:</strong> Realicé la identificación de competidores, el desarrollo de estrategias frente a estos, el diseño y analisis de entrevistas, así como también el planteamiento de diagramas que orienten el desarrollo de nuestra propuesta. <br><strong>TP:</strong> Contribuí en el Development Evidence for Sprint Review. Además, implementé la funcionalidad relacionadas al fakeapi y conexion entre componentes.<strong>TB2:</strong> Contribuí en el planeamiento y desarrollo de la WebApi, así como en el testing para el deploy de la misma.</td>
+    <strong>TB1:</strong> Realicé la identificación de competidores, el desarrollo de estrategias frente a estos, el diseño y analisis de entrevistas, así como también el planteamiento de diagramas que orienten el desarrollo de nuestra propuesta. <br><strong>TP:</strong> Contribuí en el Development Evidence for Sprint Review. Además, implementé la funcionalidad relacionadas al fakeapi y conexion entre componentes.<br><strong>TB2:</strong> Contribuí en el planeamiento y desarrollo de la WebApi, así como en el testing para el deploy de la misma.</td>
   </tr>
   <tr>
   <td><strong>Ramos Argüelles, Alexandra Belen</strong><br>
