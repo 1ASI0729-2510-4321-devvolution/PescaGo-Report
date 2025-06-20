@@ -3418,50 +3418,34 @@ Link del repositorio: [PescaGo - Backend](https://github.com/1ASI0729-2510-4321-
   <tr>
     <td>PescaGo - Backend</td>
     <td>main</td>
-    <td>a947b63</td>
-    <td>feat: ---</td>
+    <td>0bc7448</td>
+    <td>feat: add Update Request Command</td>
     <td>------</td>
-    <td>14/06/2025</td>
+    <td>07/06/2025</td>
   </tr>
   <tr>
     <td>PescaGo - Backend</td>
     <td>main</td>
-    <td>424601e</td>
-    <td>feat: ---</td>
+    <td>bd82f29</td>
+    <td>feat: add functional HiredService Package</td>
     <td>------</td>
-    <td>14/06/2025</td>
+    <td>07/06/2025</td>
   </tr>
   <tr>
     <td>PescaGo - Backend</td>
     <td>main</td>
-    <td>5835ab5</td>
-    <td>feat: ---</td>
+    <td>b17fe2c</td>
+    <td>feat: add HiredService Package</td>
     <td>------</td>
-    <td>14/06/2025</td>
+    <td>07/06/2025</td>
   </tr>
   <tr>
     <td>PescaGo - Backend</td>
     <td>main</td>
-    <td>6fb067b</td>
-    <td>feat: ---</td>
+    <td>a48d1a4</td>
+    <td>feat: add Request Package</td>
     <td>------</td>
-    <td>14/06/2025</td>
-  </tr>
-  <tr>
-    <td>PescaGo - Backend</td>
-    <td>main</td>
-    <td>0bf3632</td>
-    <td>feat: ---</td>
-    <td>------</td>
-    <td>14/06/2025</td>
-  </tr>
-  <tr>
-    <td>PescaGo - Backend</td>
-    <td>main</td>
-    <td>9e044fb</td>
-    <td>feat: ---</td>
-    <td>------</td>
-    <td>14/06/2025</td>
+    <td>06/06/2025</td>
   </tr>
 </table>
 
@@ -3472,25 +3456,44 @@ En el Sprint 3 hemos logrado implementar las validaciones como los llamados prin
 A continuación, se presentan capturas de los endpoints en swagger.
 
 <div align=center>
-    <img src="./chapter-5/assets/inicio de sesion.png">
+    <img src="./assets/Sprint3/swagger-1.jpg">
 </div>
 
 <div align=center>
-    <img src="./chapter-5/assets/inicio de sesion.png">
+    <img src="./assets/Sprint3/swagger-1.jpg">
 </div>
 
 <div align=center>
-    <img src="./chapter-5/assets/inicio de sesion.png">
+    <img src="./assets/Sprint3/swagger-2.jpg">
 </div>
 
 <div align=center>
-    <img src="./chapter-5/assets/registro.png">
+    <img src="./assets/Sprint3/swagger-3.jpg">
 </div>
 <br>
 
    #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
 Durante el Sprint 3, hemos integrado nuestra API desarrollada con Java y Spring Boot. A continuación, se detallan los endpoints principales que nuestro equipo creó, organizados por Bounded Context.
+
+<table>
+	<tbody>
+		<tr>
+			<td>Bounded Context</td>
+			<td colspan="2">Gestión para ambos usurios</td>
+		</tr>
+		<tr>
+			<td>Entity</td>
+			<td>Endpoint URL</td>
+			<td>Swagger</td>
+		</tr>
+		<tr>
+			<td>User</td>
+			<td>api/v1/users</td>
+			<td><img src="./assets/Sprint3/BC-User.png" alt="Imagen" width="600" height="100"></td>
+		</tr>
+	</tbody>
+</table>
 
 <table>
 	<tbody>
@@ -3504,24 +3507,14 @@ Durante el Sprint 3, hemos integrado nuestra API desarrollada con Java y Spring 
 			<td>Swagger</td>
 		</tr>
 		<tr>
-			<td>---</td>
-			<td>api/v1/----</td>
-			<td><img src="./assets/chapter-5/endpoint_evidence.png" alt="Imagen" width="600" height="100"></td>
+			<td>Carrier</td>
+			<td>api/v1/carries</td>
+			<td><img src="./assets/Sprint3/BC-Carrier.png" alt="Imagen" width="600" height="100"></td>
 		</tr>
 		<tr>
-			<td>---</td>
-			<td>api/v1/----</td>
-			<td><img src="./assets/chapter-5/endpoint_expense.png" alt="Imagen" width="600" height="100"></td>
-		</tr>
-    <tr>
-			<td>---</td>
-			<td>api/v1/----</td>
-			<td><img src="./assets/chapter-5/endpoint_vehicles.png" alt="Imagen" width="600" height="100"></td>
-		</tr>
-    <tr>
-			<td>---</td>
-			<td>api/v1/----</td>
-			<td><img src="./assets/chapter-5/endpoint_alert.png" alt="Imagen" width="600" height="100"></td>
+			<td>Receipt</td>
+			<td>api/v1/receipts</td>
+			<td><img src="./assets/Sprint3/BC-Receipt.png" alt="Imagen" width="600" height="100"></td>
 		</tr>
 	</tbody>
 </table>
@@ -3538,24 +3531,19 @@ Durante el Sprint 3, hemos integrado nuestra API desarrollada con Java y Spring 
 			<td>Swagger</td>
 		</tr>
 		<tr>
-			<td>---</td>
-			<td>api/v1/----</td>
-			<td><img src="./assets/chapter-5/endpoint_evidence.png" alt="Imagen" width="600" height="100"></td>
+			<td>Entreprenuer</td>
+			<td>api/v1/entreprenuers</td>
+			<td><img src="./assets/Sprint3/BC-Entreprenuer.png" alt="Imagen" width="600" height="100"></td>
 		</tr>
 		<tr>
-			<td>---</td>
-			<td>api/v1/----</td>
-			<td><img src="./assets/chapter-5/endpoint_expense.png" alt="Imagen" width="600" height="100"></td>
+			<td>Request</td>
+			<td>api/v1/requests</td>
+			<td><img src="./assets/Sprint3/BC-Request.png" alt="Imagen" width="600" height="100"></td>
 		</tr>
     <tr>
-			<td>---</td>
-			<td>api/v1/----</td>
-			<td><img src="./assets/chapter-5/endpoint_vehicles.png" alt="Imagen" width="600" height="100"></td>
-		</tr>
-    <tr>
-			<td>---</td>
-			<td>api/v1/----</td>
-			<td><img src="./assets/chapter-5/endpoint_alert.png" alt="Imagen" width="600" height="100"></td>
+			<td>Hired Service</td>
+			<td>api/v1/hired-services</td>
+			<td><img src="./assets/Sprint3/BC-Hired.png" alt="Imagen" width="600" height="100"></td>
 		</tr>
 	</tbody>
 </table>
@@ -3607,23 +3595,23 @@ A continuación, se presentarán las tareas asignadas a cada integrante del equi
   </tr>
   <tr>
     <td>Ramos Argüelles, Alexandra Belen</td>
-    <td>-------</td>
+    <td>Elaboro los Boundex Context de la empresa Transportista</td>
   </tr>
   <tr>
     <td>Belleza Tello, Paolo Eduardo</td>
-    <td>-------</td>>
+    <td>Elaboro las restricciones de la empresa Transportista</td>>
   </tr>
   <tr>
     <td>Fernandez Alva, María Fernanda</td>
-    <td>-------</td>
+    <td>Elaboro las restricciones del empresario pesquero</td>
   </tr>
   <tr>
     <td>Macavilca Quispe, Ian</td>
-    <td>-------</td>
+    <td>Elaboro los Boundex Context del empresario pesquero</td>
   </tr>
   <tr>
     <td>Prado Vargas, Mario Benjamín</td>
-    <td>-------</td>
+    <td>Elaboro los modulos de seguridad en el login y registro</td>
   </tr>
 </table>
 
@@ -3661,13 +3649,13 @@ A continuación, se mostrarán las capturas de participación:
 * <strong>Captura de los commits realizados</strong>
 
 <div align=center>
-    <img src="./chapter-5/assets/pulse-frontend.png">
+    <img src="./assets/Sprint3/pulse_backend.png">
 </div>
 
 * <strong>Captura de la contribución de los integrantes</strong>
 
 <div align=center>
-    <img src="./chapter-5/assets/contribuidores-frontend.png">
+    <img src="./assets/Sprint3/contribudores_backend.png">
 </div>
 
 ## 5.3. Validation Interviews.
@@ -3722,13 +3710,13 @@ En esta sección se redactaron las preguntas para las entrevistas a fin de obten
       <td colspan="1" rowspan="6"><img src="" alt="" width="575" height="250"></td>
             <td colspan="1" rowspan="1"><strong>Nombre del entrevistado:
             <br>
-            </strong> Nombre del entrevistado
-            <br> Apellido del entrevistado
+            </strong> Maria Yesenia
+            <br> Leyva
             </td>
     </tr>
         <tr>
             <td>
-            <strong>Edad:<br></strong> - años
+            <strong>Edad:<br></strong> 45 años
             <br>
             </td>
         </tr>
@@ -3741,8 +3729,8 @@ En esta sección se redactaron las preguntas para las entrevistas a fin de obten
         <tr>
             <td>
             <strong>Nombre del entrevistador:</strong>
-            <br>Nombre 
-            <br>Apellido
+            <br>Maria Fernanda
+            <br>Fernandez Alva
             </td>
         </tr>
         <tr>
