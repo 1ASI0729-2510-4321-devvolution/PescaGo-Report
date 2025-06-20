@@ -3199,7 +3199,7 @@ Link del Trello: [Ir a Trello](https://trello.com/invite/b/6821201064fc162fd1070
 Vista del Sprint Backlog 3 en Trello:
 
 <div align="center">
-  <img align="center" src="./chapter-5/assets/">  
+  <img align="center" src="/assets/Sprint3/trello_3.png">  
 </div><br><br>
 
 <table border="1px" align="center">
