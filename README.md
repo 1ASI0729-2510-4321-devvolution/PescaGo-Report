@@ -3754,30 +3754,30 @@ Sobre el proceso de pago, indicó que fue sencillo y valoró contar con opciones
 <table border="1" style="text-align: left;">
   <tbody>
     <tr>
-      <td colspan="1" rowspan="6"><img src="" alt="" width="575" height="250"></td>
+      <td colspan="1" rowspan="6"><img src="./assets/Sprint3/entrevista 2.png" width="575" height="250"></td>
             <td colspan="1" rowspan="1"><strong>Nombre del entrevistado:
             <br>
-            </strong> Nombre del entrevistado
-            <br> Apellido del entrevistado
+            </strong> Armando
+            <br> Paredes
             </td>
     </tr>
         <tr>
             <td>
-            <strong>Edad:<br></strong> - años
+            <strong>Edad:<br></strong> 26 años
             <br>
             </td>
         </tr>
         <tr>
             <td>
             <strong>Distrito:</strong> 
-            <br>Los Olivos
+            <br>Surco
             </td>
         </tr>
         <tr>
             <td>
             <strong>Nombre del entrevistador:</strong>
-            <br>Nombre 
-            <br>Apellido
+            <br> Alexandra Belen 
+            <br> Ramos Argüelles
             </td>
         </tr>
         <tr>
@@ -3785,14 +3785,14 @@ Sobre el proceso de pago, indicó que fue sencillo y valoró contar con opciones
             <strong>Timming: </strong>
             <br>--<br>
             <strong>Duración: </strong>
-            <br>04:19:00
+            <br>05:21:00
             </td>
         </tr>      
   </tbody>
 </table>
 
 <strong>Resumen: </strong><br>
-resumen de la entrevistas
+Durante la entrevista realizada al empresario pesquero Armando Paredes, se recogieron opiniones positivas sobre la experiencia de uso de la plataforma. El entrevistado señaló que la landing page le resultó clara, fácil de entender e intuitiva. Destacó como un acierto la inclusión de un botón que redirige directamente a la aplicación web, facilitando el acceso a las funcionalidades principales. Asimismo, mencionó que los procesos para realizar acciones como hacer pedidos o buscar transportistas son simples, útiles y comprensibles. Finalmente, expresó que el diseño visual, incluyendo los colores, le resultó agradable y que le gustaría probar la aplicación en un entorno real.
 
 **Entrevistado 3**
 
