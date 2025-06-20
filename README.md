@@ -3576,8 +3576,6 @@ Durante el Sprint 3, se desplegó el backend para permitir la integración y val
    Espera a que el estado del `deployment` pase de `building` a `active`. Una vez activo, ve a `Settings` → `Networking` para copiar el link desplegado de tu backend.
 
 
-    **Enlace del Despliegue del Backend:** [PescaGo - Backend]()
-
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint. 
 
@@ -3943,11 +3941,8 @@ Durante el proceso, enfrentamos desafíos técnicos y de comunicación con los u
 
 ## Anexos
 
-- **Link de Exposición antes de PescaGo:** []()
-- **Link de Exposición después de PescaGo:** []()
-- **Link de Landing Page:** []()
-- **Link de la Aplicación Web:** []()
-- **Link del Backend:** []()
+- **Link de Landing Page:** [https://pescago.netlify.app/](https://pescago.netlify.app/)
+- **Link de la Aplicación Web:** [https://pesca-go-frontend-prueba-main.vercel.app/sign-in](https://pesca-go-frontend-prueba-main.vercel.app/sign-in)
 - **Link del repositorio:** [https://github.com/1ASI0729-2510-4321-devvolution/PescaGo-Report](https://github.com/1ASI0729-2510-4321-devvolution/PescaGo-Report)
 - **About The Product:** []()
 - **About The Team:** []()
