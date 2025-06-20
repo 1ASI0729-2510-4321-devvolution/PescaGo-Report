@@ -163,8 +163,8 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
 - Todos los miembros del equipo contribuyeron en distintas partes del entregable. Por ejemplo, todos nos ayudamos en esta entrega como en la documentación , la implementación del frontend y la elaboracion de un API local.
 
 - Se establecieron fechas límite para la finalización de cada tarea asignada.
-<br><br>
-  
+  <br><br>
+
 <p align="center">
   <img align="center" src="assets/pulse-frontend.png" style="width:320px; margin: 10px;">
   <img align="center" src="assets/contribuidores-frontend.png" style="width:320px; margin: 10px;">
@@ -177,8 +177,8 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
 - Todos los miembros del equipo contribuyeron en distintas partes del entregable. Por ejemplo, algunos se encargaron de la documentación , implementación de los videos en el landing page, elaboración del backend, y la implementación de una Api externa.
 
 - Se establecieron fechas límite para la finalización de cada tarea asignada. Y coordinación con semanas de anticipación para finalizar el proyecto.
-<br><br>
-  
+  <br><br>
+
 <p align="center">
   <img align="center" src="./assets/Sprint3/pulse.png" style="width:320px; margin: 10px;">
   <img align="center" src="./assets/Sprint3/contribuidores.png" style="width:320px; margin: 10px;">
@@ -316,7 +316,7 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
     <td><strong>Prado Vargas, Mario Benjamin</strong><br>
     <strong>TB1:</strong> Realicé el User Personas, User Task Matrix, User Journey Mapping, Empathy Mapping, As-Is Scenario Mapping, Ubiquitous Language, Software Architecture Context Diagram, Container Diagrams, Components Diagrams, Landing Page Wireframe, Landing Page Mock-up<br><strong>TP:</strong> Contribuí en el Development Evidence for Sprint Review. Además, implementé las funcionalidades relacionadas en la interaccion entre modules y conexion con fakeapi.<br><strong>TB2:</strong> Realicé la documentación respecto a los endpoints mencionados en el swagger y la explicación de sus métodos</td>
     <td rowspan="5">
-    <strong>TB1:</strong>En esta primera entrega, se comunicaron de manera responsable los intereses de los stakeholders, asegurando el cumplimiento de los estándares en el desarrollo del software<br><br><strong>TP:</strong> En esta segunda entrega, se abordó la implementación del frontend de la aplicación web PescaGo. Además, se asignaron las secciones correspondientes para la elaboración del documento.<br><br><strong>TB2:</strong> En esta tercera entrega, se abordo las restriccionaes para ambos segmentos, Haciendo pruebas , realizando cambios y asegurandonos que haya seguridad a la hora de entregar los datos.</td>
+    <strong>TB1:</strong>En esta primera entrega, se comunicaron de manera responsable los intereses de los stakeholders, asegurando el cumplimiento de los estándares en el desarrollo del software<br><br><strong>TP:</strong> En esta segunda entrega, se abordó la implementación del frontend de la aplicación web PescaGo. Además, se asignaron las secciones correspondientes para la elaboración del documento.<br><strong>TB2:</strong> En esta tercera entrega, se abordo las restriccionaes para ambos segmentos, Haciendo pruebas , realizando cambios y asegurandonos que haya seguridad a la hora de entregar los datos.</td>
   </tr>
   <tr>
     <td><strong>Fernandez Alva, Maria Fernanda</strong><br>
@@ -328,7 +328,7 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
   </tr>
   <tr>
   <td><strong>Ramos Argüelles, Alexandra Belen</strong><br>
-    <strong>TB1:</strong> Realicé Descripción de la Startup, Solution Profile: Antecedentes y problemática, Lean UX Process: Lean UX Problem Statements, Lean UX Assumptions, Lean UX Hypothesis Statements y Lean UX Canvas, Segmentos objetivo e Information Architecture.<br><strong>TP:</strong> Realicé la documentación del Sprint 2 desarrollando los apartados Sprint Backlog 2 y Development Evidence for Sprint Review. Además, implementé algunas funciones en el código fuente.</td>
+    <strong>TB1:</strong> Realicé Descripción de la Startup, Solution Profile: Antecedentes y problemática, Lean UX Process: Lean UX Problem Statements, Lean UX Assumptions, Lean UX Hypothesis Statements y Lean UX Canvas, Segmentos objetivo e Information Architecture.<br><strong>TP:</strong> Realicé la documentación del Sprint 2 desarrollando los apartados Sprint Backlog 2 y Development Evidence for Sprint Review. Además, implementé algunas funciones en el código fuente.<br><strong>TB2:</strong> En esta tercera entrega desarrollé las entrevistas y ayudé a realizar las correcciones respectivas del informe, también apoyé con información del sprint 3.</td>
   </tr>
   <tr>
     <td><strong>Macavilca Quispe, Ian</strong><br>
@@ -2152,105 +2152,108 @@ En dicha sección se verá la estructuración de nuestra star-up que será reeva
   <img align="center" src="chapter-4/assets/database.png"></p>
 <p align="center">
 
+## Capítulo V: Product Implementation, Validation & Deployment
 
-## Capítulo V: Product Implementation, Validation & Deployment  
 ### 5.1. Software Configuration Management
+
 En esta sección describimos los productos de software que hemos usado en el proyecto.
-  #### 5.1.1. Software Development Environment Configuration
-  
-  - Project Management
-  
-    - Github: (https://github.com/)
-        
-        Es donde organizamos el proyecto. Aquí está la organización, la cual contiene 4 repositorios: Informe, Landing Page, Frontend y Backend
-    
-  - Requirements Management
 
-    - Pivotal Tracker: (https://www.pivotaltracker.com/)
+#### 5.1.1. Software Development Environment Configuration
 
-        Es un software que usamos para gestionar los proyectos y establecer las historias de usuario del proyecto
+- Project Management
 
-  - Product UX/UI Design
-    
-    - UXPressia: (https://uxpressia.com/)
+  - Github: (https://github.com/)
+    Es donde organizamos el proyecto. Aquí está la organización, la cual contiene 4 repositorios: Informe, Landing Page, Frontend y Backend
 
-        Acá diseñamos las User Persona, User Journey Mapping y Empathy Mapping
-    
-    - Figma: (https://www.figma.com/es-es/)
+- Requirements Management
 
-        Acá hicimos los diseños de la landing page y de la aplicación web (wireframes, mockups y prototipos)
+  - Pivotal Tracker: (https://www.pivotaltracker.com/)
 
-  - Software Development
-    - Git: Es un software de control de versiones para desarrollar el proyecto
-    - Github: Es un sistema de control de versiones de Git
-    - HTML5: Es un lenguaje de marcado que sirve para estructurar la página
-    - CSS3: Es un lenguaje de hojas de estilo en cascada que le da estilo a la página (hace que una  página sea visualmente más atractiva)
-    - JavaScript: Es un lenguje de programación que genera interactividad y dinamismo a una sitio web
-    - VSCode: Es el editor de código fuente para el desarrollo de la landing page
-    - Angular: Es un framework que usaremos para el desarrollo frontend de la aplicación web
+    Es un software que usamos para gestionar los proyectos y establecer las historias de usuario del proyecto
 
-  - Software Deployment
-    - Netlify: Plataforma para desplegar la landing page
+- Product UX/UI Design
 
-  #### 5.1.2. Source Code Management
+  - UXPressia: (https://uxpressia.com/)
 
-  Utilizamos Github como plataforma, así como un sistema de control de versiones.
-  
-  Para ello se creó una organización para el proyecto del equipo. En esta organización, se crearon 4 repositorios, los cuales corresponden al informe del proyecto, la landing page, el frontend y el backend.
-  
-  - Organización del proyecto: https://github.com/1ASI0729-2510-4321-devvolution
-    - Informe: https://github.com/1ASI0729-2510-4321-devvolution/PescaGo-Report
-    - Landing page: https://github.com/1ASI0729-2510-4321-devvolution/PescaGo-LandingPage
-    - Frontend: https://github.com/1ASI0729-2510-4321-devvolution/PescaGo-Frontend
-    - Backend: https://github.com/1ASI0729-2510-4321-devvolution/PescaGo-Backend
+    Acá diseñamos las User Persona, User Journey Mapping y Empathy Mapping
 
-  Gitflow Decidimos utilizar este modelo de trabajo ya que permite mantener el codigo ordenado al dividirlo en ramas, de tal forma que nos facilita trabajar colaborativamente. Las ramas que se utilizaron son:
+  - Figma: (https://www.figma.com/es-es/)
 
-  - Main: En esta rama se encuentra el código que se encuentra en producción.
-  - Develop: En esta rama se encuentra el código que se encuentra en desarrollo.
-  - Feature: En esta rama se encuentran las nuevas funcionalidades que se están desarrollando.
+    Acá hicimos los diseños de la landing page y de la aplicación web (wireframes, mockups y prototipos)
 
-  Conventional commits Se utilizó el estándar de commits convencionales para mantener un historial de cambios limpio y ordenado. Los commits se dividen en los siguientes tipos:
+- Software Development
 
-  - feat: Se utiliza para nuevas funcionalidades.
-  - fix: Se utiliza para corrección de errores.
-  - chore: Se utiliza para cambios en el código que no afectan la funcionalidad.
-  - refactor: Se utiliza para cambios en el código que no afectan la funcionalidad.
+  - Git: Es un software de control de versiones para desarrollar el proyecto
+  - Github: Es un sistema de control de versiones de Git
+  - HTML5: Es un lenguaje de marcado que sirve para estructurar la página
+  - CSS3: Es un lenguaje de hojas de estilo en cascada que le da estilo a la página (hace que una página sea visualmente más atractiva)
+  - JavaScript: Es un lenguje de programación que genera interactividad y dinamismo a una sitio web
+  - VSCode: Es el editor de código fuente para el desarrollo de la landing page
+  - Angular: Es un framework que usaremos para el desarrollo frontend de la aplicación web
 
-  #### 5.1.3. Source Code Style Guide & Conventions
+- Software Deployment
+  - Netlify: Plataforma para desplegar la landing page
 
-  Para desarrollar nuestro proyecto hemos requerido de algunas nomenclaturas, referencias y lenguajes para la solución.
-  
-  Tecnologias: Utilizamos HTML5, CSS3 y JavaScript para el desarrollo de la landing page.
+#### 5.1.2. Source Code Management
 
-  - HTML: Para el lenguaje HTML, nos planteamos utilizar las convenciones descritas en la guía “HTML Style Guide and Coding Conventions”:
-  
-    - Usar nombres de elementos en minúsculas.
-    - Cerrar todos los elementos HTML.
-    - Usar nombres de atributos en minúsculas.
-    - Usar atributos en imágenes.
-    - Evitar líneas de código largas.
-    - Usar sintaxis simple para los enlaces para las hojas de estilo y para cargar script externos
+Utilizamos Github como plataforma, así como un sistema de control de versiones.
 
-  - CSS: Para el lenguaje CSS, utilizaremos las siguientes prácticas para alcanzar un código coherente, sostenible y ordenado:
+Para ello se creó una organización para el proyecto del equipo. En esta organización, se crearon 4 repositorios, los cuales corresponden al informe del proyecto, la landing page, el frontend y el backend.
 
-    - Utilizar minúsculas y guiones para los nombres de propiedades.
-    - Utilizar un espacio después de los dos puntos y un punto y coma para separar pares -  propiedad-valor.
-    - Agrupar reglas CSS relacionadas y separarlas con una línea en blanco.
-    - Utilizar nombres de clases que sean descriptivos y reflejen el propósito del elemento.
-    - Separar los nombres de las clases y ID con un guión
+- Organización del proyecto: https://github.com/1ASI0729-2510-4321-devvolution
+  - Informe: https://github.com/1ASI0729-2510-4321-devvolution/PescaGo-Report
+  - Landing page: https://github.com/1ASI0729-2510-4321-devvolution/PescaGo-LandingPage
+  - Frontend: https://github.com/1ASI0729-2510-4321-devvolution/PescaGo-Frontend
+  - Backend: https://github.com/1ASI0729-2510-4321-devvolution/PescaGo-Backend
 
-  Herramientas: Nos apoyamos de las tecnologías más utilizadas y recomendadeas para el desarrollo web, como los son Webstorm, Git, GitHub, LudcidChart, Figma y Miro.
+Gitflow Decidimos utilizar este modelo de trabajo ya que permite mantener el codigo ordenado al dividirlo en ramas, de tal forma que nos facilita trabajar colaborativamente. Las ramas que se utilizaron son:
 
+- Main: En esta rama se encuentra el código que se encuentra en producción.
+- Develop: En esta rama se encuentra el código que se encuentra en desarrollo.
+- Feature: En esta rama se encuentran las nuevas funcionalidades que se están desarrollando.
 
-  #### 5.1.4. Software Deployment Configuration
+Conventional commits Se utilizó el estándar de commits convencionales para mantener un historial de cambios limpio y ordenado. Los commits se dividen en los siguientes tipos:
 
-  Implementaremos la landing page utilizando Netlify, una plataforma que facilita el despliegue y hosting de sitios web estáticos. El proceso implica conectar un repositorio de Github a Netlify. Una vez conectado, Netlify se encarga de construir y desplegar automáticamente la landing page cada vez que se realicen cambios y se suban al repositorio. Simplemente necesitamos autorizar a Netlify a acceder al repositorio de Github que contiene los archivos de la landing page, y la plataforma se encargará del resto, proporcionando una URL pública para acceder al sitio web.
+- feat: Se utiliza para nuevas funcionalidades.
+- fix: Se utiliza para corrección de errores.
+- chore: Se utiliza para cambios en el código que no afectan la funcionalidad.
+- refactor: Se utiliza para cambios en el código que no afectan la funcionalidad.
+
+#### 5.1.3. Source Code Style Guide & Conventions
+
+Para desarrollar nuestro proyecto hemos requerido de algunas nomenclaturas, referencias y lenguajes para la solución.
+
+Tecnologias: Utilizamos HTML5, CSS3 y JavaScript para el desarrollo de la landing page.
+
+- HTML: Para el lenguaje HTML, nos planteamos utilizar las convenciones descritas en la guía “HTML Style Guide and Coding Conventions”:
+
+  - Usar nombres de elementos en minúsculas.
+  - Cerrar todos los elementos HTML.
+  - Usar nombres de atributos en minúsculas.
+  - Usar atributos en imágenes.
+  - Evitar líneas de código largas.
+  - Usar sintaxis simple para los enlaces para las hojas de estilo y para cargar script externos
+
+- CSS: Para el lenguaje CSS, utilizaremos las siguientes prácticas para alcanzar un código coherente, sostenible y ordenado:
+
+  - Utilizar minúsculas y guiones para los nombres de propiedades.
+  - Utilizar un espacio después de los dos puntos y un punto y coma para separar pares - propiedad-valor.
+  - Agrupar reglas CSS relacionadas y separarlas con una línea en blanco.
+  - Utilizar nombres de clases que sean descriptivos y reflejen el propósito del elemento.
+  - Separar los nombres de las clases y ID con un guión
+
+Herramientas: Nos apoyamos de las tecnologías más utilizadas y recomendadeas para el desarrollo web, como los son Webstorm, Git, GitHub, LudcidChart, Figma y Miro.
+
+#### 5.1.4. Software Deployment Configuration
+
+Implementaremos la landing page utilizando Netlify, una plataforma que facilita el despliegue y hosting de sitios web estáticos. El proceso implica conectar un repositorio de Github a Netlify. Una vez conectado, Netlify se encarga de construir y desplegar automáticamente la landing page cada vez que se realicen cambios y se suban al repositorio. Simplemente necesitamos autorizar a Netlify a acceder al repositorio de Github que contiene los archivos de la landing page, y la plataforma se encargará del resto, proporcionando una URL pública para acceder al sitio web.
 
 ### 5.2. Landing Page, Services & Applications Implementation
-  #### 5.2.1. Sprint 1
-   #### 5.2.1.1. Sprint Planning 1
-  
+
+#### 5.2.1. Sprint 1
+
+#### 5.2.1.1. Sprint Planning 1
+
   <table border="1px" align="center">
       <tr>
           <th>Sprint #</th>
@@ -2312,27 +2315,25 @@ En esta sección describimos los productos de software que hemos usado en el pro
       </tr>
     </table>
 
+#### 5.2.1.2. Sprint Backlog 1
 
-   #### 5.2.1.2. Sprint Backlog 1
+En esta seccion mostramos las tareas que se realizaron en este sprint.
 
-   En esta seccion mostramos las tareas que se realizaron en este sprint.
-
-   [Link del tablero de trello](https://trello.com/b/2f2fee81/pescago)
-    ![Sprint Backlog 1](image.png)
+[Link del tablero de trello](https://trello.com/b/2f2fee81/pescago)
+![Sprint Backlog 1](image.png)
 | Sprint # | Sprint 1 | | | | | | |
 |:-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 | Epic/ Story | | Work-Item | | | | | |
 | Id | Title | Id | Title | Description | Estimation (Hours) | Assigned To | Status (To-Do / In-Process/ To- Review/ Done) |
-| E1-US01 | Barra de Navegación en la Landing Page | W01 | Barra de Navegación | Facilitar el acceso a las secciones más relevantes del servicio |  4 | Prado Vargas, Mario Benjamín | Done  |
-| E1-US02 | Información sobre el servicio brindado | W02 | Info Trasfondo del Servicio | La página web debe mostrar la información de los servicios que me van a brindar |  4 | Prado Vargas, Mario Benjamín | Done  |
-| E1-US03 | Información sobre el procedimiento de uso de la aplicación web | W03 | Info Uso del Servicio | Mostrar el procedimiento que tendría que hacer un usuario para usar este servicio | 4  | Prado Vargas, Mario Benjamín |  Done |
-| E1-US04 | Conocer los testimonios de clientes pasados | W04 | Sección Testimonios | Mostrar algunos testimonios de "clientes anteriores" |4   | Prado Vargas, Mario Benjamín | Done  |
-| E1-US05 | Conocer las ventajas de la aplicación web | W05 | Sección Beneficios | Mostrar las ventajas que tiene la aplicación frente a otras aplicaciones similares |  4 | Prado Vargas, Mario Benjamín | Done  |
-| E1-US06 | Contacto | W06 | Sección Contactos | Sección con información de contacto | 4  | Prado Vargas, Mario Benjamín | Done  |
-| E1-US07 | Cambiar idiomas | W07 | Botón Idiomas | Cambiar el idioma de la página web de Inglés al Español  y viceversa| 4  | Prado Vargas, Mario Benjamín |  To-Do |
+| E1-US01 | Barra de Navegación en la Landing Page | W01 | Barra de Navegación | Facilitar el acceso a las secciones más relevantes del servicio | 4 | Prado Vargas, Mario Benjamín | Done |
+| E1-US02 | Información sobre el servicio brindado | W02 | Info Trasfondo del Servicio | La página web debe mostrar la información de los servicios que me van a brindar | 4 | Prado Vargas, Mario Benjamín | Done |
+| E1-US03 | Información sobre el procedimiento de uso de la aplicación web | W03 | Info Uso del Servicio | Mostrar el procedimiento que tendría que hacer un usuario para usar este servicio | 4 | Prado Vargas, Mario Benjamín | Done |
+| E1-US04 | Conocer los testimonios de clientes pasados | W04 | Sección Testimonios | Mostrar algunos testimonios de "clientes anteriores" |4 | Prado Vargas, Mario Benjamín | Done |
+| E1-US05 | Conocer las ventajas de la aplicación web | W05 | Sección Beneficios | Mostrar las ventajas que tiene la aplicación frente a otras aplicaciones similares | 4 | Prado Vargas, Mario Benjamín | Done |
+| E1-US06 | Contacto | W06 | Sección Contactos | Sección con información de contacto | 4 | Prado Vargas, Mario Benjamín | Done |
+| E1-US07 | Cambiar idiomas | W07 | Botón Idiomas | Cambiar el idioma de la página web de Inglés al Español y viceversa| 4 | Prado Vargas, Mario Benjamín | To-Do |
 
-
-   #### 5.2.1.3. Development Evidence for Sprint Review
+#### 5.2.1.3. Development Evidence for Sprint Review
 
    <table>
     <tr>
@@ -2481,70 +2482,73 @@ En esta sección describimos los productos de software que hemos usado en el pro
     </tr>
    </table>
 
-   #### 5.2.1.4. Testing Suite Evidence for Sprint Review
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
-   
 Para la entrega del Sprint 1, nos enfocamos en lograr el desarrollo completo y el despliegue del Landing Page.
 
-| Repository   | Branch | Commit Id | Commit Message                      | Commit Message Body | Commited On |
-| ------------ | ------ | --------- | ----------------------------------- | ------------------- | ----------- |
-| PescaGo-LandingPage | main   | 81b0748   | Create index.html | - | 24/04/2025  |
+| Repository          | Branch | Commit Id | Commit Message    | Commit Message Body | Commited On |
+| ------------------- | ------ | --------- | ----------------- | ------------------- | ----------- |
+| PescaGo-LandingPage | main   | 81b0748   | Create index.html | -                   | 24/04/2025  |
 
-   #### 5.2.1.5. Execution Evidence for Sprint Review
-   
-   En este sprint, el equipo logro desplegar la primera versión de la landing page satisfactoriamente, en este punto se mostrara la evidencia de ello.   
-   
-   #### Inicio
+#### 5.2.1.5. Execution Evidence for Sprint Review
+
+En este sprint, el equipo logro desplegar la primera versión de la landing page satisfactoriamente, en este punto se mostrara la evidencia de ello.
+
+#### Inicio
+
    <img src="chapter-5/assets/landing_d1_01.PNG"/>
 
-   #### Caracteristicas
+#### Caracteristicas
+
    <img src="chapter-5/assets/landing_d1_02.PNG"/>
 
-   #### Cómo Funciona
+#### Cómo Funciona
+
    <img src="chapter-5/assets/landing_d1_03.PNG"/>
 
-   #### Testimonios
+#### Testimonios
+
    <img src="chapter-5/assets/landing_d1_04.PNG"/>
 
-   #### Beneficios
+#### Beneficios
+
    <img src="chapter-5/assets/landing_d1_05.PNG"/>
 
-   #### Contacto
-   <img src="chapter-5/assets/landing_d1_06.PNG"/>   
+#### Contacto
 
-   #### 5.2.1.6. Services Documentation Evidence for Sprint Review
-   
-   Link de la landing page desployada: https://pescago.netlify.app/
+   <img src="chapter-5/assets/landing_d1_06.PNG"/>
 
-   #### 5.2.1.7. Software Deployment Evidence for Sprint Review
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
-   Para el desarrollo de la landing page, se usó lo siguiente:
-   
-   - HTML: Para la estructura de la landing page
-   - CSS: Para darle estilos a la landing page
-   - JS: Para darle dinamismo a la landing page
-   - Git: Es el sistema de control de versiones
-   - Github: Software online para almacenar repositorios Git
+Link de la landing page desployada: https://pescago.netlify.app/
 
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
-   #### 5.2.1.8. Team Collaboration Insights during Sprint
+Para el desarrollo de la landing page, se usó lo siguiente:
 
-   
+- HTML: Para la estructura de la landing page
+- CSS: Para darle estilos a la landing page
+- JS: Para darle dinamismo a la landing page
+- Git: Es el sistema de control de versiones
+- Github: Software online para almacenar repositorios Git
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint
+
 A continuación, se compartirá la tabla de colaboradores del repositorio de Github para identificar a cada miembro del equipo:
 
-| Username (GitHub) | Nombre                          |
-| ----------------- | ------------------------------- |
-| AleRamosA                     | Ramos Argüelles, Alexandra Belen |
-| PaoloBellezaTelloo            | Belleza Tello, Paolo Eduardo |
-| MariaFernandaFernandezAlva    | Fernandez Alva, María Fernanda    |
-| IanMQ                         | Macavilca Quispe, Ian      |
-| mariopvdev                    | Prado Vargas, Mario Benjamín     |
-  
+| Username (GitHub)          | Nombre                           |
+| -------------------------- | -------------------------------- |
+| AleRamosA                  | Ramos Argüelles, Alexandra Belen |
+| PaoloBellezaTelloo         | Belleza Tello, Paolo Eduardo     |
+| MariaFernandaFernandezAlva | Fernandez Alva, María Fernanda   |
+| IanMQ                      | Macavilca Quispe, Ian            |
+| mariopvdev                 | Prado Vargas, Mario Benjamín     |
 
 <img src="chapter-5/assets/commits_sprint1.PNG" alt="imagen de commits"/>
 
 #### 5.2.2. Sprint 2
-   #### 5.2.2.1. Sprint Planning 2
+
+#### 5.2.2.1. Sprint Planning 2
 
 En esta parte mostramos las tareas que se realizaron en este sprint.
 
@@ -2617,7 +2621,7 @@ Vista del Sprint Backlog 1 en Trello:
       </tr>
     </table>
 
-   #### 5.2.2.2. Aspect Leaders and Collaborators
+#### 5.2.2.2. Aspect Leaders and Collaborators
 
 <table border="1" style="border-collapse: collapse; text-align: center;">
   <tr>
@@ -2682,7 +2686,7 @@ Vista del Sprint Backlog 1 en Trello:
   </tr>
 </table>
 
-  #### 5.2.2.3. Sprint Backlog 2
+#### 5.2.2.3. Sprint Backlog 2
 
 <table border="1" cellspacing="0" cellpadding="4">
   <tr>
@@ -2829,7 +2833,8 @@ Vista del Sprint Backlog 1 en Trello:
   </tr>
 </table>
 
-   #### 5.2.2.4. Development Evidence for Sprint Review.
+#### 5.2.2.4. Development Evidence for Sprint Review.
+
 En esta sección, se presentan los commits realizados en el repositorio del frontend en GitHub. Estos commits reflejan el progreso y las mejoras implementadas durante el sprint 2, proporcionando una visión detallada de las actividades de desarrollo y las contribuciones del equipo.
 
 Link del repositorio: [PescaGo - Frontend](https://github.com/1ASI0729-2510-4321-devvolution/PescaGo-Frontend)
@@ -2917,13 +2922,13 @@ Link del repositorio: [PescaGo - Frontend](https://github.com/1ASI0729-2510-4321
   </tr>
 </table>
 
-   #### 5.2.2.5. Execution Evidence for Sprint Review
+#### 5.2.2.5. Execution Evidence for Sprint Review
 
 En el Sprint 2 hemos logrado implementar las funcionalidades más relevantes para los usuarios principales: el empresario pesquero y la empresa transportista.
 
 A continuación, se presentan capturas de pantalla de las vistas implementadas.
 
-* <strong>Inicio de sesión y registro</strong>
+- <strong>Inicio de sesión y registro</strong>
 
 <div align=center>
     <img src="./chapter-5/assets/inicio de sesion.png">
@@ -2934,28 +2939,28 @@ A continuación, se presentan capturas de pantalla de las vistas implementadas.
 </div>
 <br>
 
-* <strong>Registro de Empresa Transportista</strong>
+- <strong>Registro de Empresa Transportista</strong>
 
 <div align=center>
     <img src="./chapter-5/assets/registro_transportista.png">
 </div>
 <br>
 
-* <strong>Registro de Empresario Pesquero</strong>
+- <strong>Registro de Empresario Pesquero</strong>
 
 <div align=center>
     <img src="./chapter-5/assets/registro_pesquero.png">
 </div>
 <br>
 
-* <strong>Pantalla de inicio de la Empresa Transportista</strong>
+- <strong>Pantalla de inicio de la Empresa Transportista</strong>
 
 <div align=center>
     <img src="./chapter-5/assets/pantalla de inicio del transportista.png">
 </div>
 <br>
 
-* <strong>Funcionalidad de la solicitudes para cotizar</strong>
+- <strong>Funcionalidad de la solicitudes para cotizar</strong>
 
 <div align=center>
     <img src="./chapter-5/assets/transportista_cotizar.png">
@@ -2970,21 +2975,21 @@ A continuación, se presentan capturas de pantalla de las vistas implementadas.
 </div>
 <br>
 
-* <strong>Funcionalidad de Servicio Confirmado</strong>
+- <strong>Funcionalidad de Servicio Confirmado</strong>
 
 <div align=center>
     <img src="./chapter-5/assets/transportista__servicio confirmado.png">
 </div>
 <br>
 
-* <strong>Pantalla de inicio del Empresario Pesquero</strong>
+- <strong>Pantalla de inicio del Empresario Pesquero</strong>
 
 <div align=center>
     <img src="./chapter-5/assets/pantalla de inicio del pesquero.png">
 </div>
 <br>
 
-* <strong>Funcionalidad de Búsqueda de empresas transportistas</strong>
+- <strong>Funcionalidad de Búsqueda de empresas transportistas</strong>
 
 <div align=center>
     <img src="./chapter-5/assets/pesquero_busqueda.png">
@@ -2995,7 +3000,7 @@ A continuación, se presentan capturas de pantalla de las vistas implementadas.
 </div>
 <br>
 
-* <strong>Funcionalidad de Estado de Solicitudes</strong>
+- <strong>Funcionalidad de Estado de Solicitudes</strong>
 
 <div align=center>
     <img src="./chapter-5/assets/pesquero_estado de solicitudes.png">
@@ -3010,13 +3015,13 @@ A continuación, se presentan capturas de pantalla de las vistas implementadas.
 </div>
 <br>
 
-* <strong>Funcionalidad de Servicios Contratados</strong>
+- <strong>Funcionalidad de Servicios Contratados</strong>
 
 <div align=center>
     <img src="./chapter-5/assets/pesquero_servicios contratados.png">
 </div>
 
-   #### 5.2.2.6. Services Documentation Evidence for Sprint Review
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
 Durante el Sprint 2, utilizamos servicios HTTP mediante JSON Server, lo cual nos permitió crear una fake API para simular el backend de la aplicación.
 Para este sprint, contamos con los siguientes endpoints principales:
@@ -3025,94 +3030,90 @@ Para este sprint, contamos con los siguientes endpoints principales:
 
 -Empresario Pesquero
 
-
-* <strong>Captura de la estructura del users - requests (db.json):</strong>
+- <strong>Captura de la estructura del users - requests (db.json):</strong>
 
 <div align="center"> 
   <img src="./chapter-5/assets/server/users.png" style="margin: 10px; width: 450px;"> 
   <img src="./chapter-5/assets/server/requests.png" style="margin: 10px; width: 450px;"> 
 </div><br>
 
-* <strong>Captura de la estructura del entrepreneurs - carries (db.json):</strong>
+- <strong>Captura de la estructura del entrepreneurs - carries (db.json):</strong>
 
 <div align="center"> 
   <img src="./chapter-5/assets/server/entrepreneurs.png" style="margin: 10px; width: 450px;"> 
   <img src="./chapter-5/assets/server/carriers.png" style="margin: 10px; width: 450px;"> 
 </div><br>
 
-* <strong>Captura de la Fake API en funcionamiento:</strong>
+- <strong>Captura de la Fake API en funcionamiento:</strong>
 
-  * **GET**
+  - **GET**
 
     <div align="center"> 
       <img src="./chapter-5/assets/server/pruebaGet.png" style="margin: 10px; width: 420px;"> 
       <img src="./chapter-5/assets/server/pruebaGet-1.png" style="margin: 10px; width: 420px;"> 
     </div><br>
 
-  * **POST**
+  - **POST**
 
     <div align="center"> 
       <img src="./chapter-5/assets/server/pruebaPost-1.png" style="margin: 10px; width: 420px;"> 
     </div><br>
 
-  * **PUT**
+  - **PUT**
 
     <div align="center"> 
       <img src="./chapter-5/assets/server/pruebaPut.png" style="margin: 10px; width: 420px;">
     </div><br>
 
-  * **DELETE**
+  - **DELETE**
 
     <div align="center"> 
       <img src="./chapter-5/assets/server/pruebaDelete.png" style="margin: 10px; width: 420px;">
       <img src="./chapter-5/assets/server/pruebaDelete-2.png" style="margin: 10px; width: 420px;">
     </div><br>
 
-
-   #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+  #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
 Durante el Sprint 2, se desplegó el frontend para permitir la integración y validación de las funcionalidades desarrolladas. Utilizamos vercel para el despliegue del frontend.
 
 1. Haz `fork` del repositorio (si el proyecto no es tuyo). Ve al repositorio original en GitHub, haz clic en el botón `Fork` (esquina superior derecha) y se creará una copia del repositorio en tu cuenta.
 
-    <div align="center"> <img src="./chapter-5/assets/paso 1.png"> </div>
-    <br>
+<div align="center"> <img src="./chapter-5/assets/paso 1.png"> </div>
+<br>
 
 2. Conecta el proyecto a [Vercel](https://vercel.com) iniciando sesión con tu cuenta de GitHub.
 
-    <div align="center"> <img src="./chapter-5/assets/paso 2.jpg"> </div>
-    <br>
+<div align="center"> <img src="./chapter-5/assets/paso 2.jpg"> </div>
+<br>
 
 3. Haz clic en `Add New Project` y luego en `Project`.
 
-    <div align="center"> <img src="./chapter-5/assets/paso 3.jpg"> </div>
-    <br>
+<div align="center"> <img src="./chapter-5/assets/paso 3.jpg"> </div>
+<br>
 
 4. Selecciona tu repositorio (el fork o el que hayas creado), haz clic en `Import` (esto tomará unos segundos), asegúrate de que esté seleccionado el **Framework Preset: `Angular`** y luego haz clic en `Deploy`.
 
-    <div align="center"> <img src="./chapter-5/assets/paso 4.1.jpg"> </div>
+   <div align="center"> <img src="./chapter-5/assets/paso 4.1.jpg"> </div>
 
-    <div align="center"> <img src="./chapter-5/assets/paso 4.2.jpg"> </div>
-    <br>
+   <div align="center"> <img src="./chapter-5/assets/paso 4.2.jpg"> </div>
+   <br>
 
 5. Espera a que finalice el proceso (puede tardar un poco la primera vez). Después, haz clic en `Continue to Dashboard`.
 
-    <div align="center"> <img src="./chapter-5/assets/paso 5.jpg"> </div>
-    <br>
+<div align="center"> <img src="./chapter-5/assets/paso 5.jpg"> </div>
+<br>
 
 6. Finalmente, Vercel te mostrará el enlace de tu aplicación web desplegada.
 
-    <div align="center"> <img src="./chapter-5/assets/paso 6.jpg"> </div>
-
+<div align="center"> <img src="./chapter-5/assets/paso 6.jpg"> </div>
 
 A continuación, se presentan el link que evidencia el despliegue:
 
-* <strong>Despliegue del Frontend</strong>: [PescaGo-Frontend](url)
+- <strong>Despliegue del Frontend</strong>: [PescaGo-Frontend](url)
 
+#### 5.2.2.8. Team Collaboration Insights during Sprint.
 
-#### 5.2.2.8. Team Collaboration Insights during Sprint. 
-
-El equipo desarrolló el frontend por ramas con la finalidad de desarrollar cada sección de manera individual para optimizar el mantenimientoy colaboración durante el sprint. 
+El equipo desarrolló el frontend por ramas con la finalidad de desarrollar cada sección de manera individual para optimizar el mantenimientoy colaboración durante el sprint.
 
 Link del GitHub con a la participación: [Pulse de GitHub](https://github.com/1ASI0729-2510-4321-devvolution/PescaGo-Frontend/pulse)
 
@@ -3176,20 +3177,21 @@ Con la finalidad de identificar a cada integrante del equipo, presentaremos una 
 
 A continuación, se mostrarán las capturas de participación:
 
-* <strong>Captura de los commits realizados</strong>
+- <strong>Captura de los commits realizados</strong>
 
 <div align=center>
     <img src="./chapter-5/assets/pulse-frontend.png">
 </div>
 
-* <strong>Captura de la contribución de los integrantes</strong>
+- <strong>Captura de la contribución de los integrantes</strong>
 
 <div align=center>
     <img src="./chapter-5/assets/contribuidores-frontend.png">
 </div>
 
 #### 5.2.3. Sprint 3
-   #### 5.2.3.1. Sprint Planning 3
+
+#### 5.2.3.1. Sprint Planning 3
 
 En esta parte mostramos las tareas que se realizaron en este sprint.
 
@@ -3262,7 +3264,7 @@ Vista del Sprint Backlog 3 en Trello:
       </tr>
     </table>
 
-   #### 5.2.3.2. Aspect Leaders and Collaborators
+#### 5.2.3.2. Aspect Leaders and Collaborators
 
 <table border="1" style="border-collapse: collapse; text-align: center;">
   <tr>
@@ -3321,7 +3323,7 @@ Vista del Sprint Backlog 3 en Trello:
   </tr>
 </table>
 
-  #### 5.2.3.3. Sprint Backlog 3
+#### 5.2.3.3. Sprint Backlog 3
 
 <table border="1" cellspacing="0" cellpadding="4">
   <tr>
@@ -3400,7 +3402,8 @@ Vista del Sprint Backlog 3 en Trello:
 
 </table>
 
-   #### 5.2.3.4. Development Evidence for Sprint Review.
+#### 5.2.3.4. Development Evidence for Sprint Review.
+
 En esta sección, se presentan los commits realizados en el repositorio del backend en GitHub. Estos commits reflejan el progreso y las mejoras implementadas durante el sprint 3, proporcionando una visión detallada de las actividades de desarrollo y las contribuciones del equipo.
 
 Link del repositorio: [PescaGo - Backend](https://github.com/1ASI0729-2510-4321-devvolution/PescaGo-Backend)
@@ -3448,7 +3451,7 @@ Link del repositorio: [PescaGo - Backend](https://github.com/1ASI0729-2510-4321-
   </tr>
 </table>
 
-   #### 5.2.3.5. Execution Evidence for Sprint Review
+#### 5.2.3.5. Execution Evidence for Sprint Review
 
 En el Sprint 3 hemos logrado implementar las validaciones como los llamados principales (GET-POST-DELETE-PUT) más relevantes para el correcto llamado de los datos
 
@@ -3471,7 +3474,7 @@ A continuación, se presentan capturas de los endpoints en swagger.
 </div>
 <br>
 
-   #### 5.2.3.6. Services Documentation Evidence for Sprint Review
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
 Durante el Sprint 3, hemos integrado nuestra API desarrollada con Java y Spring Boot. A continuación, se detallan los endpoints principales que nuestro equipo creó, organizados por Bounded Context.
 
@@ -3547,7 +3550,7 @@ Durante el Sprint 3, hemos integrado nuestra API desarrollada con Java y Spring 
 	</tbody>
 </table>
 
-   #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 
 Durante el Sprint 3, se desplegó el backend para permitir la integración y validación de las funcionalidades desarrolladas. Utilizamos Railway para el despliegue del backend.
 
@@ -3572,14 +3575,12 @@ Durante el Sprint 3, se desplegó el backend para permitir la integración y val
       <img src="./assets/Sprint3/paso3-backend.png">
     </div><br>
 
-3. **Despliegue del Backend**  
+4. **Despliegue del Backend**  
    Espera a que el estado del `deployment` pase de `building` a `active`. Una vez activo, ve a `Settings` → `Networking` para copiar el link desplegado de tu backend.
 
+#### 5.2.3.8. Team Collaboration Insights during Sprint.
 
-
-#### 5.2.3.8. Team Collaboration Insights during Sprint. 
-
-El equipo desarrolló el backend por ramas con la finalidad de desarrollar cada sección de manera individual para optimizar el mantenimientoy colaboración durante el sprint. 
+El equipo desarrolló el backend por ramas con la finalidad de desarrollar cada sección de manera individual para optimizar el mantenimientoy colaboración durante el sprint.
 
 Link del GitHub con a la participación: [Pulse de GitHub](https://github.com/1ASI0729-2510-4321-devvolution/PescaGo-Backend/pulse)
 
@@ -3643,13 +3644,13 @@ Con la finalidad de identificar a cada integrante del equipo, presentaremos una 
 
 A continuación, se mostrarán las capturas de participación:
 
-* <strong>Captura de los commits realizados</strong>
+- <strong>Captura de los commits realizados</strong>
 
 <div align=center>
     <img src="./assets/Sprint3/pulse_backend.png">
 </div>
 
-* <strong>Captura de la contribución de los integrantes</strong>
+- <strong>Captura de la contribución de los integrantes</strong>
 
 <div align=center>
     <img src="./assets/Sprint3/contribudores_backend.png">
@@ -3663,37 +3664,37 @@ En esta sección se redactaron las preguntas para las entrevistas a fin de obten
 
 **Preguntas principales:**
 
-   1. ¿Cómo te llamas?
-   2. ¿Qué edad tienes?
-   3. ¿Cuál es tu profesión?
+1.  ¿Cómo te llamas?
+2.  ¿Qué edad tienes?
+3.  ¿Cuál es tu profesión?
 
 **Preguntas sobre la Landing Page:**
 
-   1. ¿La información presentada en la landing page te pareció clara y fácil de entender?
-   2. ¿Sientes que la landing page comunica bien los beneficios que PescaGo puede ofrecer a una empresa transportista / empresario pesquero como la tuya?
-   3. ¿Qué opinas sobre los videos incluidos? ¿Te ayudaron a comprender mejor el funcionamiento y propósito de la plataforma?
-   4. ¿Te parece útil tener un botón que redirige directamente a la aplicación web? ¿Lo encontraste fácilmente?
+1.  ¿La información presentada en la landing page te pareció clara y fácil de entender?
+2.  ¿Sientes que la landing page comunica bien los beneficios que PescaGo puede ofrecer a una empresa transportista / empresario pesquero como la tuya?
+3.  ¿Qué opinas sobre los videos incluidos? ¿Te ayudaron a comprender mejor el funcionamiento y propósito de la plataforma?
+4.  ¿Te parece útil tener un botón que redirige directamente a la aplicación web? ¿Lo encontraste fácilmente?
 
 **Preguntas para la empresa transportista:**
 
-   1. ¿Cómo fue tu experiencia registrándote como empresa transportista? ¿Fue sencillo identificar tu tipo de usuario y llenar los datos?
-   2. ¿Qué te pareció la opción de ingresar manualmente los distritos a los que llega tu servicio de transporte? ¿Te resultó fácil? ¿Cambiarías algo de esa parte del registro?
-   3. ¿La información mostrada en la tabla de solicitudes es clara y suficiente para que puedas decidir si quieres cotizar?
-   4. ¿El proceso para cotizar una solicitud (ingresar precio) te pareció intuitivo? o ¿Te gustaría agregar algo más?
-   5. ¿Qué opinas de la funcionalidad para eliminar varias solicitudes al mismo tiempo? ¿Te resulta útil?
-   6. ¿Te parece útil la columna “Tipo de pago” en la tabla de servicios confirmados? ¿O te gustaría que también se mostrara el monto pagado por el servicio?
-   7. ¿Fue fácil llenar y enviar los datos del envío (vehículo, placa, conductor)? ¿Agregarías o quitarías algo de esos datos?
-   8. En general, cómo fue tu experiencia usando PescaGo como empresa transportista? ¿Qué fue lo que más te gustó? ¿Qué mejorarías?
+1.  ¿Cómo fue tu experiencia registrándote como empresa transportista? ¿Fue sencillo identificar tu tipo de usuario y llenar los datos?
+2.  ¿Qué te pareció la opción de ingresar manualmente los distritos a los que llega tu servicio de transporte? ¿Te resultó fácil? ¿Cambiarías algo de esa parte del registro?
+3.  ¿La información mostrada en la tabla de solicitudes es clara y suficiente para que puedas decidir si quieres cotizar?
+4.  ¿El proceso para cotizar una solicitud (ingresar precio) te pareció intuitivo? o ¿Te gustaría agregar algo más?
+5.  ¿Qué opinas de la funcionalidad para eliminar varias solicitudes al mismo tiempo? ¿Te resulta útil?
+6.  ¿Te parece útil la columna “Tipo de pago” en la tabla de servicios confirmados? ¿O te gustaría que también se mostrara el monto pagado por el servicio?
+7.  ¿Fue fácil llenar y enviar los datos del envío (vehículo, placa, conductor)? ¿Agregarías o quitarías algo de esos datos?
+8.  En general, cómo fue tu experiencia usando PescaGo como empresa transportista? ¿Qué fue lo que más te gustó? ¿Qué mejorarías?
 
 **Preguntas para la empresario pesquero:**
 
-   1. ¿Te resultó útil la lista de empresas transportistas disponibles como la información mostrada (imagen, nombre, descripción, distritos) fue suficiente para elegir a cuál(es) enviar la solicitud?
-   2. ¿Te he útil el filtro por nombre de empresa o te gustaría tener otro tipo de filtro?
-   3. ¿El formulario para enviar una solicitud te pareció claro y fácil de llenar? ¿Hubo algún campo que te generó dudas o que sientes que podría mejorarse?
-   4. ¿Te quedó claro qué significa cada estado (pendiente, rechazado, aceptado)? ¿Agregarías algún mensaje o ayuda adicional?
-   5. ¿El proceso de pago fue claro para ti? , ¿Te sentiste cómodo con las opciones de pago disponibles (tarjeta, plin, yape)?
-   6. ¿La información que te brinda la tabla de servicios contratados te pareció completa? ¿Fue útil conocer de antemano los datos del vehículo y del conductor?
-   7. En general, cómo fue tu experiencia usando PescaGo como empresario pesquero? ¿Qué fue lo que más te gustó? ¿Qué mejorarías?
+1.  ¿Te resultó útil la lista de empresas transportistas disponibles como la información mostrada (imagen, nombre, descripción, distritos) fue suficiente para elegir a cuál(es) enviar la solicitud?
+2.  ¿Te he útil el filtro por nombre de empresa o te gustaría tener otro tipo de filtro?
+3.  ¿El formulario para enviar una solicitud te pareció claro y fácil de llenar? ¿Hubo algún campo que te generó dudas o que sientes que podría mejorarse?
+4.  ¿Te quedó claro qué significa cada estado (pendiente, rechazado, aceptado)? ¿Agregarías algún mensaje o ayuda adicional?
+5.  ¿El proceso de pago fue claro para ti? , ¿Te sentiste cómodo con las opciones de pago disponibles (tarjeta, plin, yape)?
+6.  ¿La información que te brinda la tabla de servicios contratados te pareció completa? ¿Fue útil conocer de antemano los datos del vehículo y del conductor?
+7.  En general, cómo fue tu experiencia usando PescaGo como empresario pesquero? ¿Qué fue lo que más te gustó? ¿Qué mejorarías?
 
 ### 5.3.2. Registro de Entrevistas.
 
@@ -3747,7 +3748,6 @@ La Sra. Yesenia mencionó que la información de la landing page le pareció cla
 Respecto al uso de la aplicación, comentó que la lista de empresas transportistas le pareció útil y suficiente para tomar decisiones, pero sugirió que además del filtro por nombre, sería bueno incluir filtros por distrito o tipo de vehículo. El formulario para enviar solicitudes fue claro y fácil de llenar, aunque recomendó agregar un pequeño mensaje explicativo para aclarar los estados de las solicitudes (pendiente, aceptado, rechazado).
 
 Sobre el proceso de pago, indicó que fue sencillo y valoró contar con opciones como Yape y Plin. Finalmente, destacó que la tabla de servicios contratados fue útil, especialmente al mostrar los datos del vehículo y del conductor. En general, su experiencia con PescaGo fue positiva y señaló que lo que más le gustó fue lo fácil que fue contactar con transportistas. Como mejora, sugirió reforzar los filtros de búsqueda.
-
 
 **Entrevistado 2**
 
@@ -3841,7 +3841,6 @@ El entrevistado se dedica a la venta de pescado fresco, principalmente merluza, 
 
 Busca una app fácil de usar, con guía, búsqueda por distrito, formularios para envíos, notificaciones y reseñas reales. Prefiere comunicarse por teléfono, pagar contra entrega con Yape y conocer los datos del transportista por seguridad. Estaría dispuesto a pagar entre 20 y 40 soles por envío si la app ofrece un servicio confiable, idealmente con un periodo de prueba de 30 días.
 
-
 **Entrevistado 4**
 
 <table border="1" style="text-align: left;">
@@ -3888,7 +3887,6 @@ Busca una app fácil de usar, con guía, búsqueda por distrito, formularios par
 Juan Pérez, de 24 años, trabaja en Transporte Pérez, un negocio familiar en Callao que se dedica al transporte de carga refrigerada, principalmente productos pesqueros como pescado y mariscos. Cuentan con dos camiones refrigerados (5 y 8 toneladas) y realizan rutas frecuentes dentro de Lima y Callao, aunque a veces viajan a provincias cercanas. Actualmente, consiguen clientes por recomendaciones, pero Juan menciona que uno de sus mayores desafíos es encontrar cargas de forma constante para evitar viajar vacío, lo que afecta sus ingresos. También destacó la importancia de conocer los detalles de la carga (tipo, temperatura, destino) antes de aceptarla y de tener un sistema claro para coordinar entregas y pagos. Juan expresó interés en una plataforma que le permita encontrar clientes rápidamente, mostrar la calidad de sus servicios, y gestionar todo el proceso (solicitudes, comunicación, pagos) de forma digital, priorizando la confiabilidad y la eficiencia para maximizar sus viajes.
 
 ### 5.3.3. Evaluaciones según heurísticas.
-
 
 ## 5.4. Video About-the-Product.
 
@@ -3947,7 +3945,4 @@ Durante el proceso, enfrentamos desafíos técnicos y de comunicación con los u
 - **Link de la Aplicación Web:** [https://pesca-go-frontend-prueba-main.vercel.app/sign-in](https://pesca-go-frontend-prueba-main.vercel.app/sign-in)
 - **Link del repositorio:** [https://github.com/1ASI0729-2510-4321-devvolution/PescaGo-Report](https://github.com/1ASI0729-2510-4321-devvolution/PescaGo-Report)
 - **About The Product:** [https://www.canva.com/design/DAGq7HI7pV8/enzjCMlERrL12rCKWZ1v-Q/watch?utlId=hf1921bf49c](https://www.canva.com/design/DAGq7HI7pV8/enzjCMlERrL12rCKWZ1v-Q/watch?utlId=hf1921bf49c)
-- **About The Team:** [https://www.canva.com/design/DAGq7OTE7zI/12l47_XzU5S0arbNXjhuEw/view?utm_content=DAGq7OTE7zI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4ee59ab816 ](https://www.canva.com/design/DAGq7OTE7zI/12l47_XzU5S0arbNXjhuEw/view?utm_content=DAGq7OTE7zI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4ee59ab816 )
-              
-              
-              
+- **About The Team:** [https://www.canva.com/design/DAGq7OTE7zI/12l47_XzU5S0arbNXjhuEw/view?utm_content=DAGq7OTE7zI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4ee59ab816 ](https://www.canva.com/design/DAGq7OTE7zI/12l47_XzU5S0arbNXjhuEw/view?utm_content=DAGq7OTE7zI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4ee59ab816)
