@@ -3707,7 +3707,7 @@ En esta sección se redactaron las preguntas para las entrevistas a fin de obten
 <table border="1" style="text-align: left;">
   <tbody>
     <tr>
-      <td colspan="1" rowspan="6"><img src="" alt="" width="575" height="250"></td>
+      <td colspan="1" rowspan="6"><img src="./assets/Sprint3/entrevista1.png" width="575" height="250"></td>
             <td colspan="1" rowspan="1"><strong>Nombre del entrevistado:
             <br>
             </strong> Maria Yesenia
@@ -3738,14 +3738,19 @@ En esta sección se redactaron las preguntas para las entrevistas a fin de obten
             <strong>Timming: </strong>
             <br>--<br>
             <strong>Duración: </strong>
-            <br>04:19:00
+            <br>07:27:00
             </td>
         </tr>      
   </tbody>
 </table>
 
 <strong>Resumen: </strong><br>
-resumen de la entrevistas
+La Sra. Yesenia mencionó que la información de la landing page le pareció clara y fácil de entender. Destacó que los beneficios de PescaGo están bien explicados y que los videos incluidos le ayudaron a comprender mejor el propósito y funcionamiento de la plataforma. También señaló que encontró útil el botón que redirige a la aplicación web, ya que fue fácil de ubicar.
+
+Respecto al uso de la aplicación, comentó que la lista de empresas transportistas le pareció útil y suficiente para tomar decisiones, pero sugirió que además del filtro por nombre, sería bueno incluir filtros por distrito o tipo de vehículo. El formulario para enviar solicitudes fue claro y fácil de llenar, aunque recomendó agregar un pequeño mensaje explicativo para aclarar los estados de las solicitudes (pendiente, aceptado, rechazado).
+
+Sobre el proceso de pago, indicó que fue sencillo y valoró contar con opciones como Yape y Plin. Finalmente, destacó que la tabla de servicios contratados fue útil, especialmente al mostrar los datos del vehículo y del conductor. En general, su experiencia con PescaGo fue positiva y señaló que lo que más le gustó fue lo fácil que fue contactar con transportistas. Como mejora, sugirió reforzar los filtros de búsqueda.
+
 
 **Entrevistado 2**
 
