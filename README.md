@@ -3799,30 +3799,30 @@ resumen de la entrevistas
 <table border="1" style="text-align: left;">
   <tbody>
     <tr>
-      <td colspan="1" rowspan="6"><img src="" alt="" width="575" height="250"></td>
+      <td colspan="1" rowspan="6"><img src="./assets/Sprint3/entrevista 3.png" width="575" height="250"></td>
             <td colspan="1" rowspan="1"><strong>Nombre del entrevistado:
             <br>
-            </strong> Nombre del entrevistado
-            <br> Apellido del entrevistado
+            </strong> Roxana
+            <br> Tello
             </td>
     </tr>
         <tr>
             <td>
-            <strong>Edad:<br></strong> - años
+            <strong>Edad:<br></strong> 50 años
             <br>
             </td>
         </tr>
         <tr>
             <td>
             <strong>Distrito:</strong> 
-            <br>Los Olivos
+            <br>Comas
             </td>
         </tr>
         <tr>
             <td>
             <strong>Nombre del entrevistador:</strong>
-            <br>Nombre 
-            <br>Apellido
+            <br>Paolo
+            <br>Belleza
             </td>
         </tr>
         <tr>
@@ -3830,14 +3830,16 @@ resumen de la entrevistas
             <strong>Timming: </strong>
             <br>--<br>
             <strong>Duración: </strong>
-            <br>04:19:00
+            <br>05:41:00
             </td>
         </tr>      
   </tbody>
 </table>
 
 <strong>Resumen: </strong><br>
-resumen de la entrevistas
+El entrevistado se dedica a la venta de pescado fresco, principalmente merluza, bonito y caballa, enviando entre 2 a 3 toneladas semanales a Lima, Trujillo y Arequipa. Usa camiones refrigerados alquilados, pero enfrenta problemas con la puntualidad y el mantenimiento de la cadena de frío. Valora la calidad del servicio por encima del precio y necesita encontrar transporte en menos de 24 horas.
+
+Busca una app fácil de usar, con guía, búsqueda por distrito, formularios para envíos, notificaciones y reseñas reales. Prefiere comunicarse por teléfono, pagar contra entrega con Yape y conocer los datos del transportista por seguridad. Estaría dispuesto a pagar entre 20 y 40 soles por envío si la app ofrece un servicio confiable, idealmente con un periodo de prueba de 30 días.
 
 
 **Entrevistado 4**
@@ -3845,30 +3847,30 @@ resumen de la entrevistas
 <table border="1" style="text-align: left;">
   <tbody>
     <tr>
-      <td colspan="1" rowspan="6"><img src="" alt="" width="575" height="250"></td>
+      <td colspan="1" rowspan="6"><img src="./assets/Sprint3/entrevista 4.png" width="575" height="250"></td>
             <td colspan="1" rowspan="1"><strong>Nombre del entrevistado:
             <br>
-            </strong> Nombre del entrevistado
-            <br> Apellido del entrevistado
+            </strong> Juan
+            <br> Pérez
             </td>
     </tr>
         <tr>
             <td>
-            <strong>Edad:<br></strong> - años
+            <strong>Edad:<br></strong> 24 años
             <br>
             </td>
         </tr>
         <tr>
             <td>
             <strong>Distrito:</strong> 
-            <br>Los Olivos
+            <br>Callao
             </td>
         </tr>
         <tr>
             <td>
             <strong>Nombre del entrevistador:</strong>
-            <br>Nombre 
-            <br>Apellido
+            <br>Mario
+            <br>Benjamin
             </td>
         </tr>
         <tr>
@@ -3876,14 +3878,14 @@ resumen de la entrevistas
             <strong>Timming: </strong>
             <br>--<br>
             <strong>Duración: </strong>
-            <br>04:19:00
+            <br>06:01:00
             </td>
         </tr>      
   </tbody>
 </table>
 
 <strong>Resumen: </strong><br>
-resumen de la entrevistas
+Juan Pérez, de 24 años, trabaja en Transporte Pérez, un negocio familiar en Callao que se dedica al transporte de carga refrigerada, principalmente productos pesqueros como pescado y mariscos. Cuentan con dos camiones refrigerados (5 y 8 toneladas) y realizan rutas frecuentes dentro de Lima y Callao, aunque a veces viajan a provincias cercanas. Actualmente, consiguen clientes por recomendaciones, pero Juan menciona que uno de sus mayores desafíos es encontrar cargas de forma constante para evitar viajar vacío, lo que afecta sus ingresos. También destacó la importancia de conocer los detalles de la carga (tipo, temperatura, destino) antes de aceptarla y de tener un sistema claro para coordinar entregas y pagos. Juan expresó interés en una plataforma que le permita encontrar clientes rápidamente, mostrar la calidad de sus servicios, y gestionar todo el proceso (solicitudes, comunicación, pagos) de forma digital, priorizando la confiabilidad y la eficiencia para maximizar sus viajes.
 
 ### 5.3.3. Evaluaciones según heurísticas.
 
