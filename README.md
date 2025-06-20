@@ -3697,7 +3697,7 @@ En esta sección se redactaron las preguntas para las entrevistas a fin de obten
 
 ### 5.3.2. Registro de Entrevistas.
 
-**Link de todas las entrevistas:** [URL Entrevistas]()
+**Link de todas las entrevistas:** [URL Entrevistas](https://www.canva.com/design/DAGq7uzcoYs/QcIQ782sqe2fGw41UoKYYA/watch?utm_content=DAGq7uzcoYs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h86620010fd)
 
 **Entrevistado 1**
 
