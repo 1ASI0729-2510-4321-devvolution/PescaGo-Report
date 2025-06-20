@@ -332,7 +332,8 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
   </tr>
   <tr>
     <td><strong>Macavilca Quispe, Ian</strong><br>
-    <strong>TB1:</strong> Realicé los Class Diagrams, Database Diagram, capítulo 2 y 5.<br><strong>TP:</strong> Realicé una parte del developmente evidence for Sprint Review y me enfoque en las conexiones con la fakeapi y modularidad de componentes.</td>
+    <strong>TB1:</strong> Realicé los Class Diagrams, Database Diagram, capítulo 2 y 5.<br><strong>TP:</strong> Realicé una parte del developmente evidence for Sprint Review y me enfoque en las conexiones con la fakeapi y modularidad de componentes.
+    <strong>TB2:</strong> Realicé el planeamiento y desarrollo de la WebApi, así como el testing para el deploy de la misma.</td>
   </tr>
  
   <tr>
@@ -352,7 +353,7 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
   </tr>
   <tr>
     <td><strong>Macavilca Quispe, Ian</strong><br>
-    <strong>TB1:</strong> Realicé la identificación de competidores, el desarrollo de estrategias frente a estos, el diseño y analisis de entrevistas, así como también el planteamiento de diagramas que orienten el desarrollo de nuestra propuesta. <br><strong>TP:</strong> Contribuí en el Development Evidence for Sprint Review. Además, implementé la funcionalidad relacionadas al fakeapi y conexion entre componentes.</td>
+    <strong>TB1:</strong> Realicé la identificación de competidores, el desarrollo de estrategias frente a estos, el diseño y analisis de entrevistas, así como también el planteamiento de diagramas que orienten el desarrollo de nuestra propuesta. <br><strong>TP:</strong> Contribuí en el Development Evidence for Sprint Review. Además, implementé la funcionalidad relacionadas al fakeapi y conexion entre componentes.<strong>TB2:</strong> Contribuí en el planeamiento y desarrollo de la WebApi, así como en el testing para el deploy de la misma.</td>
   </tr>
   <tr>
   <td><strong>Ramos Argüelles, Alexandra Belen</strong><br>
