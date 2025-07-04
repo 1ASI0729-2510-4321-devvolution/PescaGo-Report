@@ -4,7 +4,9 @@
 
 ## 1ASI0729 - Desarrollo de Aplicaciones Open Source
 
-<p align = "center"> <img src = "https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img> </p>
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" />
+</p>
 
 ## **Sección: 4321**
 
@@ -56,7 +58,7 @@
 <div align="center">
 <br>
 
-# Abril - 2025
+# Julio - 2025
 
 </div>
 
@@ -2688,150 +2690,21 @@ Vista del Sprint Backlog 1 en Trello:
 
 #### 5.2.2.3. Sprint Backlog 2
 
-<table border="1" cellspacing="0" cellpadding="4">
-  <tr>
-    <th style="text-align: center;"><b>Sprint #</b></th>
-    <th colspan="7" style="text-align: center;"><b>Sprint 2</b></th>
-  </tr>
-  <tr>
-    <td colspan="2" style="text-align: center;"><b>User Story</b></td>
-    <td colspan="6" style="text-align: center;"><b>Work-item / Task</b></td>
-  </tr>
-  <tr>
-    <td style="text-align: center;"><b>ID</b></td>
-    <td style="text-align: center;"><b>Title</b></td>
-    <td style="text-align: center;"><b>ID</b></td>
-    <td style="text-align: center;"><b>Title</b></td>
-    <td style="text-align: center;"><b>Description</b></td>
-    <td style="text-align: center;"><b>Estimation (hours)</b></td>
-    <td style="text-align: center;"><b>Assigned To</b></td>
-    <td style="text-align: center;"><b>Status</b></td>
-  </tr>
-
-  <tr>
-    <td>E3-US11</td>
-    <td>Sección de búsqueda</td>
-    <td>T1</td>
-    <td>Solicitud de búsqueda</td>
-    <td>Implementacion de una busqueda de empresas por filtro</td>
-    <td style="text-align: center;">8h</td>
-    <td>Macavilca Quispe, Ian</td>
-    <td style="text-align: center;">Done</td>
-  </tr>
-
-  <tr>
-    <td>E3-US13</td>
-    <td>Solicitar el servicio a la empresa prestadora de vehículos</td>
-    <td>T2</td>
-    <td>Solicitud del servicio</td>
-    <td>Implementacion de un boton para enviar una solicitud a la empresa</td>
-    <td style="text-align: center;">8h</td>
-    <td>Macavilca Quispe, Ian</td>
-    <td style="text-align: center;">Done</td>
-  </tr>
-
-  <tr>
-    <td>E3-US14</td>
-    <td>Gestionar solicitudes enviadas</td>
-    <td>T3</td>
-    <td>Solicitudes enviadas</td>
-    <td>Implementación de una tabla con informacion de cada solicitud</td>
-    <td style="text-align: center;">7h</td>
-    <td>Belleza Tello, Paolo</td>
-    <td style="text-align: center;">Done</td>
-  </tr>
-
-  <tr>
-    <td>E4-US18</td>
-    <td>Gestión de pagos</td>
-    <td>T4</td>
-    <td>Pagos</td>
-    <td>Implementar una tabla con donde se pueda visualizar los clientes que pagaron por el servicio.</td>
-    <td style="text-align: center;">7h</td>
-    <td>Fernandez Alva, Maria</td>
-    <td style="text-align: center;">Done</td>
-  </tr>
-
-  <tr>
-    <td>E4-US19</td>
-    <td>Enviar información del vehículo hacia el empresario pesquero</td>
-    <td>T5</td>
-    <td>Informacion del vehículo</td>
-    <td>Implementar un formulario para el registro de vehículos y para conductores</td>
-    <td style="text-align: center;">6h</td>
-    <td>Fernandez Alva, Maria</td>
-    <td style="text-align: center;">Done</td>
-  </tr>
-
-  <tr>
-    <td>E2-US08</td>
-    <td>Registro para de la empresa prestadora de vehículos</td>
-    <td>T6</td>
-    <td>Información de la empresa</td>
-    <td>Implementación de un formulario para el llenado de los datos generales</td>
-    <td style="text-align: center;">5h</td>
-    <td>Ramos Argüelles, Belen</td>
-    <td style="text-align: center;">Done</td>
-  </tr>
-
-  <tr>
-    <td>E2-US09</td>
-    <td>Registro para de el empresario pesquero</td>
-    <td>T7</td>
-    <td>Información del empresario</td>
-    <td>Implementación de un formulario para el llenado de los datos generales</td>
-    <td style="text-align: center;">5h</td>
-    <td>Ramos Argüelles, Belen</td>
-    <td style="text-align: center;">Done</td>
-  </tr>
-
-  <tr>
-    <td>E3-US15</td>
-    <td>Pagar a la empresa seleccionada</td>
-    <td>T8</td>
-    <td>Pagar servicio</td>
-    <td>Implementar un botón para pagar de manera rápida</td>
-    <td style="text-align: center;">4h</td>
-    <td>Prado Vargas, Mario</td>
-    <td style="text-align: center;">Done</td>
-  </tr>
-
-  <tr>
-    <td>E3-US16</td>
-    <td>Obtener información del vehículo repartidor</td>
-    <td>T9</td>
-    <td>Información del vehiculo como conductor</td>
-    <td>Implementar una tabla con todos los datos requeridos</td>
-    <td style="text-align: center;">4h</td>
-    <td>
-      Prado Vargas, Mario
-      Macavilca Quispe, Ian
-    </td>
-    <td style="text-align: center;">Done</td>
-  </tr>
-
-  <tr>
-    <td>E3-US17</td>
-    <td>Gestión de solicitudes recibidas</td>
-    <td>T10</td>
-    <td>Solicitudes recibidas</td>
-    <td>Implementación para cotizar las solicitudes de los empresarios pesqueros</td>
-    <td style="text-align: center;">4h</td>
-    <td>Belleza Tello, Paolo</td>
-    <td style="text-align: center;">Done</td>
-  </tr>
-
-  <tr>
-    <td>E2-US10</td>
-    <td>Ingreso a la aplicación</td>
-    <td>T11</td>
-    <td>Inicio de sesión</td>
-    <td>Implementación de dos botones para seleccionar el usuario que desea ser</td>
-    <td style="text-align: center;">2h</td>
-    <td>Ramos Argüelles, Belen</td>
-    <td style="text-align: center;">Done</td>
-  </tr>
-</table>
+|**Sprint #**|**Sprint 2**|||||||
+| :-: | :-: | :- | :- | :- | :- | :- | :- |
+|**User Story**|**Work-item / Task**|||||||
+|**ID**|**Title**|**ID**|**Title**|**Description**|**Estimation (hours)**|**Assigned To**|**Status**|
+|E3-US11|Sección de búsqueda|T1|Solicitud de búsqueda|Implementacion de una busqueda de empresas por filtro|8h|Macavilca Quispe, Ian|Done|
+|E3-US13|Solicitar el servicio a la empresa prestadora de vehículos|T2|Solicitud del servicio|Implementacion de un boton para enviar una solicitud a la empresa|8h|Macavilca Quispe, Ian|Done|
+|E3-US14|Gestionar solicitudes enviadas|T3|Solicitudes enviadas|Implementación de una tabla con informacion de cada solicitud|7h|Belleza Tello, Paolo|Done|
+|E4-US18|Gestión de pagos|T4|Pagos|Implementar una tabla con donde se pueda visualizar los clientes que pagaron por el servicio.|7h|Fernandez Alva, Maria|Done|
+|E4-US19|Enviar información del vehículo hacia el empresario pesquero|T5|Informacion del vehículo|Implementar un formulario para el registro de vehículos y para conductores|6h|Fernandez Alva, Maria|Done|
+|E2-US08|Registro para de la empresa prestadora de vehículos|T6|Información de la empresa|Implementación de un formulario para el llenado de los datos generales|5h|Ramos Argüelles, Belen|Done|
+|E2-US09|Registro para de el empresario pesquero|T7|Información del empresario|Implementación de un formulario para el llenado de los datos generales|5h|Ramos Argüelles, Belen|Done|
+|E3-US15|Pagar a la empresa seleccionada|T8|Pagar servicio|Implementar un botón para pagar de manera rápida|4h|Prado Vargas, Mario|Done|
+|E3-US16|Obtener información del vehículo repartidor|T9|Información del vehiculo como conductor|Implementar una tabla con todos los datos requeridos|4h|Prado Vargas, Mario Macavilca Quispe, Ian|Done|
+|E3-US17|Gestión de solicitudes recibidas|T10|Solicitudes recibidas|Implementación para cotizar las solicitudes de los empresarios pesqueros|4h|Belleza Tello, Paolo|Done|
+|E2-US10|Ingreso a la aplicación|T11|Inicio de sesión|Implementación de dos botones para seleccionar el usuario que desea ser|2h|Ramos Argüelles, Belen|Done|
 
 #### 5.2.2.4. Development Evidence for Sprint Review.
 
@@ -3266,141 +3139,25 @@ Vista del Sprint Backlog 3 en Trello:
 
 #### 5.2.3.2. Aspect Leaders and Collaborators
 
-<table border="1" style="border-collapse: collapse; text-align: center;">
-  <tr>
-    <th>Team Member (Last Name, First Name)</th>
-    <th>GitHub Username</th>
-    <th>Registro de los dos segmentos objetivos</th>
-    <th>Validación de los datos en inicio de sesión</th>
-    <th>Solicitud del servicio</th>
-    <th>Solicitud de los datos del vehiculo y conductor</th>
-    <th>Envio del dato de la cotización</th>
-  </tr>
-  <tr>
-    <td>Ramos Argüelles, Alexandra Belen</td>
-    <td>AleRamosA</td>
-    <td>L</td>
-    <td>C</td>
-    <td>C</td>
-    <td>C</td>
-    <td>C</td>
-  </tr>
-  <tr>
-    <td>Belleza Tello, Paolo Eduardo</td>
-    <td>PaoloBellezaTelloo</td>
-    <td>C</td>
-    <td>L</td>
-    <td>C</td>
-    <td>C</td>
-    <td>C</td>
-  </tr>
-  <tr>
-    <td>Fernandez Alva, María Fernanda</td>
-    <td>MariaFernandaFernandezAlva</td>
-    <td>C</td>
-    <td>C</td>
-    <td>L</td>
-    <td>C</td>
-    <td>C</td>
-  </tr>
-  <tr>
-    <td>Macavilca Quispe, Ian</td>
-    <td>IanMQ</td>
-    <td>C</td>
-    <td>C</td>
-    <td>C</td>
-    <td>L</td>
-    <td>C</td>
-  </tr>
-  <tr>
-    <td>Prado Vargas, Mario Benjamín</td>
-    <td>mariopvdev</td>
-    <td>C</td>
-    <td>C</td>
-    <td>C</td>
-    <td>C</td>
-    <td>L</td>
-  </tr>
-</table>
+|**Team Member (Last Name, First Name)**|**GitHub Username**|**Registro de los dos segmentos objetivos**|**Validación de los datos en inicio de sesión**|**Solicitud del servicio**|**Solicitud de los datos del vehiculo y conductor**|**Envio del dato de la cotización**|
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|Ramos Argüelles, Alexandra Belen|AleRamosA|L|C|C|C|C|
+|Belleza Tello, Paolo Eduardo|PaoloBellezaTelloo|C|L|C|C|C|
+|Fernandez Alva, María Fernanda|MariaFernandaFernandezAlva|C|C|L|C|C|
+|Macavilca Quispe, Ian|IanMQ|C|C|C|L|C|
+|Prado Vargas, Mario Benjamín|mariopvdev|C|C|C|C|L|
 
 #### 5.2.3.3. Sprint Backlog 3
 
-<table border="1" cellspacing="0" cellpadding="4">
-  <tr>
-    <th style="text-align: center;"><b>Sprint #</b></th>
-    <th colspan="7" style="text-align: center;"><b>Sprint 3</b></th>
-  </tr>
-  <tr>
-    <td colspan="2" style="text-align: center;"><b>User Story</b></td>
-    <td colspan="6" style="text-align: center;"><b>Work-item / Task</b></td>
-  </tr>
-  <tr>
-    <td style="text-align: center;"><b>ID</b></td>
-    <td style="text-align: center;"><b>Title</b></td>
-    <td style="text-align: center;"><b>ID</b></td>
-    <td style="text-align: center;"><b>Title</b></td>
-    <td style="text-align: center;"><b>Description</b></td>
-    <td style="text-align: center;"><b>Estimation (hours)</b></td>
-    <td style="text-align: center;"><b>Assigned To</b></td>
-    <td style="text-align: center;"><b>Status</b></td>
-  </tr>
-
-  <tr>
-    <td>E5-US20</td>
-    <td>Agregar una empresa prestadora de vehículos</td>
-    <td>T1</td>
-    <td>Datos de la empresa transportista</td>
-    <td>Desarrollar una solicitud POST con los datos completados de la empresa transportista.</td>
-    <td style="text-align: center;">5h</td>
-    <td>Ramos Argüelles, Belen</td>
-    <td style="text-align: center;">Done</td>
-  </tr>
-
-  <tr>
-    <td>E5-US21</td>
-    <td>Agregar solicitud del empresario pesquero</td>
-    <td>T2</td>
-    <td>Solicitud del servicio</td>
-    <td>Desarrollar la petición POST con los respectivos datos como: nombre del empresario, tipo de producto, cantidad, origen, destino y fecha de envío.</td>
-    <td style="text-align: center;">5h</td>
-    <td>Macavilca Quispe, Ian</td>
-    <td style="text-align: center;">Done</td>
-  </tr>
-
-  <tr>
-    <td>E5-US22</td>
-    <td>Gestionar usuarios</td>
-    <td>T3</td>
-    <td>Registro de cuenta</td>
-    <td>Desarrollar las respectivas validaciones como en el correo y contraseña que ingrese el usuario a la hora de regitrarse.</td>
-    <td style="text-align: center;">5h</td>
-    <td>Belleza Tello, Paolo</td>
-    <td style="text-align: center;">Done</td>
-  </tr>
-
-  <tr>
-    <td>E5-US23</td>
-    <td>Información sobre vehiculo y conductor</td>
-    <td>T4</td>
-    <td>Datos del vehiculo y conductor</td>
-    <td>Desarrollar un Get para la optención de los datos para enviar al empresario pesquero</td>
-    <td style="text-align: center;">5h</td>
-    <td>Prado Vargas, Mario</td>
-    <td style="text-align: center;">Done</td>
-  </tr>
-
-  <tr>
-    <td>E5-US24</td>
-    <td>Envio del dato de la cotización</td>
-    <td>T5</td>
-    <td>Dato de la cotización</td>
-    <td>Desarrollar un Get para la optención del precio del servicio y transferirlo a empresario pesquero</td>
-    <td style="text-align: center;">5h</td>
-    <td>Fernandez Alva, Maria</td>
-    <td style="text-align: center;">Done</td>
-  </tr>
-
-</table>
+|**Sprint #**|**Sprint 3**|||||||
+| :-: | :-: | :- | :- | :- | :- | :- | :- |
+|**User Story**|**Work-item / Task**|||||||
+|**ID**|**Title**|**ID**|**Title**|**Description**|**Estimation (hours)**|**Assigned To**|**Status**|
+|E5-US20|Agregar una empresa prestadora de vehículos|T1|Datos de la empresa transportista|Desarrollar una solicitud POST con los datos completados de la empresa transportista.|5h|Ramos Argüelles, Belen|Done|
+|E5-US21|Agregar solicitud del empresario pesquero|T2|Solicitud del servicio|Desarrollar la petición POST con los respectivos datos como: nombre del empresario, tipo de producto, cantidad, origen, destino y fecha de envío.|5h|Macavilca Quispe, Ian|Done|
+|E5-US22|Gestionar usuarios|T3|Registro de cuenta|Desarrollar las respectivas validaciones como en el correo y contraseña que ingrese el usuario a la hora de regitrarse.|5h|Belleza Tello, Paolo|Done|
+|E5-US23|Información sobre vehiculo y conductor|T4|Datos del vehiculo y conductor|Desarrollar un Get para la optención de los datos para enviar al empresario pesquero|5h|Prado Vargas, Mario|Done|
+|E5-US24|Envio del dato de la cotización|T5|Dato de la cotización|Desarrollar un Get para la optención del precio del servicio y transferirlo a empresario pesquero|5h|Fernandez Alva, Maria|Done|
 
 #### 5.2.3.4. Development Evidence for Sprint Review.
 
