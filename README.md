@@ -3455,193 +3455,82 @@ En esta sección se redactaron las preguntas para las entrevistas a fin de obten
 
 ### 5.3.2. Registro de Entrevistas.
 
-**Link de todas las entrevistas:** [URL Entrevistas](https://www.canva.com/design/DAGq7uzcoYs/QcIQ782sqe2fGw41UoKYYA/watch?utm_content=DAGq7uzcoYs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h86620010fd)
+**Link de todas las entrevistas:** [https://www.canva.com/design/DAGq7uzcoYs/QcIQ782sqe2fGw41UoKYYA/watch?utm_content=DAGq7uzcoYs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h86620010fd](https://www.canva.com/design/DAGq7uzcoYs/QcIQ782sqe2fGw41UoKYYA/watch?utm_content=DAGq7uzcoYs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h86620010fd)
 
-**Entrevistado 1**
+- **Entrevistado 1**
 
-<table border="1" style="text-align: left;">
-  <tbody>
-    <tr>
-      <td colspan="1" rowspan="6"><img src="./assets/Sprint3/entrevista1.png" width="575" height="250"></td>
-            <td colspan="1" rowspan="1"><strong>Nombre del entrevistado:
-            <br>
-            </strong> Maria Yesenia
-            <br> Leyva
-            </td>
-    </tr>
-        <tr>
-            <td>
-            <strong>Edad:<br></strong> 45 años
-            <br>
-            </td>
-        </tr>
-        <tr>
-            <td>
-            <strong>Distrito:</strong> 
-            <br>Los Olivos
-            </td>
-        </tr>
-        <tr>
-            <td>
-            <strong>Nombre del entrevistador:</strong>
-            <br>Maria Fernanda
-            <br>Fernandez Alva
-            </td>
-        </tr>
-        <tr>
-            <td>
-            <strong>Timming: </strong>
-            <br>--<br>
-            <strong>Duración: </strong>
-            <br>07:27:00
-            </td>
-        </tr>      
-  </tbody>
-</table>
+    <img src="./assets/Sprint3/entrevista1.png" width="575" height="250">
+  
+  - *Nombre del entrevistado:* Maria Yesenia Leyva
+  - *Edad:* 45 años
+  - *Distrito:* Los Olivos
+  - *Nombre entrevistador:* Maria Fernanda Fernandez Alva
+  - *Timming:* 
+  - *Duración:* 07:27:00
+  - *Resumen:*
+    
+    La Sra. Yesenia mencionó que la información de la landing page le pareció clara y fácil de entender. Destacó que los beneficios de PescaGo están bien explicados y que los videos incluidos le ayudaron a       comprender mejor el propósito y funcionamiento de la plataforma. También señaló que encontró útil el botón que redirige a la aplicación web, ya que fue fácil de ubicar.
 
-<strong>Resumen: </strong><br>
-La Sra. Yesenia mencionó que la información de la landing page le pareció clara y fácil de entender. Destacó que los beneficios de PescaGo están bien explicados y que los videos incluidos le ayudaron a comprender mejor el propósito y funcionamiento de la plataforma. También señaló que encontró útil el botón que redirige a la aplicación web, ya que fue fácil de ubicar.
+    Respecto al uso de la aplicación, comentó que la lista de empresas transportistas le pareció útil y suficiente para tomar decisiones, pero sugirió que además del filtro por nombre, sería bueno incluir filtros por distrito o tipo de vehículo. El formulario para enviar solicitudes fue claro y fácil de llenar, aunque recomendó agregar un pequeño mensaje explicativo para aclarar los estados de las solicitudes (pendiente, aceptado, rechazado).
 
-Respecto al uso de la aplicación, comentó que la lista de empresas transportistas le pareció útil y suficiente para tomar decisiones, pero sugirió que además del filtro por nombre, sería bueno incluir filtros por distrito o tipo de vehículo. El formulario para enviar solicitudes fue claro y fácil de llenar, aunque recomendó agregar un pequeño mensaje explicativo para aclarar los estados de las solicitudes (pendiente, aceptado, rechazado).
+    Sobre el proceso de pago, indicó que fue sencillo y valoró contar con opciones como Yape y Plin. Finalmente, destacó que la tabla de servicios contratados fue útil, especialmente al mostrar los datos del vehículo y del conductor. En general, su experiencia con PescaGo fue positiva y señaló que lo que más le gustó fue lo fácil que fue contactar con transportistas. Como mejora, sugirió reforzar los filtros de búsqueda.
+ 
 
-Sobre el proceso de pago, indicó que fue sencillo y valoró contar con opciones como Yape y Plin. Finalmente, destacó que la tabla de servicios contratados fue útil, especialmente al mostrar los datos del vehículo y del conductor. En general, su experiencia con PescaGo fue positiva y señaló que lo que más le gustó fue lo fácil que fue contactar con transportistas. Como mejora, sugirió reforzar los filtros de búsqueda.
+- **Entrevistado 2**
+  
+    <img src="./assets/Sprint3/entrevista 2.png" width="575" height="250">
 
-**Entrevistado 2**
+  - *Nombre del entrevistado:* Armando Paredes
+  - *Edad:* 26 años
+  - *Distrito:* Los Olivos
+  - *Nombre entrevistador:* Maria Fernanda Fernandez Alva
+  - *Timming:* 
+  - *Duración:* 07:27:00
+  - *Resumen:*
+  
+    Durante la entrevista realizada al empresario pesquero Armando Paredes, se recogieron opiniones positivas sobre la experiencia de uso de la plataforma. El entrevistado señaló que la landing page le resultó clara, fácil de entender e intuitiva. Destacó como un acierto la inclusión de un botón que redirige directamente a la aplicación web, facilitando el acceso a las funcionalidades principales. Asimismo, mencionó que los procesos para realizar acciones como hacer pedidos o buscar transportistas son simples, útiles y comprensibles. Finalmente, expresó que el diseño visual, incluyendo los colores, le resultó agradable y que le gustaría probar la aplicación en un entorno real.
 
-<table border="1" style="text-align: left;">
-  <tbody>
-    <tr>
-      <td colspan="1" rowspan="6"><img src="./assets/Sprint3/entrevista 2.png" width="575" height="250"></td>
-            <td colspan="1" rowspan="1"><strong>Nombre del entrevistado:
-            <br>
-            </strong> Armando
-            <br> Paredes
-            </td>
-    </tr>
-        <tr>
-            <td>
-            <strong>Edad:<br></strong> 26 años
-            <br>
-            </td>
-        </tr>
-        <tr>
-            <td>
-            <strong>Distrito:</strong> 
-            <br>Surco
-            </td>
-        </tr>
-        <tr>
-            <td>
-            <strong>Nombre del entrevistador:</strong>
-            <br> Alexandra Belen 
-            <br> Ramos Argüelles
-            </td>
-        </tr>
-        <tr>
-            <td>
-            <strong>Timming: </strong>
-            <br>--<br>
-            <strong>Duración: </strong>
-            <br>05:21:00
-            </td>
-        </tr>      
-  </tbody>
-</table>
+- **Entrevistado 3**
 
-<strong>Resumen: </strong><br>
-Durante la entrevista realizada al empresario pesquero Armando Paredes, se recogieron opiniones positivas sobre la experiencia de uso de la plataforma. El entrevistado señaló que la landing page le resultó clara, fácil de entender e intuitiva. Destacó como un acierto la inclusión de un botón que redirige directamente a la aplicación web, facilitando el acceso a las funcionalidades principales. Asimismo, mencionó que los procesos para realizar acciones como hacer pedidos o buscar transportistas son simples, útiles y comprensibles. Finalmente, expresó que el diseño visual, incluyendo los colores, le resultó agradable y que le gustaría probar la aplicación en un entorno real.
+    <img src="./assets/Sprint3/entrevista 3.png" width="575" height="250">
 
-**Entrevistado 3**
+  - *Nombre del entrevistado:* Roxana Tello
+  - *Edad:* 50 años
+  - *Distrito:* Comas
+  - *Nombre entrevistador:* Paolo Belleza
+  - *Timming:* 
+  - *Duración:* 05:41:00
+  - *Resumen:*
+    
+    El entrevistado se dedica a la venta de pescado fresco, principalmente merluza, bonito y caballa, enviando entre 2 a 3 toneladas semanales a Lima, Trujillo y Arequipa. Usa camiones refrigerados alquilados, pero enfrenta problemas con la puntualidad y el mantenimiento de la cadena de frío. Valora la calidad del servicio por encima del precio y necesita encontrar transporte en menos de 24 horas.
 
-<table border="1" style="text-align: left;">
-  <tbody>
-    <tr>
-      <td colspan="1" rowspan="6"><img src="./assets/Sprint3/entrevista 3.png" width="575" height="250"></td>
-            <td colspan="1" rowspan="1"><strong>Nombre del entrevistado:
-            <br>
-            </strong> Roxana
-            <br> Tello
-            </td>
-    </tr>
-        <tr>
-            <td>
-            <strong>Edad:<br></strong> 50 años
-            <br>
-            </td>
-        </tr>
-        <tr>
-            <td>
-            <strong>Distrito:</strong> 
-            <br>Comas
-            </td>
-        </tr>
-        <tr>
-            <td>
-            <strong>Nombre del entrevistador:</strong>
-            <br>Paolo
-            <br>Belleza
-            </td>
-        </tr>
-        <tr>
-            <td>
-            <strong>Timming: </strong>
-            <br>--<br>
-            <strong>Duración: </strong>
-            <br>05:41:00
-            </td>
-        </tr>      
-  </tbody>
-</table>
-
-<strong>Resumen: </strong><br>
-El entrevistado se dedica a la venta de pescado fresco, principalmente merluza, bonito y caballa, enviando entre 2 a 3 toneladas semanales a Lima, Trujillo y Arequipa. Usa camiones refrigerados alquilados, pero enfrenta problemas con la puntualidad y el mantenimiento de la cadena de frío. Valora la calidad del servicio por encima del precio y necesita encontrar transporte en menos de 24 horas.
-
-Busca una app fácil de usar, con guía, búsqueda por distrito, formularios para envíos, notificaciones y reseñas reales. Prefiere comunicarse por teléfono, pagar contra entrega con Yape y conocer los datos del transportista por seguridad. Estaría dispuesto a pagar entre 20 y 40 soles por envío si la app ofrece un servicio confiable, idealmente con un periodo de prueba de 30 días.
+    Busca una app fácil de usar, con guía, búsqueda por distrito, formularios para envíos, notificaciones y reseñas reales. Prefiere comunicarse por teléfono, pagar contra entrega con Yape y conocer los datos del transportista por seguridad. Estaría dispuesto a pagar entre 20 y 40 soles por envío si la app ofrece un servicio confiable, idealmente con un periodo de prueba de 30 días.
 
 **Entrevistado 4**
 
-<table border="1" style="text-align: left;">
-  <tbody>
-    <tr>
-      <td colspan="1" rowspan="6"><img src="./assets/Sprint3/entrevista 4.png" width="575" height="250"></td>
-            <td colspan="1" rowspan="1"><strong>Nombre del entrevistado:
-            <br>
-            </strong> Juan
-            <br> Pérez
-            </td>
-    </tr>
-        <tr>
-            <td>
-            <strong>Edad:<br></strong> 24 años
-            <br>
-            </td>
-        </tr>
-        <tr>
-            <td>
-            <strong>Distrito:</strong> 
-            <br>Callao
-            </td>
-        </tr>
-        <tr>
-            <td>
-            <strong>Nombre del entrevistador:</strong>
-            <br>Mario
-            <br>Benjamin
-            </td>
-        </tr>
-        <tr>
-            <td>
-            <strong>Timming: </strong>
-            <br>--<br>
-            <strong>Duración: </strong>
-            <br>06:01:00
-            </td>
-        </tr>      
-  </tbody>
-</table>
+![alt text](<assets/Sprint3/entrevista 4.png>)
 
-<strong>Resumen: </strong><br>
-Juan Pérez, de 24 años, trabaja en Transporte Pérez, un negocio familiar en Callao que se dedica al transporte de carga refrigerada, principalmente productos pesqueros como pescado y mariscos. Cuentan con dos camiones refrigerados (5 y 8 toneladas) y realizan rutas frecuentes dentro de Lima y Callao, aunque a veces viajan a provincias cercanas. Actualmente, consiguen clientes por recomendaciones, pero Juan menciona que uno de sus mayores desafíos es encontrar cargas de forma constante para evitar viajar vacío, lo que afecta sus ingresos. También destacó la importancia de conocer los detalles de la carga (tipo, temperatura, destino) antes de aceptarla y de tener un sistema claro para coordinar entregas y pagos. Juan expresó interés en una plataforma que le permita encontrar clientes rápidamente, mostrar la calidad de sus servicios, y gestionar todo el proceso (solicitudes, comunicación, pagos) de forma digital, priorizando la confiabilidad y la eficiencia para maximizar sus viajes.
+  - *Nombre del entrevistado:* Juan Perez
+  - *Edad:* 24 años
+  - *Distrito:* Callao
+  - *Nombre entrevistador:* Mario Prado
+  - *Timming:* 
+  - *Duración:* 06:01:00
+  - *Resumen:*
+
+**Entrevistado 3**
+
+
+
+  - *Nombre del entrevistado:* Roxana Tello
+  - *Edad:* 50 años
+  - *Distrito:* Comas
+  - *Nombre entrevistador:* Paolo Belleza
+  - *Timming:* 
+  - *Duración:* 05:41:00
+  - *Resumen:*
+
+    Juan Pérez, de 24 años, trabaja en Transporte Pérez, un negocio familiar en Callao que se dedica al transporte de carga refrigerada, principalmente productos pesqueros como pescado y mariscos. Cuentan con dos camiones refrigerados (5 y 8 toneladas) y realizan rutas frecuentes dentro de Lima y Callao, aunque a veces viajan a provincias cercanas. Actualmente, consiguen clientes por recomendaciones, pero Juan menciona que uno de sus mayores desafíos es encontrar cargas de forma constante para evitar viajar vacío, lo que afecta sus ingresos. También destacó la importancia de conocer los detalles de la carga (tipo, temperatura, destino) antes de aceptarla y de tener un sistema claro para coordinar entregas y pagos. Juan expresó interés en una plataforma que le permita encontrar clientes rápidamente, mostrar la calidad de sus servicios, y gestionar todo el proceso (solicitudes, comunicación, pagos) de forma digital, priorizando la confiabilidad y la eficiencia para maximizar sus viajes.
 
 ### 5.3.3. Evaluaciones según heurísticas.
 
