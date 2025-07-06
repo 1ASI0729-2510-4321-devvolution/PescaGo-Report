@@ -2982,7 +2982,7 @@ Durante el Sprint 2, se desplegó el frontend para permitir la integración y va
 
 A continuación, se presentan el link que evidencia el despliegue:
 
-- <strong>Despliegue del Frontend</strong>: [PescaGo-Frontend](url)
+- <strong>Despliegue del Frontend</strong>: [PescaGo-Frontend](pesca-go-frontend-prueba-main.vercel.app)
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
 
@@ -3213,10 +3213,6 @@ Link del repositorio: [PescaGo - Backend](https://github.com/1ASI0729-2510-4321-
 En el Sprint 3 hemos logrado implementar las validaciones como los llamados principales (GET-POST-DELETE-PUT) más relevantes para el correcto llamado de los datos
 
 A continuación, se presentan capturas de los endpoints en swagger.
-
-<div align=center>
-    <img src="./assets/Sprint3/swagger-1.jpg">
-</div>
 
 <div align=center>
     <img src="./assets/Sprint3/swagger-1.jpg">
@@ -3587,8 +3583,14 @@ Durante el proceso, enfrentamos desafíos técnicos y de comunicación con los u
 
 ## Anexos
 
-- **Link de Landing Page:** [https://pescago.netlify.app/](https://pescago.netlify.app/)
-- **Link de la Aplicación Web:** [https://pesca-go-frontend-prueba-main.vercel.app/sign-in](https://pesca-go-frontend-prueba-main.vercel.app/sign-in)
+- **Link de Landing Page actualizada:** [https://pescago.netlify.app/](https://pescago.netlify.app/)
+
+- **Link de la Aplicación Web actualizada:** [https://pesca-go-frontend-prueba-main.vercel.app/sign-in](https://pesca-go-frontend-prueba-main.vercel.app/sign-in)
+
+- **Link del Backend actualizado:** [https://pesca-go-frontend-prueba-main.vercel.app/sign-in](https://pesca-go-frontend-prueba-main.vercel.app/sign-in)
+
 - **Link del repositorio:** [https://github.com/1ASI0729-2510-4321-devvolution/PescaGo-Report](https://github.com/1ASI0729-2510-4321-devvolution/PescaGo-Report)
-- **About The Product:** [https://www.canva.com/design/DAGq7HI7pV8/enzjCMlERrL12rCKWZ1v-Q/watch?utlId=hf1921bf49c](https://www.canva.com/design/DAGq7HI7pV8/enzjCMlERrL12rCKWZ1v-Q/watch?utlId=hf1921bf49c)
+
+- **About The Product actualizado:** [https://www.canva.com/design/DAGq7HI7pV8/enzjCMlERrL12rCKWZ1v-Q/watch?utlId=hf1921bf49c](https://www.canva.com/design/DAGq7HI7pV8/enzjCMlERrL12rCKWZ1v-Q/watch?utlId=hf1921bf49c)
+
 - **About The Team:** [https://www.canva.com/design/DAGq7OTE7zI/12l47_XzU5S0arbNXjhuEw/view?utm_content=DAGq7OTE7zI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4ee59ab816 ](https://www.canva.com/design/DAGq7OTE7zI/12l47_XzU5S0arbNXjhuEw/view?utm_content=DAGq7OTE7zI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4ee59ab816)
