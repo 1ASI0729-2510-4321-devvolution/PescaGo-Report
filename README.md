@@ -3409,6 +3409,456 @@ A continuación, se mostrarán las capturas de participación:
     <img src="./assets/Sprint3/contribudores_backend.png">
 </div>
 
+#### 5.2.4. Sprint 4
+
+#### 5.2.4.1. Sprint Planning 4
+
+En esta parte mostramos las tareas que se realizaron en este sprint.
+
+Link del Trello: [Ir a Trello](https://trello.com/invite/b/6821201064fc162fd1070c4b/ATTIe7594534dfacff282c80125476e30b4a12551FAF/pescago)
+
+Vista del Sprint 4 en Trello:
+
+<div align="center">
+  <img align="center" src="./assets/Sprint4/trello_4.png">  
+</div><br><br>
+
+<table border="1px" align="center">
+      <tr>
+          <th style="font-weight: bold;" >Sprint #</th>
+          <th style="font-weight: bold;" >Sprint 4</th>
+      </tr>
+      <tr> 
+          <td colspan="2" style="font-weight: bold;">Sprint Planning Background</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Date</td>
+          <td>03-07-2025</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Time</td>
+          <td>9:00 pm - 10:30 pm</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Location</td>
+          <td>Canal de Voz de Discord</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Prepared By</td>
+          <td>Ramos Argüelles, Alexandra Belen</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Attendees (to planning meeting)</td>
+          <td>
+              Belleza Tello, Paolo Eduardo<br>
+              Fernandez Alva, María Fernanda<br>
+              Macavilca Quispe, Ian<br>
+              Prado Vargas, Mario Benjamín<br>
+              Ramos Argüelles, Alexandra Belen<br>
+          </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Sprint 3 Review Summary</td>
+          <td>El profesor nos indicó que debemos mejorar el video about-the-product, la correcta implementación entre el backend y el frontend, corrección de los textos de las imagenes y por último, una buena implementacion de marckdown a pdf ya que los cuadros se mueven como las imágenes.</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Sprint 3 Retrospective Summary</td>
+          <td>El equipo logró abordar todos los puntos que el profesor menciono el profesor. Y se hicieron pruebas para la documentación , para que las tablas como imagenes no se movieran.</td>
+      </tr>
+      <tr> 
+          <td colspan="2" style="font-weight: bold;">Sprint Goal & User Stories</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Sprint 4 Goal</td>
+          <td>
+              El objetivo principal de este sprint es implementar la comunicación directa entre el Frontend y Backend. Elaborando las respectivas pruebas para el correcto funcionamiento de ambas partes.
+          </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Sprint 3 Velocity</td>
+          <td>3</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Sum of Story Points</td>
+          <td>9</td>
+      </tr>
+    </table>
+
+#### 5.2.4.2. Aspect Leaders and Collaborators
+
+|**Team Member (Last Name, First Name)**|**GitHub Username**|**Pruebas de registro**|**Validación de los datos en inicio de sesión**|**Prueba de manejo de datos**|**Prueba de comunicación en ambos segmentos**|**Prueba del despliegue de ambas partes**|
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|Ramos Argüelles, Alexandra Belen|AleRamosA|L|C|C|C|C|
+|Belleza Tello, Paolo Eduardo|PaoloBellezaTelloo|C|L|C|C|C|
+|Fernandez Alva, María Fernanda|MariaFernandaFernandezAlva|C|C|L|C|C|
+|Macavilca Quispe, Ian|IanMQ|C|C|C|L|C|
+|Prado Vargas, Mario Benjamín|mariopvdev|C|C|C|C|L|
+
+#### 5.2.4.3. Sprint Backlog 4
+
+|**Sprint #**|**Sprint 4**|||||||
+| :-: | :-: | :- | :- | :- | :- | :- | :- |
+|**User Story**|**Work-item / Task**|||||||
+|**ID**|**Title**|**ID**|**Title**|**Description**|**Estimation (hours)**|**Assigned To**|**Status**|
+|E6-US21|Despliegue del Frontend funcionando con el Backend|T1|Correcto funcionamiento del Frontend|Desplegar el Frontend con las mejoras actualizadas y que este funcionando a coorde al Backend.|4h|Belleza Tello, Paolo - Prado Vargas, Mario - Macavilca Quispe, Ian|Done|
+|E6-US22|Despliegue del Backend con sus sistema de seguridad|T2|Correcto funcionamiento del Backend|Desplegar el Backend con sus respectivas medidas de seguridad y autentificación para los dos segmentos objetivos|3h|Macavilca Quispe, Ian|Done|
+|E6-US23|Pruebas del Frontend y Backend|T3|Simulaciones del trabajo final|Hacer multiples pruebas para ambos segmentos con el frontend y backend terminados en su totalidad|2h|Ramos Argüelles, Belen - Fernandez Alva, Maria|Done|
+
+#### 5.2.4.4. Development Evidence for Sprint Review.
+
+En esta sección, se presentan los commits realizados en el repositorio del backend y del Frontend en el GitHub. Estos commits reflejan el progreso y las mejoras implementadas durante el sprint 4, proporcionando una visión detallada de las actividades de desarrollo y las contribuciones del equipo.
+
+Link del repositorio: [PescaGo - Landing Page](https://github.com/MariaFernandaFernandezAlva/PescaGo-LandingPage)
+
+Link del repositorio: [PescaGo - Backend](https://github.com/1ASI0729-2510-4321-devvolution/PescaGo-Backend)
+
+Link del repositorio: [PescaGo - Frontend](https://github.com/1ASI0729-2510-4321-devvolution/PescaGo-Frontend)
+
+<table border="1" cellpadding="5" cellspacing="0">
+  <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit Id</th>
+    <th>Commit Message</th>
+    <th>Commit Message Body</th>
+    <th>Commited on (Date)</th>
+  </tr>
+  <tr>
+    <td>PescaGo - Backend</td>
+    <td>dev/postgres</td>
+    <td>7c14abf</td>
+    <td>feat: extra endpoints HiredServices</td>
+    <td>------</td>
+    <td>05/07/2025</td>
+  </tr>
+  <tr>
+    <td>PescaGo - Backend</td>
+    <td>dev/postgres</td>
+    <td>871bce5</td>
+    <td>feat: dockerizacion</td>
+    <td>------</td>
+    <td>05/07/2025</td>
+  </tr>
+  <tr>
+    <td>PescaGo - Frontend</td>
+    <td>dev/deploy</td>
+    <td>34404fa</td>
+    <td>fix: login register services</td>
+    <td>------</td>
+    <td>05/07/2025</td>
+  </tr>
+  <tr>
+    <td>PescaGo - Frontend</td>
+    <td>dev/deploy</td>
+    <td>48ac7f0</td>
+    <td>fix: connection to api endpoints</td>
+    <td>------</td>
+    <td>05/07/2025</td>
+  </tr>
+  <tr>
+    <td>PescaGo - Frontend</td>
+    <td>dev/deploy</td>
+    <td>1e1e761</td>
+    <td>fix: add netlify toml</td>
+    <td>------</td>
+    <td>05/07/2025</td>
+  </tr>
+  <tr>
+    <td>PescaGo - LandingPage</td>
+    <td>main</td>
+    <td>f41572e</td>
+    <td>fix: changing the updated frontend link link</td>
+    <td>------</td>
+    <td>06/07/2025</td>
+  </tr>
+</table>
+
+#### 5.2.4.5. Execution Evidence for Sprint Review
+
+Para esta última entrega del sprint 4, logramos la unión entre la Landing page con el Frontend. Además de la unión del Frontend con el Backend.
+
+**Nuevos endpoints actualizados**
+
+<div align="center">
+  <img align="center" src="./assets/Sprint4/Endpoint Carrier - actualizado.png">  
+</div>
+
+<div align="center">
+  <img align="center" src="./assets/Sprint4/Endpoint Entreprenuer - actualizado.png">  
+</div>
+
+<div align="center">
+  <img align="center" src="./assets/Sprint4/Endpoint Hired Service - actualizado.png">  
+</div>
+
+<div align="center">
+  <img align="center" src="./assets/Sprint4/Endpoint Receipt - actualizado.png">  
+</div>
+
+<div align="center">
+  <img align="center" src="./assets/Sprint4/Endpoint Request - actualizado.png">  
+</div>
+
+<div align="center">
+  <img align="center" src="./assets/Sprint4/Endpoint User - actualizado.png">  
+</div>
+
+**Comunicación entre la Landing Page y el Frontend**
+
+<div align="center">
+  <img align="center" src="./assets/Sprint4/union-Lan-front.png">  
+</div><br>
+
+**Comunicación entre el Frontend y el Backend**
+
+<div align="center">
+  <img align="center" src="./assets/Sprint4/union-front-back-1.png">  
+</div>
+
+<div align="center">
+  <img align="center" src="./assets/Sprint4/union-front-back-2.png">  
+</div><br>
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+Durante el Sprint 4, hemos integrado nuestra API desarrollada con Java y Spring Boot. A continuación, se detallan los endpoints principales que nuestro equipo actualizó, organizados por Bounded Context.
+
+<table>
+	<tbody>
+		<tr>
+			<td>Bounded Context</td>
+			<td colspan="2">Gestión para ambos usurios</td>
+		</tr>
+		<tr>
+			<td>Entity</td>
+			<td>Endpoint URL</td>
+			<td>Swagger</td>
+		</tr>
+		<tr>
+			<td>User</td>
+			<td>api/v1/users</td>
+			<td><img src="./assets/Sprint4/Endpoint User - actualizado.png" width="600" height="100"></td>
+		</tr>
+	</tbody>
+</table>
+
+<table>
+	<tbody>
+		<tr>
+			<td>Bounded Context</td>
+			<td colspan="2">Gestión de Empresas Transportistas</td>
+		</tr>
+		<tr>
+			<td>Entity</td>
+			<td>Endpoint URL</td>
+			<td>Swagger</td>
+		</tr>
+		<tr>
+			<td>Carrier</td>
+			<td>api/v1/carries</td>
+			<td><img src="./assets/Sprint4/Endpoint Carrier - actualizado.png" alt="Imagen" width="600" height="100"></td>
+		</tr>
+		<tr>
+			<td>Receipt</td>
+			<td>api/v1/receipts</td>
+			<td><img src="./assets/Sprint4/Endpoint Receipt - actualizado.png" alt="Imagen" width="600" height="100"></td>
+		</tr>
+	</tbody>
+</table>
+
+<table>
+	<tbody>
+		<tr>
+			<td>Bounded Context</td>
+			<td colspan="2">Gestión de Empresarios Pesqueros</td>
+		</tr>
+		<tr>
+			<td>Entity</td>
+			<td>Endpoint URL</td>
+			<td>Swagger</td>
+		</tr>
+		<tr>
+			<td>Entreprenuer</td>
+			<td>api/v1/entreprenuers</td>
+			<td><img src="./assets/Sprint4/Endpoint Entreprenuer - actualizado.png" alt="Imagen" width="600" height="100"></td>
+		</tr>
+		<tr>
+			<td>Request</td>
+			<td>api/v1/requests</td>
+			<td><img src="./assets/Sprint4/Endpoint Request - actualizado.png" alt="Imagen" width="600" height="100"></td>
+		</tr>
+    <tr>
+			<td>Hired Service</td>
+			<td>api/v1/hired-services</td>
+			<td><img src="./assets/Sprint4/Endpoint Hired Service - actualizado.png" alt="Imagen" width="600" height="100"></td>
+		</tr>
+	</tbody>
+</table>
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review.
+
+Durante el Sprint 4, se desplegó el backend para permitir la integración y validación de las funcionalidades desarrolladas. Tambien se desplego el Frontend con el bakend implementado.
+
+---
+
+**LANDING PAGE DESPLEGADO**
+
+1. **Hacer `Fork` si el proyecto es en grupo**<br>
+   Haz `fork` del repositorio (si el proyecto no es tuyo). Ve al repositorio original en GitHub, haz clic en el botón `Fork` (esquina superior derecha) y se creará una copia del repositorio en tu cuenta.
+
+	<div align="center"> <img src="./assets/Sprint4/VERCEL-PARTE-1.png"></div><br>
+
+2. **Conectaté a Vercel**<br>
+   Conecta el proyecto a [Vercel](https://vercel.com) iniciando sesión con tu cuenta de GitHub. Haz clic en `Add New Project` y luego en `Project`.
+
+	<div align="center"> <img src="./assets/Sprint4/VERCEL-PARTE-2.png"></div><br>
+
+3. **Configuraciones para subir tu proyecto**<br>
+   Selecciona tu repositorio (el fork o el que hayas creado), haz clic en `Import` (esto tomará unos segundos), asegúrate de que esté seleccionado el **Framework Preset: `OTHER`** y luego haz clic en `Deploy`. Espera a que finalice el proceso (puede tardar un poco la primera vez). Después, haz clic en `Continue to Dashboard`.
+
+4. **Despliegue de la landing Page**<br>
+   Finalmente, Vercel te mostrará el enlace de tu aplicación web desplegada.
+
+	<div align="center"> <img src="./assets/Sprint4/VERCEL-PARTE-4.png"></div><br>
+
+---
+
+**BACKEND DESPLEGADO**
+
+1. **Crea tu cuenta en Render**  
+   Entra a [Render](https://render.com/) y regístrate (puedes usar GitHub para autenticarte más fácilmente).
+
+    <div align=center>
+      <img src="./assets/Sprint4/Render-paso-1.png">
+    </div><br>
+
+2. **Conecta tu repositorio**  
+   Render te pedirá acceso a tu cuenta de GitHub para ver tus repositorios. Autoriza el acceso.
+
+3. **Crear un nuevo servicio web**  
+   Una vez dentro del panel de Render:<br>
+    I. Haz clic en `New` +" → `Web Service` <br>
+	II. Selecciona el repositorio de GitHub que quieres desplegar.
+	III. Configura el servicio completando algunos campos que piden.
+
+    <div align=center>
+      <img src="./assets/Sprint4/Render-paso-3.png">
+    </div><br>
+
+4. **Despliegue del Backend**  
+   Render descargará tu código desde GitHub, ejecutará el `build` y luego iniciará tu app. Luego obtendrás una URL pública.
+
+---
+
+**FRONTEND DESPLEGADO**
+
+1. **Crea tu cuenta en Netlify**  
+   Entra a [Netlify](https://www.netlify.com/) y regístrate con tu cuenta de GitHub.
+
+    <div align=center>
+      <img src="./assets/Sprint4/Netlify-paso-1.png">
+    </div><br>
+
+2. **Crear un nuevo sitio web desde Git**  
+   Una vez que estás en el dashboard:<br>
+    I. Haz clic en `Add new site` +" → `Import an existing project` <br>
+	II. Selecciona `GitHub`.<br>
+	III. Autoriza el acceso de Netlify a tus repositorios.
+	IV. Configura el servicio completando algunos campos que piden.
+	V. Haz clicl en `Deploy site`
+
+    <div align=center>
+      <img src="./assets/Sprint4/Netlify-paso-2.png">
+    </div><br>
+
+3. **Despliegue del Frontend**  
+   Netlify empezará a construir y desplegar el sitio web y obtendrás la URL pública.
+
+---
+
+**URL DE LA LANDING PAGE DESPLEGADO:** [Landing Page](http://pesca-go-landing-page.vercel.app)
+
+**URL DE BACKEND DESPLEGADO:** [Backend](https://pescago-backend-latest.onrender.com/swagger-ui/index.html#/)
+
+**URL DEL FRONTEND DESPLEGADO:** [Frontend](https://leafy-cocada-965c9e.netlify.app/sign-in)
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint.
+
+El equipo desarrolló la actualización de los endPoints en el backend, como la unión del Frontend y el Backend.
+
+A continuación, se presentarán las tareas asignadas a cada integrante del equipo, así como el insight del equipo a través de la plataforma GitHub:
+
+<table border="1">
+  <tr>
+    <th>Integrante</th>
+    <th>Actividad</th>
+  </tr>
+  <tr>
+    <td>Ramos Argüelles, Alexandra Belen</td>
+    <td>Elaboro el video del about-the-product actualizado y con la implementación completa</td>
+  </tr>
+  <tr>
+    <td>Belleza Tello, Paolo Eduardo</td>
+    <td>Elaboro las pruebas de que el frontend y el backend funcionaban correctamente para el segmento objetivo: Empresa Transportista</td>>
+  </tr>
+  <tr>
+    <td>Fernandez Alva, María Fernanda</td>
+    <td>Elaboro la conexión de la lading page con el frontend</td>
+  </tr>
+  <tr>
+    <td>Macavilca Quispe, Ian</td>
+    <td>Elaboro los nuevos endPoints, desplego el backend. Por último, junto el backend con el frontend para las pruebas.</td>
+  </tr>
+  <tr>
+    <td>Prado Vargas, Mario Benjamín</td>
+    <td>Elaboro las pruebas de que el frontend y el backend funcionaban correctamente para el segmento objetivo: Empresario Pesquero</td>
+  </tr>
+</table>
+
+Con la finalidad de identificar a cada integrante del equipo, presentaremos una tabla con los usuarios de los colaboradores en el repositorio de GitHub.
+
+<table border="1">
+  <tr>
+    <th>Username (GitHub)</th>
+    <th>Nombre</th>
+  </tr>
+  <tr>
+    <td>AleRamosA</td>
+    <td>Ramos Argüelles, Alexandra Belen</td>
+  </tr>
+  <tr>
+    <td>PaoloBellezaTelloo</td>
+    <td>Belleza Tello, Paolo Eduardo</td>
+  </tr>
+  <tr>
+    <td>MariaFernandaFernandezAlva</td>
+    <td>Fernandez Alva, María Fernanda</td>
+  </tr>
+  <tr>
+    <td>IanMQ</td>
+    <td>Macavilca Quispe, Ian Fernanda</td>
+  </tr>
+  <tr>
+    <td>mariopvdev</td>
+    <td>Prado Vargas, Mario Benjamín</td>
+  </tr>
+</table>
+
+A continuación, se mostrarán las capturas de participación.
+
+- <strong>Participación del Backend </strong>
+
+<div align=center>
+    <img src="./assets/Sprint4/Network-Backend.png">
+</div>
+
+- <strong>Participación del Frontend</strong>
+
+<div align=center>
+    <img src="./assets/Sprint4/Network-frontend.png">
+</div>
+
+
 ## 5.3. Validation Interviews.
 
 ### 5.3.1. Diseño de Entrevistas.
