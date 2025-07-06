@@ -3782,7 +3782,7 @@ Durante el Sprint 4, se desplegó el backend para permitir la integración y val
 
 **URL DEL FRONTEND DESPLEGADO:** [Frontend](https://leafy-cocada-965c9e.netlify.app/sign-in)
 
-#### 5.2.3.8. Team Collaboration Insights during Sprint.
+#### 5.2.4.8. Team Collaboration Insights during Sprint.
 
 El equipo desarrolló la actualización de los endPoints en el backend, como la unión del Frontend y el Backend.
 
@@ -3799,7 +3799,7 @@ A continuación, se presentarán las tareas asignadas a cada integrante del equi
   </tr>
   <tr>
     <td>Belleza Tello, Paolo Eduardo</td>
-    <td>Elaboro las pruebas de que el frontend y el backend funcionaban correctamente para el segmento objetivo: Empresa Transportista</td>>
+    <td>Elaboro las pruebas de que el frontend y el backend funcionaban correctamente para el segmento objetivo: Empresa Transportista</td>
   </tr>
   <tr>
     <td>Fernandez Alva, María Fernanda</td>
