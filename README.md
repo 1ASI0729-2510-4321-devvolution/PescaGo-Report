@@ -322,19 +322,29 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
     - [5.2.2.7. Software Deployment Evidence for Sprint Review](/docs/chapter-V.md/#5227-software-deployment-evidence-for-sprint-review)
     - [5.2.2.8. Team Collaboration Insights during Sprint](/docs/chapter-V.md/#5228-team-collaboration-insights-during-sprint)
   - [5.2.3. Sprint 3](/docs/chapter-V.md/#523-spring-3)
-    - [5.2.3.1. Sprint Planning 2](/docs/chapter-V.md/#5231-spring-planning-3)
+    - [5.2.3.1. Sprint Planning 3](/docs/chapter-V.md/#5231-spring-planning-3)
     - [5.2.3.2. Aspect Leaders and Collaborators](/docs/chapter-V.md/#5232-aspect-leaders-and-collaborators)
-    - [5.2.3.3. Sprint Backlog 2](/docs/chapter-V.md/#5233-spring-backlog-3)
+    - [5.2.3.3. Sprint Backlog 3](/docs/chapter-V.md/#5233-spring-backlog-3)
     - [5.2.3.4. Development Evidence for Sprint Review](/docs/chapter-V.md/#5234-development-evidence-for-sprint-review)
     - [5.2.3.5. Execution Evidence for Sprint Review](/docs/chapter-V.md/#5235-execution-evidence-for-sprint-review)
     - [5.2.3.6. Services Documentation Evidence for Sprint Review](/docs/chapter-V.md/#5236-services-documentation-evidence-for-sprint-review)
     - [5.2.3.7. Software Deployment Evidence for Sprint Review](/docs/chapter-V.md/#5237-software-deployment-evidence-for-sprint-review)
     - [5.2.3.8. Team Collaboration Insights during Sprint](/docs/chapter-V.md/#5238-team-collaboration-insights-during-sprint)
+  - [5.2.4. Sprint 4](/docs/chapter-V.md/#524-sprint-4)
+    - [5.2.4.1. Sprint Planning 4](/docs/chapter-V.md/#5241-sprint-planning-4)
+    - [5.2.4.2. Aspect Leaders and Collaborators](/docs/chapter-V.md/#5242-aspect-leaders-and-collaborators)
+    - [5.2.4.3. Sprint Backlog 4](/docs/chapter-V.md/#5243-sprint-backlog-4)
+    - [5.2.4.4. Development Evidence for Sprint Review](/docs/chapter-V.md/#5244-development-evidence-for-sprint-review)
+    - [5.2.4.5. Execution Evidence for Sprint Review](/docs/chapter-V.md/#5245-execution-evidence-for-sprint-review)
+    - [5.2.4.6. Services Documentation Evidence for Sprint Review](/docs/chapter-V.md/#5246-services-documentation-evidence-for-sprint-review)
+    - [5.2.4.7. Software Deployment Evidence for Sprint Review](/docs/chapter-V.md/#5247-software-deployment-evidence-for-sprint-review)
+    - [5.2.4.8. Team Collaboration Insights during Sprint](/docs/chapter-V.md/#5248-team-collaboration-insights-during-sprint)
 - [5.3. Validation Interviews](/docs/chapter-V.md/#53-validation-interviews)
   - [5.3.1. Diseño de Entrevistas](/docs/chapter-V.md/#531-diseño-de-entrevistas)
   - [5.3.2. Registro de Entrevistas](/docs/chapter-V.md/#532-registro-de-entrevistas)
   - [5.3.3. Evaluaciones según heurísticas](/docs/chapter-V.md/#533-evaluaciones-segun-heuristicas)
 - [5.4. Video About-the-Product](/docs/chapter-V.md/#54-video-about-the-product)
+
 
 ## Conclusiones
 
@@ -3562,9 +3572,9 @@ Vista del Sprint 4 en Trello:
 | :-: | :-: | :- | :- | :- | :- | :- | :- |
 |**User Story**|**Work-item / Task**|||||||
 |**ID**|**Title**|**ID**|**Title**|**Description**|**Estimation (hours)**|**Assigned To**|**Status**|
-|E6-US21|Despliegue del Frontend funcionando con el Backend|T1|Correcto funcionamiento del Frontend|Desplegar el Frontend con las mejoras actualizadas y que este funcionando a coorde al Backend.|4h|Belleza Tello, Paolo - Prado Vargas, Mario - Macavilca Quispe, Ian|Done|
-|E6-US22|Despliegue del Backend con sus sistema de seguridad|T2|Correcto funcionamiento del Backend|Desplegar el Backend con sus respectivas medidas de seguridad y autentificación para los dos segmentos objetivos|3h|Macavilca Quispe, Ian|Done|
-|E6-US23|Pruebas del Frontend y Backend|T3|Simulaciones del trabajo final|Hacer multiples pruebas para ambos segmentos con el frontend y backend terminados en su totalidad|2h|Ramos Argüelles, Belen - Fernandez Alva, Maria|Done|
+|E6-US21|Despliegue del Frontend funcionando con el Backend|T1|Correcto funcionamiento del Frontend|Desplegar el Frontend con las mejoras actualizadas y que este funcionando a coorde al Backend.|8h|Belleza Tello, Paolo - Prado Vargas, Mario - Macavilca Quispe, Ian|Done|
+|E6-US22|Despliegue del Backend con sus sistema de seguridad|T2|Correcto funcionamiento del Backend|Desplegar el Backend con sus respectivas medidas de seguridad y autentificación para los dos segmentos objetivos|6h|Macavilca Quispe, Ian|Done|
+|E6-US23|Pruebas del Frontend y Backend|T3|Simulaciones del trabajo final|Hacer multiples pruebas para ambos segmentos con el frontend y backend terminados en su totalidad|4h|Ramos Argüelles, Belen - Fernandez Alva, Maria|Done|
 
 #### 5.2.4.4. Development Evidence for Sprint Review.
 
@@ -3948,7 +3958,6 @@ En esta sección se redactaron las preguntas para las entrevistas a fin de obten
   - *Edad:* 45 años
   - *Distrito:* Los Olivos
   - *Nombre entrevistador:* Maria Fernanda Fernandez Alva
-  - *Timming:* 
   - *Duración:* 07:27:00
   - *Resumen:*
     
@@ -3967,7 +3976,6 @@ En esta sección se redactaron las preguntas para las entrevistas a fin de obten
   - *Edad:* 26 años
   - *Distrito:* Los Olivos
   - *Nombre entrevistador:* Maria Fernanda Fernandez Alva
-  - *Timming:* 
   - *Duración:* 07:27:00
   - *Resumen:*
   
@@ -3981,7 +3989,6 @@ En esta sección se redactaron las preguntas para las entrevistas a fin de obten
   - *Edad:* 50 años
   - *Distrito:* Comas
   - *Nombre entrevistador:* Paolo Belleza
-  - *Timming:* 
   - *Duración:* 05:41:00
   - *Resumen:*
     
@@ -3997,10 +4004,17 @@ En esta sección se redactaron las preguntas para las entrevistas a fin de obten
   - *Edad:* 24 años
   - *Distrito:* Callao
   - *Nombre entrevistador:* Mario Prado
-  - *Timming:* 
   - *Duración:* 06:01:00
   - *Resumen:*
 
+    Juan Pérez, de 24 años, trabaja en Transporte Pérez, un negocio familiar en Callao que se dedica al transporte de carga refrigerada,
+principalmente productos pesqueros como pescado y mariscos. Cuentan con dos camiones refrigerados (5 y 8 toneladas) y realizan rutas
+frecuentes dentro de Lima y Callao, aunque a veces viajan a provincias cercanas. Actualmente, consiguen clientes por recomendaciones,
+pero Juan menciona que uno de sus mayores desafíos es encontrar cargas de forma constante para evitar viajar vacío, lo que afecta sus
+ingresos. También destacó la importancia de conocer los detalles de la carga (tipo, temperatura, destino) antes de aceptarla y de tener un
+sistema claro para coordinar entregas y pagos. Juan expresó interés en una plataforma que le permita encontrar clientes rápidamente,
+mostrar la calidad de sus servicios, y gestionar todo el proceso (solicitudes, comunicación, pagos) de forma digital, priorizando la
+confiabilidad y la eficiencia para maximizar sus viajes
 
 ### 5.3.3. Evaluaciones según heurísticas.
 
