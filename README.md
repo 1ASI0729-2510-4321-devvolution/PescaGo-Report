@@ -1,68 +1,56 @@
-<div align="center">
-
-# Universidad Peruana De Ciencias Aplicadas
-
-## 1ASI0729 - Desarrollo de Aplicaciones Open Source
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" />
+    <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
+    <strong>1ASI0729 - Desarrollo de Aplicaciones Open Source</strong><br>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"><br>
+    <strong>Ingeniería de Software</strong><br>
+    <strong>NRC: 4321</strong><br>
+    <strong>Profesor: Rafael Oswaldo Castro Veramendi</strong><br>
+    <strong>Informe de Trabajo Final</strong><br>
+    <strong>Devvolution</strong><br>
+    <br><strong>PescaGo</strong><br>
 </p>
-
-## **Sección: 4321**
-
-## Profesor: Rafael Oswaldo Castro Veramendi
-
-# **Informe de Trabajo Final**
-
-## **Devvolution**
-
-## **PescaGo**
-
-</div>
 
 ## **Integrantes:**
 
-<div>
-     <table align="center">
-        <tr>
-            <th style="text-align:center;">Código</th>
-            <th style="text-align:center;">Apellidos y Nombres</th>
-        </tr>
-        <tr>
-            <td>U20191a137</td>
-            <td>Belleza Tello, Paolo Eduardo</td>
-        </tr>
-        <tr>
-            <td>U20201c131</td>
-            <td>Fernandez Alva, María Fernanda</td>
-        </tr>
-        <tr>
-            <td>U202121325</td>
-            <td>Macavilca Quispe, Ian</td>
-        </tr>
-        <tr>
-            <td>U202115357</td>
-            <td>Prado Vargas, Mario Benjamín</td>
-        </tr>
-        <tr>
-            <td>U202215164</td>
-            <td>Ramos Argüelles, Alexandra Belen</td>
-        </tr>
-    </table>
+<table align="center">
+  <tr>
+    <th style="text-align:center;">Código</th>
+    <th style="text-align:center;">Apellidos y Nombres</th>
+  </tr>
+  <tr>
+    <td>U20191a137</td>
+    <td>Belleza Tello, Paolo Eduardo</td>
+  </tr>
+  <tr>
+    <td>U20201c131</td>
+    <td>Fernandez Alva, María Fernanda</td>
+  </tr>
+  <tr>
+    <td>U202121325</td>
+    <td>Macavilca Quispe, Ian</td>
+  </tr>
+  <tr>
+    <td>U202115357</td>
+    <td>Prado Vargas, Mario Benjamín</td>
+  </tr>
+  <tr>
+    <td>U202215164</td>
+    <td>Ramos Argüelles, Alexandra Belen</td>
+  </tr>
+</table>
+
 </div>
+
 
 ---
 
-</div>
-
-<div align="center">
-<br>
-
-# Julio - 2025
-
-</div>
+# <center>Julio - 2025</center>
 
 ---
+
+<div style="page-break-after: always;"></div>
+
 
 ## Registro de Versiones Del Informe
 
