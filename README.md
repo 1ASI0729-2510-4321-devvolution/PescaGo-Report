@@ -136,6 +136,27 @@
         ● Implementación del Backend - PescaGo
       </td>
     </tr>
+    <tr>
+      <td>TF</td>
+      <td>06/07/2045</td>
+      <td>
+        <ul>
+            <li>Macavilca Quispe, Ian</li>
+            <li>Prado Vargas, Mario Benjamín</li>
+            <li>Ramos Argüelles, Alexandra Belen</li>
+            <li>Belleza Tello, Paolo Eduardo</li>
+            <li>Fernandez Alva, Maria Fernanda</li>
+        </ul>
+      </td>
+      <td>
+        ● Capítulo V: Product Implementation, Validation & Deployment 
+        con respecto al Sprint 4<br>
+        ● Avance de Conclusiones, Bibliografía y Anexos<br>
+        ● Despliegue del Backend - PescaGo<br>
+        ● Despliegue del Frontend - PescaGo<br>
+        ● Despliegue de la Landing Page - PescaGo<br>
+      </td>
+    </tr>
   </tbody>
 </table>
 
@@ -157,6 +178,7 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
   <img align="center" src="img/Commits.jpeg" style="width:320px; margin: 10px;">
   <img align="center" src="img/Contribuidores.jpeg" style="width:320px; margin: 10px;">
 </p>
+<p align="center"><em>Contribución del equipo para la entrega de la TB1.</em></p>
 
 ---
 
@@ -171,6 +193,7 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
   <img align="center" src="assets/pulse-frontend.png" style="width:320px; margin: 10px;">
   <img align="center" src="assets/contribuidores-frontend.png" style="width:320px; margin: 10px;">
 </p>
+<p align="center"><em>Contribución del equipo para la entrega del TP.</em></p>
 
 ---
 
@@ -185,6 +208,20 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
   <img align="center" src="./assets/Sprint3/pulse.png" style="width:320px; margin: 10px;">
   <img align="center" src="./assets/Sprint3/contribuidores.png" style="width:320px; margin: 10px;">
 </p>
+<p align="center"><em>Contribución del equipo para la entrega de la TB2.</em></p>
+
+**Reporte de colaboración de la entrega del TF:**
+
+- Todos los miembros del equipo contribuyeron en distintas partes del entregable. Por ejemplo, algunos se encargaron de la documentación , implementación de la unión de la Landing Page con el Frotend, implementacion del despliegue del backend y la implementación de la unión entre el Backend y el Frontend.
+
+- Se establecieron fechas límite para la finalización de cada tarea asignada. Y coordinación con semanas de anticipación para finalizar el proyecto.
+  <br><br>
+
+<p align="center">
+  <img align="center" src="./assets/Sprint4/Network-Backend.png" style="width:320px; margin: 10px;">
+  <img align="center" src="./assets/Sprint4/Network-frontend.png" style="width:320px; margin: 10px;">
+</p>
+<p align="center"><em>Contribución del equipo para la entrega del TF.</em></p>
 
 ---
 
@@ -316,49 +353,49 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
   <tr>
     <td rowspan="5"><strong>Comunica oralmente con efectividad a diferentes rangos de audiencia.</strong></td>
     <td><strong>Prado Vargas, Mario Benjamin</strong><br>
-    <strong>TB1:</strong> Realicé el User Personas, User Task Matrix, User Journey Mapping, Empathy Mapping, As-Is Scenario Mapping, Ubiquitous Language, Software Architecture Context Diagram, Container Diagrams, Components Diagrams, Landing Page Wireframe, Landing Page Mock-up<br><strong>TP:</strong> Contribuí en el Development Evidence for Sprint Review. Además, implementé las funcionalidades relacionadas en la interaccion entre modules y conexion con fakeapi.<br><strong>TB2:</strong> Realicé la documentación respecto a los endpoints mencionados en el swagger y la explicación de sus métodos</td>
+    <strong>TB1:</strong> Realicé el User Personas, User Task Matrix, User Journey Mapping, Empathy Mapping, As-Is Scenario Mapping, Ubiquitous Language, Software Architecture Context Diagram, Container Diagrams, Components Diagrams, Landing Page Wireframe, Landing Page Mock-up<br><strong>TP:</strong> Contribuí en el Development Evidence for Sprint Review. Además, implementé las funcionalidades relacionadas en la interaccion entre modules y conexion con fakeapi.<br><strong>TB2:</strong> Realicé la documentación respecto a los endpoints mencionados en el swagger y la explicación de sus métodos.<br><strong>TF:</strong> Me encargue de integrar los módulos de backend desarrollados por mis compañeros, asegurando la conexión entre la lógica de empresarios pescadores y la empresa de transporte, verificando su interoperabilidad.</td>
     <td rowspan="5">
-    <strong>TB1:</strong>En esta primera entrega, se comunicaron de manera responsable los intereses de los stakeholders, asegurando el cumplimiento de los estándares en el desarrollo del software<br><br><strong>TP:</strong> En esta segunda entrega, se abordó la implementación del frontend de la aplicación web PescaGo. Además, se asignaron las secciones correspondientes para la elaboración del documento.<br><strong>TB2:</strong> En esta tercera entrega, se abordo las restriccionaes para ambos segmentos, Haciendo pruebas , realizando cambios y asegurandonos que haya seguridad a la hora de entregar los datos.</td>
+    <strong>TB1:</strong>En esta primera entrega, se comunicaron de manera responsable los intereses de los stakeholders, asegurando el cumplimiento de los estándares en el desarrollo del software<br><br><strong>TP:</strong> En esta segunda entrega, se abordó la implementación del frontend de la aplicación web PescaGo. Además, se asignaron las secciones correspondientes para la elaboración del documento.<br><br><strong>TB2:</strong> En esta tercera entrega, se abordo las restriccionaes para ambos segmentos, Haciendo pruebas , realizando cambios y asegurandonos que haya seguridad a la hora de entregar los datos.<br><br><strong>TF:</strong> En el trabajo final, se realizaron reuniones efectivas para coordinar la integración del backend, exponer avances al docente y resolver dudas técnicas entre los integrantes. Se adaptó el lenguaje en función del público, asegurando la comprensión de los flujos entre módulos, los endpoints y el despliegue final de la aplicación.</td>
   </tr>
   <tr>
     <td><strong>Fernandez Alva, Maria Fernanda</strong><br>
-    <strong>TB1:</strong> Realicé el To-Be Scenario Mapping, elaboré el Product Backlog y desarrollé el prototipo en Figma, acompañado de un video demostrando la funcionalidad.<br><strong>TP:</strong> Realicé la documentacion del sprint 2 en los siguientes puntos: Sprint Planning 2 , Aspect Leaders y la funcionalidad "Servicio Confirmado".<br><strong>TB2:</strong> Realice la documentacion con respecto al sprint 3 como las restriccion para el segmento objetivo del empresario pesquero</td>
+    <strong>TB1:</strong> Realicé el To-Be Scenario Mapping, elaboré el Product Backlog y desarrollé el prototipo en Figma, acompañado de un video demostrando la funcionalidad.<br><strong>TP:</strong> Realicé la documentacion del sprint 2 en los siguientes puntos: Sprint Planning 2 , Aspect Leaders y la funcionalidad "Servicio Confirmado".<br><strong>TB2:</strong> Realice la documentacion con respecto al sprint 3 como las restriccion para el segmento objetivo del empresario pesquero.<br><strong>TF:</strong> Realicé pruebas funcionales sobre el backend, reportando errores, validando flujos de datos y verificando la consistencia entre módulos. Ese informe se le hizo llegar de manera oral a mis compañeros en una reunión de equipo.</td>
   </tr>
   <tr>
     <td><strong>Belleza Tello, Paolo Eduardo</strong><br>
-    <strong>TB1:</strong> Realicé las User Stories, los Wireflow Diagrams, los Mock-ups y los User Flow Diagrams para la aplicación web.<br><strong>TP:</strong> Realicé una parte de la documentació como : Sprint Backlog 2 y developmente evidence for Sprint Review y la funcionalidad "Solicitudes para cotizar" en el código.<br><strong>TB2:</strong> Realicé la documentación con respecto al sprint 3 como las restriccion para el segmento objetivo de empresa transportista</td>
+    <strong>TB1:</strong> Realicé las User Stories, los Wireflow Diagrams, los Mock-ups y los User Flow Diagrams para la aplicación web.<br><strong>TP:</strong> Realicé una parte de la documentació como : Sprint Backlog 2 y developmente evidence for Sprint Review y la funcionalidad "Solicitudes para cotizar" en el código.<br><strong>TB2:</strong> Realicé la documentación con respecto al sprint 3 como las restriccion para el segmento objetivo de empresa transportista. <br><strong>TF:</strong> Desplegue el backend completo en el entorno final, asegurando el acceso correcto a los endpoints desde el frontend y otras capas del sistema. Tambien explique el proceso de despliegue durante una reunión con mis compañeros.</td>
   </tr>
   <tr>
   <td><strong>Ramos Argüelles, Alexandra Belen</strong><br>
-    <strong>TB1:</strong> Realicé Descripción de la Startup, Solution Profile: Antecedentes y problemática, Lean UX Process: Lean UX Problem Statements, Lean UX Assumptions, Lean UX Hypothesis Statements y Lean UX Canvas, Segmentos objetivo e Information Architecture.<br><strong>TP:</strong> Realicé la documentación del Sprint 2 desarrollando los apartados Sprint Backlog 2 y Development Evidence for Sprint Review. Además, implementé algunas funciones en el código fuente.<br><strong>TB2:</strong> En esta tercera entrega desarrollé las entrevistas y ayudé a realizar las correcciones respectivas del informe, también apoyé con información del sprint 3.</td>
+    <strong>TB1:</strong> Realicé Descripción de la Startup, Solution Profile: Antecedentes y problemática, Lean UX Process: Lean UX Problem Statements, Lean UX Assumptions, Lean UX Hypothesis Statements y Lean UX Canvas, Segmentos objetivo e Information Architecture.<br><strong>TP:</strong> Realicé la documentación del Sprint 2 desarrollando los apartados Sprint Backlog 2 y Development Evidence for Sprint Review. Además, implementé algunas funciones en el código fuente.<br><strong>TB2:</strong> En esta tercera entrega desarrollé las entrevistas y ayudé a realizar las correcciones respectivas del informe, también apoyé con información del sprint 3.<br><strong>TF:</strong> Desarrolle el backend orientado a la gestión de datos y operaciones para los empresarios pescadores, implementando los endpoints y controladores necesarios para manejar sus procesos de negocio. Tambien explique la lógica y estructura del backend de los empresarios pescadores durante las reuniones de equipo.</td>
   </tr>
   <tr>
     <td><strong>Macavilca Quispe, Ian</strong><br>
-    <strong>TB1:</strong> Realicé los Class Diagrams, Database Diagram, capítulo 2 y 5.<br><strong>TP:</strong> Realicé una parte del developmente evidence for Sprint Review y me enfoque en las conexiones con la fakeapi y modularidad de componentes.<br><strong>TB2:</strong> Realicé el planeamiento y desarrollo de la WebApi, así como el testing para el deploy de la misma.</td>
+    <strong>TB1:</strong> Realicé los Class Diagrams, Database Diagram, capítulo 2 y 5.<br><strong>TP:</strong> Realicé una parte del developmente evidence for Sprint Review y me enfoque en las conexiones con la fakeapi y modularidad de componentes.<br><strong>TB2:</strong> Realicé el planeamiento y desarrollo de la WebApi, así como el testing para el deploy de la misma.<br><strong>TF:</strong> Desarrolle el backend enfocado en la empresa de transporte, creando endpoints para gestionar rutas, solicitudes de envío y validación de información logística. Asi mismo, presente el funcionamiento del backend de transporte durante la exposición del proyecto.</td>
   </tr>
  
   <tr>
     <td rowspan="5"><strong>Comunica por escrito con efectividad a diferentes rangos de audiencia</strong></td>
     <td><strong>Prado Vargas, Mario Benjamin</strong><br>
-    <strong>TB1:</strong> Mis contribuciones en la primera entrega incluyeron la documentación y estructuración técnica del proyecto mediante bounded contexts y diagramas, así como la creación de la landing page, sentando las bases funcionales y visuales para el desarrollo de PescaGo.<br><strong>TP:</strong> Contribuí en el Development Evidence for Sprint Review. Además, implementé la funcionalidad relacionadas al fakeapi y conexion entre componentes.</td>
+    <strong>TB1:</strong> Mis contribuciones en la primera entrega incluyeron la documentación y estructuración técnica del proyecto mediante bounded contexts y diagramas, así como la creación de la landing page, sentando las bases funcionales y visuales para el desarrollo de PescaGo.<br><strong>TP:</strong> Contribuí en el Development Evidence for Sprint Review. Además, implementé la funcionalidad relacionadas al fakeapi y conexion entre componentes.<br><strong>TF:</strong> Redacte una guía para que mis compañeros que realizaron los modulos del backend puedan entender como era el flujo de la información.</td>
     <td rowspan="5">
-    <strong>TB1:</strong> En esta primera entrega, se documentaron y redactaron las soluciones propuestas, estableciendo las bases funcionales y conceptuales del proyecto. Además, se desarrolló la landing page, marcando el primer avance tangible en la construcción de la aplicación web.<br><br><strong>TP:</strong> En la segunda entrega, se desarrolló la implementación del frontend de la aplicación web PescaGo y se distribuyeron las secciones del documento entre los integrantes del equipo. La redacción de los avances se realizó con un lenguaje técnico accesible, permitiendo su comprensión tanto por parte de desarrolladores como de lectores externos al proyecto<br><br><strong>TB2:</strong> En esta tercera entrega, distribuimos el trabajo entre todos los integrantes del grupo. Elaboramos todo lo quese acordo en las reuniones, con algunos contratiempos.</td>
+    <strong>TB1:</strong> En esta primera entrega, se documentaron y redactaron las soluciones propuestas, estableciendo las bases funcionales y conceptuales del proyecto. Además, se desarrolló la landing page, marcando el primer avance tangible en la construcción de la aplicación web.<br><br><strong>TP:</strong> En la segunda entrega, se desarrolló la implementación del frontend de la aplicación web PescaGo y se distribuyeron las secciones del documento entre los integrantes del equipo. La redacción de los avances se realizó con un lenguaje técnico accesible, permitiendo su comprensión tanto por parte de desarrolladores como de lectores externos al proyecto<br><br><strong>TB2:</strong> En esta tercera entrega, distribuimos el trabajo entre todos los integrantes del grupo. Elaboramos todo lo quese acordo en las reuniones, con algunos contratiempos.<br><br><strong>TF:</strong> En el trabajo final, se elaboró una documentación clara y completa de los endpoints, la arquitectura general y el proceso de despliegue. Se redactaron manuales, reportes de pruebas y descripciones técnicas de forma organizada, facilitando la comprensión tanto para miembros técnicos como para usuarios no especializados.</td>
   </tr>
   <tr>
     <td><strong>Fernandez Alva, Maria Fernanda</strong><br>
-    <strong>TB1:</strong> Enfoqué el diseño de la aplicación en la resolución de problemas económicos y sociales identificados en el sector objetivo, asegurando que las funcionalidades propuestas respondieran a sus necesidades específicas.<br><strong>TP:</strong> Elaboré la documentación del Sprint 2, desarrollando los apartados de Sprint Planning 2, Aspect Leaders y la funcionalidad Servicio Confirmado. La redacción fue realizada con un enfoque claro y estructurado, considerando tanto a miembros técnicos del equipo como a lectores externos que evalúan el progreso del proyecto.<br><strong>TB2:</strong> Realice la documentacion con respecto al sprint 3 como las restriccion para el segmento objetivo del empresario pesquero.</td>
+    <strong>TB1:</strong> Enfoqué el diseño de la aplicación en la resolución de problemas económicos y sociales identificados en el sector objetivo, asegurando que las funcionalidades propuestas respondieran a sus necesidades específicas.<br><strong>TP:</strong> Elaboré la documentación del Sprint 2, desarrollando los apartados de Sprint Planning 2, Aspect Leaders y la funcionalidad Servicio Confirmado. La redacción fue realizada con un enfoque claro y estructurado, considerando tanto a miembros técnicos del equipo como a lectores externos que evalúan el progreso del proyecto.<br><strong>TB2:</strong> Realice la documentacion con respecto al sprint 3 como las restriccion para el segmento objetivo del empresario pesquero.<br><strong>TF:</strong> Registre detalladamente los resultados de pruebas en formatos comprensibles para el equipo incluyendo reportes de errores con evidencia visual.</td>
   </tr>
   <tr>
     <td><strong>Belleza Tello, Paolo Eduardo</strong><br>
-    <strong>TB1:</strong> Realicé la identificación y separación de los bounded contexts correspondientes a la aplicación, aplicando los principios del nivel estratégico de Domain Driven Design, con el fin de estructurar claramente las responsabilidades de cada módulo.<br><strong>TP:</strong> Contribuí en la documentación del Sprint 2 desarrollando los apartados Sprint Backlog 2 y Development Evidence for Sprint Review. Además, implementé la funcionalidad Solicitudes para cotizar en el código fuente. La documentación fue redactada de manera clara y estructurada, considerando su comprensión por parte de compañeros del equipo y evaluadores externos.<br><strong>TB2:</strong> Realicé la documentación con respecto al sprint 3 como las restriccion para el segmento objetivo de empresa transportista.</td>
+    <strong>TB1:</strong> Realicé la identificación y separación de los bounded contexts correspondientes a la aplicación, aplicando los principios del nivel estratégico de Domain Driven Design, con el fin de estructurar claramente las responsabilidades de cada módulo.<br><strong>TP:</strong> Contribuí en la documentación del Sprint 2 desarrollando los apartados Sprint Backlog 2 y Development Evidence for Sprint Review. Además, implementé la funcionalidad Solicitudes para cotizar en el código fuente. La documentación fue redactada de manera clara y estructurada, considerando su comprensión por parte de compañeros del equipo y evaluadores externos.<br><strong>TB2:</strong> Realicé la documentación con respecto al sprint 3 como las restriccion para el segmento objetivo de empresa transportista.<br><strong>TF:</strong> Les redacte como se desplego del backend a mis compañeros, incluyendo los pasos generales para que pueda entender.</td>
   </tr>
   <tr>
     <td><strong>Macavilca Quispe, Ian</strong><br>
-    <strong>TB1:</strong> Realicé la identificación de competidores, el desarrollo de estrategias frente a estos, el diseño y analisis de entrevistas, así como también el planteamiento de diagramas que orienten el desarrollo de nuestra propuesta. <br><strong>TP:</strong> Contribuí en el Development Evidence for Sprint Review. Además, implementé la funcionalidad relacionadas al fakeapi y conexion entre componentes.<br><strong>TB2:</strong> Contribuí en el planeamiento y desarrollo de la WebApi, así como en el testing para el deploy de la misma.</td>
+    <strong>TB1:</strong> Realicé la identificación de competidores, el desarrollo de estrategias frente a estos, el diseño y analisis de entrevistas, así como también el planteamiento de diagramas que orienten el desarrollo de nuestra propuesta. <br><strong>TP:</strong> Contribuí en el Development Evidence for Sprint Review. Además, implementé la funcionalidad relacionadas al fakeapi y conexion entre componentes.<br><strong>TB2:</strong> Contribuí en el planeamiento y desarrollo de la WebApi, así como en el testing para el deploy de la misma. <br><strong>TF:</strong> Elabore una guía del backend de transporte con ejemplos de uso de los endpoints, para facilitar el entendimiento hacia mis compañeros.</td>
   </tr>
   <tr>
   <td><strong>Ramos Argüelles, Alexandra Belen</strong><br>
-    <strong>TB1:</strong> Realicé la investigación para identificar el problema y detallar la solución más conveniente para los segementos objetivo. Además, identifiqué cómo la plataforma tiene ventajas para ambos segmentos.<br><strong>TP:</strong> Realicé la documentación del Sprint 2 desarrollando los apartados Sprint Backlog 2 y Development Evidence for Sprint Review. Además, implementé algunas funciones en el código fuente.</td>
+    <strong>TB1:</strong> Realicé la investigación para identificar el problema y detallar la solución más conveniente para los segementos objetivo. Además, identifiqué cómo la plataforma tiene ventajas para ambos segmentos.<br><strong>TP:</strong> Realicé la documentación del Sprint 2 desarrollando los apartados Sprint Backlog 2 y Development Evidence for Sprint Review. Además, implementé algunas funciones en el código fuente.<br><strong>TF:</strong> Elabore una guía técnica del backend de transporte con ejemplos de uso de los endpoints, pensada para facilitar el entendimiento.</td>
   </tr>  
 </table>
 
@@ -510,7 +547,12 @@ Los empresarios peruanos del sector pesquero enfretan pérdidas del 30% en su me
 
 #### 1.2.2.4. Lean UX Canvas
 
-![lean ux canvas](https://github.com/1ASI0729-2510-4321-devvolution/PescaGo-Report/blob/main/assets/lean-ux-process/lean-ux-canvas.png?raw=true)
+El Lean UX Canvas es una herramienta utilizada para alinear al equipo en torno a los problemas del usuario, los objetivos del negocio y las ideas de solución. Nos permitió definir hipótesis, suposiciones clave y experimentos para validar rápidamente si el producto que estábamos desarrollando solucionaba una necesidad real.(Ver figura 1.1)
+
+<p align="center">
+  <img align="center" src="https://github.com/1ASI0729-2510-4321-devvolution/PescaGo-Report/blob/main/assets/lean-ux-process/lean-ux-canvas.png?raw=true">
+</p>
+<p align="center"><em>Figura 1.1: Lean UX Canvas elaborado para nuestro proyecto PescaGo.</em></p>
 
 ## 1.3. Segmentos objetivo
 
@@ -856,15 +898,21 @@ En resumen, existe una clara necesidad en el mercado de una plataforma que conec
 
 ### 2.3.1. User Personas
 
-En esta sección se presentan personajes ficticios que representan los segmentos objetivos identificados y entrevistados mediante user personas.
+En esta sección se presentan personajes ficticios que representan los segmentos objetivos identificados y entrevistados mediante user personas. (Ver figuras 2.1 y 2.2)
 
 **User Persona 1:**
 
-![Antonio Gonzales Persona](chapter-2/assets/User%20Persona%20Transportista%20MP.png)
+<p align="center">
+  <img align="center" src="./chapter-2/assets/User%20Persona%20Transportista%20MP.png">
+</p>
+<p align="center"><em>Figura 2.1: Segmento objetivo empresa transportista.</em></p>
 
 **User Persona 2:**
 
-![Juan Torres Persona](chapter-2/assets/User%20Persona%20Pescador%20MP.png)
+<p align="center">
+  <img align="center" src="./chapter-2/assets/User%20Persona%20Pescador%20MP.png">
+</p>
+<p align="center"><em>Figura 2.2: Segmento objetivo empresario pesquero.</em></p>
 
 ### 2.3.2. User Task Matrix
 
@@ -896,33 +944,57 @@ User Task Matrix: Juan Torres (Empresario Pesquero)
 
 ### 2.3.3. User Journey Mapping
 
+En esta sección se presentan los User Journey Maps desarrollados para los dos segmentos objetivos principales: la empresa transportista y el empresario pesquero. Cada mapa describe, paso a paso, la experiencia del usuario al interactuar con nuestra solución, incluyendo sus necesidades, emociones, puntos de contacto y oportunidades de mejora a lo largo del recorrido. Esta herramienta nos permitió identificar momentos clave en la experiencia de cada tipo de usuario y ajustar el diseño del producto en función de sus expectativas reales.(Ver figura 2.3 y 2.4)
+
 User Journey Map 1 : Transportista
 
-![Transportista JourneyMap](chapter-2/assets/CUSTOMER%20JOURNEY%20MAP%20TRANSPORTISTA%20INDEPENDIENTE%20MP.png)
+<p align="center">
+  <img align="center" src="./chapter-2/assets/CUSTOMER%20JOURNEY%20MAP%20TRANSPORTISTA%20INDEPENDIENTE%20MP.png">
+</p>
+<p align="center"><em>Figura 2.3: User Journey Map de la empresa transportista.</em></p>
 
 User Journey Map 2 : Empresario Pesquero
 
-![Empresario Pesquero JourneyMap](chapter-2/assets/CUSTOMER%20JOURNEY%20MAP%20PESCADOR%20MP.png)
+<p align="center">
+  <img align="center" src="./chapter-2/assets/CUSTOMER%20JOURNEY%20MAP%20PESCADOR%20MP.png">
+</p>
+<p align="center"><em>Figura 2.3: User Journey Map del empresario pesquero.</em></p>
 
 ### 2.3.4. Empathy Mapping
 
+El Empathy Map es una herramienta que nos permitió profundizar en la perspectiva de los usuarios, comprendiendo lo que piensan, sienten, dicen y hacen en relación con el problema identificado. En esta sección se presentan los mapas de empatía elaborados para los dos segmentos objetivos: la empresa transportista y el empresario pesquero.(Ver figura 2.4 y 2.5)
+
 Empathy Map 1 : Transportista
 
-![Transportista EmpathyMap](chapter-2/assets/Empathy%20Map%20Transportista%20Independiente%20MP.png)
+<p align="center">
+  <img align="center" src="./chapter-2/assets/Empathy%20Map%20Transportista%20Independiente%20MP.png">
+</p>
+<p align="center"><em>Figura 2.4: Empathy Map de la empresa transportista.</em></p>
 
 Empathy Map 2 : Empresario Pesquero
 
-![Empresario Pesquero EmpathyMap](chapter-2/assets/Empathy%20Map%20Pescador%20MP.png)
+<p align="center">
+  <img align="center" src="./chapter-2/assets/Empathy%20Map%20Pescador%20MP.png">
+</p>
+<p align="center"><em>Figura 2.5: Empathy Map del empresario pesquero.</em></p>
 
 ### 2.3.5. As-is Scenario Mapping
 
+El As-is Scenario Mapping nos permitió analizar cómo los usuarios actualmente enfrentan el problema sin el uso de nuestra solución. A través de esta herramienta, se identificaron las actividades, frustraciones y barreras que experimentan tanto la empresa transportista como el empresario pesquero en sus procesos actuales.(Ver figura 2.6 y 2.7)
+
 As-is Scenario Map 1 : Transportista
 
-![Transportista As-is Scenario Map](chapter-2/assets/asismap_transportista.jpg)
+<p align="center">
+  <img align="center" src="./chapter-2/assets/asismap_transportista.jpg">
+</p>
+<p align="center"><em>Figura 2.6: As-is Scenario Map de la empresa transportista.</em></p>
 
 As-is Scenario Map 2 : Empresario Pesquero
 
-![Empresario Pesquero As-is Scenario Map](chapter-2/assets/asismap_pesquero.jpg)
+<p align="center">
+  <img align="center" src="./chapter-2/assets/asismap_pesquero.jpg">
+</p>
+<p align="center"><em>Figura 2.7: As-is Scenario Map del la empresario pesuqero.</em></p>
 
 ## 2.4. Ubiquitous Language
 
@@ -982,7 +1054,7 @@ Busca empresas de transporte confiables para enviar sus paquetes de forma segura
 </p>
 <p align="center"><em>Figura 3.2: To-Be Scenario Mapping del empresario pesquero.</em></p>
 
-**Enlace del To-Be Scenario Mapping:** [Ver en Miro](https://miro.com/app/board/uXjVID8wvf0=/?share_link_id=911528094729)
+**Enlace del To-Be Scenario Mapping:** [https://miro.com/app/board/uXjVID8wvf0=/?share_link_id=911528094729](https://miro.com/app/board/uXjVID8wvf0=/?share_link_id=911528094729)
 
 ### 3.2. User Stories
 
@@ -1836,7 +1908,7 @@ Gestión de envíos, Transporte marítimo, Logística pesquera, Rutas, Plataform
 
 En lo que respeta a los sistemas de búsqueda, PescaGo ha sido diseñado para ofrecer una experiencia de búsqueda intuitiva y eficaz.
 
-Para los empresarios, esta implementación está enfocada directamente para la búsqueda de empresas transportistas y utilizar los filtros para luego visualizar toda la información mediante Cards visuales. Dentro de estas Cards se observará información como el **Nombre de la empresa**, **Descripción de la Empresa** y los distritos de cobertura.
+Para los empresarios, esta implementación está enfocada directamente para la búsqueda de empresas transportistas y utilizar los filtros para luego visualizar toda la información mediante Cards visuales. Dentro de estas Cards se observará información como el **Nombre de la empresa**, **Descripción de la Empresa** y los distritos de cobertura.(Ver figuras 4.7 y 4.8)
 
 <p align="center">
   <img align="center" src="chapter-4/assets/searching-system-1.png"></p>
@@ -1854,7 +1926,7 @@ El sistema de navegación para empresarios pesqueros está diseñado con una est
 
 **Para Empresas de Transporte**
 
-La navegación para transportistas sigue un enfoque diferente, optimizado para sus necesidades específicas. Se implemetó un menú principal que cuenta con las principales opciones: **Inicio**, **Solicitudes para cotizar** y **Servicio Confirmado**.
+La navegación para transportistas sigue un enfoque diferente, optimizado para sus necesidades específicas. Se implemetó un menú principal que cuenta con las principales opciones: **Inicio**, **Solicitudes para cotizar** y **Servicio Confirmado**.(Ver figura 4.9)
 
 <p align="center">
   <img align="center" src="chapter-4/assets/navigation-systems.png"></p>
@@ -1866,7 +1938,7 @@ La navegación para transportistas sigue un enfoque diferente, optimizado para s
 
 **Inicio de sesión**
 
-Se muestra a continuación la Wireframe de inicio de sesión que es para ambos segmentos, para hacer mas accesible el ingreso solo se pidio correo y contraseña. (Ver figura 4.9)
+Se muestra a continuación la Wireframe de inicio de sesión que es para ambos segmentos, para hacer mas accesible el ingreso solo se pidio correo y contraseña. (Ver figura 4.10)
 
 <p align="center">
   <img align="center" src="chapter-4/assets/inicio de sesion - boceto.png"></p>
@@ -1874,7 +1946,7 @@ Se muestra a continuación la Wireframe de inicio de sesión que es para ambos s
 
 **Registro de la empresa transportista**
 
-Para registrarse le pedira los datos basicos para que asi sea mas factible mostrar esa informacion al segmento de empresa pesquera. (Ver figura 4.10)
+Para registrarse le pedira los datos basicos para que asi sea mas factible mostrar esa informacion al segmento de empresa pesquera. (Ver figura 4.11)
 
 <p align="center">
   <img align="center" src="chapter-4/assets/registro transportista - boceto.png"></p>
@@ -1882,15 +1954,15 @@ Para registrarse le pedira los datos basicos para que asi sea mas factible mostr
 
 **Registro del empresario pesquero**
 
-Para registrase lo mas rapido posible y hacer uno de la plataforma , solo se le pide el nombre, correo y contraseña. (Ver figura 4.11)
+Para registrase lo mas rapido posible y hacer uno de la plataforma , solo se le pide el nombre, correo y contraseña. (Ver figura 4.12)
 
 <p align="center">
   <img align="center" src="chapter-4/assets/registro pesquero- boceto.png"></p>
-<p align="center"><em>Figura 4.11: Captura del boceto del registro de empresario pesquero.</em></p>
+<p align="center"><em>Figura 4.12: Captura del boceto del registro de empresario pesquero.</em></p>
 
 **Funcionalidades de la empresa transportista**
 
-A continuación se mostrará todos los bocetos con las funcionalidades que realizara la empresa transportista en la plataforma. Como por ejemplo, solicitudes para cotizar y sus servicios confirmados. (Ver figuras 4.12)
+A continuación se mostrará todos los bocetos con las funcionalidades que realizara la empresa transportista en la plataforma. Como por ejemplo, solicitudes para cotizar y sus servicios confirmados. (Ver figuras 4.13)
 
 <p align="center">
   <img align="center" src="chapter-4/assets/funcionalidades del transportista - boceto.png"></p>
@@ -1898,20 +1970,20 @@ A continuación se mostrará todos los bocetos con las funcionalidades que reali
 
 **Funcionalidades del empresario pesquero**
 
-A continuación se mostrará todos los bocetos con las funcionalidades que realizara el empresario pesquero en la plataforma. Como por ejemplo, Búsqueda de empresas transportistas, Estado de Solicitudes y sus Servicios Contratados. (Ver figuras 4.13)
+A continuación se mostrará todos los bocetos con las funcionalidades que realizara el empresario pesquero en la plataforma. Como por ejemplo, Búsqueda de empresas transportistas, Estado de Solicitudes y sus Servicios Contratados. (Ver figuras 4.14)
 
 <p align="center">
   <img align="center" src="chapter-4/assets/funcionalidades del pesquero - boceto.png"></p>
 <p align="center"><em>Figura 4.14: Capturas de los bocetos con las funcionalidades del empresario pesquero.</em></p>
 
-**Enlace del Figma :** [Ver en Figma](https://www.figma.com/design/6G4202Wv0UNJR3e3yA9GHs/Untitled?node-id=0-1&m=dev&t=4WCujskndBN3NXUK-1)
+**Enlace del Figma :** [https://www.figma.com/design/6G4202Wv0UNJR3e3yA9GHs/Untitled?node-id=0-1&m=dev&t=4WCujskndBN3NXUK-1](https://www.figma.com/design/6G4202Wv0UNJR3e3yA9GHs/Untitled?node-id=0-1&m=dev&t=4WCujskndBN3NXUK-1)
 
 #### 4.4.2. Web Applications Wireflow Diagrams
 
 **user goal:**<br>
 **Como** Empresario pesquero o Empresa de transportes
 **quiero** registrarme a la aplicación web
-**Para** identificar qué tipo de usuario soy. (Ver figura 4.14)
+**Para** identificar qué tipo de usuario soy. (Ver figura 4.15)
 
 <p align="center">
   <img align="center" src="chapter-4/assets/diagrams - inicio.png"></p>
@@ -1920,7 +1992,7 @@ A continuación se mostrará todos los bocetos con las funcionalidades que reali
 **user goal:**<br>
 **Como** Empresa de transportes
 **quiero** poder comprender e interactuar con el servicio que la aplicación web me está proporcionando
-**Para** así poder generar las solicitudes de una manera clara y correcta sin temor a equivocación. (Ver figura 4.15)
+**Para** así poder generar las solicitudes de una manera clara y correcta sin temor a equivocación. (Ver figura 4.16)
 
 <p align="center">
   <img align="center" src="chapter-4/assets/diagrams - transportista.png"></p>
@@ -1929,19 +2001,19 @@ A continuación se mostrará todos los bocetos con las funcionalidades que reali
 **user goal:**<br>
 **Como** Empresario pesquero
 **quiero** poder comprender e interactuar con el servicio que la aplicación web me está proporcionando
-**Para** así poder generar mis solicitudes de una manera clara y correcta sin temor a equivocación. (Ver figura 4.16)
+**Para** así poder generar mis solicitudes de una manera clara y correcta sin temor a equivocación. (Ver figura 4.17)
 
 <p align="center">
   <img align="center" src="chapter-4/assets/diagrams - pesquero.png"></p>
 <p align="center"><em>Figura 4.17: Wireflow Diagrams del empresario pesquero.</em></p>
 
-**Enlace del Figma :** [Ver en Figma](https://www.figma.com/design/6G4202Wv0UNJR3e3yA9GHs/Untitled?node-id=26-378&m=dev&t=wIVDlU15xFdh7fHu-1)
+**Enlace del Figma :** [https://www.figma.com/design/6G4202Wv0UNJR3e3yA9GHs/Untitled?node-id=26-378&m=dev&t=wIVDlU15xFdh7fHu-1](https://www.figma.com/design/6G4202Wv0UNJR3e3yA9GHs/Untitled?node-id=26-378&m=dev&t=wIVDlU15xFdh7fHu-1)
 
 #### 4.4.3. Web Applications Mock-ups
 
 **Inicio de sesión**
 
-Se muestra a continuación los mock-ups de inicio de sesión que es para ambos segmentos. (Ver figura 4.17)
+Se muestra a continuación los mock-ups de inicio de sesión que es para ambos segmentos. (Ver figura 4.18)
 
 <p align="center">
   <img align="center" src="chapter-4/assets/mock ups - ambos usuarios.png"></p>
@@ -1949,7 +2021,7 @@ Se muestra a continuación los mock-ups de inicio de sesión que es para ambos s
 
 **Mock-ups de la empresa transportista**
 
-A continuación se mostrará todos los bocetos con las funcionalidades que realizara la empresa transportista en la plataforma. Como por ejemplo su registro, solicitudes para cotizar y sus servicios confirmados. (Ver figuras 4.18)
+A continuación se mostrará todos los bocetos con las funcionalidades que realizara la empresa transportista en la plataforma. Como por ejemplo su registro, solicitudes para cotizar y sus servicios confirmados. (Ver figuras 4.19)
 
 <p align="center">
   <img align="center" src="chapter-4/assets/mock ups - transportista.png"></p>
@@ -1957,13 +2029,13 @@ A continuación se mostrará todos los bocetos con las funcionalidades que reali
 
 **Mock-ups del empresario pesquero**
 
-A continuación se mostrará todos los bocetos con las funcionalidades que realizara el empresario pesquero en la plataforma. Como por ejemplo su registro, Búsqueda de empresas transportistas, Estado de Solicitudes y sus Servicios Contratados. (Ver figuras 4.19)
+A continuación se mostrará todos los bocetos con las funcionalidades que realizara el empresario pesquero en la plataforma. Como por ejemplo su registro, Búsqueda de empresas transportistas, Estado de Solicitudes y sus Servicios Contratados. (Ver figuras 4.20)
 
 <p align="center">
   <img align="center" src="chapter-4/assets/mock ups - pesquero.png"></p>
 <p align="center"><em>Figura 4.20: Web Applications Mock-ups del empresario pesquero.</em></p>
 
-**Enlace del Figma :** [Ver en Figma](https://www.figma.com/design/6G4202Wv0UNJR3e3yA9GHs/Untitled?node-id=26-379&m=dev&t=4WCujskndBN3NXUK-1)
+**Enlace del Figma :** [https://www.figma.com/design/6G4202Wv0UNJR3e3yA9GHs/Untitled?node-id=26-379&m=dev&t=4WCujskndBN3NXUK-1](https://www.figma.com/design/6G4202Wv0UNJR3e3yA9GHs/Untitled?node-id=26-379&m=dev&t=4WCujskndBN3NXUK-1)
 
 #### 4.4.4. Web Applications User Flow Diagrams
 
@@ -1982,7 +2054,7 @@ Finalmente, deberá hacer clic en “Registrarse” para completar su registro.
 
 Si ya cuentan con un usuaio en PescaGo, pueden entrar de manera directa a la aplicación web.
 
-Para una mejor comprensión del flujo, puede consultar el diagrama ilustrativo. (Ver figura 4.20)
+Para una mejor comprensión del flujo, puede consultar el diagrama ilustrativo. (Ver figura 4.21)
 
 <p align="center">
   <img align="center" src="chapter-4/assets/Use flow diagrams-inicio.jpeg"></p>
@@ -2005,7 +2077,7 @@ En esta sección, se mostrarán todas las solicitudes que ya han sido confirmada
 Dentro de cada solicitud, encontrará la opción "Información de Envío", donde deberá completar un formulario con los datos del vehículo y del conductor que realizará la entrega. Es importante llenar esta información lo antes posible para brindar confianza y seguridad al cliente sobre quién será responsable del traslado.
 Una vez completado el formulario, deberá hacer clic en "Enviar". Cuando la información haya sido enviada correctamente, la solicitud mostrará un check en el apartado "Información de Envío", indicando que el proceso se ha completado.
 
-Para una mejor comprensión del flujo, puede consultar el diagrama ilustrativo. (Ver figura 4.21)
+Para una mejor comprensión del flujo, puede consultar el diagrama ilustrativo. (Ver figura 4.22)
 
 <p align="center">
   <img align="center" src="chapter-4/assets/Use flow diagrams-transportista.jpeg"></p>
@@ -2035,31 +2107,31 @@ Si, por el contrario, desea aceptar una de las ofertas, solo deberá seleccionar
 En esta sección, el usuario podrá visualizar todos los servicios de transporte que ya han sido pagados. Aquí encontrará información relevante sobre la empresa contratada, los detalles del paquete y un apartado adicional con los datos del vehículo y del conductor asignado.
 Si este último campo aparece como Pendiente, significa que la empresa aún está completando la información, la cual será actualizada y enviada al usuario a la brevedad posible.
 
-Para una mejor comprensión del flujo, puede consultar el diagrama ilustrativo. (Ver figura 4.22).
+Para una mejor comprensión del flujo, puede consultar el diagrama ilustrativo. (Ver figura 4.23).
 
 <p align="center">
   <img align="center" src="chapter-4/assets/Use flow diagrams-pesquero.jpeg"></p>
 <p align="center"><em>Figura 4.23: Web Applications User Flow Diagrams del empresario pesquero.</em></p>
 
-**Enlace del Miro :** [Ver en Miro](https://miro.com/welcomeonboard/TFg1SVlscDQwdGlNWHZhNkpSeUE5aWhnRm51ZURXc2YvNjRrTlBsS3BwVHdnbE05SFFVSFpwMCtSKzZ0MHUwUk44VU1kYXVaL0pLbDBwaVNnTzVvRnZ5RXlDZ2dXMHg4ZmEzS0plNWNZZDMzUEk3YzYrSG4rb3djRVJhL2I2dGxnbHpza3F6REdEcmNpNEFOMmJXWXBBPT0hdjE=?share_link_id=756884883545)
+**Enlace del Miro :** [https://miro.com/welcomeonboard/TFg1SVlscDQwdGlNWHZhNkpSeUE5aWhnRm51ZURXc2YvNjRrTlBsS3BwVHdnbE05SFFVSFpwMCtSKzZ0MHUwUk44VU1kYXVaL0pLbDBwaVNnTzVvRnZ5RXlDZ2dXMHg4ZmEzS0plNWNZZDMzUEk3YzYrSG4rb3djRVJhL2I2dGxnbHpza3F6REdEcmNpNEFOMmJXWXBBPT0hdjE=?share_link_id=756884883545](https://miro.com/welcomeonboard/TFg1SVlscDQwdGlNWHZhNkpSeUE5aWhnRm51ZURXc2YvNjRrTlBsS3BwVHdnbE05SFFVSFpwMCtSKzZ0MHUwUk44VU1kYXVaL0pLbDBwaVNnTzVvRnZ5RXlDZ2dXMHg4ZmEzS0plNWNZZDMzUEk3YzYrSG4rb3djRVJhL2I2dGxnbHpza3F6REdEcmNpNEFOMmJXWXBBPT0hdjE=?share_link_id=756884883545)
 
 ### 4.5. Web Applications Prototyping.
 
 Durante la creación de los flujos de acción para los prototipos, se consideraron las diferentes formas en que los usuarios podrían interactuar con la aplicación web. Los prototipos fueron diseñados de manera interactiva, permitiendo que cada sección garantice una experiencia de usuario intuitiva y funcional.
 Asimismo, se tomaron como referencia los Diagramas de Flujo de Usuario y los Wireflow Diagrams, los cuales contribuyeron a una mejor comprensión y organización de cada funcionalidad dentro de la aplicación.
-Como parte del proceso, se elaboró un video demostrativo donde se interactúa con el prototipo, con el fin de mostrar de manera visual la experiencia de navegación y el flujo de uso propuesto para los usuarios. Además, se incluye una imagen referencial del prototipo. (Ver figura 4.23)
+Como parte del proceso, se elaboró un video demostrativo donde se interactúa con el prototipo, con el fin de mostrar de manera visual la experiencia de navegación y el flujo de uso propuesto para los usuarios. Además, se incluye una imagen referencial del prototipo. (Ver figura 4.24)
 
 <p align="center">
   <img align="center" src="chapter-4/assets/Prototipo - explicacion.jpeg"></p>
 <p align="center"><em>Figura 4.24: Captura de video sobre la interacción con el prototipo.</em></p>
 
-**Enlace del Clipchamp :** [Ver en Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c131_upc_edu_pe/Efpo172zIoBCqdcPsvyc_CYBYJRY-YugLBOZwhibyoZ5lw?e=XpmDJD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+**Enlace del Clipchamp :** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c131_upc_edu_pe/Efpo172zIoBCqdcPsvyc_CYBYJRY-YugLBOZwhibyoZ5lw?e=XpmDJD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c131_upc_edu_pe/Efpo172zIoBCqdcPsvyc_CYBYJRY-YugLBOZwhibyoZ5lw?e=XpmDJD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ### 4.6. Domain-Driven Software Architecture.
 
 #### 4.6.1. Software Architecture Context Diagram.
 
-El Diagrama de Contexto muestra una vista general de la Plataforma PescaGo, sus usuarios y los sistemas externos con los que interactúa.
+El Diagrama de Contexto muestra una vista general de la Plataforma PescaGo, sus usuarios y los sistemas externos con los que interactúa.(Ver figura 4.25)
 
 - **Plataforma PescaGo:** Plataforma web que conecta empresarios pesqueros y empresas de transporte para facilitar el transporte de productos pesqueros.
 - **Empresario Pesquero:** Interactúa con PescaGo para crear solicitudes de transporte, seleccionar empresas de transporte, pagar servicios y rastrear envíos.
@@ -2069,11 +2141,11 @@ El Diagrama de Contexto muestra una vista general de la Plataforma PescaGo, sus 
 
 <p align="center">
   <img align="center" src="chapter-4/assets/context_diagram.jpg"></p>
-<p align="center">
+<p align="center"><em>Figura 4.25: Vista C4 Model - Context.</em></p>
 
 #### 4.6.2. Software Architecture Container Diagrams.
 
-El Diagrama de Contenedores muestra los principales componentes (contenedores) de la Plataforma PescaGo y sus interacciones con usuarios y sistemas externos.
+El Diagrama de Contenedores muestra los principales componentes (contenedores) de la Plataforma PescaGo y sus interacciones con usuarios y sistemas externos.(Ver figura 4.26)
 
 - **Web Application:** Interfaz basada en navegador (Angular/Vue) donde los usuarios interactúan con PescaGo para realizar tareas como crear solicitudes y rastrear envíos.
 - **Backend API:** API RESTful (Spring Boot/.NET) que maneja la lógica de negocio, procesa solicitudes y se comunica con la base de datos y sistemas externos.
@@ -2082,11 +2154,11 @@ El Diagrama de Contenedores muestra los principales componentes (contenedores) d
 
 <p align="center">
   <img align="center" src="chapter-4/assets/container_diagram.jpg"></p>
-<p align="center">
+<p align="center"><em>Figura 4.26: Vista C4 Model - Containers.</em></p>
 
 #### 4.6.3. Software Architecture Components Diagrams.
 
-El Diagrama de Componentes detalla los componentes internos del Backend API, organizados en contextos acotados (Bounded Contexts) siguiendo los principios de Domain-Driven Design (DDD).
+El Diagrama de Componentes detalla los componentes internos del Backend API, organizados en contextos acotados (Bounded Contexts) siguiendo los principios de Domain-Driven Design (DDD).(Ver figura 4.27)
 
 - **User Management Context:**
   - _User Controller:_ Recibe solicitudes HTTP para operaciones relacionadas con usuarios.
@@ -2114,7 +2186,7 @@ El Diagrama de Componentes detalla los componentes internos del Backend API, org
 
 <p align="center">
   <img align="center" src="chapter-4/assets/components_diagram.jpg"></p>
-<p align="center">
+<p align="center"><em>Figura 4.27: Vista C4 Model - Components.</em></p>
 
 ### 4.7. Software Object-Oriented Design.
 
@@ -2122,9 +2194,11 @@ En dicha sección se verá la estructuración de nuestra star-up que será reeva
 
 #### 4.7.1. Class Diagrams.
 
+El diagrama de clases representa la estructura del sistema, mostrando las entidades principales, sus atributos y las relaciones entre ellas. Este modelo fue clave para definir la arquitectura lógica del backend y asegurar una correcta organización de los datos y funcionalidades del sistema.(Ver figura 4.28)
+
 <p align="center">
   <img align="center" src="chapter-4/assets/classdiagram.png"></p>
-<p align="center">
+<p align="center"><em>Figura 4.28: Diagrama de clases del sistema PescaGo.</em></p>
 
 #### 4.7.2. Class Dictionary.
 
@@ -2150,9 +2224,11 @@ En dicha sección se verá la estructuración de nuestra star-up que será reeva
 
 #### 4.8.1. Database Diagram.
 
+El diagrama de base de datos muestra cómo se organiza la información dentro del sistema, incluyendo las tablas, sus atributos y las relaciones entre ellas. Este modelo fue fundamental para diseñar una estructura de datos coherente, eficiente y alineada con los requerimientos funcionales del proyecto.(Ver figura 4.29)
+
 <p align="center">
   <img align="center" src="chapter-4/assets/database.png"></p>
-<p align="center">
+<p align="center"><em>Figura 4.29: Diagrama de base de datos del sistema PescaGo.</em></p>
 
 ## Capítulo V: Product Implementation, Validation & Deployment
 
@@ -2321,8 +2397,13 @@ Implementaremos la landing page utilizando Netlify, una plataforma que facilita 
 
 En esta seccion mostramos las tareas que se realizaron en este sprint.
 
-[Link del tablero de trello](https://trello.com/b/2f2fee81/pescago)
-![Sprint Backlog 1](image.png)
+**Link del tablero de trello:** [https://trello.com/b/2f2fee81/pescago](https://trello.com/b/2f2fee81/pescago)
+
+<p align="center">
+  <img align="center" src="image.png">
+</p>
+<p align="center"><em>Figura 5.1: Vista del Trello para el Sprint 1.</em></p>
+
 | Sprint # | Sprint 1 | | | | | | |
 |:-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 | Epic/ Story | | Work-Item | | | | | |
@@ -2494,31 +2575,37 @@ Para la entrega del Sprint 1, nos enfocamos en lograr el desarrollo completo y e
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
-En este sprint, el equipo logro desplegar la primera versión de la landing page satisfactoriamente, en este punto se mostrara la evidencia de ello.
+En este sprint, el equipo logro desplegar la primera versión de la landing page satisfactoriamente, en este punto se mostrara la evidencia de ello.(Ver figuras 5.2, 5.3, 5.4, 5.5, 5.6 y 5.7)
 
 #### Inicio
 
-   <img src="chapter-5/assets/landing_d1_01.PNG"/>
+  <p align="center"><img align="center" src="./chapter-5/assets/landing_d1_01.PNG"></p>
+  <p align="center"><em>Figura 5.2: Vista principal de PescaGo.</em></p>
 
 #### Caracteristicas
 
-   <img src="chapter-5/assets/landing_d1_02.PNG"/>
+  <p align="center"><img align="center" src="./chapter-5/assets/landing_d1_02.PNG"></p>
+  <p align="center"><em>Figura 5.3: Vista de las características de PescaGo.</em></p>
 
 #### Cómo Funciona
 
-   <img src="chapter-5/assets/landing_d1_03.PNG"/>
+  <p align="center"><img align="center" src="./chapter-5/assets/landing_d1_03.PNG"></p>
+  <p align="center"><em>Figura 5.4: Vista de las funciones de PescaGo.</em></p>
 
 #### Testimonios
 
-   <img src="chapter-5/assets/landing_d1_04.PNG"/>
+  <p align="center"><img align="center" src="./chapter-5/assets/landing_d1_04.PNG"></p>
+  <p align="center"><em>Figura 5.5: Vista de los testimonios de PescaGo.</em></p>
 
 #### Beneficios
 
-   <img src="chapter-5/assets/landing_d1_05.PNG"/>
+  <p align="center"><img align="center" src="./chapter-5/assets/landing_d1_05.PNG"></p>
+  <p align="center"><em>Figura 5.6: Vista de los beneficios de PescaGo.</em></p>
 
 #### Contacto
 
-   <img src="chapter-5/assets/landing_d1_06.PNG"/>
+  <p align="center"><img align="center" src="./chapter-5/assets/landing_d1_06.PNG"></p>
+  <p align="center"><em>Figura 5.7: Vista del contacto de PescaGo.</em></p>
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
@@ -2546,7 +2633,11 @@ A continuación, se compartirá la tabla de colaboradores del repositorio de Git
 | IanMQ                      | Macavilca Quispe, Ian            |
 | mariopvdev                 | Prado Vargas, Mario Benjamín     |
 
-<img src="chapter-5/assets/commits_sprint1.PNG" alt="imagen de commits"/>
+
+
+<p align="center"><img align="center" src="./chapter-5/assets/commits_sprint1.PNG"></p>
+<p align="center"><em>Figura 5.8: Contribución del equipo para la Landing Page.</em></p>
+
 
 #### 5.2.2. Sprint 2
 
@@ -2554,13 +2645,13 @@ A continuación, se compartirá la tabla de colaboradores del repositorio de Git
 
 En esta parte mostramos las tareas que se realizaron en este sprint.
 
-Link del Trello: [Ir a Trello](https://trello.com/invite/b/6821201064fc162fd1070c4b/ATTIe7594534dfacff282c80125476e30b4a12551FAF/pescago)
+Link del Trello: [https://trello.com/invite/b/6821201064fc162fd1070c4b/ATTIe7594534dfacff282c80125476e30b4a12551FAF/pescago](https://trello.com/invite/b/6821201064fc162fd1070c4b/ATTIe7594534dfacff282c80125476e30b4a12551FAF/pescago)
 
-Vista del Sprint Backlog 1 en Trello:
+Vista del Sprint Backlog 2 en Trello:
 
-<div align="center">
-  <img align="center" src="./chapter-5/assets/trello - 2.png">  
-</div><br><br>
+<p align="center"><img align="center" src="./chapter-5/assets/trello - 2.png"></p>
+<p align="center"><em>Figura 5.9: Vista del Trello para el Sprint 2.</em></p>
+<br>
 
 <table border="1px" align="center">
       <tr>
@@ -2710,7 +2801,7 @@ Vista del Sprint Backlog 1 en Trello:
 
 En esta sección, se presentan los commits realizados en el repositorio del frontend en GitHub. Estos commits reflejan el progreso y las mejoras implementadas durante el sprint 2, proporcionando una visión detallada de las actividades de desarrollo y las contribuciones del equipo.
 
-Link del repositorio: [PescaGo - Frontend](https://github.com/1ASI0729-2510-4321-devvolution/PescaGo-Frontend)
+Link del repositorio: [https://github.com/1ASI0729-2510-4321-devvolution/PescaGo-Frontend](https://github.com/1ASI0729-2510-4321-devvolution/PescaGo-Frontend)
 
 <table border="1" cellpadding="5" cellspacing="0">
   <tr>
@@ -2799,104 +2890,68 @@ Link del repositorio: [PescaGo - Frontend](https://github.com/1ASI0729-2510-4321
 
 En el Sprint 2 hemos logrado implementar las funcionalidades más relevantes para los usuarios principales: el empresario pesquero y la empresa transportista.
 
-A continuación, se presentan capturas de pantalla de las vistas implementadas.
+A continuación, se presentan capturas de pantalla de las vistas implementadas.(Ver figuras 5.10, 5.11, 5.12, 5.13, 5.14, 5.15, 5.16, 5.17, 5.18 y 5.19)
 
 - <strong>Inicio de sesión y registro</strong>
 
-<div align=center>
-    <img src="./chapter-5/assets/inicio de sesion.png">
-</div>
-
-<div align=center>
-    <img src="./chapter-5/assets/registro.png">
-</div>
-<br>
+<p align="center"><img align="center" src="./chapter-5/assets/inicio de sesion.png"></p>
+<p align="center"><img align="center" src="./chapter-5/assets/registro.png"></p>
+<p align="center"><em>Figura 5.10: Vistas del login y registro de PescaGo.</em></p><br>
 
 - <strong>Registro de Empresa Transportista</strong>
 
-<div align=center>
-    <img src="./chapter-5/assets/registro_transportista.png">
-</div>
-<br>
+<p align="center"><img align="center" src="./chapter-5/assets/registro_transportista.png"></p>
+<p align="center"><em>Figura 5.11: Vista del registro para el segmento objetivo: Empresa Transportista.</em></p><br>
 
 - <strong>Registro de Empresario Pesquero</strong>
 
-<div align=center>
-    <img src="./chapter-5/assets/registro_pesquero.png">
-</div>
-<br>
+<p align="center"><img align="center" src="./chapter-5/assets/registro_pesquero.png"></p>
+<p align="center"><em>Figura 5.12: Vista del registro para el segmento objetivo: Empresario Pesquero.</em></p><br>
 
 - <strong>Pantalla de inicio de la Empresa Transportista</strong>
 
-<div align=center>
-    <img src="./chapter-5/assets/pantalla de inicio del transportista.png">
-</div>
-<br>
+<p align="center"><img align="center" src="./chapter-5/assets/pantalla de inicio del transportista.png"></p>
+<p align="center"><em>Figura 5.13: Vista de las funcionalidades principales del segmento objetivo: Empresa Transportista.</em></p><br>
 
 - <strong>Funcionalidad de la solicitudes para cotizar</strong>
 
-<div align=center>
-    <img src="./chapter-5/assets/transportista_cotizar.png">
-</div>
-
-<div align=center>
-    <img src="./chapter-5/assets/transportista_cotizar_paquete.png">
-</div>
-
-<div align=center>
-    <img src="./chapter-5/assets/transportista_cotizar_precio.png">
-</div>
-<br>
+<p align="center"><img align="center" src="./chapter-5/assets/transportista_cotizar.png"></p>
+<p align="center"><img align="center" src="./chapter-5/assets/transportista_cotizar_paquete.png"></p>
+<p align="center"><img align="center" src="./chapter-5/assets/transportista_cotizar_precio.png"></p>
+<p align="center"><em>Figura 5.14: Vistas de la función "Solicitudes para cotizar".</em></p><br>
 
 - <strong>Funcionalidad de Servicio Confirmado</strong>
 
-<div align=center>
-    <img src="./chapter-5/assets/transportista__servicio confirmado.png">
-</div>
-<br>
+<p align="center"><img align="center" src="./chapter-5/assets/transportista__servicio confirmado.png"></p>
+<p align="center"><em>Figura 5.15: Vista de la función "Servicio confirmado".</em></p><br>
 
 - <strong>Pantalla de inicio del Empresario Pesquero</strong>
 
-<div align=center>
-    <img src="./chapter-5/assets/pantalla de inicio del pesquero.png">
-</div>
-<br>
+<p align="center"><img align="center" src="./chapter-5/assets/pantalla de inicio del pesquero.png"></p>
+<p align="center"><em>Figura 5.16: Vista de las funcionalidades principales del segmento objetivo: Empresario Pesquero.</em></p><br>
 
 - <strong>Funcionalidad de Búsqueda de empresas transportistas</strong>
 
-<div align=center>
-    <img src="./chapter-5/assets/pesquero_busqueda.png">
-</div>
-
-<div align=center>
-    <img src="./chapter-5/assets/pesquero_formulario del paquete.png">
-</div>
-<br>
+<p align="center"><img align="center" src="./chapter-5/assets/pesquero_busqueda.png"></p>
+<p align="center"><img align="center" src="./chapter-5/assets/pesquero_formulario del paquete.png"></p>
+<p align="center"><em>Figura 5.17: Vistas de la función "Búsqueda de empresas transportistas".</em></p><br>
 
 - <strong>Funcionalidad de Estado de Solicitudes</strong>
 
-<div align=center>
-    <img src="./chapter-5/assets/pesquero_estado de solicitudes.png">
-</div>
-
-<div align=center>
-    <img src="./chapter-5/assets/pesquero_pagos.png">
-</div>
-
-<div align=center>
-    <img src="./chapter-5/assets/pesquero_detalles de pago.png">
-</div>
-<br>
+<p align="center"><img align="center" src="./chapter-5/assets/pesquero_estado de solicitudes.png"></p>
+<p align="center"><img align="center" src="./chapter-5/assets/pesquero_pagos.png.png"></p>
+<p align="center"><img align="center" src="./chapter-5/assets/pesquero_detalles de pago.png"></p>
+<p align="center"><em>Figura 5.18: Vistas de la función "Estado de Solicitudes".</em></p><br>
 
 - <strong>Funcionalidad de Servicios Contratados</strong>
 
-<div align=center>
-    <img src="./chapter-5/assets/pesquero_servicios contratados.png">
-</div>
+<p align="center"><img align="center" src="./chapter-5/assets/pesquero_servicios contratados.png"></p>
+<p align="center"><em>Figura 5.19: Vista de la función "Servicios Contratados".</em></p><br>
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
-Durante el Sprint 2, utilizamos servicios HTTP mediante JSON Server, lo cual nos permitió crear una fake API para simular el backend de la aplicación.
+Durante el Sprint 2, utilizamos servicios HTTP mediante JSON Server, lo cual nos permitió crear una fake API para simular el backend de la aplicación.(Ver figuras 5.20, 5.21, 5.22, 5.23, 5.24 y 5.25)
+
 Para este sprint, contamos con los siguientes endpoints principales:
 
 -Empresa Transportista
@@ -2908,14 +2963,16 @@ Para este sprint, contamos con los siguientes endpoints principales:
 <div align="center"> 
   <img src="./chapter-5/assets/server/users.png" style="margin: 10px; width: 450px;"> 
   <img src="./chapter-5/assets/server/requests.png" style="margin: 10px; width: 450px;"> 
-</div><br>
+</div>
+<p align="center"><em>Figura 5.20: Evidencia del json por parte del "users" y "requests".</em></p><br>
 
 - <strong>Captura de la estructura del entrepreneurs - carries (db.json):</strong>
 
 <div align="center"> 
   <img src="./chapter-5/assets/server/entrepreneurs.png" style="margin: 10px; width: 450px;"> 
   <img src="./chapter-5/assets/server/carriers.png" style="margin: 10px; width: 450px;"> 
-</div><br>
+</div>
+<p align="center"><em>Figura 5.21: Evidencia del json por parte del "entrepreneurs" y "carries".</em></p><br>
 
 - <strong>Captura de la Fake API en funcionamiento:</strong>
 
@@ -2924,71 +2981,75 @@ Para este sprint, contamos con los siguientes endpoints principales:
     <div align="center"> 
       <img src="./chapter-5/assets/server/pruebaGet.png" style="margin: 10px; width: 420px;"> 
       <img src="./chapter-5/assets/server/pruebaGet-1.png" style="margin: 10px; width: 420px;"> 
-    </div><br>
+    </div>
+    <p align="center"><em>Figura 5.22: Evidencia en el Postman - GET.</em></p><br>
 
   - **POST**
 
     <div align="center"> 
       <img src="./chapter-5/assets/server/pruebaPost-1.png" style="margin: 10px; width: 420px;"> 
-    </div><br>
+    </div>
+    <p align="center"><em>Figura 5.23: Evidencia en el Postman - POST.</em></p><br>
 
   - **PUT**
 
     <div align="center"> 
       <img src="./chapter-5/assets/server/pruebaPut.png" style="margin: 10px; width: 420px;">
-    </div><br>
+    </div>
+    <p align="center"><em>Figura 5.24: Evidencia en el Postman - PUT.</em></p><br>
 
   - **DELETE**
 
     <div align="center"> 
       <img src="./chapter-5/assets/server/pruebaDelete.png" style="margin: 10px; width: 420px;">
       <img src="./chapter-5/assets/server/pruebaDelete-2.png" style="margin: 10px; width: 420px;">
-    </div><br>
+    </div>
+    <p align="center"><em>Figura 5.25: Evidencia en el Postman - DELETE.</em></p><br>
 
   #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
 Durante el Sprint 2, se desplegó el frontend para permitir la integración y validación de las funcionalidades desarrolladas. Utilizamos vercel para el despliegue del frontend.
 
-1. Haz `fork` del repositorio (si el proyecto no es tuyo). Ve al repositorio original en GitHub, haz clic en el botón `Fork` (esquina superior derecha) y se creará una copia del repositorio en tu cuenta.
+1. Haz `fork` del repositorio (si el proyecto no es tuyo). Ve al repositorio original en GitHub, haz clic en el botón `Fork` (esquina superior derecha) y se creará una copia del repositorio en tu cuenta.(Ver figura 5.26)
 
-<div align="center"> <img src="./chapter-5/assets/paso 1.png"> </div>
-<br>
+<div align="center"><img src="./chapter-5/assets/paso 1.png"></div>
+<p align="center"><em>Figura 5.26: Abordar este paso si el proyecto es grupal.</em></p><br>
 
-2. Conecta el proyecto a [Vercel](https://vercel.com) iniciando sesión con tu cuenta de GitHub.
+2. Conecta el proyecto a [Vercel](https://vercel.com) iniciando sesión con tu cuenta de GitHub.(Ver figura 5.27)
 
-<div align="center"> <img src="./chapter-5/assets/paso 2.jpg"> </div>
-<br>
+<div align="center"> <img src="./chapter-5/assets/paso 2.jpg"></div>
+<p align="center"><em>Figura 5.27: Iniciar sesión en Vercel.</em></p><br>
 
-3. Haz clic en `Add New Project` y luego en `Project`.
+3. Haz clic en `Add New Project` y luego en `Project`. (Ver figura 5.28)
 
-<div align="center"> <img src="./chapter-5/assets/paso 3.jpg"> </div>
-<br>
+<div align="center"> <img src="./chapter-5/assets/paso 3.jpg"></div>
+<p align="center"><em>Figura 5.28: Agregando el proyecto de PescaGo.</em></p><br>
 
-4. Selecciona tu repositorio (el fork o el que hayas creado), haz clic en `Import` (esto tomará unos segundos), asegúrate de que esté seleccionado el **Framework Preset: `Angular`** y luego haz clic en `Deploy`.
+4. Selecciona tu repositorio (el fork o el que hayas creado), haz clic en `Import` (esto tomará unos segundos), asegúrate de que esté seleccionado el **Framework Preset: `Angular`** y luego haz clic en `Deploy`.(Ver figura 5.29)
 
-   <div align="center"> <img src="./chapter-5/assets/paso 4.1.jpg"> </div>
+   <div align="center"><img src="./chapter-5/assets/paso 4.1.jpg"></div>
+   <div align="center"><img src="./chapter-5/assets/paso 4.2.jpg"></div>
+   <p align="center"><em>Figura 5.29: Importando el proyecto y sus configuraciones.</em></p><br>
 
-   <div align="center"> <img src="./chapter-5/assets/paso 4.2.jpg"> </div>
-   <br>
+5. Espera a que finalice el proceso (puede tardar un poco la primera vez). Después, haz clic en `Continue to Dashboard`.(Ver figura 5.30)
 
-5. Espera a que finalice el proceso (puede tardar un poco la primera vez). Después, haz clic en `Continue to Dashboard`.
+<div align="center"> <img src="./chapter-5/assets/paso 5.jpg"></div>
+<p align="center"><em>Figura 5.30: Finalizando el procedimieto de despliegue.</em></p><br>
 
-<div align="center"> <img src="./chapter-5/assets/paso 5.jpg"> </div>
-<br>
+6. Finalmente, Vercel te mostrará el enlace de tu aplicación web desplegada.(ver figura 5.31)
 
-6. Finalmente, Vercel te mostrará el enlace de tu aplicación web desplegada.
-
-<div align="center"> <img src="./chapter-5/assets/paso 6.jpg"> </div>
+<div align="center"> <img src="./chapter-5/assets/paso 6.jpg"></div>
+<p align="center"><em>Figura 5.31: Visualización de la URL pública.</em></p><br>
 
 A continuación, se presentan el link que evidencia el despliegue:
 
-- <strong>Despliegue del Frontend</strong>: [PescaGo-Frontend](pesca-go-frontend-prueba-main.vercel.app)
+- <strong>Despliegue del Frontend</strong>: [pesca-go-frontend-prueba-main.vercel.app](pesca-go-frontend-prueba-main.vercel.app)
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
 
 El equipo desarrolló el frontend por ramas con la finalidad de desarrollar cada sección de manera individual para optimizar el mantenimientoy colaboración durante el sprint.
 
-Link del GitHub con a la participación: [Pulse de GitHub](https://github.com/1ASI0729-2510-4321-devvolution/PescaGo-Frontend/pulse)
+Link del GitHub con a la participación: [https://github.com/1ASI0729-2510-4321-devvolution/PescaGo-Frontend/pulse](https://github.com/1ASI0729-2510-4321-devvolution/PescaGo-Frontend/pulse)
 
 A continuación, se presentarán las tareas asignadas a cada integrante del equipo, así como el insight del equipo a través de la plataforma GitHub:
 
@@ -3055,12 +3116,14 @@ A continuación, se mostrarán las capturas de participación:
 <div align=center>
     <img src="./chapter-5/assets/pulse-frontend.png">
 </div>
+<p align="center"><em>Figura 5.32: Evidencia de la participación grupal con los commits.</em></p><br>
 
 - <strong>Captura de la contribución de los integrantes</strong>
 
 <div align=center>
     <img src="./chapter-5/assets/contribuidores-frontend.png">
 </div>
+<p align="center"><em>Figura 5.33: Evidencia de la participación grupal con los contribuidores.</em></p><br>
 
 #### 5.2.3. Sprint 3
 
@@ -3068,13 +3131,12 @@ A continuación, se mostrarán las capturas de participación:
 
 En esta parte mostramos las tareas que se realizaron en este sprint.
 
-Link del Trello: [Ir a Trello](https://trello.com/invite/b/6821201064fc162fd1070c4b/ATTIe7594534dfacff282c80125476e30b4a12551FAF/pescago)
+Link del Trello: [https://trello.com/invite/b/6821201064fc162fd1070c4b/ATTIe7594534dfacff282c80125476e30b4a12551FAF/pescago](https://trello.com/invite/b/6821201064fc162fd1070c4b/ATTIe7594534dfacff282c80125476e30b4a12551FAF/pescago)
 
 Vista del Sprint Backlog 3 en Trello:
 
-<div align="center">
-  <img align="center" src="/assets/Sprint3/trello_3.png">  
-</div><br><br>
+<div align="center"><img align="center" src="/assets/Sprint3/trello_3.png"></div>
+<p align="center"><em>Figura 5.34: Vista del Trello para el Sprint 3.</em></p><br>
 
 <table border="1px" align="center">
       <tr>
@@ -3163,7 +3225,7 @@ Vista del Sprint Backlog 3 en Trello:
 
 En esta sección, se presentan los commits realizados en el repositorio del backend en GitHub. Estos commits reflejan el progreso y las mejoras implementadas durante el sprint 3, proporcionando una visión detallada de las actividades de desarrollo y las contribuciones del equipo.
 
-Link del repositorio: [PescaGo - Backend](https://github.com/1ASI0729-2510-4321-devvolution/PescaGo-Backend)
+Link del repositorio: [https://github.com/1ASI0729-2510-4321-devvolution/PescaGo-Backend](https://github.com/1ASI0729-2510-4321-devvolution/PescaGo-Backend)
 
 <table border="1" cellpadding="5" cellspacing="0">
   <tr>
@@ -3210,7 +3272,7 @@ Link del repositorio: [PescaGo - Backend](https://github.com/1ASI0729-2510-4321-
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
 
-En el Sprint 3 hemos logrado implementar las validaciones como los llamados principales (GET-POST-DELETE-PUT) más relevantes para el correcto llamado de los datos
+En el Sprint 3 hemos logrado implementar las validaciones como los llamados principales (GET-POST-DELETE-PUT) más relevantes para el correcto llamado de los datos.(Ver figura 5.35)
 
 A continuación, se presentan capturas de los endpoints en swagger.
 
@@ -3225,7 +3287,7 @@ A continuación, se presentan capturas de los endpoints en swagger.
 <div align=center>
     <img src="./assets/Sprint3/swagger-3.jpg">
 </div>
-<br>
+<p align="center"><em>Figura 5.35: Vistas de los EndPoints en el swagger.</em></p>
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
@@ -3308,25 +3370,28 @@ Durante el Sprint 3, hemos integrado nuestra API desarrollada con Java y Spring 
 Durante el Sprint 3, se desplegó el backend para permitir la integración y validación de las funcionalidades desarrolladas. Utilizamos Railway para el despliegue del backend.
 
 1. **Crea tu cuenta en Railway**  
-   Entra a [Railway](https://railway.com/) e inicia sesión con tu cuenta de GitHub
+   Entra a [Railway](https://railway.com/) e inicia sesión con tu cuenta de GitHub.(Ver figura 5.36)
 
     <div align=center>
       <img src="./assets/Sprint3/paso1-backend.png">
-    </div><br>
+    </div>
+    <p align="center"><em>Figura 5.36: Iniciar sesión en Railway.</em></p><br>
 
 2. **Conecta tu repositorio**  
-   Haz clic en `New Project`, después elige la opción `Deploy from GitHub Repo` y seleccionas el repositorio del backend
+   Haz clic en `New Project`, después elige la opción `Deploy from GitHub Repo` y seleccionas el repositorio del backend.(Ver figura 5.37)
 
     <div align=center>
       <img src="./assets/Sprint3/paso2-backend.png">
-    </div><br>
+    </div>
+    <p align="center"><em>Figura 5.37: Importando el proyecto desde GitHub.</em></p><br>
 
 3. **Configurar las Variables de Entorno**  
-   Ve a la pestaña `Variables` y haz clic en `Raw Editor`. Pega todas las variables de entorno necesarias (como en el archivo `application.properties` o `application.yml` de tu backend). Luego haz clic en `Update Variables`, presiona `Apply changes` y finalmente en `Deploy` para aplicar y ejecutar el backend.
+   Ve a la pestaña `Variables` y haz clic en `Raw Editor`. Pega todas las variables de entorno necesarias (como en el archivo `application.properties` o `application.yml` de tu backend). Luego haz clic en `Update Variables`, presiona `Apply changes` y finalmente en `Deploy` para aplicar y ejecutar el backend.(Ver figura 5.38)
 
     <div align=center>
       <img src="./assets/Sprint3/paso3-backend.png">
-    </div><br>
+    </div>
+    <p align="center"><em>Figura 5.38: Configuración para subir el proyecto.</em></p><br>
 
 4. **Despliegue del Backend**  
    Espera a que el estado del `deployment` pase de `building` a `active`. Una vez activo, ve a `Settings` → `Networking` para copiar el link desplegado de tu backend.
@@ -3335,7 +3400,7 @@ Durante el Sprint 3, se desplegó el backend para permitir la integración y val
 
 El equipo desarrolló el backend por ramas con la finalidad de desarrollar cada sección de manera individual para optimizar el mantenimientoy colaboración durante el sprint.
 
-Link del GitHub con a la participación: [Pulse de GitHub](https://github.com/1ASI0729-2510-4321-devvolution/PescaGo-Backend/pulse)
+Link del GitHub con a la participación: [https://github.com/1ASI0729-2510-4321-devvolution/PescaGo-Backend/pulse](https://github.com/1ASI0729-2510-4321-devvolution/PescaGo-Backend/pulse)
 
 A continuación, se presentarán las tareas asignadas a cada integrante del equipo, así como el insight del equipo a través de la plataforma GitHub:
 
@@ -3399,15 +3464,13 @@ A continuación, se mostrarán las capturas de participación:
 
 - <strong>Captura de los commits realizados</strong>
 
-<div align=center>
-    <img src="./assets/Sprint3/pulse_backend.png">
-</div>
+<div align=center><img src="./assets/Sprint3/pulse_backend.png"></div>
+<p align="center"><em>Figura 5.39: Evidencia de participación como grupo - commtis</em></p>
 
 - <strong>Captura de la contribución de los integrantes</strong>
 
-<div align=center>
-    <img src="./assets/Sprint3/contribudores_backend.png">
-</div>
+<div align=center><img src="./assets/Sprint3/contribudores_backend.png"></div>
+<p align="center"><em>Figura 5.40: Evidencia de participación como grupo - contribuidores</em></p>
 
 #### 5.2.4. Sprint 4
 
@@ -3415,13 +3478,12 @@ A continuación, se mostrarán las capturas de participación:
 
 En esta parte mostramos las tareas que se realizaron en este sprint.
 
-Link del Trello: [Ir a Trello](https://trello.com/invite/b/6821201064fc162fd1070c4b/ATTIe7594534dfacff282c80125476e30b4a12551FAF/pescago)
+Link del Trello: [https://trello.com/invite/b/6821201064fc162fd1070c4b/ATTIe7594534dfacff282c80125476e30b4a12551FAF/pescago](https://trello.com/invite/b/6821201064fc162fd1070c4b/ATTIe7594534dfacff282c80125476e30b4a12551FAF/pescago)
 
 Vista del Sprint 4 en Trello:
 
-<div align="center">
-  <img align="center" src="./assets/Sprint4/trello_4.png">  
-</div><br><br>
+<div align="center"><img align="center" src="./assets/Sprint4/trello_4.png"></div>
+<p align="center"><em>Figura 5.41: Vista del Trello para el Sprint 4.</em></p><br><br>
 
 <table border="1px" align="center">
       <tr>
@@ -3508,11 +3570,11 @@ Vista del Sprint 4 en Trello:
 
 En esta sección, se presentan los commits realizados en el repositorio del backend y del Frontend en el GitHub. Estos commits reflejan el progreso y las mejoras implementadas durante el sprint 4, proporcionando una visión detallada de las actividades de desarrollo y las contribuciones del equipo.
 
-Link del repositorio: [PescaGo - Landing Page](https://github.com/MariaFernandaFernandezAlva/PescaGo-LandingPage)
+Link del repositorio: [https://github.com/1ASI0729-2510-4321-devvolution/PescaGo-LandingPage](https://github.com/1ASI0729-2510-4321-devvolution/PescaGo-LandingPage)
 
-Link del repositorio: [PescaGo - Backend](https://github.com/1ASI0729-2510-4321-devvolution/PescaGo-Backend)
+Link del repositorio: [https://github.com/1ASI0729-2510-4321-devvolution/PescaGo-Backend](https://github.com/1ASI0729-2510-4321-devvolution/PescaGo-Backend)
 
-Link del repositorio: [PescaGo - Frontend](https://github.com/1ASI0729-2510-4321-devvolution/PescaGo-Frontend)
+Link del repositorio: [https://github.com/1ASI0729-2510-4321-devvolution/PescaGo-Frontend](https://github.com/1ASI0729-2510-4321-devvolution/PescaGo-Frontend)
 
 <table border="1" cellpadding="5" cellspacing="0">
   <tr>
@@ -3575,49 +3637,28 @@ Link del repositorio: [PescaGo - Frontend](https://github.com/1ASI0729-2510-4321
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
 
-Para esta última entrega del sprint 4, logramos la unión entre la Landing page con el Frontend. Además de la unión del Frontend con el Backend.
+Para esta última entrega del sprint 4, logramos la unión entre la Landing page con el Frontend. Además de la unión del Frontend con el Backend.(Ver figuras 5.42, 5.43 y 5.44)
 
 **Nuevos endpoints actualizados**
 
-<div align="center">
-  <img align="center" src="./assets/Sprint4/Endpoint Carrier - actualizado.png">  
-</div>
-
-<div align="center">
-  <img align="center" src="./assets/Sprint4/Endpoint Entreprenuer - actualizado.png">  
-</div>
-
-<div align="center">
-  <img align="center" src="./assets/Sprint4/Endpoint Hired Service - actualizado.png">  
-</div>
-
-<div align="center">
-  <img align="center" src="./assets/Sprint4/Endpoint Receipt - actualizado.png">  
-</div>
-
-<div align="center">
-  <img align="center" src="./assets/Sprint4/Endpoint Request - actualizado.png">  
-</div>
-
-<div align="center">
-  <img align="center" src="./assets/Sprint4/Endpoint User - actualizado.png">  
-</div>
+<div align="center"><img align="center" src="./assets/Sprint4/Endpoint Carrier - actualizado.png"></div>
+<div align="center"><img align="center" src="./assets/Sprint4/Endpoint Entreprenuer - actualizado.png"></div>
+<div align="center"><img align="center" src="./assets/Sprint4/Endpoint Hired Service - actualizado.png"></div>
+<div align="center"><img align="center" src="./assets/Sprint4/Endpoint Receipt - actualizado.png"></div>
+<div align="center"><img align="center" src="./assets/Sprint4/Endpoint Request - actualizado.png"></div>
+<div align="center"><img align="center" src="./assets/Sprint4/Endpoint User - actualizado.png"></div>
+<p align="center"><em>Figura 5.42: Endpoints actualizados para un buen manejo de los datos.</em></p><br>
 
 **Comunicación entre la Landing Page y el Frontend**
 
-<div align="center">
-  <img align="center" src="./assets/Sprint4/union-Lan-front.png">  
-</div><br>
+<div align="center"><img align="center" src="./assets/Sprint4/union-Lan-front.png"></div>
+<p align="center"><em>Figura 5.43: Evidencia de conexión entre la Landing Page y el Frontend.</em></p><br>
 
 **Comunicación entre el Frontend y el Backend**
 
-<div align="center">
-  <img align="center" src="./assets/Sprint4/union-front-back-1.png">  
-</div>
-
-<div align="center">
-  <img align="center" src="./assets/Sprint4/union-front-back-2.png">  
-</div><br>
+<div align="center"><img align="center" src="./assets/Sprint4/union-front-back-1.png"></div>
+<div align="center"><img align="center" src="./assets/Sprint4/union-front-back-2.png"></div>
+<p align="center"><em>Figura 5.44: Evidencia de conexión entre el Frontend y el Backend.</em></p>
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
@@ -3704,46 +3745,47 @@ Durante el Sprint 4, se desplegó el backend para permitir la integración y val
 **LANDING PAGE DESPLEGADO**
 
 1. **Hacer `Fork` si el proyecto es en grupo**<br>
-   Haz `fork` del repositorio (si el proyecto no es tuyo). Ve al repositorio original en GitHub, haz clic en el botón `Fork` (esquina superior derecha) y se creará una copia del repositorio en tu cuenta.
+   Haz `fork` del repositorio (si el proyecto no es tuyo). Ve al repositorio original en GitHub, haz clic en el botón `Fork` (esquina superior derecha) y se creará una copia del repositorio en tu cuenta.(Ver figura 5.45)
 
-	<div align="center"> <img src="./assets/Sprint4/VERCEL-PARTE-1.png"></div><br>
+	<div align="center"><img src="./assets/Sprint4/VERCEL-PARTE-1.png"></div>
+  <p align="center"><em>Figura 5.45: Elaborar este paso si el proyecto essta abordado en un repositorio grupal.</em></p><br>
 
 2. **Conectaté a Vercel**<br>
-   Conecta el proyecto a [Vercel](https://vercel.com) iniciando sesión con tu cuenta de GitHub. Haz clic en `Add New Project` y luego en `Project`.
+   Conecta el proyecto a [Vercel](https://vercel.com) iniciando sesión con tu cuenta de GitHub. Haz clic en `Add New Project` y luego en `Project`.(Ver figura 4.46)
 
-	<div align="center"> <img src="./assets/Sprint4/VERCEL-PARTE-2.png"></div><br>
+	<div align="center"><img src="./assets/Sprint4/VERCEL-PARTE-2.png"></div>
+  <p align="center"><em>Figura 5.46: Importando el proyecto PescaGo.</em></p><br>
 
 3. **Configuraciones para subir tu proyecto**<br>
    Selecciona tu repositorio (el fork o el que hayas creado), haz clic en `Import` (esto tomará unos segundos), asegúrate de que esté seleccionado el **Framework Preset: `OTHER`** y luego haz clic en `Deploy`. Espera a que finalice el proceso (puede tardar un poco la primera vez). Después, haz clic en `Continue to Dashboard`.
 
 4. **Despliegue de la landing Page**<br>
-   Finalmente, Vercel te mostrará el enlace de tu aplicación web desplegada.
+   Finalmente, Vercel te mostrará el enlace de tu aplicación web desplegada.(Ver figura 5.47)
 
-	<div align="center"> <img src="./assets/Sprint4/VERCEL-PARTE-4.png"></div><br>
+	<div align="center"><img src="./assets/Sprint4/VERCEL-PARTE-4.png"></div>
+  <p align="center"><em>Figura 5.47: Visualización de la URL pública.</em></p><br>
 
 ---
 
 **BACKEND DESPLEGADO**
 
 1. **Crea tu cuenta en Render**  
-   Entra a [Render](https://render.com/) y regístrate (puedes usar GitHub para autenticarte más fácilmente).
+   Entra a [Render](https://render.com/) y regístrate (puedes usar GitHub para autenticarte más fácilmente).(Ver figura 5.48)
 
-    <div align=center>
-      <img src="./assets/Sprint4/Render-paso-1.png">
-    </div><br>
+    <div align=center><img src="./assets/Sprint4/Render-paso-1.png"></div>
+    <p align="center"><em>Figura 5.48: Iniciar sesión en Render.</em></p><br>
 
 2. **Conecta tu repositorio**  
    Render te pedirá acceso a tu cuenta de GitHub para ver tus repositorios. Autoriza el acceso.
 
 3. **Crear un nuevo servicio web**  
-   Una vez dentro del panel de Render:<br>
+   Una vez dentro del panel de Render(Ver figura 5.49):<br>
     I. Haz clic en `New` +" → `Web Service` <br>
 	II. Selecciona el repositorio de GitHub que quieres desplegar.
 	III. Configura el servicio completando algunos campos que piden.
 
-    <div align=center>
-      <img src="./assets/Sprint4/Render-paso-3.png">
-    </div><br>
+    <div align=center><img src="./assets/Sprint4/Render-paso-3.png"></div><br>
+    <p align="center"><em>Figura 5.49: Creando el el proyecto de PescaGo en Render.</em></p><br>
 
 4. **Despliegue del Backend**  
    Render descargará tu código desde GitHub, ejecutará el `build` y luego iniciará tu app. Luego obtendrás una URL pública.
@@ -3753,34 +3795,32 @@ Durante el Sprint 4, se desplegó el backend para permitir la integración y val
 **FRONTEND DESPLEGADO**
 
 1. **Crea tu cuenta en Netlify**  
-   Entra a [Netlify](https://www.netlify.com/) y regístrate con tu cuenta de GitHub.
+   Entra a [Netlify](https://www.netlify.com/) y regístrate con tu cuenta de GitHub.(Ver figura 5.50)
 
-    <div align=center>
-      <img src="./assets/Sprint4/Netlify-paso-1.png">
-    </div><br>
+    <div align=center><img src="./assets/Sprint4/Netlify-paso-1.png"></div>
+    <p align="center"><em>Figura 5.50: Registrarse en Netlify.</em></p><br>
 
 2. **Crear un nuevo sitio web desde Git**  
-   Una vez que estás en el dashboard:<br>
+   Una vez que estás en el dashboard(Ver figura 5.51):<br>
     I. Haz clic en `Add new site` +" → `Import an existing project` <br>
 	II. Selecciona `GitHub`.<br>
 	III. Autoriza el acceso de Netlify a tus repositorios.
 	IV. Configura el servicio completando algunos campos que piden.
 	V. Haz clicl en `Deploy site`
 
-    <div align=center>
-      <img src="./assets/Sprint4/Netlify-paso-2.png">
-    </div><br>
+    <div align=center><img src="./assets/Sprint4/Netlify-paso-2.png"></div>
+    <p align="center"><em>Figura 5.51: Importando el proyecto PescaGo.</em></p><br>
 
 3. **Despliegue del Frontend**  
    Netlify empezará a construir y desplegar el sitio web y obtendrás la URL pública.
 
 ---
 
-**URL DE LA LANDING PAGE DESPLEGADO:** [Landing Page](http://pesca-go-landing-page.vercel.app)
+**URL DE LA LANDING PAGE DESPLEGADO:** [http://pesca-go-landing-page.vercel.app](http://pesca-go-landing-page.vercel.app)
 
-**URL DE BACKEND DESPLEGADO:** [Backend](https://pescago-backend-latest.onrender.com/swagger-ui/index.html#/)
+**URL DE BACKEND DESPLEGADO:** [https://pescago-backend-latest.onrender.com/swagger-ui/index.html#/](https://pescago-backend-latest.onrender.com/swagger-ui/index.html#/)
 
-**URL DEL FRONTEND DESPLEGADO:** [Frontend](https://leafy-cocada-965c9e.netlify.app/sign-in)
+**URL DEL FRONTEND DESPLEGADO:** [https://leafy-cocada-965c9e.netlify.app/sign-in](https://leafy-cocada-965c9e.netlify.app/sign-in)
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint.
 
@@ -3848,16 +3888,13 @@ A continuación, se mostrarán las capturas de participación.
 
 - <strong>Participación del Backend </strong>
 
-<div align=center>
-    <img src="./assets/Sprint4/Network-Backend.png">
-</div>
+<div align=center><img src="./assets/Sprint4/Network-Backend.png"></div>
+<p align="center"><em>Figura 5.52: Evidencia de la particiáción grupal - backend.</em></p><br>
 
 - <strong>Participación del Frontend</strong>
 
-<div align=center>
-    <img src="./assets/Sprint4/Network-frontend.png">
-</div>
-
+<div align=center><img src="./assets/Sprint4/Network-frontend.png"></div>
+<p align="center"><em>Figura 5.53: Evidencia de la particiáción grupal - frontend.</em></p>
 
 ## 5.3. Validation Interviews.
 
@@ -3964,19 +4001,6 @@ En esta sección se redactaron las preguntas para las entrevistas a fin de obten
   - *Duración:* 06:01:00
   - *Resumen:*
 
-**Entrevistado 3**
-
-
-
-  - *Nombre del entrevistado:* Roxana Tello
-  - *Edad:* 50 años
-  - *Distrito:* Comas
-  - *Nombre entrevistador:* Paolo Belleza
-  - *Timming:* 
-  - *Duración:* 05:41:00
-  - *Resumen:*
-
-    Juan Pérez, de 24 años, trabaja en Transporte Pérez, un negocio familiar en Callao que se dedica al transporte de carga refrigerada, principalmente productos pesqueros como pescado y mariscos. Cuentan con dos camiones refrigerados (5 y 8 toneladas) y realizan rutas frecuentes dentro de Lima y Callao, aunque a veces viajan a provincias cercanas. Actualmente, consiguen clientes por recomendaciones, pero Juan menciona que uno de sus mayores desafíos es encontrar cargas de forma constante para evitar viajar vacío, lo que afecta sus ingresos. También destacó la importancia de conocer los detalles de la carga (tipo, temperatura, destino) antes de aceptarla y de tener un sistema claro para coordinar entregas y pagos. Juan expresó interés en una plataforma que le permita encontrar clientes rápidamente, mostrar la calidad de sus servicios, y gestionar todo el proceso (solicitudes, comunicación, pagos) de forma digital, priorizando la confiabilidad y la eficiencia para maximizar sus viajes.
 
 ### 5.3.3. Evaluaciones según heurísticas.
 
@@ -3989,11 +4013,10 @@ El video muestra tanto la Landing Page como la aplicación web de PescaGo, permi
 Además, se incluyen testimonios positivos de usuarios pertenecientes a cada segmento objetivo entrevistado durante la fase de validación. Estos testimonios destacan los beneficios y la satisfacción obtenida al utilizar la plataforma, reforzando la propuesta de valor de PescaGo.
 <br>
 
-<div align="center">
-  <img src="./assets/Sprint3/about the product.png">
-</div><br>
+<div align="center"><img src="./assets/Sprint3/about the product.png"></div>
+<p align="center"><em>Figura 5.52: Captura de video sobre PescaGo.</em></p><br>
 
-**Link :** [About-the-product](https://www.canva.com/design/DAGq7HI7pV8/enzjCMlERrL12rCKWZ1v-Q/watch?utlId=hf1921bf49c)
+**Link :** [https://www.canva.com/design/DAGq7HI7pV8/enzjCMlERrL12rCKWZ1v-Q/watch?utlId=hf1921bf49c](https://www.canva.com/design/DAGq7HI7pV8/enzjCMlERrL12rCKWZ1v-Q/watch?utlId=hf1921bf49c)
 
 ## Conclusiones
 
@@ -4033,14 +4056,14 @@ Durante el proceso, enfrentamos desafíos técnicos y de comunicación con los u
 
 ## Anexos
 
-- **Link de Landing Page actualizada:** [https://pescago.netlify.app/](https://pescago.netlify.app/)
+- **Link de Landing Page actualizada:** [http://pesca-go-landing-page.vercel.app](http://pesca-go-landing-page.vercel.app)
 
-- **Link de la Aplicación Web actualizada:** [https://pesca-go-frontend-prueba-main.vercel.app/sign-in](https://pesca-go-frontend-prueba-main.vercel.app/sign-in)
+- **Link de la Aplicación Web actualizada:** [https://leafy-cocada-965c9e.netlify.app/sign-in](https://leafy-cocada-965c9e.netlify.app/sign-in)
 
-- **Link del Backend actualizado:** [https://pesca-go-frontend-prueba-main.vercel.app/sign-in](https://pesca-go-frontend-prueba-main.vercel.app/sign-in)
+- **Link del Backend actualizado:** [https://pescago-backend-latest.onrender.com/swagger-ui/index.html#/](https://pescago-backend-latest.onrender.com/swagger-ui/index.html#/)
 
 - **Link del repositorio:** [https://github.com/1ASI0729-2510-4321-devvolution/PescaGo-Report](https://github.com/1ASI0729-2510-4321-devvolution/PescaGo-Report)
 
-- **About The Product actualizado:** [https://www.canva.com/design/DAGq7HI7pV8/enzjCMlERrL12rCKWZ1v-Q/watch?utlId=hf1921bf49c](https://www.canva.com/design/DAGq7HI7pV8/enzjCMlERrL12rCKWZ1v-Q/watch?utlId=hf1921bf49c)
+- **About The Product:** [https://www.canva.com/design/DAGq7HI7pV8/enzjCMlERrL12rCKWZ1v-Q/watch?utlId=hf1921bf49c](https://www.canva.com/design/DAGq7HI7pV8/enzjCMlERrL12rCKWZ1v-Q/watch?utlId=hf1921bf49c)
 
 - **About The Team:** [https://www.canva.com/design/DAGq7OTE7zI/12l47_XzU5S0arbNXjhuEw/view?utm_content=DAGq7OTE7zI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4ee59ab816 ](https://www.canva.com/design/DAGq7OTE7zI/12l47_XzU5S0arbNXjhuEw/view?utm_content=DAGq7OTE7zI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4ee59ab816)
