@@ -11,7 +11,7 @@
     <br><strong>PescaGo</strong><br>
 </p>
 
-## <center>**Integrantes**:**</center>
+## <center>**Integrantes:**</center>
 
 <table align="center">
   <tr>
